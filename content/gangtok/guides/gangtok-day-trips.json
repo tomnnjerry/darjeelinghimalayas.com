@@ -3,7 +3,7 @@
   "title": "Day Trips from Gangtok: Tsomgo, Nathu La, Rumtek",
   "region": "gangtok",
   "category": "planning",
-  "meta_description": "The best day trips from Gangtok: Tsomgo Lake and Baba Mandir, Nathu La, Rumtek and Lingdum, Hanuman Tok and the city viewpoints, Pakyong and Aritar, with costs.",
+  "meta_description": "The best day trips from Gangtok: Tsomgo Lake and Baba Mandir, Nathu La, Rumtek and Lingdum, Hanuman Tok and city viewpoints, Pakyong and Aritar, with costs.",
   "summary": "From Gangtok the classic day trip is Tsomgo Lake and Baba Mandir, with Nathu La added for Indian travellers. Rumtek and Lingdum make an easy half day, and the city viewpoints fill a morning. Shared Tsomgo seats cost ₹800–1,200; a reserved SUV with Nathu La ₹5,500–7,500. Permits are needed for the high road.",
   "sections": [
     {
@@ -19,14 +19,56 @@
         "Costs are indicative for 2025–26. Reserved cars carry four to six people, so splitting one is often cheaper than individual seats for a family."
       ],
       "table": {
-        "head": ["Trip", "Distance", "Time", "Indicative cost", "Permit"],
+        "head": [
+          "Trip",
+          "Distance",
+          "Time",
+          "Indicative cost",
+          "Permit"
+        ],
         "rows": [
-          ["Tsomgo Lake and Baba Mandir", "≈ 40 km each way", "6–7 h", "₹800–1,200 a seat · SUV ₹4,000–5,500", "Yes"],
-          ["Tsomgo, Baba Mandir and Nathu La", "≈ 54–56 km each way", "8–9 h", "SUV ₹5,500–7,500", "Yes, Indians only"],
-          ["Rumtek and Lingdum", "≈ 24 km each way", "3–4 h", "Taxi ₹1,500–2,500", "No"],
-          ["City viewpoints and monasteries", "Within 15 km", "3–4 h", "Taxi ₹1,500–2,500", "No"],
-          ["Pakyong", "≈ 31 km each way", "3–4 h", "Taxi ₹2,000–3,000", "No"],
-          ["Aritar and Lampokhari", "≈ 70–75 km each way", "Full day", "Car ₹4,000–5,500", "No"]
+          [
+            "Tsomgo Lake and Baba Mandir",
+            "≈ 40 km each way",
+            "6–7 h",
+            "₹800–1,200 a seat · SUV ₹4,000–5,500",
+            "Yes"
+          ],
+          [
+            "Tsomgo, Baba Mandir and Nathu La",
+            "≈ 54–56 km each way",
+            "8–9 h",
+            "SUV ₹5,500–7,500",
+            "Yes, Indians only"
+          ],
+          [
+            "Rumtek and Lingdum",
+            "≈ 24 km each way",
+            "3–4 h",
+            "Taxi ₹1,500–2,500",
+            "No"
+          ],
+          [
+            "City viewpoints and monasteries",
+            "Within 15 km",
+            "3–4 h",
+            "Taxi ₹1,500–2,500",
+            "No"
+          ],
+          [
+            "Pakyong",
+            "≈ 31 km each way",
+            "3–4 h",
+            "Taxi ₹2,000–3,000",
+            "No"
+          ],
+          [
+            "Aritar and Lampokhari",
+            "≈ 70–75 km each way",
+            "Full day",
+            "Car ₹4,000–5,500",
+            "No"
+          ]
         ]
       }
     },
@@ -35,14 +77,16 @@
       "paras": [
         "The road climbs north-east out of Gangtok through forest and army camps to Tsomgo, also called Changu, a glacial lake at 3,753 m about 40 km away. The lake is sacred to the Sikkimese; it freezes for much of the winter and is ringed by rhododendrons in spring. Yaks wait by the shore for photographs and rides, and stalls sell tea, momos and hired boots. Most visitors spend an hour here.",
         "Further on is Baba Mandir, a shrine to Sepoy Harbhajan Singh of the Punjab Regiment, who died near Nathu La on 4 October 1968; army tradition holds that his spirit still guards the border. Indian nationals can continue to Nathu La, at 4,310 m, the old trade pass into Tibet's Chumbi valley, reopened to limited border trade in 2006. At the top you see the border fence, soldiers of both sides and, on clear days, the snow ranges.",
-        "All of this needs permits arranged through a registered operator, usually the afternoon before, with photo ID and two passport photos. A shared seat for Tsomgo and Baba Mandir costs ₹800–1,200; a reserved SUV with Nathu La ₹5,500–7,500. Foreigners can visit Tsomgo on a group permit but not Nathu La. Leave by 7–8 am, dress in warm layers, and come down if anyone feels unwell."
+        "All of this needs permits arranged through a registered operator, usually the afternoon before, with photo ID and two passport photos. A shared seat for Tsomgo and Baba Mandir costs ₹800–1,200; a reserved SUV with Nathu La ₹5,500–7,500. Foreigners can visit Tsomgo on a group permit but not Nathu La. Leave by 7–8 am, dress in warm layers, and come down if anyone feels unwell.",
+        "Pack for winter whatever the month: a thermal layer, a fleece, a padded or down jacket, a warm hat, gloves and shoes with grip. Snow and ice lie on the road from about December to April, and wind at Nathu La is bitter even in May. Drink water, walk slowly, and do not climb the steps at Nathu La in a rush; the air at 4,310 m holds far less oxygen than in Gangtok. Children under about five and anyone with heart or lung problems should take medical advice first, or settle for Tsomgo, which is lower."
       ]
     },
     {
       "heading": "Rumtek and Lingdum",
       "paras": [
         "Rumtek, 24 km away across the Ranipool valley, is the largest monastery in Sikkim. The 16th Karmapa fled Tibet in 1959, chose the ruins of an 18th-century monastery here, and inaugurated the new Dharma Chakra Centre at Losar in 1966. A golden stupa holds his relics. Bring photo ID for the security gate, go in the morning for prayers, and walk down to the old Rumtek monastery through the village.",
-        "On the way back, stop at Lingdum, also called Ranka or Pal Zurmang Kagyud Monastery, completed in 1999, a large, bright monastery in forest about 20 km from town. A half-day taxi covering both costs ₹1,500–2,500. If you want to stay longer, Rumtek has quiet guesthouses, and a night here is calmer than Gangtok."
+        "On the way back, stop at Lingdum, also called Ranka or Pal Zurmang Kagyud Monastery, completed in 1999, a large, bright monastery in forest about 20 km from town. A half-day taxi covering both costs ₹1,500–2,500. If you want to stay longer, Rumtek has quiet guesthouses, and a night here is calmer than Gangtok.",
+        "Dress modestly for both monasteries, remove shoes before entering the halls, walk clockwise and ask before taking photographs inside. A small donation is welcome."
       ]
     },
     {
@@ -73,16 +117,50 @@
       ]
     }
   ],
-  "related_places": ["gangtok", "tsomgo-lake", "nathu-la", "rumtek", "pakyong", "aritar"],
+  "related_places": [
+    "gangtok",
+    "tsomgo-lake",
+    "nathu-la",
+    "rumtek",
+    "pakyong",
+    "aritar"
+  ],
   "faqs": [
-    {"q": "What are the best day trips from Gangtok?", "a": "Tsomgo Lake and Baba Mandir, with Nathu La added for Indian nationals, is the classic. Rumtek and Lingdum monasteries make a relaxed half day, and the city viewpoints, Enchey, Do-drul Chorten and the Tibetology museum fill another. Aritar is better as an overnight trip than a day trip."},
-    {"q": "How much does a Tsomgo Lake trip cost?", "a": "A shared seat for Tsomgo and Baba Mandir costs about ₹800–1,200, including the permit. A reserved SUV costs about ₹4,000–5,500, or ₹5,500–7,500 with Nathu La, split among four to six people. Boots and coats hired at the roadside cost ₹100–200. Prices are indicative for 2025–26."},
-    {"q": "Can I visit Tsomgo and Nathu La in one day?", "a": "Yes, Indian nationals can visit Tsomgo Lake, Baba Mandir and Nathu La in one day trip of 8–9 hours from Gangtok, with permits arranged by a registered operator. Nathu La is commonly reported closed on Mondays and Tuesdays and after snow. Foreigners can visit Tsomgo but not Nathu La."},
-    {"q": "How long does the Rumtek trip take?", "a": "About three to four hours by reserved taxi, including an hour each way for the 24 km drive and time at the monastery. Adding Lingdum at Ranka takes about an hour more. A half-day taxi costs about ₹1,500–2,500. Carry photo ID for Rumtek's security gate."},
-    {"q": "Is a Gangtok city tour worth it?", "a": "Yes, once, if you choose the stops. Ask for Tashi View Point or Hanuman Tok, Ganesh Tok, Enchey, Do-drul Chorten, the Tibetology museum and the zoo, and skip stops that are only shops. A half-day reserved taxi costs about ₹1,500–2,500. Go early for mountain views."},
-    {"q": "What is Baba Mandir?", "a": "Baba Mandir is a shrine on the Nathu La road to Sepoy Harbhajan Singh of the Punjab Regiment, who died near Nathu La on 4 October 1968. Army tradition holds that his spirit still guards the border. Visitors stop on the Tsomgo trip; treat the shrine with respect as a place of faith."},
-    {"q": "Can I go to Tsomgo Lake without a permit?", "a": "No. Indian visitors need a permit arranged through a registered operator with photo ID and photos, usually a day ahead. Foreigners need a Protected Area Permit through a registered agency, normally in a group of two or more. You cannot drive a private outside car on the route. Check current status before you travel."},
-    {"q": "Which day trip suits older parents?", "a": "Rumtek and Lingdum, and the city viewpoints, are easy and stay at 1,500–2,000 m. Tsomgo at 3,753 m suits most healthy older travellers for a short visit. Nathu La at 4,310 m is harder; take medical advice for heart or lung conditions and turn back if anyone feels unwell."},
-    {"q": "Can I visit Aritar as a day trip from Gangtok?", "a": "You can, by reserved car for about ₹4,000–5,500, but it is about 70–75 km and three hours each way, so most of the day is driving. We prefer a night in an Aritar homestay at about ₹1,500–2,200 per person with meals, and combining it with Rongli and the Silk Route."}
+    {
+      "q": "What are the best day trips from Gangtok?",
+      "a": "Tsomgo Lake and Baba Mandir, with Nathu La added for Indian nationals, is the classic. Rumtek and Lingdum monasteries make a relaxed half day, and the city viewpoints, Enchey, Do-drul Chorten and the Tibetology museum fill another. Aritar is better as an overnight trip than a day trip."
+    },
+    {
+      "q": "How much does a Tsomgo Lake trip cost?",
+      "a": "A shared seat for Tsomgo and Baba Mandir costs about ₹800–1,200, including the permit. A reserved SUV costs about ₹4,000–5,500, or ₹5,500–7,500 with Nathu La, split among four to six people. Boots and coats hired at the roadside cost ₹100–200. Prices are indicative for 2025–26."
+    },
+    {
+      "q": "Can I visit Tsomgo and Nathu La in one day?",
+      "a": "Yes, Indian nationals can visit Tsomgo Lake, Baba Mandir and Nathu La in one day trip of 8–9 hours from Gangtok, with permits arranged by a registered operator. Nathu La is commonly reported closed on Mondays and Tuesdays and after snow. Foreigners can visit Tsomgo but not Nathu La."
+    },
+    {
+      "q": "How long does the Rumtek trip take?",
+      "a": "About three to four hours by reserved taxi, including an hour each way for the 24 km drive and time at the monastery. Adding Lingdum at Ranka takes about an hour more. A half-day taxi costs about ₹1,500–2,500. Carry photo ID for Rumtek's security gate."
+    },
+    {
+      "q": "Is a Gangtok city tour worth it?",
+      "a": "Yes, once, if you choose the stops. Ask for Tashi View Point or Hanuman Tok, Ganesh Tok, Enchey, Do-drul Chorten, the Tibetology museum and the zoo, and skip stops that are only shops. A half-day reserved taxi costs about ₹1,500–2,500. Go early for mountain views."
+    },
+    {
+      "q": "What is Baba Mandir?",
+      "a": "Baba Mandir is a shrine on the Nathu La road to Sepoy Harbhajan Singh of the Punjab Regiment, who died near Nathu La on 4 October 1968. Army tradition holds that his spirit still guards the border. Visitors stop on the Tsomgo trip; treat the shrine with respect as a place of faith."
+    },
+    {
+      "q": "Can I go to Tsomgo Lake without a permit?",
+      "a": "No. Indian visitors need a permit arranged through a registered operator with photo ID and photos, usually a day ahead. Foreigners need a Protected Area Permit through a registered agency, normally in a group of two or more. You cannot drive a private outside car on the route. Check current status before you travel."
+    },
+    {
+      "q": "Which day trip suits older parents?",
+      "a": "Rumtek and Lingdum, and the city viewpoints, are easy and stay at 1,500–2,000 m. Tsomgo at 3,753 m suits most healthy older travellers for a short visit. Nathu La at 4,310 m is harder; take medical advice for heart or lung conditions and turn back if anyone feels unwell."
+    },
+    {
+      "q": "Can I visit Aritar as a day trip from Gangtok?",
+      "a": "You can, by reserved car for about ₹4,000–5,500, but it is about 70–75 km and three hours each way, so most of the day is driving. We prefer a night in an Aritar homestay at about ₹1,500–2,200 per person with meals, and combining it with Rongli and the Silk Route."
+    }
   ]
 }

@@ -19,20 +19,72 @@
         "Prices are per plate or portion in ordinary cafés and canteens; restaurants on MG Marg cost more."
       ],
       "table": {
-        "head": ["Dish", "What it is", "Indicative price"],
+        "head": [
+          "Dish",
+          "What it is",
+          "Indicative price"
+        ],
         "rows": [
-          ["Momos", "Steamed or fried dumplings: pork, chicken, veg, chhurpi", "₹80–150 a plate"],
-          ["Thukpa", "Tibetan noodle soup with vegetables or meat", "₹100–180"],
-          ["Thenthuk", "Soup with hand-pulled flat noodles", "₹120–180"],
-          ["Sha phaley", "Fried bread stuffed with spiced minced meat", "₹50–100 a piece"],
-          ["Phagshapa", "Pork stewed with radish and dried chillies", "₹200–300"],
-          ["Gundruk soup", "Fermented, dried leafy greens in a sour soup", "Part of a thali"],
-          ["Sinki", "Fermented radish, used in soups and pickles", "Part of a thali"],
-          ["Kinema curry", "Fermented soybeans cooked with onion and chilli", "₹100–150"],
-          ["Chhurpi", "Soft cheese for curries; hard for chewing", "₹20–60 a pack of hard pieces"],
-          ["Sel roti", "Ring-shaped fried rice-flour bread", "₹10–20 a piece"],
-          ["Sikkimese or Nepali thali", "Rice, dal, greens, pickle, a meat or veg curry", "₹150–300"],
-          ["Temi tea", "Tea from Sikkim's own estate in South Sikkim", "₹20–60 a cup"]
+          [
+            "Momos",
+            "Steamed or fried dumplings: pork, chicken, veg, chhurpi",
+            "₹80–150 a plate"
+          ],
+          [
+            "Thukpa",
+            "Tibetan noodle soup with vegetables or meat",
+            "₹100–180"
+          ],
+          [
+            "Thenthuk",
+            "Soup with hand-pulled flat noodles",
+            "₹120–180"
+          ],
+          [
+            "Sha phaley",
+            "Fried bread stuffed with spiced minced meat",
+            "₹50–100 a piece"
+          ],
+          [
+            "Phagshapa",
+            "Pork stewed with radish and dried chillies",
+            "₹200–300"
+          ],
+          [
+            "Gundruk soup",
+            "Fermented, dried leafy greens in a sour soup",
+            "Part of a thali"
+          ],
+          [
+            "Sinki",
+            "Fermented radish, used in soups and pickles",
+            "Part of a thali"
+          ],
+          [
+            "Kinema curry",
+            "Fermented soybeans cooked with onion and chilli",
+            "₹100–150"
+          ],
+          [
+            "Chhurpi",
+            "Soft cheese for curries; hard for chewing",
+            "₹20–60 a pack of hard pieces"
+          ],
+          [
+            "Sel roti",
+            "Ring-shaped fried rice-flour bread",
+            "₹10–20 a piece"
+          ],
+          [
+            "Sikkimese or Nepali thali",
+            "Rice, dal, greens, pickle, a meat or veg curry",
+            "₹150–300"
+          ],
+          [
+            "Temi tea",
+            "Tea from Sikkim's own estate in South Sikkim",
+            "₹20–60 a cup"
+          ]
         ]
       }
     },
@@ -49,7 +101,8 @@
       "paras": [
         "The Nepali-speaking communities of Sikkim keep a set of fermented foods developed to see families through long winters and monsoons. Gundruk is leafy greens, usually mustard or radish leaves, packed tight, left to ferment for a week or two and then sun-dried; it is cooked into a sour soup or a pickle. Sinki is the same idea with radish taproots, buried or packed in a pit to ferment, then dried. Kinema is soybeans boiled, wrapped and left until sticky and strong-smelling, then cooked into a curry.",
         "Chhurpi is cheese made from yak or cow milk. Soft chhurpi is crumbled into soups, mixed with ningro fern tips, or cooked with tomato and chilli into a hot relish. Hard chhurpi, dried until stone-hard, is chewed slowly for an hour or more, and it is sold in packs at Lal Bazaar. Dalle khursani, a small, round red chilli grown in Sikkim, is fiercely hot; it turns up in pickles, sauces and on the side of most plates.",
-        "These foods rarely appear on restaurant menus in English. The easiest place to taste them is a homestay or a small Nepali thali kitchen, where gundruk soup or sinki pickle comes with the rice. Ask, and cooks are usually delighted that you want to try."
+        "These foods rarely appear on restaurant menus in English. The easiest place to taste them is a homestay or a small Nepali thali kitchen, where gundruk soup or sinki pickle comes with the rice. Ask, and cooks are usually delighted that you want to try.",
+        "The Lepcha, Sikkim's first people, keep their own forest kitchen, seen most in Dzongu in the north and in Lepcha villages across the state. Families cook nettle soup, fresh and fermented bamboo shoots, wild ferns and greens, millet and maize, and brew millet beer for festivals and guests. Few restaurants in Gangtok serve Lepcha food, so if you want to try it, ask a homestay in advance; some hosts are happy to cook a Lepcha meal for guests who show real interest."
       ]
     },
     {
@@ -70,7 +123,8 @@
       "heading": "Eating well on a budget",
       "paras": [
         "Eat breakfast and lunch where office workers and drivers eat: the canteens and small cafés off MG Marg, around Lal Bazaar and along the NH10 side of town serve momos, thukpa and thalis at half the price of the mall's restaurants. Keep MG Marg for an evening tea or a dinner out. On permit-tour days to Tsomgo and Nathu La, roadside stalls sell Maggi noodles, momos and tea at higher prices; carry snacks and water.",
-        "A traveller eating in local places spends about ₹400–700 a day. Vegetarian food is easy everywhere. Tell homestays about your diet when you book, as village kitchens cook from what they have. Drink bottled or filtered water and choose busy places where food turns over fast."
+        "A traveller eating in local places spends about ₹400–700 a day. Vegetarian food is easy everywhere. Tell homestays about your diet when you book, as village kitchens cook from what they have. Drink bottled or filtered water and choose busy places where food turns over fast.",
+        "Momos are cheapest and best in the mornings and at lunchtime, when cafés steam fresh batches for office workers; by late evening many places are serving reheated ones. If you have a sensitive stomach, start with steamed vegetable momos and clear soup, and save the fried pork and dalle chilli sauce for later in the trip."
       ],
       "list": [
         "Ask for momos 'half plate' if you want to try several kinds.",
@@ -79,16 +133,49 @@
       ]
     }
   ],
-  "related_places": ["gangtok", "rumtek", "aritar", "zuluk", "rangpo"],
+  "related_places": [
+    "gangtok",
+    "rumtek",
+    "aritar",
+    "zuluk",
+    "rangpo"
+  ],
   "faqs": [
-    {"q": "What is the famous food of Gangtok?", "a": "Momos are Gangtok's best-known food, in pork, chicken, vegetable and chhurpi versions, followed by thukpa and thenthuk noodle soups and sha phaley. For Sikkimese home food, try phagshapa, pork with radish and dried chillies, and Nepali fermented dishes such as gundruk soup, sinki and kinema curry with rice."},
-    {"q": "How much does food cost in Gangtok?", "a": "Momos cost ₹80–150 a plate, thukpa ₹100–180 and a thali ₹150–300 in local cafés; MG Marg restaurants cost more. A traveller eating in local places spends about ₹400–700 a day. Village homestays include dinner and breakfast in their rate. Prices are indicative for 2025–26."},
-    {"q": "Is Sikkim really an organic state?", "a": "Sikkim was declared India's first fully organic state in January 2016, after phasing out chemical fertilisers and pesticides over more than a decade. Most vegetables in Gangtok's Lal Bazaar come from small local farms. Some food is still brought in from outside the state, especially packaged goods and some produce."},
-    {"q": "What is chhurpi?", "a": "Chhurpi is a cheese made from yak or cow milk. Soft chhurpi goes into soups, curries and hot relishes; hard chhurpi is dried until stone-hard and chewed slowly as a snack. Buy packs of hard chhurpi at Lal Bazaar for ₹20–60. It makes a light, long-lasting present."},
-    {"q": "Where can I eat local Sikkimese food in Gangtok?", "a": "Small local restaurants and thali kitchens around MG Marg, Lal Bazaar and Development Area serve momos, thukpa and some Sikkimese dishes. Ask for phagshapa, gundruk soup and sinki by name. For true home cooking, stay a night in a homestay in a village such as Aritar or on the Silk Route."},
-    {"q": "Is vegetarian food easy to find in Gangtok?", "a": "Yes. Every café serves vegetable momos and thukpa, and thali kitchens offer rice, dal, greens and paneer. Several restaurants on MG Marg serve north Indian and South Indian vegetarian food. Homestays cook vegetarian meals readily if you tell them when you book."},
-    {"q": "What is Temi tea?", "a": "Temi tea comes from Sikkim's only tea estate, at Temi in South Sikkim, established by the state government in 1969. It is sold in shops across Gangtok in loose-leaf packs and served in many cafés. It makes an affordable present, lighter in style than the finest Darjeeling teas."},
-    {"q": "What is tongba?", "a": "Tongba is a vessel, traditionally bamboo or wood, filled with fermented millet and topped with hot water, then sipped through a bamboo straw. The drink is often called chhang. It is common in Limbu and other Nepali homes in Sikkim. It is mild, but drink slowly at altitude."},
-    {"q": "When is Lal Bazaar busiest?", "a": "Sunday mornings, when villagers bring produce into Gangtok's main market below MG Marg. You will see greens, ferns, chillies, chhurpi, ginger, cardamom and seasonal fruit. The market is open on other days too, but quieter. Ask before photographing sellers, and keep an eye on your bag in the crowds."}
+    {
+      "q": "What is the famous food of Gangtok?",
+      "a": "Momos are Gangtok's best-known food, in pork, chicken, vegetable and chhurpi versions, followed by thukpa and thenthuk noodle soups and sha phaley. For Sikkimese home food, try phagshapa, pork with radish and dried chillies, and Nepali fermented dishes such as gundruk soup, sinki and kinema curry with rice."
+    },
+    {
+      "q": "How much does food cost in Gangtok?",
+      "a": "Momos cost ₹80–150 a plate, thukpa ₹100–180 and a thali ₹150–300 in local cafés; MG Marg restaurants cost more. A traveller eating in local places spends about ₹400–700 a day. Village homestays include dinner and breakfast in their rate. Prices are indicative for 2025–26."
+    },
+    {
+      "q": "Is Sikkim really an organic state?",
+      "a": "Sikkim was declared India's first fully organic state in January 2016, after phasing out chemical fertilisers and pesticides over more than a decade. Most vegetables in Gangtok's Lal Bazaar come from small local farms. Some food is still brought in from outside the state, especially packaged goods and some produce."
+    },
+    {
+      "q": "What is chhurpi?",
+      "a": "Chhurpi is a cheese made from yak or cow milk. Soft chhurpi goes into soups, curries and hot relishes; hard chhurpi is dried until stone-hard and chewed slowly as a snack. Buy packs of hard chhurpi at Lal Bazaar for ₹20–60. It makes a light, long-lasting present."
+    },
+    {
+      "q": "Where can I eat local Sikkimese food in Gangtok?",
+      "a": "Small local restaurants and thali kitchens around MG Marg, Lal Bazaar and Development Area serve momos, thukpa and some Sikkimese dishes. Ask for phagshapa, gundruk soup and sinki by name. For true home cooking, stay a night in a homestay in a village such as Aritar or on the Silk Route."
+    },
+    {
+      "q": "Is vegetarian food easy to find in Gangtok?",
+      "a": "Yes. Every café serves vegetable momos and thukpa, and thali kitchens offer rice, dal, greens and paneer. Several restaurants on MG Marg serve north Indian and South Indian vegetarian food. Homestays cook vegetarian meals readily if you tell them when you book."
+    },
+    {
+      "q": "What is Temi tea?",
+      "a": "Temi tea comes from Sikkim's only tea estate, at Temi in South Sikkim, established by the state government in 1969. It is sold in shops across Gangtok in loose-leaf packs and served in many cafés. It makes an affordable present, lighter in style than the finest Darjeeling teas."
+    },
+    {
+      "q": "What is tongba?",
+      "a": "Tongba is a vessel, traditionally bamboo or wood, filled with fermented millet and topped with hot water, then sipped through a bamboo straw. The drink is often called chhang. It is common in Limbu and other Nepali homes in Sikkim. It is mild, but drink slowly at altitude."
+    },
+    {
+      "q": "When is Lal Bazaar busiest?",
+      "a": "Sunday mornings, when villagers bring produce into Gangtok's main market below MG Marg. You will see greens, ferns, chillies, chhurpi, ginger, cardamom and seasonal fruit. The market is open on other days too, but quieter. Ask before photographing sellers, and keep an eye on your bag in the crowds."
+    }
   ]
 }

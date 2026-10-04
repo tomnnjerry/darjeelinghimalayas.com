@@ -19,16 +19,61 @@
         "Fares are indicative for 2025–26 and rise during the Puja, Diwali and New Year weeks, and on days when NH10 is closed and vehicles take the longer road."
       ],
       "table": {
-        "head": ["From", "Mode", "Time", "Indicative fare"],
+        "head": [
+          "From",
+          "Mode",
+          "Time",
+          "Indicative fare"
+        ],
         "rows": [
-          ["Siliguri or NJP", "Shared jeep or taxi", "4–5 h", "₹350–500 a seat"],
-          ["Siliguri", "SNT bus", "5 h or more", "₹250–350"],
-          ["NJP or Siliguri", "Reserved small car", "4–5 h", "₹3,500–5,000"],
-          ["NJP or Siliguri", "Reserved SUV", "4–5 h", "₹4,500–6,500"],
-          ["Bagdogra airport", "Reserved car", "4.5–5 h", "₹4,000–6,000"],
-          ["Darjeeling", "Shared jeep", "4–5 h", "₹350–450 a seat"],
-          ["Kalimpong", "Shared jeep", "3–3.5 h", "₹250–350 a seat"],
-          ["Pakyong airport", "Taxi", "1–1.5 h", "₹1,500–2,500 a car"]
+          [
+            "Siliguri or NJP",
+            "Shared jeep or taxi",
+            "4–5 h",
+            "₹350–500 a seat"
+          ],
+          [
+            "Siliguri",
+            "SNT bus",
+            "5 h or more",
+            "₹250–350"
+          ],
+          [
+            "NJP or Siliguri",
+            "Reserved small car",
+            "4–5 h",
+            "₹3,500–5,000"
+          ],
+          [
+            "NJP or Siliguri",
+            "Reserved SUV",
+            "4–5 h",
+            "₹4,500–6,500"
+          ],
+          [
+            "Bagdogra airport",
+            "Reserved car",
+            "4.5–5 h",
+            "₹4,000–6,000"
+          ],
+          [
+            "Darjeeling",
+            "Shared jeep",
+            "4–5 h",
+            "₹350–450 a seat"
+          ],
+          [
+            "Kalimpong",
+            "Shared jeep",
+            "3–3.5 h",
+            "₹250–350 a seat"
+          ],
+          [
+            "Pakyong airport",
+            "Taxi",
+            "1–1.5 h",
+            "₹1,500–2,500 a car"
+          ]
         ]
       }
     },
@@ -37,6 +82,7 @@
       "paras": [
         "Shared Sikkim-registered jeeps and taxis leave Siliguri when full from the SNT bus terminus area on Hill Cart Road and from around Panitanki More. Some also wait outside NJP station, though seats there are fewer and touts more insistent. From NJP or Bagdogra, take an auto or a taxi to the SNT stand first, for about ₹150–400. Buy your seat at the counter if there is one, or agree the fare with the driver before loading your bags.",
         "Jeeps carry nine or ten passengers, with luggage tied on the roof under a tarpaulin. The front seats beside the driver are the most comfortable and are often sold first, sometimes at a small premium. If you suffer from motion sickness, ask for a window and eat lightly before you go. Jeeps run from early morning to mid-afternoon; after about 3 pm departures thin out, and you do not want to be on the hill roads late in the monsoon.",
+        "The drive itself is part of the trip. From Siliguri the road crosses the Mahananda plains to Sevoke, where the Coronation Bridge, built in 1937–41, spans the Teesta, then follows the river upstream through forest and gorges past Teesta Bazar and Melli. At Rangpo you cross into Sikkim, and foreign travellers stop at the checkpost for their permit. The road climbs on through Singtam and Ranipool to Gangtok. Jeeps usually pause once for tea and momos, often near Melli or Rangpo. Sit on the right-hand side going up for the best views of the river.",
         "In Gangtok, jeeps from Siliguri stop at the long-distance taxi stands on the NH10 side of town, and the stand used has changed over the years. Local taxis then take you to your hotel for ₹100–300. Going back down, book a seat the evening before at the stand or through your hotel."
       ]
     },
@@ -75,16 +121,48 @@
       ]
     }
   ],
-  "related_places": ["gangtok", "rangpo", "pakyong", "rumtek"],
+  "related_places": [
+    "gangtok",
+    "rangpo",
+    "pakyong",
+    "rumtek"
+  ],
   "faqs": [
-    {"q": "What is the cheapest way to reach Gangtok from NJP?", "a": "Take an auto from NJP to the SNT stand in Siliguri, then a shared jeep or taxi to Gangtok for about ₹350–500 a seat, or the SNT bus for about ₹250–350. The 114 km trip takes 4–5 hours. NH10 has had closures since the October 2023 flood, so check current status before you travel."},
-    {"q": "How long does it take from Bagdogra to Gangtok?", "a": "About 4.5–5 hours for 124 km by reserved car, more if NH10 is closed and the driver takes the hill detour via Lava or Kalimpong. A reserved car costs about ₹4,000–6,000. Shared jeeps are cheaper but leave from Siliguri's SNT stand, so take a taxi there first."},
-    {"q": "Are there flights to Pakyong Airport?", "a": "Pakyong, 31 km from Gangtok, opened in 2018, but its scheduled flights have been suspended or irregular for long periods because of weather and runway limits. Most travellers fly to Bagdogra instead. If a Pakyong flight is running when you travel, keep a backup plan, and check current status before you travel."},
-    {"q": "Is NH10 open to Gangtok?", "a": "NH10 is usually open outside the monsoon, with slow, damaged sections. Since the October 2023 Teesta flood it has closed many times, especially from June to September, sometimes for days. Vehicles then detour via Lava, Rhenock and Rorathang, or via Kalimpong. Check current status before you travel and keep a spare day."},
-    {"q": "Do Indians need a permit to enter Sikkim?", "a": "No. Indian citizens can enter Sikkim and visit Gangtok without a permit, though they need photo ID and passport photos for permit tours to Tsomgo Lake, Nathu La, the Silk Route and North Sikkim. Foreign nationals need a free Restricted Area Permit. Check current status before you travel."},
-    {"q": "Where do I get the Sikkim permit as a foreigner?", "a": "The Restricted Area Permit is free. Apply online for an e-RAP before you travel, or get it at the Rangpo or Melli checkposts on entry, or at Sikkim Tourism offices, including the counter at Siliguri's SNT terminus. Carry passport copies, your visa and photos. Rules change, so check current status before you travel."},
-    {"q": "Can I go from Darjeeling to Gangtok directly?", "a": "Yes. Shared jeeps run from Darjeeling to Gangtok, roughly 100 km and 4–5 hours, for about ₹350–450 a seat, via Peshok, Teesta Bazar and Rangpo. A reserved car costs about ₹4,500–6,000. The route uses NH10 along the Teesta, so check current status before you travel."},
-    {"q": "Is there a train to Gangtok?", "a": "Not yet. The nearest railway station is New Jalpaiguri (NJP), about 120 km away. A new line from Sevoke to Rangpo on the Sikkim border has been under construction for years, but it will not reach Gangtok itself. Until it opens and runs, plan on the road from NJP."},
-    {"q": "What time should I leave Siliguri for Gangtok?", "a": "Leave by late morning or noon so you arrive in daylight. Shared jeeps run from early morning to mid-afternoon, and later departures are fewer. In the monsoon, an early start matters more, because afternoon rain brings slides. If your train or flight arrives late, sleep in Siliguri and go up next morning."}
+    {
+      "q": "What is the cheapest way to reach Gangtok from NJP?",
+      "a": "Take an auto from NJP to the SNT stand in Siliguri, then a shared jeep or taxi to Gangtok for about ₹350–500 a seat, or the SNT bus for about ₹250–350. The 114 km trip takes 4–5 hours. NH10 has had closures since the October 2023 flood, so check current status before you travel."
+    },
+    {
+      "q": "How long does it take from Bagdogra to Gangtok?",
+      "a": "About 4.5–5 hours for 124 km by reserved car, more if NH10 is closed and the driver takes the hill detour via Lava or Kalimpong. A reserved car costs about ₹4,000–6,000. Shared jeeps are cheaper but leave from Siliguri's SNT stand, so take a taxi there first."
+    },
+    {
+      "q": "Are there flights to Pakyong Airport?",
+      "a": "Pakyong, 31 km from Gangtok, opened in 2018, but its scheduled flights have been suspended or irregular for long periods because of weather and runway limits. Most travellers fly to Bagdogra instead. If a Pakyong flight is running when you travel, keep a backup plan, and check current status before you travel."
+    },
+    {
+      "q": "Is NH10 open to Gangtok?",
+      "a": "NH10 is usually open outside the monsoon, with slow, damaged sections. Since the October 2023 Teesta flood it has closed many times, especially from June to September, sometimes for days. Vehicles then detour via Lava, Rhenock and Rorathang, or via Kalimpong. Check current status before you travel and keep a spare day."
+    },
+    {
+      "q": "Do Indians need a permit to enter Sikkim?",
+      "a": "No. Indian citizens can enter Sikkim and visit Gangtok without a permit, though they need photo ID and passport photos for permit tours to Tsomgo Lake, Nathu La, the Silk Route and North Sikkim. Foreign nationals need a free Restricted Area Permit. Check current status before you travel."
+    },
+    {
+      "q": "Where do I get the Sikkim permit as a foreigner?",
+      "a": "The Restricted Area Permit is free. Apply online for an e-RAP before you travel, or get it at the Rangpo or Melli checkposts on entry, or at Sikkim Tourism offices, including the counter at Siliguri's SNT terminus. Carry passport copies, your visa and photos. Rules change, so check current status before you travel."
+    },
+    {
+      "q": "Can I go from Darjeeling to Gangtok directly?",
+      "a": "Yes. Shared jeeps run from Darjeeling to Gangtok, roughly 100 km and 4–5 hours, for about ₹350–450 a seat, via Peshok, Teesta Bazar and Rangpo. A reserved car costs about ₹4,500–6,000. The route uses NH10 along the Teesta, so check current status before you travel."
+    },
+    {
+      "q": "Is there a train to Gangtok?",
+      "a": "Not yet. The nearest railway station is New Jalpaiguri (NJP), about 120 km away. A new line from Sevoke to Rangpo on the Sikkim border has been under construction for years, but it will not reach Gangtok itself. Until it opens and runs, plan on the road from NJP."
+    },
+    {
+      "q": "What time should I leave Siliguri for Gangtok?",
+      "a": "Leave by late morning or noon so you arrive in daylight. Shared jeeps run from early morning to mid-afternoon, and later departures are fewer. In the monsoon, an early start matters more, because afternoon rain brings slides. If your train or flight arrives late, sleep in Siliguri and go up next morning."
+    }
   ]
 }

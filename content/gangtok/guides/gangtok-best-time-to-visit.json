@@ -20,20 +20,85 @@
         "Temperatures are rough ranges for Gangtok town. Tsomgo, Nathu La, Kupup and Gnathang are 10–20 °C colder, and below freezing at night for much of the year."
       ],
       "table": {
-        "head": ["Month", "Gangtok weather", "High roads", "Our verdict"],
+        "head": [
+          "Month",
+          "Gangtok weather",
+          "High roads",
+          "Our verdict"
+        ],
         "rows": [
-          ["January", "Cold, 4–13 °C, dry", "Snow; closures after storms", "Good if you pack warm"],
-          ["February", "Cold, 5–15 °C", "Snow; Tsomgo often frozen", "Good; Losar at Rumtek"],
-          ["March", "Mild, 9–19 °C", "Snow melting, roads reopen", "Good"],
-          ["April", "Warm, 12–21 °C", "Rhododendrons begin", "Very good"],
-          ["May", "Warm, 14–22 °C, showers", "Flowers; busy", "Good but crowded"],
-          ["June", "Monsoon arrives", "Cloud, slides", "Avoid"],
-          ["July", "Heavy rain", "Slides likely", "Avoid"],
-          ["August", "Heavy rain", "Slides likely; Pang Lhabsol", "Avoid unless flexible"],
-          ["September", "Rain easing late", "Improving late", "Fair late in month"],
-          ["October", "Dry, 12–21 °C", "Clear, open", "Best; Puja crowds"],
-          ["November", "Cool, 9–18 °C", "Very clear, first snow", "Best"],
-          ["December", "Cold, 6–15 °C", "Snow; Losoong", "Very good"]
+          [
+            "January",
+            "Cold, 4–13 °C, dry",
+            "Snow; closures after storms",
+            "Good if you pack warm"
+          ],
+          [
+            "February",
+            "Cold, 5–15 °C",
+            "Snow; Tsomgo often frozen",
+            "Good; Losar at Rumtek"
+          ],
+          [
+            "March",
+            "Mild, 9–19 °C",
+            "Snow melting, roads reopen",
+            "Good"
+          ],
+          [
+            "April",
+            "Warm, 12–21 °C",
+            "Rhododendrons begin",
+            "Very good"
+          ],
+          [
+            "May",
+            "Warm, 14–22 °C, showers",
+            "Flowers; busy",
+            "Good but crowded"
+          ],
+          [
+            "June",
+            "Monsoon arrives",
+            "Cloud, slides",
+            "Avoid"
+          ],
+          [
+            "July",
+            "Heavy rain",
+            "Slides likely",
+            "Avoid"
+          ],
+          [
+            "August",
+            "Heavy rain",
+            "Slides likely; Pang Lhabsol",
+            "Avoid unless flexible"
+          ],
+          [
+            "September",
+            "Rain easing late",
+            "Improving late",
+            "Fair late in month"
+          ],
+          [
+            "October",
+            "Dry, 12–21 °C",
+            "Clear, open",
+            "Best; Puja crowds"
+          ],
+          [
+            "November",
+            "Cool, 9–18 °C",
+            "Very clear, first snow",
+            "Best"
+          ],
+          [
+            "December",
+            "Cold, 6–15 °C",
+            "Snow; Losoong",
+            "Very good"
+          ]
         ]
       }
     },
@@ -74,20 +139,56 @@
     {
       "heading": "Choosing by what you want",
       "paras": [
-        "If you want Kanchenjunga, come in November. If you want snow, come in January or February and keep a spare day. If you want rhododendrons on the Silk Route, come in late April or early May. If you want festivals, plan around Losar in February or March, Saga Dawa in May or June, Pang Lhabsol in late summer, or Losoong in December. If you want the lowest prices with roads mostly open, come in late February, early March or the first half of December."
+        "If you want Kanchenjunga, come in November. If you want snow, come in January or February and keep a spare day. If you want rhododendrons on the Silk Route, come in late April or early May. If you want festivals, plan around Losar in February or March, Saga Dawa in May or June, Pang Lhabsol in late summer, or Losoong in December. If you want the lowest prices with roads mostly open, come in late February, early March or the first half of December.",
+        "Two more things shape any season. The first is the plains' holiday calendar: Durga Puja and Diwali in October or November, Christmas to New Year, and the May–June school holidays decide when Gangtok is full far more than the weather does, so check those dates before you fix yours. The second is the road. NH10 has had repeated closures since the October 2023 Teesta flood, and the North Sikkim roads beyond Gangtok have been shut for long periods, so even in the dry months keep one spare day and check current status before you travel. Whatever the month, pack layers: a sunny October afternoon on MG Marg and a frozen morning at Tsomgo can fall on the same day."
       ]
     }
   ],
-  "related_places": ["gangtok", "tsomgo-lake", "nathu-la", "zuluk", "kupup", "gnathang", "rumtek"],
+  "related_places": [
+    "gangtok",
+    "tsomgo-lake",
+    "nathu-la",
+    "zuluk",
+    "kupup",
+    "gnathang",
+    "rumtek"
+  ],
   "faqs": [
-    {"q": "What is the best month to visit Gangtok?", "a": "November is the steadiest month: clear skies, Kanchenjunga visible most mornings, open roads to Tsomgo and Nathu La and fewer crowds than October. October is equally clear but busy with Puja holidaymakers. April is the best spring month, with rhododendrons on the high roads but more haze over the mountains."},
-    {"q": "When can I see snow in Gangtok?", "a": "Gangtok town rarely gets snow. You see it at Tsomgo Lake, Baba Mandir, Nathu La and the Silk Route, usually from December to March and sometimes into April or May. January and February are the surest months. Heavy snow can close these roads for days, so keep a spare day and check current status before you travel."},
-    {"q": "Is it safe to visit Gangtok in the monsoon?", "a": "Gangtok town is safe, but travel in and out is unpredictable. Landslides block NH10 and the high roads, sometimes for days, and NH10 has had repeated closures since the October 2023 flood. If you come between June and September, keep plans flexible, add buffer days and check current status before you travel."},
-    {"q": "Is Nathu La open in winter?", "a": "Nathu La can be visited in winter when the road is clear, but heavy snow often closes it for days, and permits are not issued while it is shut. It is commonly reported closed to tourists on Mondays and Tuesdays all year. Book through a registered operator and check current status before you travel."},
-    {"q": "When does Tsomgo Lake freeze?", "a": "Tsomgo usually freezes in the winter months, from about January into March, and it can stay partly frozen into April or May after a hard winter. It is unfrozen and blue from about June to December, with the clearest skies in October and November. The road can close after snow."},
-    {"q": "When do rhododendrons bloom in East Sikkim?", "a": "Usually from April into May on the road to Tsomgo and on the Silk Route around Zuluk, Kupup and Gnathang, a little later at higher altitudes. Lower forests flower from March. The exact timing shifts with the winter, so ask a Gangtok driver or homestay before you plan around the flowers."},
-    {"q": "Is Gangtok very cold in December?", "a": "Gangtok is cold but manageable in December, around 6–15 °C by day and colder at night, and many hotels lack central heating, so ask for a heater. Tsomgo, Nathu La and the Silk Route are well below freezing. Pack thermals, a down jacket, a warm hat and gloves."},
-    {"q": "When are the festivals in Gangtok?", "a": "Losar, the Tibetan New Year, falls in February or March; Saga Dawa in May or June; Pang Lhabsol, honouring Kanchenjunga, in August or September; and Losoong, the Sikkimese new year, with Kagyed cham at Tsuklakhang, in December. Dates follow the lunar calendar, so check current status before you travel."},
-    {"q": "When is Gangtok cheapest?", "a": "June to August is cheapest, but it is the monsoon, with landslides and rare views. For low prices with fair weather, come in late February, early March or the first half of December, avoiding the Puja, Diwali, Christmas and May school holiday weeks, when rates rise by a third or more."}
+    {
+      "q": "What is the best month to visit Gangtok?",
+      "a": "November is the steadiest month: clear skies, Kanchenjunga visible most mornings, open roads to Tsomgo and Nathu La and fewer crowds than October. October is equally clear but busy with Puja holidaymakers. April is the best spring month, with rhododendrons on the high roads but more haze over the mountains."
+    },
+    {
+      "q": "When can I see snow in Gangtok?",
+      "a": "Gangtok town rarely gets snow. You see it at Tsomgo Lake, Baba Mandir, Nathu La and the Silk Route, usually from December to March and sometimes into April or May. January and February are the surest months. Heavy snow can close these roads for days, so keep a spare day and check current status before you travel."
+    },
+    {
+      "q": "Is it safe to visit Gangtok in the monsoon?",
+      "a": "Gangtok town is safe, but travel in and out is unpredictable. Landslides block NH10 and the high roads, sometimes for days, and NH10 has had repeated closures since the October 2023 flood. If you come between June and September, keep plans flexible, add buffer days and check current status before you travel."
+    },
+    {
+      "q": "Is Nathu La open in winter?",
+      "a": "Nathu La can be visited in winter when the road is clear, but heavy snow often closes it for days, and permits are not issued while it is shut. It is commonly reported closed to tourists on Mondays and Tuesdays all year. Book through a registered operator and check current status before you travel."
+    },
+    {
+      "q": "When does Tsomgo Lake freeze?",
+      "a": "Tsomgo usually freezes in the winter months, from about January into March, and it can stay partly frozen into April or May after a hard winter. It is unfrozen and blue from about June to December, with the clearest skies in October and November. The road can close after snow."
+    },
+    {
+      "q": "When do rhododendrons bloom in East Sikkim?",
+      "a": "Usually from April into May on the road to Tsomgo and on the Silk Route around Zuluk, Kupup and Gnathang, a little later at higher altitudes. Lower forests flower from March. The exact timing shifts with the winter, so ask a Gangtok driver or homestay before you plan around the flowers."
+    },
+    {
+      "q": "Is Gangtok very cold in December?",
+      "a": "Gangtok is cold but manageable in December, around 6–15 °C by day and colder at night, and many hotels lack central heating, so ask for a heater. Tsomgo, Nathu La and the Silk Route are well below freezing. Pack thermals, a down jacket, a warm hat and gloves."
+    },
+    {
+      "q": "When are the festivals in Gangtok?",
+      "a": "Losar, the Tibetan New Year, falls in February or March; Saga Dawa in May or June; Pang Lhabsol, honouring Kanchenjunga, in August or September; and Losoong, the Sikkimese new year, with Kagyed cham at Tsuklakhang, in December. Dates follow the lunar calendar, so check current status before you travel."
+    },
+    {
+      "q": "When is Gangtok cheapest?",
+      "a": "June to August is cheapest, but it is the monsoon, with landslides and rare views. For low prices with fair weather, come in late February, early March or the first half of December, avoiding the Puja, Diwali, Christmas and May school holiday weeks, when rates rise by a third or more."
+    }
   ]
 }
