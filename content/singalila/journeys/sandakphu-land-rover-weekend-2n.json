@@ -1,0 +1,66 @@
+{
+  "slug": "sandakphu-land-rover-weekend-2n",
+  "title": "Sandakphu by Land Rover in two nights",
+  "region": "singalila",
+  "nights": 2,
+  "themes": ["kanchenjunga-views", "long-weekends", "family-trips", "photography"],
+  "tier": "Comfort",
+  "travel_mode": "Mixed",
+  "stops": [{"place": "tumling", "nights": 1}, {"place": "sandakphu", "nights": 1}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 17500,
+  "cost_split": [
+    {"item": "Reserved car NJP to Maneybhanjan and back, shared by two", "inr": 4000},
+    {"item": "Private Land Rover for three days, shared by two", "inr": 5500},
+    {"item": "Private twin rooms at Tumling and Sandakphu with dinner and breakfast", "inr": 4000},
+    {"item": "Licensed guide share, park entry and camera fee", "inr": 3300},
+    {"item": "Lunches, tea and snacks", "inr": 700}
+  ],
+  "best_months": [1, 1, 1, 2, 1, 0, 0, 0, 0, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 3636,
+  "meta_description": "2 nights from ₹17,500: a private Maneybhanjan Land Rover to Tumling and Sandakphu (3,636 m), private rooms, a licensed guide and Everest at dawn.",
+  "summary": "The shortest sensible way to stand on Sandakphu. A reserved car to Maneybhanjan, then one of the old Land Rovers up the cobbled track: a night at Tumling (2,970 m) to adjust to the height, a night at Sandakphu (3,636 m) for Everest and Kanchenjunga at dawn, and down the third morning. About ₹17,500 per person.",
+  "intro": [
+    "Most Land Rover trips to Sandakphu go up and down in a day and a night, which puts you at 3,636 m a few hours after leaving 2,150 m. We add one night at Tumling on the way up. It costs a little more, but your head will thank you, and Tumling's own dawn view of the Kanchenjunga range is one of the best on the ridge. You sleep in private twin rooms, at Shikhar Lodge in Tumling and Sherpa Chalet on the summit, and keep the same vehicle and driver for all three days.",
+    "This is the trip for people who cannot give five days to the trek, for older travellers, and for families with children who can sit through a bumpy four-hour ride. The Land Rovers are 1950s and 1960s Series vehicles kept alive by Maneybhanjan's mechanics; the ride is slow and loud. A licensed guide is compulsory inside Singalila National Park even in a vehicle, and park entry is paid at Maneybhanjan. Both fees change, so check current status before you travel."
+  ],
+  "highlights": [
+    "Everest, Lhotse, Makalu and the Kanchenjunga massif from Sandakphu at sunrise",
+    "A ride in one of Maneybhanjan's 1950s and 1960s Land Rovers",
+    "The Sleeping Buddha skyline from Tumling's lodge terrace",
+    "An extra night at 2,970 m so the summit night is easier",
+    "Private twin rooms at both stops and the same driver throughout"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Maneybhanjan and up to Tumling", "place": "tumling", "overnight": "Tumling", "drive": "≈ 95 km · 3.5–4 h by reserved car, then ≈ 11 km · 1.5 h by Land Rover", "text": "Leave NJP or Bagdogra by 7 am and drive up via Mirik or Ghoom to Maneybhanjan, the small border town where every Sandakphu trip begins. Here your guide pays the park entry, and the Land Rover is loaded. The cobbled track climbs past Chitrey's white chorten and Meghma to Tumling at 2,970 m, a hamlet of about a dozen houses on the Nepal side of the ridge. Check in at Shikhar Lodge, walk 20–40 minutes up to Tonglu for the sunset if the sky is clear, and drink plenty of water.", "meals": "Dinner", "spend": "₹2,000 car share + ₹200 lunch + park entry"},
+    {"day": 2, "title": "Tumling dawn and the drive to Sandakphu", "place": "sandakphu", "overnight": "Sandakphu", "drive": "≈ 20 km · 2.5–3 h by Land Rover", "text": "Wake at about 5 am for the Kanchenjunga range turning pink over the forest. After breakfast the Land Rover drops through Jaubari to Gairibas, the low saddle where red pandas live in the bamboo, then grinds up through Kaiyakatta and Kalipokhri, the black pond hung with prayer flags. The last stretch passes Bikheybhanjang, whose name carries the Nepali word for poison. Reach Sandakphu by lunch. Rest, walk slowly around the summit, and go out again at sunset, when Makalu and Everest sometimes clear in the west.", "meals": "Breakfast, dinner", "spend": "₹200 lunch + ₹100–150 hot water"},
+    {"day": 3, "title": "Everest at dawn, down to NJP", "place": "sandakphu", "overnight": "", "drive": "≈ 31 km · 4 h by Land Rover, then ≈ 95 km · 3.5–4 h by car", "text": "Be outside by 5 am in every layer you own. On a clear morning Everest, Lhotse and Makalu stand to the west and the whole Kanchenjunga massif fills the north: four of the five highest mountains on Earth. After breakfast the Land Rover heads down the way it came, with a tea stop at Tumling, and reaches Maneybhanjan around midday. Your car waits to take you down to NJP or Bagdogra, arriving mid to late afternoon. Book a train or flight after 6 pm.", "meals": "Breakfast", "spend": "₹2,000 car share + ₹200 lunch"}
+  ],
+  "stays": ["singalila-shikhar-lodge-tumling", "singalila-sherpa-chalet-sandakphu"],
+  "includes": ["Reserved car NJP or Bagdogra to Maneybhanjan and back", "Private Land Rover and driver for three days", "Private twin rooms with dinner and breakfast at Tumling and Sandakphu", "Licensed guide for three days", "Singalila National Park entry and camera fee"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Hot water buckets and phone charging at lodges", "Bottled drinks and snacks", "Tips for driver and guide"],
+  "save_money": [
+    "Fill the Land Rover: it takes up to six people, so a group of four or six pays roughly half what a couple pays per head.",
+    "Take shared jeeps from NJP to Darjeeling and Darjeeling to Maneybhanjan instead of a reserved car, and sleep in Darjeeling the night before; it saves about ₹2,500 per person.",
+    "Carry a filter bottle; bottled water costs more with every metre of height and the lodges will fill a bottle with boiled water."
+  ],
+  "good_to_know": [
+    "A licensed guide and park entry are compulsory even in a vehicle; rates are set locally, so check current status before you travel.",
+    "Singalila National Park usually closes from mid-June to mid-September.",
+    "Rooms at Sandakphu are cold and toilets are shared; bring a down jacket, a cap and gloves even in May.",
+    "Carry a passport or voter ID: the track passes through Nepal at Tumling, Jaubari and Kalipokhri and papers may be checked."
+  ],
+  "faqs": [
+    {"q": "Can I reach Sandakphu without trekking?", "a": "Yes. Land Rovers from the owners' association at Maneybhanjan drive the cobbled track to Sandakphu in about four hours. A round trip with one night costs about ₹6,500–9,000 a vehicle for up to six people; our three-day version with a night at Tumling costs more. You still need a licensed guide and park entry. Check current status before you travel."},
+    {"q": "Why stop at Tumling instead of driving straight up?", "a": "Altitude. Maneybhanjan is at about 2,150 m and Sandakphu at 3,636 m, and driving that in four hours gives many people headaches and a bad night. Sleeping first at Tumling, 2,970 m, lets your body adjust. Tumling also has its own fine dawn view of Kanchenjunga, so the extra night is not wasted."},
+    {"q": "How much does this 2-night trip cost?", "a": "About ₹17,500 per person, twin sharing, from NJP or Bagdogra back to the same, indicative for 2025–26. That covers the reserved car, a private Land Rover for three days, private rooms with dinner and breakfast, the guide, park entry and simple lunches. A group of four or six filling the vehicle pays noticeably less per head."},
+    {"q": "Will I really see Everest from Sandakphu?", "a": "On a clear morning, yes. Everest, Lhotse and Makalu appear to the west and Kanchenjunga to the north. Clear mornings are most likely from October to early December, and possible from January to April. In spring haze often hides Everest by mid-morning. In any month cloud can sit in for days, so treat the view as likely, not certain."},
+    {"q": "Is the Land Rover ride safe and comfortable?", "a": "It is safe in the hands of local drivers who do the run every week, but not comfortable. The track is cobbled and steep, the vehicles are 1950s and 1960s Series Land Rovers and the ride takes about four hours each way with bumps all the way. Take the front seat if you get motion sick, and keep a light bag on your lap."},
+    {"q": "Is this trip suitable for children and older people?", "a": "Often, yes, which is why we built it. There is no walking beyond short strolls. The concerns are cold and altitude: Sandakphu nights fall below freezing for much of the season. Children should be old enough to say clearly how they feel. Anyone with heart or lung conditions should ask their doctor before sleeping at 3,636 m."},
+    {"q": "Do I need a guide in a Land Rover?", "a": "Yes. The rule in Singalila National Park, as we understand it, is that every group needs a licensed local guide, whether walking or riding. The guide is hired at Maneybhanjan for about ₹1,500–2,000 a day per group and rides with you. Rules and fees change, so check current status before you travel."},
+    {"q": "What is the food and accommodation like at Sandakphu?", "a": "Simple and warm enough. Sherpa Chalet and the other summit lodges have private twin rooms with heavy quilts and shared toilets; there is no heating in the rooms. Dinner is dal-bhat, noodles or thukpa, eaten by the stove in the dining room. Hot water comes by the bucket for a small charge. Expect a cold night."},
+    {"q": "Is there mobile network on the ridge?", "a": "Patchy. Indian networks work around Maneybhanjan and come and go along the ridge; in places phones pick up Nepali networks instead. Do not plan work calls. Tell family you may be out of contact for two days, and ask the lodge or your guide if you need to make an urgent call."}
+  ]
+}

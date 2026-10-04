@@ -1,0 +1,65 @@
+{
+  "slug": "singalila-dhotrey-tonglu-shoestring-2n",
+  "title": "Dhotrey and Tonglu on a shoestring",
+  "region": "singalila",
+  "nights": 2,
+  "themes": ["treks", "homestays", "solo-backpacking", "long-weekends"],
+  "tier": "Shoestring",
+  "travel_mode": "On foot",
+  "stops": [{"place": "dhotrey", "nights": 1}, {"place": "tonglu", "nights": 1}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 7000,
+  "cost_split": [
+    {"item": "Shared jeep seats NJP, Darjeeling, Maneybhanjan, Dhotrey and back", "inr": 1200},
+    {"item": "Dhotrey homestay and Tonglu trekkers' hut with dinner and breakfast", "inr": 2500},
+    {"item": "Licensed guide share for a pair, park entry and camera fee", "inr": 2400},
+    {"item": "Lunches, tea and trail snacks", "inr": 900}
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 0, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 3070,
+  "meta_description": "2 nights from ₹7,000: shared jeeps to Dhotrey, a forest walk up to Tonglu (3,070 m) for Kanchenjunga at dawn, and down the ridge to Maneybhanjan.",
+  "summary": "A short, cheap taste of the Singalila Ridge. Shared jeeps to the forest village of Dhotrey for a homestay night, a 6 km climb through oak and rhododendron to Tonglu's grassy top at 3,070 m, and a downhill walk to Maneybhanjan on the third day. About ₹7,000 per person for two travelling together.",
+  "intro": [
+    "Tonglu is the first big top on the ridge, a broad grassy summit at about 3,070 m with a 360-degree view from Kanchenjunga to the lights of Darjeeling. Joseph Hooker came up here to collect rhododendrons in 1848. Most trekkers pass it on the main trail from Maneybhanjan, but the quieter way up is from Dhotrey on the eastern slope: a 6 km forest path, shady and steady, with birds and almost no traffic.",
+    "We keep this trip cheap with shared jeeps, a Dhotrey homestay with dinner and breakfast, and a dorm bed in the GTA trekkers' hut on Tonglu. The one cost you cannot avoid is the licensed guide, compulsory inside Singalila National Park; two people sharing a guide pay about half each. Park entry is paid at Maneybhanjan. Fees and the hut's status change, so check current status before you travel."
+  ],
+  "highlights": [
+    "A homestay night in the forest village of Dhotrey",
+    "The quiet 6 km forest trail from Dhotrey to Tonglu",
+    "Sunset and sunrise over the Kanchenjunga range from Tonglu's open top",
+    "A dorm night in the GTA trekkers' hut at 3,070 m",
+    "The downhill walk past Tumling, Meghma and Chitrey's chorten"
+  ],
+  "days": [
+    {"day": 1, "title": "Shared jeeps to Dhotrey", "place": "dhotrey", "overnight": "Dhotrey", "drive": "≈ 70 km · 3–3.5 h to Darjeeling, ≈ 26 km · 1–1.5 h to Maneybhanjan, ≈ 1 h to Dhotrey by shared jeeps", "text": "Take the first shared jeep from the NJP or Siliguri stand to Darjeeling, about ₹250–350 a seat, then a shared jeep from Chowk Bazaar to Maneybhanjan for ₹100–150. Meet your guide there and pay the park entry. Jeeps to Dhotrey run mostly in the morning; if none is leaving, the two of you can reserve one for about ₹1,200–1,800. Dhotrey is a scatter of farmhouses at about 2,500 m in forest. Settle into a homestay, eat a hot dinner of rice, dal and greens, and sleep early.", "meals": "Dinner", "spend": "₹300 + ₹150 + ₹150 jeep seats + ₹150 lunch"},
+    {"day": 2, "title": "Forest trail up to Tonglu", "place": "tonglu", "overnight": "Tonglu", "drive": "On foot ≈ 6 km · 3–4 h, about 570 m up", "text": "After breakfast walk up behind the village into the national park. The trail climbs steadily through oak, rhododendron and bamboo; in April the trees flower red and pink, and in autumn the forest is full of birdsong. You reach Tonglu's open top around midday. Drop your pack at the GTA trekkers' hut, eat noodle soup, and spend the afternoon on the grass watching cloud move along the valleys. If the sky clears at sunset, the whole Kanchenjunga range turns gold. Nights are cold.", "meals": "Breakfast, dinner", "spend": "₹500 hut bed + ₹150 lunch + ₹50 tea"},
+    {"day": 3, "title": "Tonglu dawn and down to NJP", "place": "tonglu", "overnight": "", "drive": "On foot ≈ 11 km · 3.5–4 h down to Maneybhanjan, then shared jeeps ≈ 4.5–5 h to NJP", "text": "Get up before 5:30 am for the dawn: the Sleeping Buddha outline of Kanchenjunga, and on very clear days the tops of Everest and Makalu far to the west. After breakfast walk down past Tumling's lodges to Meghma, then on the steep stone path past Chitrey's white chorten to Maneybhanjan. Say goodbye to your guide, catch a shared jeep to Darjeeling, eat a quick lunch near the stand, and take a jeep down to NJP. Book a train after 7 pm to be safe.", "meals": "Breakfast", "spend": "₹150 + ₹300 jeep seats + ₹200 lunch"}
+  ],
+  "stays": ["singalila-gta-trekkers-hut-tonglu"],
+  "includes": ["Shared jeep seats on every road leg", "Dhotrey homestay with dinner and breakfast", "Tonglu trekkers' hut dorm bed with dinner and breakfast", "Licensed guide for three days, shared by two", "Singalila National Park entry and camera fee"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Reserved jeep to Dhotrey if no shared jeep runs", "Porter", "Hot water buckets", "Tips"],
+  "save_money": [
+    "Leave NJP on the first jeep: arriving in Maneybhanjan before noon means you catch a shared jeep to Dhotrey instead of paying ₹1,200–1,800 to reserve one.",
+    "Find a third or fourth walker in Darjeeling's hostels; the guide fee is per group, so each extra person cuts everyone's share.",
+    "Carry biscuits, nuts and a filter bottle from Darjeeling, where they cost half what they do on the ridge."
+  ],
+  "good_to_know": [
+    "A licensed guide is compulsory inside Singalila National Park; the fee is per group and set locally, so check current status before you travel.",
+    "Confirm that the Tonglu trekkers' hut is open before you go; if it is not, sleep in a Tumling lodge 20–40 minutes away.",
+    "The park usually closes from mid-June to mid-September.",
+    "Tonglu is exposed; bring a warm jacket, cap and gloves in every season."
+  ],
+  "faqs": [
+    {"q": "How hard is the walk from Dhotrey to Tonglu?", "a": "Moderate. It is about 6 km with roughly 570 m of climbing on a clear forest path, and most walkers take 3–4 hours with rests. There is no technical ground, but the trail is steady uphill and can be muddy after rain. Anyone who walks regularly will manage it; go slowly and drink water, as Tonglu is above 3,000 m."},
+    {"q": "How much does this 2-night trip cost?", "a": "About ₹7,000 per person for two people sharing a guide, from NJP back to NJP, indicative for 2025–26. That covers shared jeep seats, a Dhotrey homestay and a Tonglu hut bed with dinner and breakfast, the guide, park entry and simple lunches. A solo walker paying the whole guide fee should budget about ₹9,500–10,000."},
+    {"q": "Do I need a guide for such a short walk?", "a": "Yes. The rule as we understand it is that every group entering Singalila National Park needs a licensed local guide, and the Dhotrey–Tonglu trail is inside the park. Hire one at Maneybhanjan for about ₹1,500–2,000 a day per group, where you also pay entry. Rules change, so check current status before you travel."},
+    {"q": "Can I see Kanchenjunga from Tonglu?", "a": "On a clear day, yes, and the view is wide: the whole Kanchenjunga range to the north and, on the clearest mornings, Everest and Makalu far to the west. October to early December gives the best odds. Cloud often builds by late morning, so sunset and the next dawn are your two real chances."},
+    {"q": "What if the Tonglu trekkers' hut is closed or full?", "a": "Walk on to Tumling, 20–40 minutes away down the ridge, where several family lodges offer dorm beds at about ₹400–700 and twin rooms at ₹1,500–2,800. Shikhar Lodge is the best known. You can still walk back up to Tonglu for sunset or dawn. Ask your guide to phone ahead from Dhotrey."},
+    {"q": "Is this trip good for solo travellers?", "a": "Yes, though the guide fee then falls on one person. Dhotrey homestays and the Tonglu hut both take single guests, and the trail is well used. Many solo travellers meet others in Darjeeling hostels or at the Maneybhanjan guide office and share a guide. Women walking alone generally report feeling safe on the ridge; the usual care applies."},
+    {"q": "When is the best time for Dhotrey and Tonglu?", "a": "October to December for clear mountain views, and March to April for rhododendron flowers on the forest trail. January and February are cold, sometimes with snow on Tonglu, but often clear. May is warm and hazy. The park usually closes from mid-June to mid-September, so the trail is off limits then."},
+    {"q": "What should I pack for two nights?", "a": "A warm down or fleece jacket, a cap, gloves, thermal layers, a rain shell, sturdy shoes with grip, a head torch, a filter bottle, sunscreen and a small first-aid kit. Carry a passport or voter ID. A light sleeping bag liner is useful in the hut. Keep your pack under 7 kg; there is no porter on this trip."},
+    {"q": "Can I combine this with the full Sandakphu trek?", "a": "Yes. From Tonglu the main trail continues past Tumling to Gairibas, Kalipokhri and Sandakphu, two more days of walking. Instead of walking down on day three, carry on north. Agree the longer trip with your guide at the start, as the daily fee and park entry may be counted differently."}
+  ]
+}

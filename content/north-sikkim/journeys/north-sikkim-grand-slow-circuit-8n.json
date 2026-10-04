@@ -1,0 +1,82 @@
+{
+  "slug": "north-sikkim-grand-slow-circuit-8n",
+  "title": "North Sikkim end to end, slowly, in 8 nights",
+  "region": "north-sikkim",
+  "nights": 8,
+  "themes": ["snow-and-passes", "monasteries", "homestays", "kanchenjunga-views", "photography"],
+  "tier": "Comfort",
+  "travel_mode": "Reserved car",
+  "stops": [{"place": "phodong", "nights": 1}, {"place": "singhik", "nights": 1}, {"place": "lachen", "nights": 2}, {"place": "lachung", "nights": 2}, {"place": "dzongu", "nights": 2}],
+  "start": "Gangtok (pickup from your hotel)",
+  "end": "Gangtok",
+  "price_from_inr": 48000,
+  "cost_split": [
+    {"item": "Reserved SUV with driver and permits, 9 days, half share", "inr": 20000},
+    {"item": "Rooms, 8 nights with dinner and breakfast (all meals in Dzongu)", "inr": 22000},
+    {"item": "Zero Point add-on, half share", "inr": 2000},
+    {"item": "Dzongu permit and a guided village walk", "inr": 1000},
+    {"item": "Lunches, rentals, oxygen can and tips", "inr": 3000}
+  ],
+  "best_months": [0, 1, 1, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Balanced",
+  "max_altitude_m": 5183,
+  "meta_description": "North Sikkim in 8 nights by private car: Phodong, Singhik, Lachen and Gurudongmar, Lachung and Yumthang, and a Dzongu homestay, from ₹48,000 per person.",
+  "summary": "Every part of North Sikkim in one trip, at a pace that respects the altitude: monasteries at Phodong, Kanchenjunga from Singhik, two nights in Lachen for Gurudongmar, two in Lachung for Yumthang and Zero Point, and two in a Lepcha home in Dzongu to finish. About ₹48,000 per person for two in a private car. Check current status before you travel.",
+  "intro": [
+    "This is the trip we would plan for someone who has one chance at North Sikkim and wants all of it. It climbs in steps: Phodong at about 1,500 m, Singhik at 1,560 m, then two nights in Lachen at about 2,750 m with a Thangu and Chopta day before Gurudongmar at roughly 5,180 m. From Lachen you cross to Lachung for Yumthang and the snow at Zero Point.",
+    "Then it comes down to Dzongu, the Lepcha reserve, for two warm, green nights and home cooking before Gangtok. Nine days in a car costs real money, but split between two it works out at about ₹5,300 a day each, less for four. The Lachen road in particular has had long closures since the October 2023 Teesta flood. Check current status before you travel."
+  ],
+  "highlights": [
+    "Phodong, Labrang and the ruins of Tumlong",
+    "Kanchenjunga and Siniolchu from Singhik",
+    "Gurudongmar Lake after a proper acclimatisation day",
+    "Yumthang Valley and the snow at Zero Point",
+    "Two closing nights with a Lepcha family in Dzongu"
+  ],
+  "days": [
+    {"day": 1, "title": "Gangtok to Phodong", "place": "phodong", "overnight": "Phodong", "drive": "≈ 38 km · 2 h with stops", "text": "Leave Gangtok at about 10 am with permits in hand; your agent needs ID copies and photographs a day ahead. Stop at Kabi Lungchok, the 13th-century site of the blood-brotherhood oath between the Lepcha chief Thekong Tek and the Bhutia prince Khye Bumsa. At Phodong, visit the early 18th-century monastery and drive 2 km up to Labrang Monastery. Walk among the ruins of Tumlong, capital of the Chogyals from 1793 to 1894, in the late afternoon.", "meals": "Dinner", "spend": "₹200 lunch + ₹200 donations"},
+    {"day": 2, "title": "Seven Sisters, Mangan and Singhik", "place": "singhik", "overnight": "Singhik", "drive": "≈ 35 km · 2 h", "text": "Another short day. Stop at the Seven Sisters waterfall, then at Mangan for the cardamom bazaar and lunch. Drive 4 km up to Singhik, at about 1,560 m, and check in at the tourist lodge or a village homestay. Walk the village lanes in the afternoon and be at the viewpoint for sunset over the Teesta gorge, with Siniolchu's spire and Kanchenjunga ahead if the sky is clear.", "meals": "Breakfast, Dinner", "spend": "₹200 lunch + ₹50 tea"},
+    {"day": 3, "title": "Singhik to Lachen", "place": "lachen", "overnight": "Lachen", "drive": "≈ 60 km · 3–4 h", "text": "Sunrise from Singhik first. Then north to Chungthang, where the October 2023 outburst of South Lhonak Lake sent a flood down the Teesta and destroyed the Teesta III dam. Turn left up the Lachen Chu to Lachen, at about 2,750 m, by early afternoon. Walk slowly up to Lachen Monastery, Ngodrub Choling, built in 1858. Drink two to three litres of water and eat well.", "meals": "Breakfast, Dinner", "spend": "₹250 lunch"},
+    {"day": 4, "title": "Thangu and Chopta: climb high, sleep low", "place": "chopta-valley", "overnight": "Lachen", "drive": "≈ 70 km return · 4–5 h", "text": "Drive 30 km up to Thangu, at about 3,900 m, for tea, then on to Chopta Valley at about 4,000 m. In winter the river freezes; in summer it is all flowers. Walk very slowly and come back to Lachen by early afternoon to rest. This day is what makes tomorrow safer: anyone with a strong headache or nausea tonight should skip Gurudongmar. Lay out warm clothes and sleep early.", "meals": "Breakfast, Dinner", "spend": "₹200 tea at Thangu + ₹300 coat rental"},
+    {"day": 5, "title": "Gurudongmar at dawn, then over to Lachung", "place": "gurudongmar", "overnight": "Lachung", "drive": "≈ 130 km · 9–10 h including the lake", "text": "Leave Lachen at 3–4 am and reach Gurudongmar around 7 am. The sacred lake, linked by Buddhists to Guru Padmasambhava, lies about 5 km south of the Tibetan border at roughly 5,180 m. Spend 20–40 minutes walking slowly on the shore. Back in Lachen for breakfast, then down to Chungthang and up the Lachung valley, arriving mid-afternoon. A long day; rest in a heated room.", "meals": "Breakfast, Dinner", "spend": "₹250 lunch + ₹700 oxygen can (optional)"},
+    {"day": 6, "title": "Yumthang and Zero Point", "place": "yumthang", "overnight": "Lachung", "drive": "≈ 94 km return · 5–6 h", "text": "Leave at 6 am for Yumthang Valley, 24 km up through the Shingba Rhododendron Sanctuary, at 3,564 m, and on to Zero Point at about 4,700 m. After Gurudongmar it feels gentle. Stop at the hot spring on the way down. In the afternoon, walk to Lachung Monastery, founded in 1880, and through the apple orchards. Ask your host how the Dzumsa council decides village matters.", "meals": "Breakfast, Dinner", "spend": "₹2,000 Zero Point share + ₹300 rental"},
+    {"day": 7, "title": "Down to Dzongu", "place": "dzongu", "overnight": "Dzongu homestay", "drive": "≈ 75 km · 4–5 h", "text": "Drive down the valley to Chungthang and south to Mangan. Collect your Dzongu permit at the district office; it is a working-day office, so plan the trip so this falls on a weekday. Cross the Teesta into Dzongu and reach your Lepcha homestay by mid-afternoon. After days of cold, the warmth at about 1,200 m is a relief. Dinner in the family kitchen.", "meals": "Breakfast, Dinner", "spend": "₹200 lunch + ₹100 permit costs"},
+    {"day": 8, "title": "Dzongu villages on foot", "place": "dzongu", "overnight": "Dzongu homestay", "drive": "", "text": "A day without the car. Walk with a local guide through cardamom groves, terraces of maize and millet, and to a waterfall your host recommends. Ask about Lepcha plant names, the Lepcha script and the story of Kongchen Konglo, Kanchenjunga, as guardian. Return for a late lunch and spend the afternoon reading on the porch. Try chi, the fermented millet beer, if you wish.", "meals": "Breakfast, Lunch, Dinner", "spend": "₹500 guide share + ₹150 chi"},
+    {"day": 9, "title": "Dzongu to Gangtok", "place": "dzongu", "overnight": "Gangtok (not included)", "drive": "≈ 80 km · 4 h", "text": "Leave after breakfast, cross back to Mangan and drive south to Gangtok, arriving by early afternoon. Buy large cardamom in Mangan if you want to take some home. Do not book a flight or train from NJP or Bagdogra for today: the road has had frequent landslides and closures since 2023, and a night in Gangtok is a sensible buffer.", "meals": "Breakfast", "spend": "₹200 lunch + ₹1,500 driver tip (shared)"}
+  ],
+  "stays": ["singhik-tourist-lodge", "lachung-yarlam-resort", "dzongu-mayal-lyang-homestay"],
+  "includes": [
+    "Reserved SUV with driver for 9 days, fuel and North Sikkim permits",
+    "Eight nights in guesthouses, a tourist lodge, better hotels and a Lepcha homestay",
+    "Thangu and Chopta, Gurudongmar, Yumthang and Zero Point (subject to permits)",
+    "Dzongu permit help and one guided village walk"
+  ],
+  "excludes": [
+    "Transport between NJP/Bagdogra and Gangtok",
+    "Gangtok hotel nights",
+    "Most lunches and snacks",
+    "Room heaters if charged extra, and personal shopping"
+  ],
+  "save_money": [
+    "Book as four in one car; the per-person car cost falls from about ₹20,000 to about ₹10,000.",
+    "Use family homestays in Lachen and Lachung rather than hotels; the comfort gap is small.",
+    "Travel in March, early April or late November, when car and room rates are lower than in May and October."
+  ],
+  "good_to_know": [
+    "Foreign nationals cannot go to Gurudongmar or Zero Point and may not be allowed to Chopta, Thangu or Dzongu; ask for a Lachung-and-Singhik version.",
+    "The Lachen road and NH10 have had long closures since the October 2023 Teesta flood; check current status before you travel.",
+    "Anyone with heart or lung conditions, and pregnant women, should consult a doctor before Gurudongmar.",
+    "Plan so the Mangan permit office day falls on a weekday."
+  ],
+  "faqs": [
+    {"q": "Is 8 nights too long for North Sikkim?", "a": "Not if you want all of it without rushing. Lachen needs two nights for Gurudongmar, Lachung needs at least one and preferably two, and Dzongu is worth two. Add short first nights at Phodong and Singhik to ease into the altitude and you reach eight nights quickly."},
+    {"q": "How much does a 9-day private car cost?", "a": "Roughly ₹36,000–45,000 per vehicle in 2025–26 with driver, fuel and permits, depending on the car and season. Zero Point adds about ₹3,000–4,500. Split between two, the car alone is about ₹18,000–22,500 each; between four, half that."},
+    {"q": "Why go to Chopta before Gurudongmar?", "a": "Because climbing to about 4,000 m and sleeping back at Lachen helps your body adapt before the lake at roughly 5,180 m. Doctors call it climbing high and sleeping low. It also shows you Chopta and Thangu in daylight, which the rushed tours pass in the dark."},
+    {"q": "Can children come on this trip?", "a": "Children over about eight usually manage with care. Under-fives should not go to Gurudongmar or Zero Point; one adult can stay with them in Lachen or at Yumthang. The Dzongu and Phodong days are good for children. Pack snacks, warm layers and motion-sickness medicine."},
+    {"q": "Why end in Dzongu rather than start there?", "a": "After the cold and the early starts, two warm nights at about 1,200 m with home cooking are a good way to recover. Ending in Dzongu also keeps the last drive to Gangtok short. If permit office days do not fit, the order can be swapped."},
+    {"q": "Which months suit this route?", "a": "April and May for rhododendrons and long days; October and November for clear skies. March and December are cold but workable. January and February bring heavy snow that can block Gurudongmar and Zero Point. June to September is monsoon, with landslides; avoid it."},
+    {"q": "What if the Lachen road is closed?", "a": "Your agent should offer more nights at Lachung, Singhik and Dzongu instead. Agree in writing how the price changes if Gurudongmar is cancelled. Since October 2023, the Lachen road has been the most affected stretch. Check current status before you travel."},
+    {"q": "Are the rooms heated?", "a": "Better hotels in Lachung and some in Lachen have heaters or heated rooms, sometimes charged extra. Homestays rely on thick quilts and hot water bottles. Power cuts are common, so ask whether there is backup. Phodong, Singhik and Dzongu are mild enough not to need heating outside midwinter."},
+    {"q": "How fit do we need to be?", "a": "There is little walking at altitude beyond short strolls at the lakes and meadows, but the drives are long and bumpy. The Dzongu walk is a few hours on village paths, up and down. Anyone who can walk an hour on hills comfortably will manage."}
+  ]
+}
