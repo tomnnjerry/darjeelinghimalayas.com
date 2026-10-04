@@ -3,14 +3,15 @@
   "title": "Kurseong Walks and Toy Train Stations",
   "region": "kurseong-mirik",
   "category": "treks",
-  "meta_description": "Six easy walks from Kurseong, to Eagle's Crag, Giddapahar, Makaibari, Dow Hill and Chimney, plus the toy train stations from Tindharia to Tung and how to ride.",
+  "meta_description": "Six easy walks from Kurseong, to Eagle's Crag, Giddapahar, Makaibari, Dow Hill and Chimney, plus the toy train stations from Tindharia to Tung.",
   "summary": "Kurseong is the best walking base in the middle Darjeeling hills. Eagle's Crag is 15–20 minutes from the station, Makaibari 45 minutes down the Pankhabari road, Dow Hill 1–1.5 hours up and Chimney 3–3.5 hours. The toy train runs through the bazaar, with Tindharia, Gayabari and Tung nearby; services change, so check before you travel.",
   "sections": [
     {
       "heading": "Why Kurseong suits walkers",
       "paras": [
         "Kurseong sits at about 1,480 m on a steep ridge, with the toy train and the Hill Cart Road running through the middle of town. Within an easy walk are a viewpoint, a tea estate, a museum, an old school ridge and a forest, and most of them are linked by quiet roads rather than trails, so you need no guide and no special kit. The town is warmer than Darjeeling, which makes it pleasant to walk in from October to April, and it is small enough that you are never far from a cup of tea.",
-        "The walks below are all on roads or clear paths and suit anyone who is reasonably fit. Kurseong is steep everywhere, so every walk has a climb somewhere; plan to walk up and ride down where you can. Wear shoes with grip, carry water and a jacket, and start in the morning, because mist usually rolls in after lunch from April to September."
+        "The walks below are all on roads or clear paths and suit anyone who is reasonably fit. Kurseong is steep everywhere, so every walk has a climb somewhere; plan to walk up and ride down where you can. Wear shoes with grip, carry water and a jacket, and start in the morning, because mist usually rolls in after lunch from April to September.",
+        "With two full days you can do almost everything here. Spend the first morning on Dow Hill and Chimney and the afternoon at Eagle's Crag and the bazaar. Spend the second morning walking down to Makaibari and the afternoon at the Giddapahar museum, with a jeep or taxi for the climbs back. Add a third day for the toy train or a slow drive down past Tindharia."
       ]
     },
     {
@@ -19,14 +20,49 @@
         "Times are one way at an easy pace. Costs are for the ride back when you do not want to walk both ways."
       ],
       "table": {
-        "head": ["Walk", "Distance and time", "Climb", "Ride back"],
+        "head": [
+          "Walk",
+          "Distance and time",
+          "Climb",
+          "Ride back"
+        ],
         "rows": [
-          ["Station to Eagle's Crag", "About 1 km, 15–20 min", "Short, steep", "Not needed"],
-          ["Bazaar along the toy train line", "1–2 km, 30–45 min", "Gentle", "Not needed"],
-          ["Kurseong to Makaibari", "3–4 km, 45 min–1 h down", "About 300 m back up", "Jeep ₹20–40"],
-          ["Kurseong to Giddapahar museum", "About 4 km, 1 h", "Gentle on the Hill Cart Road", "Taxi ₹300–500"],
-          ["Kurseong to Dow Hill schools", "3–5 km, 1–1.5 h up", "About 400 m", "Taxi ₹400–600"],
-          ["Kurseong to Chimney via Dow Hill", "8–10 km, 3–3.5 h up", "About 700 m", "Taxi ₹700–1,000"]
+          [
+            "Station to Eagle's Crag",
+            "About 1 km, 15–20 min",
+            "Short, steep",
+            "Not needed"
+          ],
+          [
+            "Bazaar along the toy train line",
+            "1–2 km, 30–45 min",
+            "Gentle",
+            "Not needed"
+          ],
+          [
+            "Kurseong to Makaibari",
+            "3–4 km, 45 min–1 h down",
+            "About 300 m back up",
+            "Jeep ₹20–40"
+          ],
+          [
+            "Kurseong to Giddapahar museum",
+            "About 4 km, 1 h",
+            "Gentle on the Hill Cart Road",
+            "Taxi ₹300–500"
+          ],
+          [
+            "Kurseong to Dow Hill schools",
+            "3–5 km, 1–1.5 h up",
+            "About 400 m",
+            "Taxi ₹400–600"
+          ],
+          [
+            "Kurseong to Chimney via Dow Hill",
+            "8–10 km, 3–3.5 h up",
+            "About 700 m",
+            "Taxi ₹700–1,000"
+          ]
         ]
       }
     },
@@ -73,16 +109,48 @@
       ]
     }
   ],
-  "related_places": ["kurseong", "makaibari", "dow-hill", "chimney"],
+  "related_places": [
+    "kurseong",
+    "makaibari",
+    "dow-hill",
+    "chimney"
+  ],
   "faqs": [
-    {"q": "What are the best walks in Kurseong?", "a": "The best short walk is from the station up to Eagle's Crag, 15–20 minutes, for views to the plains. Longer walks go down the Pankhabari road to Makaibari tea estate in about 45 minutes, up to the Dow Hill schools in 1–1.5 hours, and on through the forest to Chimney in 3–3.5 hours. All follow roads or clear paths."},
-    {"q": "How do I walk from Kurseong to Dow Hill?", "a": "Start in Kurseong bazaar and walk up past the post office along Dow Hill Road. It is about 3–5 km and 1–1.5 hours uphill, climbing roughly 400 m, on a road with light traffic. You reach Victoria Boys' School and Dow Hill School among tall conifers. Return the same way, take a taxi for about ₹400–600, or continue to Chimney."},
-    {"q": "Can I walk from Kurseong to Makaibari tea estate?", "a": "Yes. Walk down the Pankhabari road from Kurseong bazaar, about 3–4 km and 45 minutes to an hour, through forest and then tea gardens to the estate villages and factory. The walk back up is steep, climbing about 300 m, so most people take a local jeep up for ₹20–40 a seat or a taxi for ₹300–500."},
-    {"q": "Where is Eagle's Crag in Kurseong?", "a": "Eagle's Crag is a small hilltop viewpoint above Kurseong station, about 15–20 minutes' walk up the lanes from the bazaar. It has a viewing tower and looks down the Hill Cart Road towards the plains around Siliguri. Go at sunset or early morning for the best light. At night you can see the lights of the plains spread out below."},
-    {"q": "Does the toy train stop at Kurseong?", "a": "Yes. Kurseong is a station on the Darjeeling Himalayan Railway between NJP and Darjeeling, and the track runs through the town's bazaar. Services on the lower section have often been suspended by landslides, and shorter runs to Darjeeling have sometimes operated instead. Book on IRCTC and check current status before you travel."},
-    {"q": "What is Agony Point on the toy train?", "a": "Agony Point is one of the tightest loops on the Darjeeling Himalayan Railway, near Tindharia below Kurseong, where the track curves so sharply that the train almost meets itself. The line also uses zigzag reverses in this area to gain height. You can see parts of these loops from the Hill Cart Road when travelling by jeep between Siliguri and Kurseong."},
-    {"q": "Is it safe to walk along the toy train tracks?", "a": "Walk beside the line, not on it. In Kurseong the track runs down the middle of the main road, shared with jeeps and pedestrians, and trains move slowly but cannot stop quickly. Outside town, the track runs along narrow ledges with steep drops. Use the Hill Cart Road or footpaths, and watch for trains, which sound their horns before bends."},
-    {"q": "How long does the toy train take from Kurseong to Darjeeling?", "a": "About 2.5–3 hours, passing Tung, Sonada and Ghoom, the highest station on the line at 2,258 m. A shared jeep covers the same 32 km in about 1–1.5 hours for ₹100–150. The train is slower but gives the classic views of the line. Schedules and fares change, so check current status on IRCTC before you travel."},
-    {"q": "Do I need a guide for walks around Kurseong?", "a": "No, for the main walks. Eagle's Crag, Makaibari, Giddapahar, Dow Hill and Chimney all follow roads or clear paths. A local guide, about ₹800–1,200 for a half day, adds value for forest birding on Dow Hill or longer walks through the tea estates, where paths branch and are not signed. Start early and return before dark."}
+    {
+      "q": "What are the best walks in Kurseong?",
+      "a": "The best short walk is from the station up to Eagle's Crag, 15–20 minutes, for views to the plains. Longer walks go down the Pankhabari road to Makaibari tea estate in about 45 minutes, up to the Dow Hill schools in 1–1.5 hours, and on through the forest to Chimney in 3–3.5 hours. All follow roads or clear paths."
+    },
+    {
+      "q": "How do I walk from Kurseong to Dow Hill?",
+      "a": "Start in Kurseong bazaar and walk up past the post office along Dow Hill Road. It is about 3–5 km and 1–1.5 hours uphill, climbing roughly 400 m, on a road with light traffic. You reach Victoria Boys' School and Dow Hill School among tall conifers. Return the same way, take a taxi for about ₹400–600, or continue to Chimney."
+    },
+    {
+      "q": "Can I walk from Kurseong to Makaibari tea estate?",
+      "a": "Yes. Walk down the Pankhabari road from Kurseong bazaar, about 3–4 km and 45 minutes to an hour, through forest and then tea gardens to the estate villages and factory. The walk back up is steep, climbing about 300 m, so most people take a local jeep up for ₹20–40 a seat or a taxi for ₹300–500."
+    },
+    {
+      "q": "Where is Eagle's Crag in Kurseong?",
+      "a": "Eagle's Crag is a small hilltop viewpoint above Kurseong station, about 15–20 minutes' walk up the lanes from the bazaar. It has a viewing tower and looks down the Hill Cart Road towards the plains around Siliguri. Go at sunset or early morning for the best light. At night you can see the lights of the plains spread out below."
+    },
+    {
+      "q": "Does the toy train stop at Kurseong?",
+      "a": "Yes. Kurseong is a station on the Darjeeling Himalayan Railway between NJP and Darjeeling, and the track runs through the town's bazaar. Services on the lower section have often been suspended by landslides, and shorter runs to Darjeeling have sometimes operated instead. Book on IRCTC and check current status before you travel."
+    },
+    {
+      "q": "What is Agony Point on the toy train?",
+      "a": "Agony Point is one of the tightest loops on the Darjeeling Himalayan Railway, near Tindharia below Kurseong, where the track curves so sharply that the train almost meets itself. The line also uses zigzag reverses in this area to gain height. You can see parts of these loops from the Hill Cart Road when travelling by jeep between Siliguri and Kurseong."
+    },
+    {
+      "q": "Is it safe to walk along the toy train tracks?",
+      "a": "Walk beside the line, not on it. In Kurseong the track runs down the middle of the main road, shared with jeeps and pedestrians, and trains move slowly but cannot stop quickly. Outside town, the track runs along narrow ledges with steep drops. Use the Hill Cart Road or footpaths, and watch for trains, which sound their horns before bends."
+    },
+    {
+      "q": "How long does the toy train take from Kurseong to Darjeeling?",
+      "a": "About 2.5–3 hours, passing Tung, Sonada and Ghoom, the highest station on the line at 2,258 m. A shared jeep covers the same 32 km in about 1–1.5 hours for ₹100–150. The train is slower but gives the classic views of the line. Schedules and fares change, so check current status on IRCTC before you travel."
+    },
+    {
+      "q": "Do I need a guide for walks around Kurseong?",
+      "a": "No, for the main walks. Eagle's Crag, Makaibari, Giddapahar, Dow Hill and Chimney all follow roads or clear paths. A local guide, about ₹800–1,200 for a half day, adds value for forest birding on Dow Hill or longer walks through the tea estates, where paths branch and are not signed. Start early and return before dark."
+    }
   ]
 }
