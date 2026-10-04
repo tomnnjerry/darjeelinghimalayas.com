@@ -12,7 +12,7 @@
   <nav class="toc-side" aria-label="Contents"><b>Contents</b>{% for s in d.sections %}<a href="#{{ s.anchor }}">{{ s.heading }}</a>{% endfor %}</nav>
   <article class="prose">
     {% with img=d|first_img %}{% if img %}{% photo img alt=d.title sizes="(max-width: 860px) 100vw, 60vw" cls="photo--ridge" ratio="ratio-169" eager=True %}{% endif %}{% endwith %}
-    {% if d.takeaways %}<div class="takeaways" style="margin-top:24px"><b>Key points</b><ul>{% for t in d.takeaways %}<li>{{ t }}</li>{% endfor %}</ul></div>{% endif %}
+    {% if d.key_takeaways %}<div class="takeaways" style="margin-top:24px"><b>Key points</b><ul>{% for t in d.key_takeaways %}<li>{{ t }}</li>{% endfor %}</ul></div>{% endif %}
     {% for s in d.sections %}
       <h2 id="{{ s.anchor }}">{{ s.heading }}</h2>
       {% for x in s.paras %}<p>{{ x }}</p>{% endfor %}
