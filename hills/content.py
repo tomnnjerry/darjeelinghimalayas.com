@@ -68,6 +68,19 @@ KINDS = OrderedDict([
 _cache = {"stamp": None, "cat": None}
 
 
+def clean_author(a):
+    """Commons 'Artist' fields often carry a timestamp, a caption or a whole citation: keep just the name."""
+    a = re.sub(r"\s+", " ", a or "").strip()
+    a = re.sub(r"\s*\d{4}-\d{2}-\d{2}.*$", "", a)          # '... 2010-09-21 12:41:53 This is a cropped ...'
+    a = re.sub(r"\s*\((based on|after|from)\b.*$", "", a, flags=re.I)
+    m = re.match(r"(.{10,80}?\))\.\s", a)                   # 'Saleur, Louis (1861-1889). Photographe ...'
+    if m:
+        a = m.group(1)
+    if len(a) > 80:
+        a = a[:77].rsplit(" ", 1)[0].rstrip(",;:") + "…"
+    return a or "Unknown author"
+
+
 def _read(p):
     return json.loads(Path(p).read_text(encoding="utf-8"))
 
@@ -121,6 +134,9 @@ class Catalogue:
         self.themes = OrderedDict((t["slug"], t) for t in _read(root / "themes.json"))
         img_file = root / "images.json"
         self.images = _read(img_file) if img_file.exists() else {}
+        for recs in self.images.values():
+            for rec in recs:
+                rec["author"] = clean_author(rec.get("author"))
         self.regions = OrderedDict()
         self.places = OrderedDict()
         self.experiences = OrderedDict()

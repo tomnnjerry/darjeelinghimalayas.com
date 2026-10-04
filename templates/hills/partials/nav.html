@@ -13,7 +13,7 @@
             <li><a href="{% url 'fares' %}">{% icon "jeep" %}Shared jeep fare board</a></li>
             <li><a href="{% url 'routes' %}">{% icon "route" %}Routes and road times</a></li>
           </ul>
-          <a class="btn btn--foil btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="mega-hills-plan">Ask a local planner</a>
+          <a class="btn btn--sun btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="mega-hills-plan">Ask a local planner</a>
         </div>
         <div class="mlands">
           {% for r in nav_regions %}<div class="mcard" data-land="{{ r.slug }}">
@@ -79,7 +79,7 @@
         <div><p class="eyebrow">Read first</p><ul class="mlist"><li><a href="{% url 'journal' %}">{% icon "story" %}Stories from the hills</a></li><li><a href="{% url 'guides' %}">{% icon "book" %}Planning guides</a></li><li><a href="{% url 'glossary' %}">{% icon "chat" %}Hill words</a></li><li><a href="{% url 'faq' %}">{% icon "chat" %}Questions answered</a></li></ul></div>
         <div><p class="eyebrow">Money and roads</p><ul class="mlist"><li><a href="{% url 'fares' %}">{% icon "jeep" %}Jeep fare board</a></li><li><a href="{% url 'tool_budget' %}">{% icon "rupee" %}Budget builder</a></li><li><a href="{% url 'tool_permits' %}">{% icon "shield" %}Permits</a></li><li><a href="{% url 'routes' %}">{% icon "route" %}Routes</a></li></ul></div>
         <div><p class="eyebrow">Booking with us</p><ul class="mlist"><li><a href="{% url 'how_we_work' %}">{% icon "sparkle" %}How we work</a></li><li><a href="{% url 'policy' 'refund-and-cancellation' %}">{% icon "shield" %}Refunds</a></li><li><a href="{% url 'policy' 'payments' %}">{% icon "rupee" %}Payments</a></li><li><a href="{% url 'contact' %}">{% icon "chat" %}Contact</a></li></ul></div>
-        <div class="mpromise" data-land="darjeeling"><p class="mega__title">Every rupee, <span class="foil-text">on paper</span></p><p class="mega__lede">Tell us your dates and budget. We reply within one working day with a route and a line-by-line cost. No payment to start.</p><a class="btn btn--foil btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="mega-plan-plan">Get my honest quote</a></div>
+        <div class="mpromise" data-land="darjeeling"><p class="mega__title">Every rupee, <span class="foil-text">on paper</span></p><p class="mega__lede">Tell us your dates and budget. We reply within one working day with a route and a line-by-line cost. No payment to start.</p><a class="btn btn--sun btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="mega-plan-plan">Get my honest quote</a></div>
       </div>
     </div>
   </div>

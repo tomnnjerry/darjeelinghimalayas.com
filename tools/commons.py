@@ -8,10 +8,11 @@ import html
 import json
 import re
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 
-UA = "DarjeelingHimalayasBuild/1.0 (https://darjeelinghimalayas.com; content build script)"
+UA = "DarjeelingHimalayasBuild/1.0 (https://darjeelinghimalayas.com; hello@darjeelinghimalayas.com) python-urllib"
 WIKI_API = "https://en.wikipedia.org/w/api.php"
 COMMONS_API = "https://commons.wikimedia.org/w/api.php"
 OK_LICENSES = re.compile(r"^(cc0|public domain|pd|cc by(-sa)? ?[1-4]\.0|cc by(-sa)?$|cc by(-sa)? [1-4]\.0)", re.I)
@@ -19,14 +20,19 @@ SKIP_WORDS = re.compile(r"(map|locator|logo|flag|emblem|seal|diagram|chart|icon|
                         r"subah|BCE|\bc\. ?\d|institute|walden|massachusetts|political|with rivers|b1[5-8]ddb|\.png$)", re.I)
 
 
-def _get(api, params, tries=3):
+def _get(api, params, tries=8):
+    """GET with backoff. Wikimedia answers 429 with Retry-After when we go too fast: wait as told."""
     params = {**params, "format": "json", "formatversion": "2"}
     url = api + "?" + urllib.parse.urlencode(params)
     for attempt in range(tries):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": UA})
             with urllib.request.urlopen(req, timeout=30) as r:
+                time.sleep(0.6)  # stay polite between calls
                 return json.load(r)
+        except urllib.error.HTTPError as e:
+            wait = int(e.headers.get("Retry-After") or 0) if e.code == 429 else 0
+            time.sleep(max(wait, 1.5 * (attempt + 1)) + 1)
         except Exception:
             time.sleep(1.5 * (attempt + 1))
     return {}
@@ -53,7 +59,7 @@ def _record(page, width):
     if SKIP_WORDS.search(title):
         return None
     author = _strip(meta.get("Artist", {}).get("value", "")) or "Unknown author"
-    author = re.sub(r"\s+", " ", author)[:120]
+    author = re.sub(r"\s+", " ", author)[:200]  # trimmed to the name when the site loads (hills.content.clean_author)
     desc = _strip(meta.get("ImageDescription", {}).get("value", ""))
     desc = re.sub(r"\s+", " ", desc)[:220]
     return {

@@ -69,10 +69,10 @@ CONTENT_DIR = BASE_DIR / "content"
 SITE = {
     "name": "Darjeeling Himalayas",
     "url": "https://darjeelinghimalayas.com",
-    "email": os.environ.get("DH_EMAIL", "[YOUR EMAIL]"),
-    "phone": os.environ.get("DH_PHONE", "[YOUR PHONE]"),
-    "whatsapp": os.environ.get("DH_WHATSAPP", ""),  # digits with country code, e.g. 919800000000
-    "address": "[YOUR OFFICE ADDRESS]",
+    "email": os.environ.get("DH_EMAIL", "hello@darjeelinghimalayas.com"),
+    "phone": os.environ.get("DH_PHONE", "+91 99546 34102"),
+    "whatsapp": os.environ.get("DH_WHATSAPP", "919954634102"),  # digits with country code, e.g. 919800000000
+    "address": os.environ.get("DH_ADDRESS", ""),
     "byline": "Darjeeling Himalayas Hill Desk",
 }
 
