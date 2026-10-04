@@ -1,0 +1,67 @@
+{
+  "slug": "barsey-rhododendron-and-rinchenpong-4n",
+  "title": "Barsey rhododendrons and Rinchenpong",
+  "region": "west-sikkim",
+  "nights": 4,
+  "themes": ["treks", "wildlife-birds", "homestays", "photography"],
+  "tier": "Shoestring",
+  "travel_mode": "Mixed",
+  "stops": [{"place": "barsey", "nights": 2}, {"place": "rinchenpong", "nights": 2}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 11000,
+  "cost_split": [
+    {"item": "Shared jeeps and a shared taxi to Hilley", "inr": 3000},
+    {"item": "Homestay, trekkers' hut and Rinchenpong homestay, 4 nights with meals", "inr": 6000},
+    {"item": "Lunches, tea and snacks", "inr": 1200},
+    {"item": "Sanctuary fee, local guide share and monastery donations", "inr": 800}
+  ],
+  "best_months": [0, 1, 2, 2, 2, 0, 0, 0, 0, 1, 2, 1],
+  "pace": "Balanced",
+  "max_altitude_m": 3000,
+  "meta_description": "4 nights from ₹11,000: walk into Barsey Rhododendron Sanctuary from Hilley, sleep on the ridge, then rest at Rinchenpong among cardamom and oranges.",
+  "summary": "A gentle 4 km walk from Hilley into the Barsey Rhododendron Sanctuary, a night on the ridge at about 3,000 m, then two slow nights at Rinchenpong with its 1730 monastery and the Lepcha poison-lake story. About ₹11,000 per person by shared jeep and taxi.",
+  "intro": [
+    "Barsey is the easiest high forest walk in Sikkim. From the road head at Hilley, a broad trail climbs about 4 km through rhododendron, magnolia and oak to a clearing on the Singalila range, where the trekkers' hut stands at about 3,000 m. In April the trees around it flower red, pink and white, and on a clear morning Kanchenjunga fills the northern sky.",
+    "We pair it with Rinchenpong because the two sit on opposite sides of the same valleys and share the same jeep hub at Jorethang. After a cold night on the ridge, Rinchenpong's farms, oranges and quiet monastery feel warm. Nothing here is hurried; the longest walk is the one to Barsey."
+  ],
+  "highlights": [
+    "The 4 km forest walk from Hilley to the Barsey ridge",
+    "A night inside the sanctuary at Guras Kunj trekkers' hut",
+    "Rhododendrons in bloom from mid-March to early May",
+    "Rinchenpong Monastery and its rare Adi Buddha image",
+    "Farm walks among cardamom and orange trees at Rinchenpong"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Okhrey via Jorethang", "place": "barsey", "overnight": "Okhrey (near Hilley)", "drive": "≈ 130 km · 6–7 h by shared jeep and taxi", "text": "Take a morning shared jeep from Siliguri to Jorethang, then a jeep or shared taxi up through Sombaria towards Okhrey, the last large village below Hilley. Jeeps to Okhrey are infrequent, so if you arrive late in Jorethang, share a reserved taxi with other walkers. Okhrey sits at about 2,100 m among farms and has family homestays. Have dinner early and ask your hosts to arrange a vehicle to Hilley for the morning.", "meals": "Dinner", "spend": "₹300 jeep to Jorethang + ₹300–600 onward share + ₹150 lunch"},
+    {"day": 2, "title": "Hilley to Barsey on foot", "place": "barsey", "overnight": "Barsey (Guras Kunj)", "drive": "≈ 10 km · 40 min by local taxi to Hilley, then 4 km on foot", "text": "Drive up to Hilley at about 2,700 m, pay the sanctuary fee at the forest checkpost and start walking. The trail is wide and gently graded, roughly 1.5 to 2 hours through rhododendron and oak, with moss hanging from the branches. Go slowly and listen for laughingthrushes and minivets. Settle in at Guras Kunj, walk out along the ridge in the afternoon, and be back before the evening mist and cold arrive.", "meals": "Breakfast, lunch, dinner", "spend": "₹200–400 taxi share + sanctuary fee (check)"},
+    {"day": 3, "title": "Barsey dawn and down to Rinchenpong", "place": "rinchenpong", "overnight": "Rinchenpong", "drive": "≈ 50 km · 2.5–3 h by taxi and jeep after the walk", "text": "Wake before sunrise and walk to the open ridge for the first light on Kanchenjunga. After breakfast, walk back down to Hilley, about 1.5 hours. A pre-arranged taxi or a shared vehicle takes you down via Sombaria and across the hills to Rinchenpong, at about 1,700 m. Check in to a farm homestay, eat a late lunch and spend the evening watching the light change on the range from the village.", "meals": "Breakfast, dinner", "spend": "₹600–900 vehicle share + ₹150 lunch"},
+    {"day": 4, "title": "Rinchenpong Monastery and farm walks", "place": "rinchenpong", "overnight": "Rinchenpong", "drive": "", "text": "Walk up to Rinchenpong Monastery, built in 1730, which keeps a rare image of Adi Buddha, the primordial Buddha, shown in union with his consort. On the way, ask about the poison lake: local story says that during the British campaign of 1860–61, Lepcha fighters poisoned a pond so the soldiers who drank from it fell sick. Spend the afternoon on farm paths among large cardamom and orange trees, or walk down to neighbouring Kaluk.", "meals": "Breakfast, dinner", "spend": "₹100 donation + ₹150 lunch"},
+    {"day": 5, "title": "Rinchenpong to NJP", "place": "rinchenpong", "overnight": "", "drive": "≈ 125 km · 5–6 h by shared jeep via Jorethang", "text": "Catch an early shared jeep from Rinchenpong or Kaluk to Jorethang; your hosts can book the seat. Change at Jorethang for Siliguri and allow a buffer for traffic near Sevoke. If you have a late train, stop for lunch at Melli by the Teesta. Most jeeps out of Rinchenpong leave before 8 am, so do not plan a slow breakfast.", "meals": "Breakfast", "spend": "₹200 jeep to Jorethang + ₹300 to Siliguri"}
+  ],
+  "stays": ["barsey-guras-kunj-trekkers-hut", "rinchenpong-yangsum-heritage-farm"],
+  "includes": ["Shared jeep seats and taxi shares as listed", "Homestay in Okhrey with meals", "One night at Guras Kunj trekkers' hut with simple meals", "Two nights in a Rinchenpong homestay with dinner and breakfast"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Private vehicle for the whole trip", "Sanctuary camera fees", "Sleeping bag hire", "Tips"],
+  "save_money": [
+    "Go midweek in April, when Barsey's hut is less crowded and taxi drivers at Hilley are more willing to share.",
+    "Arrange the Hilley taxi through your Okhrey homestay rather than at Jorethang, where fares are quoted for the full distance.",
+    "Carry your own snacks and a refillable bottle; there is nothing to buy between Hilley and the hut."
+  ],
+  "good_to_know": [
+    "The rhododendron bloom moves with the weather; mid-March to early May is usual, with April the safest bet.",
+    "Nights at Barsey are near freezing in spring; bring a warm jacket, gloves and a cap.",
+    "Foreign nationals need a Sikkim Restricted Area Permit. Check current status before you travel.",
+    "From June to September the trail is wet and leech-prone and roads can be blocked by landslides."
+  ],
+  "faqs": [
+    {"q": "Is the Barsey walk difficult?", "a": "No. It is about 4 km on a broad, steadily rising trail from Hilley at about 2,700 m to Barsey at about 3,000 m, which most people walk in 1.5 to 2 hours. Children used to walking and fit older travellers manage it. The challenge is the cold and the altitude, not the path."},
+    {"q": "When do the rhododendrons bloom at Barsey?", "a": "Usually from mid-March to early May, with April the most reliable month. Different species flower at different heights, so the lower trail may bloom before the ridge. A cold or dry winter can shift the season by a couple of weeks. Ask locally before you travel."},
+    {"q": "Do I need a guide for Barsey?", "a": "The trail is clear and many walkers go without one. A local guide from Hilley or Okhrey is useful for birds, plants and the ridge paths beyond the hut, and costs little when shared. Check current status before you travel in case sanctuary rules change."},
+    {"q": "Can I see red pandas at Barsey?", "a": "Red pandas live in this part of the Singalila range, but sightings are rare and never guaranteed. You are far more likely to see birds such as laughingthrushes, minivets and sunbirds. Walk quietly in the early morning and treat any mammal sighting as a bonus."},
+    {"q": "How much does this trip cost?", "a": "About ₹11,000 per person, twin sharing, from NJP back to NJP, indicative for 2025–26. That includes jeep seats, taxi shares to Hilley and onward to Rinchenpong, four nights of homestay and hut stays with meals, food and fees. A private car for the whole trip would roughly double the cost."},
+    {"q": "Where do I sleep near Barsey?", "a": "Inside the sanctuary, Guras Kunj trekkers' hut at Barsey is the only option. Below it, Hilley and Okhrey have homestays and simple lodges. We suggest one night in Okhrey and one at Barsey so you see the ridge at both dusk and dawn."},
+    {"q": "Why combine Barsey with Rinchenpong?", "a": "Both are reached through Jorethang and Soreng district, so the jeep connections are short. Rinchenpong is lower and warmer, which is a relief after a night on the ridge, and adds a monastery, Lepcha history and Kanchenjunga views from a farm porch."},
+    {"q": "What should I pack for Barsey in April?", "a": "A warm jacket, fleece, woollen cap, gloves, a headtorch, sturdy shoes with grip, a rain jacket and a refillable bottle. Afternoons can turn misty and wet. Carry enough cash for the sanctuary fee, hut meals and taxis, as there are no ATMs on the ridge."},
+    {"q": "Can I do Barsey as a day trip?", "a": "Yes, from Hilley or Okhrey you can walk in and out in 3 to 4 hours plus time on the ridge. But you miss dawn, when Kanchenjunga is clearest and the forest is quietest. If you have the night, sleep at the hut."}
+  ]
+}

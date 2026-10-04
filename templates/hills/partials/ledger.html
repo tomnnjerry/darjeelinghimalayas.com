@@ -1,0 +1,7 @@
+{% load hills %}<div class="ledger" data-land="{{ j.region }}">
+  <div class="ledger__head"><b>{% icon "ticket" %} The honest fare</b><span class="small muted">{{ j.nights }} nights · per person</span></div>
+  <div class="ledger__bar" role="img" aria-label="How the price splits">{% for x in j.cost_split %}<span style="width:{{ x.pct }}%"></span>{% endfor %}</div>
+  {% for x in j.cost_split %}<div class="ledger__row"><span><i class="ledger__key"></i>{{ x.item }}</span><i></i><b>{{ x.inr|inr }}</b></div>{% endfor %}
+  <div class="ledger__total"><span class="h-s">From</span><b>{{ j.price_from_inr|inr }}</b></div>
+  <p class="ledger__note">Indicative, per person, twin sharing, from NJP or Bagdogra and back. About {{ j.per_day|inr }} a day. Your written quote lists the same lines for your dates.</p>
+</div>

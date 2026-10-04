@@ -1,0 +1,70 @@
+{
+  "slug": "yuksom-dzongri-trek-6n",
+  "title": "Dzongri trek from Yuksom",
+  "region": "west-sikkim",
+  "nights": 6,
+  "themes": ["treks", "kanchenjunga-views", "photography"],
+  "tier": "Value",
+  "travel_mode": "On foot",
+  "stops": [{"place": "yuksom", "nights": 6}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 20000,
+  "cost_split": [
+    {"item": "Shared jeeps NJP–Yuksom and back", "inr": 1500},
+    {"item": "Yuksom guesthouse, 2 nights", "inr": 1800},
+    {"item": "Trek services, 4 nights: guide, cook, porters, tents or huts and meals", "inr": 14000},
+    {"item": "Park entry, permits and camera fees", "inr": 1500},
+    {"item": "Food in Yuksom, snacks and gear rental", "inr": 1200}
+  ],
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 0, 2, 2, 1],
+  "pace": "Active",
+  "max_altitude_m": 4100,
+  "meta_description": "6 nights from ₹20,000: trek from Yuksom via Sachen and Tshoka to Dzongri at about 4,000 m for a dawn view of Kanchenjunga from Dzongri Top.",
+  "summary": "A shorter high trek from Yuksom into Khangchendzonga National Park, through rhododendron forest and the Tibetan settlement at Tshoka to the yak pastures of Dzongri. The reward is dawn on Dzongri Top with Kanchenjunga, Kabru and Pandim in front of you. From about ₹20,000 per person.",
+  "intro": [
+    "Not everyone has ten days for Goecha La. The Dzongri trek follows the same trail out of Yuksom for its first three days and turns round after the dawn climb to Dzongri Top, at a little over 4,000 m. From there the view takes in a wide arc of the Kanchenjunga range, with Kabru, Pandim and the peaks around them, and the prayer flags of the hilltop snapping in the wind.",
+    "We split the climb to Tshoka over two days, with a night at Sachen, which is easier on the legs and on acclimatisation than the usual one-day push. You still need a licensed guide, a park permit and some fitness, but the time spent above 3,500 m is short. Rules change: check current status before you travel."
+  ],
+  "highlights": [
+    "The forest trail and suspension bridges of the Prek Chu valley",
+    "Tshoka's small Tibetan settlement and monastery",
+    "Rhododendron forest between Tshoka and Phedang",
+    "Sunrise from Dzongri Top over the Kanchenjunga range",
+    "Starting and ending in Yuksom, Sikkim's first capital"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Yuksom", "place": "yuksom", "overnight": "Yuksom", "drive": "≈ 150 km · 7 h by shared jeep via Jorethang", "text": "Take an early shared jeep from Siliguri to Jorethang and change for Yuksom. Check in to a guesthouse at about 1,780 m and meet your guide to complete permits and police registration. Use the evening to walk to Norbugang, the coronation site of 1642, and Kathok Lake. Check your gear: warm layers, rain jacket, headtorch, water bottles and broken-in boots.", "meals": "Dinner", "spend": "₹600–700 jeep seats + ₹150 lunch"},
+    {"day": 2, "title": "Yuksom to Sachen", "place": "yuksom", "overnight": "Sachen", "drive": "", "text": "An easy first day of about 8 km and 4 to 5 hours, climbing gently from Yuksom along the Prek Chu valley to the forest camp at Sachen, about 2,200 m. The trail crosses streams and passes waterfalls in a thick broadleaf forest full of birds. Arriving early gives your body time to adjust and leaves the afternoon for rest.", "meals": "Breakfast, packed lunch, dinner", "spend": "Included in trek services"},
+    {"day": 3, "title": "Sachen to Tshoka", "place": "yuksom", "overnight": "Tshoka", "drive": "", "text": "Cross the high suspension bridge over the Prek Chu and climb steadily to Bakhim, then on to Tshoka at about 3,000 m, roughly 5 to 6 hours. Tshoka has a trekkers' hut, a few lodges, a small monastery and a pond that reflects Pandim on still mornings. Settled by Tibetans after 1959, it is the last village on the trail.", "meals": "Breakfast, lunch, dinner", "spend": "Included in trek services"},
+    {"day": 4, "title": "Tshoka to Dzongri", "place": "yuksom", "overnight": "Dzongri", "drive": "", "text": "Climb through rhododendron forest on wooden walkways to Phedang, then out onto open slopes to Dzongri at about 4,000 m. Allow 4 to 6 hours. This is where altitude is felt; walk slowly, drink water and tell your guide if your head aches. Dzongri is a wide yak pasture with a trekkers' hut. The night is cold, often below freezing in autumn.", "meals": "Breakfast, lunch, dinner", "spend": "Included in trek services"},
+    {"day": 5, "title": "Dzongri Top dawn, down to Tshoka", "place": "yuksom", "overnight": "Tshoka", "drive": "", "text": "Wake around 4 am and climb roughly 45 minutes to Dzongri Top, a little above 4,000 m, for sunrise on the Kanchenjunga range. Return for breakfast, pack up and descend the way you came to Tshoka, about 4 to 5 hours. The descent through rhododendron forest is easier on the lungs and harder on the knees: use trekking poles.", "meals": "Breakfast, lunch, dinner", "spend": "Included in trek services"},
+    {"day": 6, "title": "Tshoka to Yuksom", "place": "yuksom", "overnight": "Yuksom", "drive": "", "text": "Walk down about 16 km through Bakhim and Sachen to Yuksom, 6 to 7 hours. Check out at the park office and police checkpost with your guide and settle tips for the trek crew. Shower, eat a proper meal and, if your legs allow, walk up to Dubdi Monastery, built in 1701, for the evening light.", "meals": "Breakfast, packed lunch", "spend": "Tips (budget ₹1,500–2,000 per trekker) + ₹300 dinner"},
+    {"day": 7, "title": "Yuksom to NJP", "place": "yuksom", "overnight": "", "drive": "≈ 150 km · 7 h by shared jeep via Jorethang", "text": "Take the first jeep out of Yuksom and change at Jorethang for Siliguri. Plan for an evening or next-day departure from NJP or Bagdogra in case the road is slow. If you have an extra day, stop a night in Pelling on the way out for Pemayangtse and Rabdentse.", "meals": "Breakfast", "spend": "₹600–700 jeep seats + ₹150 lunch"}
+  ],
+  "stays": ["yuksom-goecha-la-trekkers-huts"],
+  "includes": ["Shared jeep seats NJP–Yuksom and back", "Two nights in a Yuksom guesthouse", "Licensed guide, cook, porters, tents or hut space and meals on the trail", "Park entry and permit fees (indicative)"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Personal porter for your own pack", "Tips", "Travel insurance", "Foreign nationals' permit costs"],
+  "save_money": [
+    "Trek in early October or late April, when agencies have fixed group departures and you share costs with others.",
+    "Hire gear in Yuksom; sleeping bags, jackets and poles are available for a modest daily fee.",
+    "Carry your own pack if you can; offloading it to a porter adds to the bill each day."
+  ],
+  "good_to_know": [
+    "A licensed guide, park permit and police registration are mandatory. Check current status before you travel.",
+    "Foreign nationals need a Restricted Area Permit and must trek through a registered agency. Check current status before you travel.",
+    "Nights at Dzongri fall well below freezing from October to April.",
+    "Carry all waste back down to Yuksom."
+  ],
+  "faqs": [
+    {"q": "How hard is the Dzongri trek?", "a": "Moderate. The walking days are 4 to 7 hours, and with the night at Sachen the climbs are steady rather than brutal. The challenge is altitude at Dzongri, about 4,000 m. A reasonably fit beginner who trains for a month and walks slowly can do it."},
+    {"q": "What is the difference between Dzongri and Goecha La?", "a": "Dzongri turns round after the dawn view from Dzongri Top, about 4 days on the trail. Goecha La continues to Thansing, Lamuney and View Point 1 at about 4,600 m, for a close view of Kanchenjunga's east face, adding 3 to 4 days and more time at high altitude."},
+    {"q": "How much does the Dzongri trek cost?", "a": "About ₹20,000 per person from NJP back to NJP, indicative for 2025–26, with a registered Yuksom agency in a small group. That covers jeeps, two nights in Yuksom, guide, cook, porters, food and permits. Smaller groups or private departures cost more."},
+    {"q": "When is the best time for Dzongri?", "a": "October and November for the clearest views, and April and May for rhododendrons along the forest trail. March and December are possible but cold, with snow likely at Dzongri. Avoid June to September, when rain, leeches and cloud make the trek miserable."},
+    {"q": "Can I trek to Dzongri without a guide?", "a": "No. A licensed guide is mandatory in Khangchendzonga National Park, and you must register at Yuksom before starting. Foreign nationals must also trek through a registered agency. Check current status before you travel, as rules have tightened in recent years."},
+    {"q": "Is Dzongri Top worth the early start?", "a": "Yes. The view of the Kanchenjunga range at sunrise is the reason to make the trek. The climb is only about 45 minutes from the Dzongri huts, though it is cold and dark. Wear every layer you have and take a flask of tea."},
+    {"q": "Where do we sleep on the Dzongri trek?", "a": "In Yuksom on the first and last nights, then at Sachen, Tshoka and Dzongri in tents or trekkers' huts. The government huts at Tshoka and Dzongri are basic shelters with bunks and no heating. Your agency arranges space and carries tents in case huts are full."},
+    {"q": "Can children do the Dzongri trek?", "a": "Older children who already trek, roughly 12 and up, often manage it with a slow pace and the Sachen night. Younger children are more at risk from cold and altitude. Discuss your plans with the agency and a doctor before booking."},
+    {"q": "What should I pack for Dzongri?", "a": "A down jacket, fleece, thermals, waterproof jacket, woollen cap, gloves, broken-in trekking boots, a headtorch, two water bottles, sunscreen, sunglasses, a basic first-aid kit and a sleeping bag rated to about minus 10 °C. Keep your day pack light."}
+  ]
+}

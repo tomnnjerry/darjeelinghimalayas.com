@@ -1,0 +1,43 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}{{ e.title }} · {{ p.name }} · Darjeeling Himalayas{% endblock %}
+{% block description %}{{ e.summary|truncatechars:156 }}{% endblock %}
+{% block og_image %}{% with img=e|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block body_attrs %} data-land="{{ r.slug }}"{% endblock %}
+{% block fab_land %}&land={{ r.slug }}{% endblock %}
+{% block content %}
+<section class="sec--tight">
+  <div class="wrap split" style="align-items:center">
+    <div>
+      <p class="eyebrow">{{ e.kind|kind_name }} · <a href="{{ p.url }}" style="color:inherit">{{ p.name }}</a></p>
+      <h1 class="h-1">{{ e.title }}</h1>
+      <p class="lede" style="margin-top:18px">{{ e.summary }}</p>
+      <div class="milestones" style="margin-top:22px">
+        <span class="milestone"><span class="milestone__cap">Time</span><span class="milestone__val" style="font-size:1.05rem">{{ e.duration }}</span></span>
+        {% if e.cost %}<span class="milestone"><span class="milestone__cap">Cost</span><span class="milestone__val" style="font-size:1.05rem">{{ e.cost|truncatechars:26 }}</span></span>{% endif %}
+        {% if p.altitude_m %}<span class="milestone"><span class="milestone__cap">Altitude</span><span class="milestone__val">{{ p.altitude_m|intcomma_plain }}<small>m</small></span></span>{% endif %}
+      </div>
+    </div>
+    <div>{% photo e|first_img alt=e.title sizes="(max-width: 900px) 100vw, 45vw" cls="photo--ridge" ratio="ratio-43" eager=True %}</div>
+  </div>
+</section>
+<section class="sec--tight">
+  <div class="wrap prail">
+    <div class="prose">
+      {% for x in e.body %}<p>{{ x }}</p>{% endfor %}
+      {% if e.cost %}<p><b>Cost:</b> {{ e.cost }}</p>{% endif %}
+    </div>
+    <aside class="prail__side">
+      <dl class="kv"><div><dt>Best time</dt><dd>{{ e.best_time }}</dd></div><div><dt>How long</dt><dd>{{ e.duration }}</dd></div>{% if e.cost %}<div><dt>Cost</dt><dd>{{ e.cost }}</dd></div>{% endif %}<div><dt>Good for</dt><dd>{{ e.good_for|join:", " }}</dd></div><div><dt>Where</dt><dd><a href="{{ p.url }}">{{ p.name }}</a>, {{ r.short }}</dd></div></dl>
+      {% include "hills/partials/quick_form.html" with qf_id="exp" qf_land=r.slug qf_title="Add this to a trip" qf_message="Interested in "|add:e.title %}
+    </aside>
+  </div>
+</section>
+<section class="sec"><div class="wrap wrap--narrow">{% include "hills/partials/faq.html" with faqs=e.faqs %}</div></section>
+<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">Also in {{ p.name }}</p><h2 class="h-2">More things to do</h2></div><a class="link-arrow" href="{{ p.url }}">{{ p.name }} guide {% icon "arrow" %}</a></div>
+    <div class="grid grid--3">{% for e in siblings %}{% include "hills/partials/card_exp.html" %}{% endfor %}</div>
+  </div>
+</section>
+{% endblock %}
+{% block cta %}{% include "hills/partials/cta.html" with cta_land=r.slug %}{% endblock %}

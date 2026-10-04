@@ -1,0 +1,72 @@
+{
+  "slug": "darjeeling-forest-villages-7n",
+  "title": "Chatakpur, Darjeeling and the Lepcha forest",
+  "region": "darjeeling",
+  "nights": 7,
+  "themes": ["homestays", "wildlife-birds", "kanchenjunga-views", "treks"],
+  "tier": "Value",
+  "travel_mode": "Reserved car",
+  "stops": [{"place": "chatakpur", "nights": 2}, {"place": "darjeeling", "nights": 2}, {"place": "lepchajagat", "nights": 2}, {"place": "jorepokhri", "nights": 1}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 26000,
+  "cost_split": [
+    {"item": "Reserved car shares and the Chatakpur 4x4 from Sonada", "inr": 8000},
+    {"item": "Chatakpur homestay, 2 nights with all meals", "inr": 4000},
+    {"item": "Darjeeling hotel, 2 nights with breakfast", "inr": 2800},
+    {"item": "Lepchajagat (2 nights) and Jorepokhri lodge (1 night)", "inr": 5700},
+    {"item": "Lunches, tea and dinners in town", "inr": 3200},
+    {"item": "Forest entry, diesel joyride, village guide and fees", "inr": 2300}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2400,
+  "meta_description": "7 nights from ₹26,000: Chatakpur's eco-village in Senchal sanctuary, Darjeeling's toy train, the Lepcha forest at Lepchajagat and the ponds of Jorepokhri.",
+  "summary": "A week in the forests around Darjeeling. Two nights in Chatakpur, a small eco-village at about 2,400 m inside Senchal Wildlife Sanctuary, two in Darjeeling for the town and the toy train, two in the Lepcha forest village of Lepchajagat and one by Jorepokhri's twin ponds. About ₹26,000 per person.",
+  "intro": [
+    "Senchal Wildlife Sanctuary, declared in 1915, is one of the oldest in India, and its lakes still supply much of Darjeeling's drinking water. Deep inside it, at about 2,400 m, about 19 households of roughly 90 people farm terraced organic fields at Chatakpur. Around 2012 the forest department and the villagers' forest committee made it an eco-village, and almost every family now runs a homestay. You reach it by a rough 7 km forest track from Sonada in a reserved 4x4, which is part of the charm.",
+    "From there we go to Darjeeling for its history and the toy train, then west along the Ghoom–Mirik road. Lepchajagat means the place, or world, of the Lepchas, the oldest people of these hills, and its pine, oak and rhododendron forest is good for birds. Jorepokhri, the twin ponds, was declared India's first salamander sanctuary in 1985; we tell you plainly that recent reporting says the newts no longer breed there. You leave by Sukhia Pokhari, Simana and Mirik."
+  ],
+  "highlights": [
+    "Two nights in Chatakpur's eco-village inside Senchal Wildlife Sanctuary",
+    "Kanchenjunga at dawn from Chatakpur and Lepchajagat",
+    "The toy train joyride round the Batasia Loop",
+    "Birding in Lepchajagat's pine and rhododendron forest",
+    "Simana viewpoint over Nepal's Ilam hills on the way down"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Sonada and up to Chatakpur", "place": "chatakpur", "overnight": "Chatakpur", "drive": "≈ 55 km · 2.5 h by reserved car, then ≈ 7 km · 1 h by 4x4", "text": "Drive up the Hill Cart Road through Kurseong to Sonada, where your homestay's 4x4 or a Bolero booked in advance waits. The forest track climbs about 7 km into Senchal Wildlife Sanctuary: rough, slow and lined with cryptomeria and oak. Chatakpur is a cluster of about 19 houses at around 2,400 m. Your homestay collects the forest department's entry fee. Come only with a confirmed booking, as rooms are few. Evening is woodsmoke, a hot meal and stars if the sky is clear.", "meals": "Dinner", "spend": "₹1,750 car share + ₹1,000–1,250 4x4 share + entry fee"},
+    {"day": 2, "title": "Chatakpur's fields and forest", "place": "chatakpur", "overnight": "Chatakpur", "drive": "", "text": "Step outside before sunrise: on a clear morning Kanchenjunga stands over the forest. After breakfast walk the terraced fields with your hosts, who grow vegetables organically and gather medicinal herbs, and ask how the village has changed since it became an eco-village around 2012. In the forest edge look for birds in the early hours. A known trail runs through the sanctuary towards Tiger Hill; walk part of it only with a village guide, as paths divide and mist comes in fast after midday.", "meals": "Breakfast, lunch, dinner", "spend": "₹500–1,000 village guide share"},
+    {"day": 3, "title": "Down to Darjeeling", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 7 km by 4x4 to Sonada, then ≈ 16 km · 45 min by car", "text": "Ride the 4x4 back down to Sonada after breakfast and continue to Darjeeling. Check in near Chowrasta and spend the afternoon on foot: the Mall, the Bhanubhakta statue, and the Mahakal shrine on Observatory Hill, where tradition places the Buddhist shrine of Dorje-ling, the place of the thunderbolt. Walk down to the lanes above Chowk Bazaar for momos at ₹80–150 a plate. It will feel loud after two nights in the forest; that passes.", "meals": "Breakfast", "spend": "₹1,000–1,250 4x4 share + ₹750 car share"},
+    {"day": 4, "title": "Toy train and the mountaineers", "place": "darjeeling", "overnight": "Darjeeling", "drive": "", "text": "Take a morning diesel joyride, roughly ₹1,000–1,300 on IRCTC, round the Batasia Loop to Ghoom and back. The railway reached Darjeeling in 1881 and became a UNESCO World Heritage Site in 1999. In the afternoon visit the Himalayan Mountaineering Institute, founded in 1954, where Tenzing Norgay's memorial stands, and the zoo next door, opened in 1958 and known for breeding red pandas and snow leopards. If you have time, walk down to Happy Valley Tea Estate before dark.", "meals": "Breakfast", "spend": "₹1,000–1,300 joyride + ₹100–150 HMI and zoo"},
+    {"day": 5, "title": "Ghoom and on to Lepchajagat", "place": "lepchajagat", "overnight": "Lepchajagat", "drive": "≈ 19 km · 1 h by reserved car", "text": "Stop at Ghoom on the way out for Yiga Choeling, founded in 1850 by Lama Sherab Gyatso, and its Maitreya statue about 4.6 m tall. Then take the Mirik road west to Lepchajagat, at about 2,120 m in pine, oak and rhododendron forest. Stay at the WBFDC Nature and Wilderness Resort, six rooms booked on the WBFDC portal up to 90 days ahead, or in a village homestay. Walk the forest edge in the afternoon before the mist comes up.", "meals": "Dinner", "spend": "₹750 car share + monastery donation"},
+    {"day": 6, "title": "Dawn, birds and a slow day", "place": "lepchajagat", "overnight": "Lepchajagat", "drive": "", "text": "Walk to the village viewpoint for Kanchenjunga at dawn, then spend the early morning birding along the forest paths, when the woods are loud and the mist has not yet risen. Ask your hosts about the Lepchas, whose name the village carries and who lived in these hills before anyone else. Afternoons here are for reading and tea: mist usually closes in after lunch. If you want more walking, a forest path leads towards Sukhia Pokhari; ask locally before setting out.", "meals": "Breakfast, dinner", "spend": "₹150 lunch + tea"},
+    {"day": 7, "title": "Sukhia Pokhari and Jorepokhri", "place": "jorepokhri", "overnight": "Jorepokhri", "drive": "≈ 10 km · 30 min by reserved car", "text": "Drive to Sukhia Pokhari, the market town and junction for Mirik, Maneybhanjan and Jorepokhri; its name is usually read as dry pond. Walk the market, then go on about 4 km to Jorepokhri and check in to the GTA tourist lodge by the twin ponds. In 1985 this became India's first salamander sanctuary, but recent reporting says paving and tourist works have altered the ponds so much that the newts no longer breed here. Walk the lakeside and the Mim tea estate nearby.", "meals": "Dinner", "spend": "₹500 car share + ₹1,500 lodge share"},
+    {"day": 8, "title": "Simana and down through Mirik", "place": "jorepokhri", "overnight": "", "drive": "≈ 70 km · 3.5 h by reserved car via Sukhia Pokhari and Mirik", "text": "Leave after breakfast on the Mirik road. Stop at Simana viewpoint, where the land falls away west into the Ilam hills of Nepal; Pashupati market lies across the border at Pashupatinagar if you want a detour, and Indian visitors have generally crossed without a passport: check current status before you travel. Drive on through tea gardens to Mirik and down to Siliguri. Allow the whole morning and a margin for traffic near Siliguri before an evening train or flight.", "meals": "Breakfast", "spend": "₹1,750–2,000 car share + ₹200 lunch"}
+  ],
+  "stays": ["darjeeling-meghbalika-tourist-lodge", "lepchajagat-wbfdc-nature-resort", "jorepokhri-tourist-lodge"],
+  "includes": ["Reserved car shares on all road legs", "4x4 between Sonada and Chatakpur both ways", "Chatakpur homestay with all meals, 2 nights", "Darjeeling hotel or GTA lodge with breakfast, 2 nights", "Lepchajagat stay, 2 nights, and Jorepokhri Tourist Lodge, 1 night", "Forest entry, diesel joyride and a village guide share"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Tiger Hill trip", "Steam joyride upgrade", "Pashupati market detour", "Tips"],
+  "save_money": [
+    "Book the Chatakpur 4x4 through your homestay; hosts know the drivers and the fixed rate, and you avoid paying for a car that waits at Sonada.",
+    "If the WBFDC rooms at Lepchajagat are full or above budget, a village homestay with meals often costs less and feeds you better.",
+    "Skip Tiger Hill on this trip: Chatakpur and Lepchajagat both give Kanchenjunga at dawn without a 4 am jeep fare."
+  ],
+  "good_to_know": [
+    "Chatakpur needs a confirmed homestay booking before you arrive, and the forest track is rough; a 4x4 or Bolero is essential.",
+    "The forest trail from Chatakpur towards Tiger Hill should be walked only with a local guide.",
+    "WBFDC bookings for Lepchajagat open about 90 days ahead on the WBFDC portal; rooms are few.",
+    "Do not expect salamanders at Jorepokhri; the breeding ponds that survive are elsewhere."
+  ],
+  "faqs": [
+    {"q": "How do I get to Chatakpur?", "a": "Drive or take a shared jeep up the Hill Cart Road to Sonada, between Kurseong and Ghoom, then ride a reserved 4x4 or Bolero about 7 km up a rough forest track into Senchal Wildlife Sanctuary. Your homestay can arrange the vehicle. Ordinary cars cannot manage the track. Chatakpur is roughly 25–30 km from Darjeeling."},
+    {"q": "Do I need to book Chatakpur in advance?", "a": "Yes. Chatakpur has only about 19 households, most running small homestays, and visitors need a confirmed booking before they come. The homestay also collects the forest department's entry fee for Senchal Wildlife Sanctuary. Book well ahead for October, November and the April–May holidays, and confirm the 4x4 pickup time at Sonada."},
+    {"q": "Can I walk from Chatakpur to Tiger Hill?", "a": "A known forest trail runs through Senchal Wildlife Sanctuary from Chatakpur towards Tiger Hill. Walk it only with a village guide, as paths divide, mist comes in quickly and you are inside a sanctuary. Ask your hosts about the current route, the time it takes and the guide fee, and arrange a car to meet you at the far end."},
+    {"q": "How much does this 7-night trip cost?", "a": "About ₹26,000 per person, twin sharing, from NJP back to NJP, indicative for 2025–26. That covers reserved car shares, the Chatakpur 4x4, all stays with the meals listed, a diesel joyride, forest entry, a village guide share and food. The WBFDC resort at Lepchajagat costs more than a homestay; choose accordingly."},
+    {"q": "Is Chatakpur good for birding?", "a": "Yes. The forests of Senchal Wildlife Sanctuary hold a long bird list, and early mornings around the village and the forest edge are the best time. The sanctuary also shelters barking deer and, rarely, Himalayan black bear. Bring binoculars, walk quietly and go out between dawn and about 9 am, before the mist rises."},
+    {"q": "Will I see salamanders at Jorepokhri?", "a": "We do not promise it. Jorepokhri was declared India's first salamander sanctuary in 1985, but 2026 reporting says concrete paving and tourist works have changed the ponds so much that the Himalayan newt is no longer found breeding there. Surviving breeding ponds are elsewhere, such as Namthing Pokhri near Sittong."},
+    {"q": "How cold is it at Chatakpur and Lepchajagat?", "a": "Both are above 2,100 m, so they are colder than Darjeeling. From December to February nights fall to around freezing and days stay cool; homestays rarely have heating beyond a bukhari or a hot-water bottle. Bring a down jacket, a woollen cap and thermal layers. Spring and autumn nights are cold but comfortable."},
+    {"q": "Is this trip suitable for families?", "a": "Yes for children who like the outdoors and can handle a bumpy 4x4 ride. Chatakpur and Lepchajagat are quiet, safe and full of things to watch, but there are no shops or play areas. Pack warm clothes, snacks and something to do on misty afternoons. Very young children may find the cold nights hard."},
+    {"q": "When is the best time for the forest villages?", "a": "October to early December brings clear dawns and dry tracks. March to May brings rhododendron flowers and active birds. January and February are cold but often clear. Avoid June to September: the Chatakpur track turns muddy, landslides are common and the forest is in cloud. Check current status before you travel."}
+  ]
+}

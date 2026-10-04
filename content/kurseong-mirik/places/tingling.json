@@ -1,0 +1,122 @@
+{
+  "slug": "tingling", "name": "Tingling", "name_local": "", "region": "kurseong-mirik",
+  "kind": "viewpoint",
+  "wiki": "", "image_query": "Tingling view point Mirik tea garden",
+  "lat": 26.85, "lng": 88.215, "altitude_m": 1250,
+  "tagline": "The bowl of tea gardens on the climb from Dudhia to Mirik",
+  "meta_description": "Tingling viewpoint on the Siliguri–Mirik road: 360-degree tea-garden views over the Balason and Mechi valleys, the Dudhia hike, timings and costs.",
+  "summary": "Tingling is a viewpoint and tea estate on the Siliguri–Mirik road, just below Sourenee and about 8–10 km before Mirik. From the roadside it looks over a wide bowl of tea gardens, with the Balason valley to the east and the Mechi valley in Nepal to the west. Entry is free; every Mirik jeep passes it.",
+  "local_story": {"title": "Two rivers and a sea of tea", "paras": [
+    "Tingling sits on the ridge between two rivers that shape the western Darjeeling hills. To the east, the Balason flows down from below Darjeeling past Dudhia, where the Mirik road crosses it on a bridge at the bottom of the climb, and on to join the Mahananda near Siliguri. To the west, the Mechi forms part of the border with Nepal. Between them the hills are covered almost entirely with tea, and from Tingling you can see how completely the gardens took over these slopes after the 1850s.",
+    "The viewpoint itself is simply a wide bend of the road where the land drops away on both sides. Tingling Tea Estate and its neighbours, Sourenee among them, run the rows in long curves along the contours, so that from above the hillsides look combed. Drivers on the Mirik road have stopped here for as long as the road has existed, and tea stalls sell cups to passengers stretching their legs. It is the most photographed bend between Siliguri and Mirik, and with reason."
+  ]},
+  "did_you_know": [
+    "The Balason river below Tingling flows past Dudhia, where the Mirik road crosses it, and joins the Mahananda near Siliguri.",
+    "From Tingling you look west across the Mechi valley; the Mechi river forms part of the border between India and Nepal.",
+    "Tingling is one of several tea estates in the Mirik valley, alongside Sourenee, Phuguri, Singbulli and Thurbo."
+  ],
+  "intro": [
+    "Tingling is a roadside stop, but a good one. Coming up from Dudhia, the road climbs through forest and gardens, then reaches a bend where the hills open out on both sides in waves of tea. On clear days you see the Balason valley to the east and the hills of Nepal to the west, with the gardens of Tingling and Sourenee filling the slopes between.",
+    "Stop for half an hour on the way to Mirik, have a cup of tea at a stall and take photographs. If you have more time, walk a section of estate road, or do the hike up from Dudhia on the Balason. Morning is best for light and clear views; in the afternoon, mist often comes up the valleys and the bowl fills with cloud, which has its own beauty."
+  ],
+  "facts": [["Best months", "Oct – Dec · Mar – May"], ["Nights we suggest", "Stop on the way to Mirik"], ["From Siliguri", "≈ 40 km · 1.5 h"], ["Altitude", "≈ 1,250 m"], ["Known for", "360-degree tea-garden views"], ["Network", "Jio and Airtel fair"]],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "nights": "Stopover",
+  "costs": [["Shared jeep from Siliguri, to Mirik", "₹150–200 a seat"], ["Car stop on a Siliguri–Mirik transfer", "Usually free on the way"], ["Car from Mirik, return with waiting", "₹700–1,000"], ["Tea at a stall", "₹20–40"], ["Momos or noodles at a stall", "₹60–120"]],
+  "highlights": [
+    {"title": "The viewpoint bend", "text": "A wide bend on the Mirik road where the land drops on both sides into combed slopes of tea. Pull fully off the road, walk to the edge and look east to the Balason and west towards Nepal."},
+    {"title": "Morning light on the rows", "text": "Low morning sun throws shadows along the curved rows of bushes and shows the shape of the hills. Come before 10 am for the clearest view."},
+    {"title": "Hike up from Dudhia", "text": "Walk up from Dudhia on the Balason through forest and gardens to Tingling, an uphill hike of a few hours. Take a jeep on to Mirik afterwards."},
+    {"title": "Pluckers at work", "text": "From March to November you will often see pluckers in the sections below the road. Watch from the road and ask before photographing anyone."},
+    {"title": "Mist in the bowl", "text": "On many afternoons, especially in spring and the monsoon edges, mist rises from the valleys and fills the bowl of tea below the viewpoint. Wait a few minutes; it shifts and opens."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Siliguri–Mirik jeeps pass Tingling; ask the driver to stop. You may pay the full fare to Mirik (₹150–200). Flag down a later jeep to continue; they come every 30–60 minutes in the day."},
+    {"mode": "Reserved car", "text": "On a Siliguri–Mirik transfer, ask the driver to stop at Tingling and Sourenee; most will without extra charge for a short stop. From Mirik, a return car costs about ₹700–1,000."},
+    {"mode": "On foot", "text": "Hike up from Dudhia on the Balason river through forest and tea in about 2.5–3.5 hours, with a steady climb. Go with a local or check the route carefully; paths branch through the estates."}
+  ],
+  "where_to_stay": "There are no hotels at the viewpoint. Stay in Mirik, 8–10 km up the road, where Krishnanagar has budget hotels from about ₹1,200 a double and the GTA's Swiss Cottages sit above the lake. A few homestays in the villages of the Tingling and Sourenee estates take guests at about ₹1,200–1,800 per person with meals; ask in Mirik for current names.",
+  "stays": [],
+  "tips": [
+    "Stop in the morning; afternoon mist often hides the far views.",
+    "Pull fully off the road on the wide bend; jeeps take it fast.",
+    "Do not walk between the tea bushes or pick leaves.",
+    "Ask before photographing pluckers.",
+    "Combine with Sourenee, a short way up the road, in one stop."
+  ],
+  "themes": ["tea-country", "photography", "long-weekends", "family-trips"],
+  "nearby": ["sourenee", "mirik", "gopaldhara"],
+  "experiences": [
+    {"slug": "tingling-viewpoint-morning", "title": "Morning at Tingling viewpoint",
+     "kind": "viewpoint", "duration": "30–45 minutes", "best_time": "8–10 am, Oct–May", "cost": "Free",
+     "image_query": "Tingling viewpoint tea estate Mirik", "wiki": "",
+     "summary": "Stop at the wide bend on the Mirik road and look out over a bowl of tea gardens, east to the Balason valley and west to Nepal. A quick, free stop that most travellers rate among the best views of the trip.",
+     "body": [
+       "The Tingling viewpoint is not a built structure; it is a wide bend in the road with open views on both sides. Walk to the edge and look down: the rows of tea follow the contours of the hills so neatly that whole slopes look combed.",
+       "To the east the Balason valley runs down towards the plains; to the west, beyond the Mechi river, are the hills of Nepal. On the clearest days in winter, snow peaks show to the north.",
+       "Stalls sell tea and snacks. Keep to the road edge, watch for traffic on the bend, and do not climb down into the gardens."
+     ],
+     "good_for": ["families", "photographers", "first-timers", "couples"],
+     "faqs": [
+       {"q": "Where exactly is Tingling viewpoint?", "a": "On the Siliguri–Mirik road via Dudhia, just below Sourenee and about 8–10 km before Mirik. It is a wide bend where the tea gardens open out on both sides. Jeep and car drivers all know it; ask them to stop."},
+       {"q": "Is there an entry fee at Tingling viewpoint?", "a": "No. It is a roadside viewpoint with no fee. You pay only for tea or snacks at the stalls. If you are in a shared jeep, you may need to wait for another one to continue, as drivers do not usually wait long."},
+       {"q": "When is the best time to visit Tingling?", "a": "Morning, between about 8 and 10 am, from October to May. Clear winter days give the longest views. Afternoons often bring mist into the valleys, and the monsoon months bring cloud and rain."}
+     ]},
+    {"slug": "tingling-dudhia-hike", "title": "Hike up from Dudhia to Tingling",
+     "kind": "trek", "duration": "3–4 hours", "best_time": "7 am start, Oct–Apr", "cost": "Free · guide ₹600–1,000",
+     "image_query": "Dudhia Balason river bridge Mirik road", "wiki": "Balason River",
+     "summary": "Start by the Balason at Dudhia and climb through forest, villages and tea to Tingling, gaining roughly 900 m. A real uphill walk that turns a road trip into a hike, with a jeep on to Mirik at the end.",
+     "body": [
+       "Dudhia, where the Mirik road crosses the Balason river at about 300 m, is a riverside stop with a bridge and a stony bed where Siliguri families come for picnics. From here the road climbs hard towards Mirik, and older paths cut the bends through forest, villages and tea estates.",
+       "Climbing on foot, you feel the change in height: warm, humid air at the river, then cooler air and tea above. It is a steady uphill of roughly 900 m to Tingling, which takes most fit walkers 2.5–3.5 hours.",
+       "Paths branch through the estates, so go with a local guide or ask often. Start early, carry plenty of water, and flag down a Mirik jeep at the top."
+     ],
+     "good_for": ["solo", "students", "couples"],
+     "faqs": [
+       {"q": "How hard is the hike from Dudhia to Tingling?", "a": "It is a sustained uphill walk of roughly 900 m of height gain, taking 2.5–3.5 hours for fit walkers. Paths are steep in places and branch through tea estates. It is not technical, but it is tiring; carry water and start early."},
+       {"q": "How do I get to Dudhia?", "a": "Dudhia is on the Siliguri–Mirik road where it crosses the Balason, about an hour from Siliguri. Any Mirik shared jeep will drop you there. A car from Siliguri costs about ₹1,200–1,800 one way."},
+       {"q": "Is it safe to swim at Dudhia?", "a": "The Balason at Dudhia can look calm but rises fast after rain, and people have drowned in hill rivers across the region. Paddle only in shallow water in the dry season, never swim in the monsoon, and follow any local warnings."}
+     ]},
+    {"slug": "tingling-tea-bowl-photography", "title": "Photograph the Tingling tea bowl",
+     "kind": "tea", "duration": "1.5 hours", "best_time": "7.30–9.30 am or 3–4.30 pm, Oct–Apr", "cost": "Free",
+     "image_query": "tea garden rows hills Darjeeling aerial", "wiki": "",
+     "summary": "Spend longer than the usual quick stop and photograph the curved rows of the Tingling and Sourenee gardens in low light, with pluckers, shade trees and mist as your subjects.",
+     "body": [
+       "The best Tingling photographs come in low light, when the curved rows of tea throw shadows and the shape of the hills shows. Early morning and late afternoon in the dry season are ideal.",
+       "Walk a little way along the road in both directions to find different angles, always keeping off the road itself. A longer lens picks out pluckers and shade trees on the far slopes; a wide lens shows the whole bowl.",
+       "Ask before photographing people, and never fly a drone without permission. Mist, when it comes, often gives the best frames of the day."
+     ],
+     "good_for": ["photographers", "couples", "solo"],
+     "faqs": [
+       {"q": "What is the best light for photographing Tingling?", "a": "Early morning, about 7.30–9.30 am, and late afternoon, about 3–4.30 pm, in the dry months from October to April. Low sun shows the curves of the tea rows. Midday light is flat, and the monsoon brings heavy cloud."},
+       {"q": "Can I fly a drone at Tingling?", "a": "Drone rules in India require registration and permission, and the area is close to the international border with Nepal. Do not fly without the required permissions, and respect people's privacy in the gardens. Check current rules before you travel."},
+       {"q": "Can I photograph tea pluckers?", "a": "Ask first, every time. Many pluckers do not mind, but they are at work and paid by the leaf they pick. Do not stop their work for a photo, and consider sharing pictures with them if they ask."}
+     ]},
+    {"slug": "tingling-roadside-tea-stall", "title": "A cup at the Tingling tea stalls",
+     "kind": "food", "duration": "30 minutes", "best_time": "Any time, any dry month", "cost": "₹50–150",
+     "image_query": "roadside tea stall Darjeeling hills", "wiki": "",
+     "summary": "Sit at one of the roadside stalls at the Tingling bend with a glass of milk tea and a plate of momos or noodles, watching the jeeps go by and the light move across the tea.",
+     "body": [
+       "Every good viewpoint in the hills has its tea stalls, and Tingling is no exception. Small stalls on the bend serve milk tea, black tea, instant noodles, momos on some days, biscuits and packets of local tea.",
+       "Ask for black tea if you want to taste something closer to what the gardens around you produce; most milk tea at stalls is made with cheaper CTC tea from the plains.",
+       "Prices are modest. Take your cups and wrappers to the bins or carry them away; litter on the slopes is a real problem at popular stops."
+     ],
+     "good_for": ["families", "first-timers", "students"],
+     "faqs": [
+       {"q": "Is the tea at Tingling stalls Darjeeling tea?", "a": "Not always. Most roadside milk tea is made with strong CTC tea, often from the plains, because it stands up to milk and sugar. Ask for black tea or 'Darjeeling' for something closer to the local gardens, and buy packets from estate shops rather than stalls."},
+       {"q": "Can I buy food at Tingling?", "a": "Yes, simple snacks: tea, biscuits, instant noodles and, at some stalls, momos. For a proper meal, wait for Mirik, 8–10 km on, where there are many restaurants around the lake."},
+       {"q": "Are there toilets at Tingling viewpoint?", "a": "Facilities are very limited. Some stalls may let customers use a basic toilet; otherwise, plan to use facilities in Mirik or at Dudhia. Carry tissues and hand sanitiser."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "Where is Tingling?", "a": "Tingling is a tea estate and viewpoint on the Siliguri–Mirik road via Dudhia, in Darjeeling district, just below Sourenee and about 8–10 km before Mirik. It sits at roughly 1,250 m on the ridge between the Balason and Mechi valleys."},
+    {"q": "Why is Tingling viewpoint famous?", "a": "For its wide, open views over a bowl of tea gardens whose rows curve neatly along the hills, with the Balason valley to the east and Nepal to the west. It is one of the most photographed roadside stops in the Darjeeling hills."},
+    {"q": "How long should I spend at Tingling?", "a": "Thirty to forty-five minutes is enough for most people. Photographers may want an hour or more in good light. If you walk up from Dudhia, plan a half day including the hike."},
+    {"q": "Can I stop at Tingling in a shared jeep?", "a": "Yes, ask the driver, but he will not wait. You will usually pay the full fare to Mirik and need to flag down another jeep to continue. Jeeps pass every 30–60 minutes in daytime."},
+    {"q": "Is Tingling worth visiting in the monsoon?", "a": "The gardens are at their greenest, but cloud and rain often hide the view, and the road can be slippery. Late September and October, as the rain clears, are a better compromise."},
+    {"q": "What is the difference between Tingling and Sourenee?", "a": "They are neighbours on the same road. Tingling is the famous viewpoint and estate below; Sourenee is the estate and village just above, with views west to Nepal. Most travellers stop at both in one go."},
+    {"q": "Is Tingling suitable for older travellers?", "a": "Yes. The view is from the roadside, so there is no walking beyond a few metres. Take care getting out of vehicles on the bend, as traffic moves fast. Choose a weekday morning for a quieter stop."},
+    {"q": "How far is Tingling from Mirik?", "a": "About 8–10 km by road, roughly 20–30 minutes. A car from Mirik to Tingling and Sourenee and back costs about ₹700–1,000 with waiting time."},
+    {"q": "Can I hike to Tingling?", "a": "Yes. A popular hike climbs from Dudhia on the Balason river through forest and tea to Tingling, gaining roughly 900 m in 2.5–3.5 hours. Go with a local guide, as paths branch through the estates."}
+  ]
+}

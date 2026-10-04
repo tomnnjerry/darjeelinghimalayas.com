@@ -1,0 +1,69 @@
+{
+  "slug": "kalimpong-lava-rishyap-shared-jeeps-4n",
+  "title": "Lava and Rishyap by shared jeep",
+  "region": "kalimpong",
+  "nights": 4,
+  "themes": ["homestays", "wildlife-birds", "kanchenjunga-views", "solo-backpacking"],
+  "tier": "Shoestring",
+  "travel_mode": "Shared jeeps",
+  "stops": [{"place": "kalimpong", "nights": 1}, {"place": "lava", "nights": 2}, {"place": "rishyap", "nights": 1}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 10000,
+  "cost_split": [
+    {"item": "Shared jeeps Siliguri–Kalimpong–Lava and back, plus a car share from Rishyap", "inr": 1500},
+    {"item": "Budget room in Kalimpong, 1 night, half a double", "inr": 900},
+    {"item": "Forest lodge or homestay in Lava and a Rishyap homestay, 3 nights with dinner and breakfast", "inr": 5100},
+    {"item": "Lunches, tea and snacks", "inr": 1300},
+    {"item": "Neora Valley entry, share of guide and vehicle fee, donations", "inr": 1200}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Active",
+  "max_altitude_m": 2591,
+  "meta_description": "4 nights by shared jeep from ₹10,000: Kalimpong, Lava's monastery, Neora Valley forest, then the 4 km path up to Rishyap at 2,591 m for a Kanchenjunga dawn.",
+  "summary": "Four nights on shared jeeps for about ₹10,000 per person. One night in Kalimpong, two in Lava at about 2,195 m on the edge of Neora Valley National Park, and one in Rishyap at 2,591 m, reached by a 4 km forest path, with Kanchenjunga at dawn from Tiffin Dara before the jeeps home.",
+  "intro": [
+    "East of Kalimpong the road climbs through Algarah to Lava, 30–34 km away, where the forest of Neora Valley begins. The park was set up in 1986 and runs from 183 m to about 3,200 m, with red panda, clouded leopard, Himalayan black bear and satyr tragopan in its upper reaches. The Neora river that drains it is Kalimpong town's main source of water. Above Lava sits Rishyap, at 2,591 m; the local explanation of the name is ri, a peak, and shyap, old trees. Homestays there date from 1998, and Sherpa and Lepcha families run most of them.",
+    "We built this for backpackers and students who are happy to wait for a jeep. Shared seats run Siliguri to Kalimpong all day, but the Kalimpong to Lava jeeps are few and mostly leave in the morning, so we spend the first night in Kalimpong. The walk to Rishyap is about 4 km uphill through forest; the road is about 10 km. The drive up from Siliguri uses NH10, which has had repeated closures since October 2023, with diversions via Gajoldoba, the Gorubathan–Lava road or Darjeeling and Peshok: check current status before you travel."
+  ],
+  "highlights": [
+    "Kagyu Thekchen Ling Monastery at Lava, opened on 6 June 1990",
+    "A guided morning in Neora Valley National Park, set up in 1986",
+    "The 4 km forest path from Lava up to Rishyap at 2,591 m",
+    "Kanchenjunga at sunrise from Tiffin Dara, about 1 km from Rishyap",
+    "Changey Falls near Kolakham, about 900 m from the roadhead"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Kalimpong by shared jeep", "place": "kalimpong", "overnight": "Kalimpong", "drive": "≈ 3–3.5 h by shared jeep from Siliguri", "text": "Take an auto from NJP or Bagdogra to the SNT or Panitanki jeep stands in Siliguri and buy a seat to Kalimpong for ₹200–300. The usual road follows NH10 up the Teesta to Teesta Bazar and climbs 16 km to town. NH10 has had repeated landslide and flood closures since October 2023; when it shuts, jeeps divert via Gajoldoba and Odlabari, the Gorubathan–Lava road or round by Darjeeling and Peshok, so check current status before you travel. In Kalimpong, find the motor stand and ask about the next morning's Lava jeep, then book your seat. Eat early: tomorrow starts at the stand.", "meals": "On your own", "spend": "₹200–300 jeep seat + ₹250 dinner"},
+    {"day": 2, "title": "Morning jeep to Lava and the monastery", "place": "lava", "overnight": "Lava", "drive": "≈ 32 km · 1.5–2 h by shared jeep via Algarah", "text": "Be at the Kalimpong motor stand early: Lava jeeps are few, cost ₹120–180 a seat and mostly leave in the morning. The road climbs through Algarah to Lava, about 2,195 m, a ridge village that sometimes sees snow in winter. Check in at the WBFDC Lava Eco Tourism Centre, where meals come from the canteen if you order ahead, or at a village homestay. In the afternoon walk to Kagyu Thekchen Ling Monastery beside the Neora reservoir. It was founded by the 3rd Jamgon Kongtrul Rinpoche and opened on 6 June 1990. If it is a Tuesday, look in on the weekly haat.", "meals": "Dinner", "spend": "₹120–180 jeep seat + ₹200 lunch"},
+    {"day": 3, "title": "Neora Valley with a forest guide", "place": "lava", "overnight": "Lava", "drive": "Forest vehicle share, set by the range office", "text": "Neora Valley National Park begins at Lava. Entry needs a forest permit and a local guide from the Lava range office, plus a vehicle fee; expect about ₹150–300 entry per person and ₹600–1,000 a day for the guide, so team up with other travellers. The park was set up in 1986 and is home to red panda, clouded leopard, Himalayan black bear and satyr tragopan; you are far likelier to see birds than any of them. It closes in the monsoon, roughly mid-June to mid-September. If it is shut, go 8 km to Kolakham and about 4 km on to the roadhead for Changey Falls, then walk 900 m. Check current status before you travel.", "meals": "Breakfast, dinner", "spend": "₹150–300 entry + ₹200–300 guide share + ₹200 lunch"},
+    {"day": 4, "title": "The forest path up to Rishyap", "place": "rishyap", "overnight": "Rishyap", "drive": "≈ 4 km on foot uphill, or ≈ 10 km by road", "text": "After breakfast, walk up the forest path from Lava to Rishyap, about 4 km and steadily uphill to 2,591 m; allow 2–3 hours and ask at your lodge for the start of the trail. If your bag is heavy, send it by road with a homestay car, about 10 km round. Rishyap is a scattering of Sherpa and Lepcha homestays that began taking guests in 1998. The local explanation of the name is ri for peak and shyap for old trees, and old trees still line the path. Spend the afternoon resting, and turn in early: the sunrise walk leaves before dawn.", "meals": "Breakfast, dinner", "spend": "₹150 snacks + share of bag transfer"},
+    {"day": 5, "title": "Tiffin Dara dawn and the jeeps home", "place": "rishyap", "overnight": "", "drive": "≈ 7–8 h by car share and shared jeeps via Lava and Kalimpong", "text": "Walk about 1 km to Tiffin Dara in the dark with a torch and wait for the light on Kanchenjunga; October to December gives the best odds. After breakfast, go down to Lava, on foot by the forest path or in a homestay car share, and take a shared jeep to Kalimpong. Seats are few on this road, so ask your host the evening before when the day's jeep leaves. Change at the Kalimpong motor stand for Siliguri, ₹200–300. NH10 closures since October 2023 can force diversions via Gajoldoba or Peshok, so check current status before you travel and book only a late train.", "meals": "Breakfast", "spend": "₹120–180 + ₹200–300 jeep seats + car share"}
+  ],
+  "stays": ["lava-wbfdc-eco-tourism-centre"],
+  "includes": ["Shared jeep seats Siliguri–Kalimpong–Lava and back", "Car share down from Rishyap and a bag transfer up", "1 night in a Kalimpong budget room, twin sharing", "3 nights in Lava and Rishyap with dinner and breakfast", "Neora Valley entry and a share of guide and vehicle fees", "Lunches and tea"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Reserved cars", "Camera fees inside the national park, if charged", "Tips for guides and hosts"],
+  "save_money": [
+    "Join other travellers at the Lava range office to split the Neora Valley guide fee of ₹600–1,000 a day and the vehicle fee.",
+    "Walk the 4 km forest path up to Rishyap instead of hiring a car for the 10 km road, and send only your bag by road.",
+    "Pre-order meals at the WBFDC lodge canteen in Lava; ordering ahead keeps you off the pricier last-minute options."
+  ],
+  "good_to_know": [
+    "NH10 has had repeated closures since October 2023; diversions run via Gajoldoba and Odlabari, the Gorubathan–Lava road (NH717A) or Darjeeling–Peshok, so check current status before you travel.",
+    "Neora Valley National Park closes in the monsoon, roughly mid-June to mid-September; permits and guides come from the Lava range office, so check current status before you travel.",
+    "Lava sits at about 2,195 m and Rishyap at 2,591 m: nights from December to February are near freezing and Lava sometimes gets snow.",
+    "Kalimpong–Lava shared jeeps are few and leave mostly in the morning.",
+    "Carry a torch for the pre-dawn walk to Tiffin Dara."
+  ],
+  "faqs": [
+    {"q": "How do I get from Kalimpong to Lava by shared jeep?", "a": "Shared jeeps leave the Kalimpong motor stand for Lava, about 30–34 km via Algarah, for ₹120–180 a seat. They are few and mostly leave in the morning, so book a seat the evening before. A reserved car costs ₹2,500–3,000 one way, which is worth it only for three or four people sharing or when you miss the jeep."},
+    {"q": "How much does this Lava and Rishyap trip cost?", "a": "About ₹10,000 per person, twin sharing, from NJP or Bagdogra back again, indicative for 2025–26. That covers shared jeeps, one night in a Kalimpong budget room, three nights in Lava and Rishyap with dinner and breakfast, lunches, and Neora Valley entry with a share of guide and vehicle fees. Travelling solo pushes room and guide costs up."},
+    {"q": "Do I need a permit for Neora Valley National Park?", "a": "Yes. You need a forest permit and a local guide from the Lava range office, plus a vehicle fee. Expect roughly ₹150–300 entry per person and ₹600–1,000 a day for a guide. The park closes in the monsoon, roughly mid-June to mid-September, and rules and fees change, so check current status before you travel."},
+    {"q": "Will I see a red panda in Neora Valley?", "a": "Probably not, and we would rather say so. Red panda, clouded leopard, Himalayan black bear and satyr tragopan all live in the park, but mostly in the higher, thicker forest away from the day routes. A morning with a guide usually brings birds, old trees and fresh signs. Quiet walking in small groups gives you the best chance."},
+    {"q": "Can I walk from Lava to Rishyap?", "a": "Yes. A forest path of about 4 km climbs from Lava to Rishyap at 2,591 m; allow 2–3 hours uphill and ask your lodge to point out where it starts. The road is about 10 km. Walk in daylight, carry water, and send a heavy bag by road with a homestay car. In heavy rain the path gets slippery, so take the road."},
+    {"q": "Where should I stay in Lava and Rishyap?", "a": "In Lava, the WBFDC Lava Eco Tourism Centre has cottages and tents in a forest compound for about ₹2,000–3,000 a room, with meals pre-ordered from its canteen. Village homestays charge about ₹1,300–2,200 per person with dinner and breakfast. Rishyap has Sherpa and Lepcha family homestays in the same range; book ahead in October and November."},
+    {"q": "What is Tiffin Dara?", "a": "Tiffin Dara is the sunrise point about 1 km from Rishyap village. On clear mornings it shows the Kanchenjunga range catching the first light across the ridges to the north-west. Walk up in the dark with a torch and warm layers; it is cold before dawn at this height. October to December gives the clearest mornings."},
+    {"q": "Is NH10 open on the way to Kalimpong and Lava?", "a": "NH10, from Sevoke up the Teesta to Teesta Bazar, has had repeated landslide and flood closures since the October 2023 Teesta flood. When it shuts, traffic for Lava often takes the Gorubathan–Lava road (NH717A), or goes via Gajoldoba and Odlabari, or round through Darjeeling and Peshok. Ask at the jeep stand the day before, and check current status before you travel."},
+    {"q": "Does it snow in Lava?", "a": "Lava sees snow in some winters, in the coldest weeks, but not every year and not on a timetable. At about 2,195 m, nights in those months drop close to freezing even without snow, and Rishyap at 2,591 m is colder still. Bring a down jacket, gloves and a warm cap, and expect roads to slow after a snowfall."}
+  ]
+}

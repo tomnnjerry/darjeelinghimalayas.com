@@ -1,0 +1,178 @@
+{
+ "slug": "dow-hill-chimney-forest-walks-3n",
+ "title": "Dow Hill and Chimney forest walks",
+ "region": "kurseong-mirik",
+ "nights": 3,
+ "themes": [
+  "treks",
+  "homestays",
+  "solo-backpacking",
+  "photography"
+ ],
+ "tier": "Shoestring",
+ "travel_mode": "On foot",
+ "stops": [
+  {
+   "place": "kurseong",
+   "nights": 1
+  },
+  {
+   "place": "chimney",
+   "nights": 2
+  }
+ ],
+ "start": "NJP railway station or Bagdogra airport",
+ "end": "NJP railway station or Bagdogra airport",
+ "price_from_inr": 7000,
+ "cost_split": [
+  {
+   "item": "Shared jeeps and local jeeps",
+   "inr": 800
+  },
+  {
+   "item": "Homestays, 3 nights with dinner and breakfast",
+   "inr": 4500
+  },
+  {
+   "item": "Lunches, tea and snacks",
+   "inr": 1000
+  },
+  {
+   "item": "Local guide for one day",
+   "inr": 700
+  }
+ ],
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  2,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  2
+ ],
+ "pace": "Active",
+ "max_altitude_m": 2200,
+ "meta_description": "Walk Dow Hill to Chimney in 3 nights from ₹7,000: Kurseong, the 1879 school ridge, the 1839 chimney, the Bagora ridge and forest homestays, on foot.",
+ "summary": "A walking trip above Kurseong. Walk up through the Dow Hill forest past the old schools to Chimney, sleep two nights in a forest homestay, walk the ridge to Bagora and come back down on foot. From about ₹7,000 per person, with only jeeps for the plains.",
+ "intro": [
+  "The ridge above Kurseong carries an old road through tall forest: past the 1879 Victoria Boys' School and Dow Hill School to Chimney, where a lone brick chimney stands from a dak bungalow built around 1839, and on along the crest to Bagora. It is a quiet, cool and beautiful walk, and almost nobody does it on foot.",
+  "This trip uses your legs as the main transport. Jeeps take you up from Siliguri and back down; everything else is walking, with homestay dinners at the end of each day. Send heavy bags up by local jeep if you can."
+ ],
+ "highlights": [
+  "Walk through the Dow Hill conifer forest",
+  "The 1879 school ridge",
+  "The 1839 chimney",
+  "Ridge walk to Bagora",
+  "Bukhari-warm homestay nights"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Siliguri to Kurseong",
+   "place": "kurseong",
+   "overnight": "Kurseong",
+   "drive": "≈ 35–50 km · 1.5–2 h by shared jeep",
+   "text": "Take a shared jeep from Siliguri to Kurseong and check into a homestay. In the afternoon, warm up with the short climb to Eagle's Crag and a walk through the bazaar. Buy snacks, a torch battery and anything else you need; there are few shops on the ridge.",
+   "meals": "Dinner",
+   "spend": "₹200 jeep + ₹150 lunch + ₹200 supplies"
+  },
+  {
+   "day": 2,
+   "title": "Walk Kurseong to Chimney via Dow Hill",
+   "place": "chimney",
+   "overnight": "Chimney",
+   "drive": "On foot, ≈ 8 km · 3–3.5 h, ≈ 700 m up",
+   "text": "Leave by 8 am and walk up Dow Hill Road into the forest. Pass the gates of Victoria Boys' School and Dow Hill School, look but do not enter, and carry on over the ridge to Chimney. Visit the old chimney in its small park, then check into your homestay. Send your main bag up by local jeep or taxi if possible.",
+   "meals": "Breakfast, Dinner",
+   "spend": "₹100 bag by jeep + ₹100 tea"
+  },
+  {
+   "day": 3,
+   "title": "Ridge walk to Bagora and back",
+   "place": "chimney",
+   "overnight": "Chimney",
+   "drive": "On foot, ≈ 4 h return",
+   "text": "Walk along the ridge from Chimney to Bagora with a local guide, through forest and open slopes with long views on clear mornings. Have tea in Bagora and walk back. In spring rhododendrons flower on the higher slopes. Spend the evening by the bukhari with your host family.",
+   "meals": "Breakfast, Dinner",
+   "spend": "₹700 guide + ₹100 tea"
+  },
+  {
+   "day": 4,
+   "title": "Down to Kurseong and Siliguri",
+   "place": "chimney",
+   "overnight": "",
+   "drive": "On foot to Kurseong, then ≈ 1.5–2 h by shared jeep",
+   "text": "Watch sunrise from an open bend near the homestay, then walk back down through Dow Hill to Kurseong, about 2.5 hours. Have lunch in the bazaar and take an afternoon jeep down to Siliguri. If your legs are tired, take the morning local jeep from Chimney instead.",
+   "meals": "Breakfast",
+   "spend": "₹200 jeep + ₹150 lunch"
+  }
+ ],
+ "stays": [],
+ "includes": [
+  "Shared jeep seats between NJP/Siliguri and the hills",
+  "Homestay or budget rooms on twin sharing",
+  "Dinner and breakfast at homestays",
+  "Our day-by-day plan with fares and contacts"
+ ],
+ "excludes": [
+  "Flights and trains to NJP or Bagdogra",
+  "Lunches unless stated",
+  "Toy train tickets unless stated",
+  "Tips, porters and personal shopping",
+  "Anything not listed under includes"
+ ],
+ "save_money": [
+  "Walk instead of taking taxis between Kurseong and Chimney.",
+  "Share a guide with other walkers for the Bagora day.",
+  "Carry snacks from Kurseong; the ridge has very few shops."
+ ],
+ "good_to_know": [
+  "Chimney is about 2,200 m and cold at night; pack warm layers.",
+  "Start walks early; mist often fills the forest after midday.",
+  "Avoid the monsoon months, when the forest is wet and full of leeches."
+ ],
+ "faqs": [
+  {
+   "q": "Is the price per person?",
+   "a": "Yes. ₹7,000 is per person on twin sharing for Indian nationals, from NJP or Bagdogra and back, as an indicative 2025–26 figure. Solo travellers pay more for rooms and cars; groups of four sharing a car pay less. We round to the nearest ₹500."
+  },
+  {
+   "q": "Can we start from Bagdogra airport instead of NJP?",
+   "a": "Yes. Bagdogra is about 30 minutes from Siliguri and a little further from NJP. Shared autos and taxis link the airport to the Siliguri jeep stands. With a reserved car, the fare from Bagdogra is about the same as from NJP."
+  },
+  {
+   "q": "Can we change the number of nights?",
+   "a": "Yes. Add a night where you want more time, usually in the village stops, or drop one on a tight schedule. Keep at least two nights in any place where you want a clear dawn view, since weather can spoil one morning."
+  },
+  {
+   "q": "How fit do I need to be for this trip?",
+   "a": "Reasonably fit. The longest day climbs about 700 m over 8 km on a road, taking 3–3.5 hours. The other walks are gentler. If you are unsure, take a local jeep for the climb and walk the ridge and the descent."
+  },
+  {
+   "q": "Do I need a guide for the Dow Hill walk?",
+   "a": "No, it follows a road and is easy to find. We suggest a guide for the Bagora ridge day, mostly for birds, plants and short forest paths off the road. Ask your Chimney homestay to arrange one."
+  },
+  {
+   "q": "Is the Dow Hill forest really haunted?",
+   "a": "Local folklore says so, with tales of a headless boy and footsteps in the empty schools. They are stories, not history. Walking in daylight, you will mostly meet school staff, villagers and birds."
+  },
+  {
+   "q": "Can I send my bags ahead?",
+   "a": "Often yes. Local jeeps between Kurseong and Bagora pass Chimney, and your homestay may arrange for a driver to carry your bag for a small fee. Keep valuables and a warm layer with you."
+  },
+  {
+   "q": "What is the best time for these walks?",
+   "a": "October to December for clear, dry days, and March to May for spring flowers and birdsong. Winter is cold at Chimney but often clear. Avoid June to September."
+  },
+  {
+   "q": "Can I extend this walk?",
+   "a": "Yes. Add a night at Bagora, or continue by local transport from Bagora down towards Sittong and spend two nights there. Ask homestays about current road and jeep conditions."
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}The eight hills of Darjeeling, Sikkim and the Dooars compared · Darjeeling Himalayas{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:20px"><div class="phead__body" style="margin-top:0">
+  <p class="eyebrow">The hills</p><h1 class="h-1">Eight hills, eight colours</h1>
+  <p class="lede">From the Dooars at about 100 m to Gurudongmar above 5,000 m. Compare height, season and the cheapest way to see each one.</p>
+</div></div></header>
+<section class="sec--tight"><div class="wrap grid grid--2">
+  {% for r in regions %}<a class="lcard rv" href="{{ r.url }}" data-land="{{ r.slug }}" style="min-height:460px">{% with img=r|first_img %}{% if img %}<img src="{{ img|src:960 }}" srcset="{{ img|srcset }}" sizes="(max-width: 640px) 100vw, 50vw" alt="" loading="lazy">{% endif %}{% endwith %}
+    <span class="lbadge">{% icon r.slug %}</span><span class="lcard__name">{{ r.name }}</span><span class="lcard__pal">{{ r.palette }}</span>
+    <span style="margin-top:10px;max-width:46ch;color:rgba(255,255,255,.86)">{{ r.tagline }}</span>
+    <span class="lcard__row">{% if r.min_alt %}<span class="milestone milestone--sm"><span class="milestone__cap">Altitude</span><span class="milestone__val">{{ r.min_alt|intcomma_plain }}–{{ r.max_alt|intcomma_plain }}</span></span>{% endif %}{% if r.per_day_from %}<span class="milestone milestone--sm"><span class="milestone__cap">Day</span><span class="milestone__val">{{ r.per_day_from|inr }}</span></span>{% endif %}{% if r.best_label %}<span class="milestone milestone--sm"><span class="milestone__cap">Best</span><span class="milestone__val" style="font-size:.85rem">{{ r.best_label }}</span></span>{% endif %}</span>
+  </a>{% endfor %}
+</div></section>
+<section class="sec"><div class="wrap"><div class="sec__head"><div><p class="eyebrow">Season almanac</p><h2 class="h-1">Best months side by side</h2></div></div>{% include "hills/partials/almanac.html" %}</div></section>
+{% endblock %}

@@ -1,0 +1,71 @@
+{
+  "slug": "kalimpong-kolakham-lava-honeymoon-5n",
+  "title": "Kolakham and Lava honeymoon by car",
+  "region": "kalimpong",
+  "nights": 5,
+  "themes": ["budget-honeymoons", "kanchenjunga-views", "homestays", "wildlife-birds"],
+  "tier": "Comfort",
+  "travel_mode": "Reserved car",
+  "stops": [{"place": "kalimpong", "nights": 2}, {"place": "kolakham", "nights": 2}, {"place": "lava", "nights": 1}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 30000,
+  "cost_split": [
+    {"item": "Reserved car with driver for 6 days, half the hire", "inr": 9500},
+    {"item": "Holumba Haven, Kalimpong, 2 nights, half a double room", "inr": 3600},
+    {"item": "Kolakham homestay 2 nights and Lava forest lodge 1 night, with dinner and breakfast", "inr": 6900},
+    {"item": "Meals in Kalimpong, lunches, tea and snacks", "inr": 4000},
+    {"item": "Tandem paragliding flight at Deolo", "inr": 3500},
+    {"item": "Neora Valley entry and guide share, monastery donations and small fees", "inr": 2500}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Easy",
+  "max_altitude_m": 2195,
+  "meta_description": "5 nights from ₹30,000 for couples by private car: orchids at Holumba Haven, a Deolo paraglide, Kanchenjunga from Kolakham and a forest night at Lava.",
+  "summary": "Five nights for couples, about ₹30,000 per person, by reserved car. Two nights at Holumba Haven, a family guesthouse in a working orchid nursery below Kalimpong, two in a Kolakham homestay that looks towards Kanchenjunga on the edge of Neora Valley, and one at the forest lodge in Lava before the drive down.",
+  "intro": [
+    "About 300 species of orchid grow around Kalimpong, and the town has been a nursery centre for generations. Holumba Haven sits inside one of them, the Nurseryman's Haven, about 1 km below town; the family opened it to guests as a homestay in 2004. In its Magnolia Cottage the Buddhist teacher Sangharakshita wrote his memoir Facing Mount Kanchenjunga. From there we go east to Kolakham, about 1,981 m, a village on the boundary of Neora Valley National Park. Local accounts say it was founded by Ujir Man Rai Samsuhang, and some still call it Rai Gaon.",
+    "We plan it for couples who want quiet days and a little adventure, without five-star prices. A reserved car with one driver stays with you throughout, so you set the pace and stop where you like. The days are short on the road, never more than 38 km between stays. The drive up from Siliguri normally takes NH10, which has had repeated closures since October 2023; drivers then use Gajoldoba and Odlabari, the Gorubathan–Lava road (NH717A) or Darjeeling and Peshok, so check current status before you travel. The return from Lava often uses the Gorubathan road."
+  ],
+  "highlights": [
+    "Two nights among the orchids at Holumba Haven, below Kalimpong",
+    "A tandem paragliding flight from Deolo hill, weather allowing",
+    "Sunrise towards Kanchenjunga from Kolakham, 1,981 m",
+    "Changey Falls, a 900 m walk from the roadhead",
+    "An evening at Kagyu Thekchen Ling Monastery in Lava"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to a Kalimpong orchid nursery", "place": "kalimpong", "overnight": "Kalimpong (Holumba Haven)", "drive": "≈ 3–3.5 h by reserved car", "text": "Your driver meets you at NJP or Bagdogra. The usual road crosses the Coronation Bridge at Sevoke and follows NH10 up the Teesta before climbing 16 km to Kalimpong at 1,247 m. NH10 has closed many times since October 2023; on those days the car goes round by Gajoldoba and Odlabari, the Gorubathan–Lava road or Darjeeling and Peshok. Check current status before you travel. Holumba Haven is about 1 km below town, inside a working orchid nursery. Spend the late afternoon walking the beds with tea in hand, and ask the family which plants are in flower that week. Dinner can be in town or arranged with your hosts.", "meals": "Dinner", "spend": "₹500 lunch on the road + ₹600 dinner"},
+    {"day": 2, "title": "Deolo by air and Durpin by evening", "place": "kalimpong", "overnight": "Kalimpong (Holumba Haven)", "drive": "Local sightseeing with your car", "text": "Drive 5–6 km to Deolo hill, 1,704 m, Kalimpong's highest point. Tandem paragliding flights launch from here for ₹2,500–4,500 a person, weather allowing; mornings are usually calmer, and operators cancel in wind or cloud, so keep a second slot open in the afternoon. At the foot of Deolo is Dr Graham's Homes, founded in 1900 for Anglo-Indian children with six children in a cottage. In the late afternoon go to Durpin hill for Zang Dhok Palri Phodang, consecrated by the 14th Dalai Lama in 1976. Back in town, buy Kalimpong lollipops, the milk sweets first made by Father André Butty's Swiss Welfare Dairy.", "meals": "Breakfast, dinner", "spend": "₹2,500–4,500 paragliding + ₹400 lunch"},
+    {"day": 3, "title": "Changey Falls on the way to Kolakham", "place": "kolakham", "overnight": "Kolakham", "drive": "≈ 38 km · 2–2.5 h via Algarah and Lava", "text": "Leave Kalimpong after breakfast and drive east through Algarah and Lava to Kolakham, 38 km in all. Changey Falls is about 4 km from Kolakham by road: stop at the roadhead and walk the 900 m down; the walk back up is the harder half, so take water. Kolakham sits at about 1,981 m on the edge of Neora Valley National Park. Local accounts say Ujir Man Rai Samsuhang founded it, which is why some call it Rai Gaon. Ask your homestay for the room that faces north towards Kanchenjunga, and for dinner by the kitchen fire if the evening is cold.", "meals": "Breakfast, dinner", "spend": "₹300 lunch + ₹100 tea"},
+    {"day": 4, "title": "A slow day at Kolakham", "place": "kolakham", "overnight": "Kolakham", "drive": "", "text": "Wake before six and take tea outside: Kolakham looks towards Kanchenjunga, and October to December gives the best odds of a clear sunrise. Then do very little, on purpose. Walk the village lanes along the forest edge, where flycatchers, sunbirds and woodpeckers are common, and keep outside the park boundary unless you hold a Lava permit. Your driver can take you to a nearby viewpoint if you want a short outing. After lunch, read, nap or sit in the kitchen; ask whether your host will show you how the evening's dishes are made. Turn in early, as the night air drops fast at nearly 2,000 m.", "meals": "Breakfast, dinner", "spend": "₹300 lunch"},
+    {"day": 5, "title": "Kolakham to a forest night at Lava", "place": "lava", "overnight": "Lava", "drive": "≈ 8 km · 30 min by car", "text": "Drive 8 km to Lava, about 2,195 m. If the park is open, spend the morning on a short guided walk inside Neora Valley National Park, set up in 1986; the permit and compulsory guide come from the Lava range office, entry is about ₹150–300 each and the guide ₹600–1,000 a day. The park closes roughly mid-June to mid-September, so check current status before you travel. Check in at the WBFDC Lava Eco Tourism Centre and order dinner from the canteen. Walk to Kagyu Thekchen Ling Monastery before sunset; it was founded by the 3rd Jamgon Kongtrul Rinpoche and opened on 6 June 1990.", "meals": "Breakfast, dinner", "spend": "₹150–300 entry + guide share + ₹300 lunch"},
+    {"day": 6, "title": "Lava down to NJP or Bagdogra", "place": "lava", "overnight": "", "drive": "≈ 4.5–5.5 h by reserved car", "text": "Take a last look at the forest from the lodge at first light, then have breakfast and leave by 9 am. From Lava, the Gorubathan–Lava road, NH717A, comes down to the Dooars plains without passing Kalimpong, and drivers often prefer it when NH10 is closed. NH10 has had repeated landslide and flood closures since October 2023, and the other ways round are Gajoldoba and Odlabari or Darjeeling and Peshok. Check current status before you travel. Stop for lunch on the plains, and keep a cushion of a few hours before your train or flight, as hill roads can slow without warning.", "meals": "Breakfast", "spend": "₹400 lunch on the road"}
+  ],
+  "stays": ["kalimpong-holumba-haven", "lava-wbfdc-eco-tourism-centre"],
+  "includes": ["Reserved car with driver for 6 days, NJP or Bagdogra and back", "2 nights at Holumba Haven, Kalimpong, twin sharing", "2 nights in a Kolakham homestay with dinner and breakfast", "1 night at the WBFDC Lava Eco Tourism Centre with dinner and breakfast", "One tandem paragliding flight each at Deolo", "Neora Valley entry and a guide share, monastery donations"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Shopping and souvenirs", "Camera fees inside the national park, if charged", "Tips for the driver, guides and hosts"],
+  "save_money": [
+    "Skip the paragliding and the trip drops by about ₹3,500 a person; Deolo's top is worth the drive on its own.",
+    "Travel in March, April or early December rather than the October and November holidays, when room rates and car hire are at their highest.",
+    "Ask your Kolakham hosts for lunch at home on day 4 instead of driving out to eat; it is cheaper and usually better."
+  ],
+  "good_to_know": [
+    "NH10 has had repeated closures since October 2023; the other roads are the Gorubathan–Lava road (NH717A), Gajoldoba and Odlabari, or Darjeeling and Peshok, so check current status before you travel.",
+    "Paragliding at Deolo depends on wind and cloud; flights are cancelled in poor weather.",
+    "Neora Valley National Park closes roughly mid-June to mid-September; permits come from the Lava range office, so check current status before you travel.",
+    "Kolakham and Lava homestays are simple family houses; heaters may not be available, so pack warm layers for December to February.",
+    "Mobile signal is patchy around Kolakham; tell family at home before you go up."
+  ],
+  "faqs": [
+    {"q": "Is Kolakham a good place for a honeymoon?", "a": "Yes, if you want quiet. Kolakham is a small village at about 1,981 m on the edge of Neora Valley National Park, with family homestays, forest walks and a view towards Kanchenjunga at sunrise. There are no cafés or nightlife. Couples who like long breakfasts, walks and early nights love it; couples who want shopping and restaurants should add a night in Kalimpong instead."},
+    {"q": "What is Holumba Haven like?", "a": "Holumba Haven is a family-run guesthouse inside the Nurseryman's Haven, a working orchid nursery about 1 km below Kalimpong town. It opened as a homestay in 2004, and rooms cost about ₹2,500–4,500 indicative. The Buddhist teacher Sangharakshita wrote his book Facing Mount Kanchenjunga in its Magnolia Cottage. Book ahead for October and November, when Kalimpong fills."},
+    {"q": "Can we paraglide at Deolo?", "a": "Yes, weather allowing. Tandem flights take off from Deolo hill, 1,704 m, Kalimpong's highest point, and cost about ₹2,500–4,500 a person. A trained pilot flies with you, so no experience is needed. Flights stop in wind, rain or thick cloud, so we leave room on day 2 for a second attempt. Check the operator's safety record and rules before you pay."},
+    {"q": "How much does this honeymoon trip cost?", "a": "About ₹30,000 per person, twin sharing, from NJP or Bagdogra back again, indicative for 2025–26. That covers a reserved car for six days, two nights at Holumba Haven, three nights at Kolakham and Lava with dinner and breakfast, other meals, a tandem paraglide each and Neora Valley entry with a guide share. Without the paraglide it is about ₹26,500."},
+    {"q": "Can we see Kanchenjunga from Kolakham?", "a": "On clear mornings, yes. Kolakham looks towards the Kanchenjunga range, and the best chance is at sunrise from October to December, when the air is driest. In spring the view often fades by mid-morning, and from June to September cloud hides it most days. Ask your host for a north-facing room and set an alarm for just before six."},
+    {"q": "How cold does it get at Kolakham and Lava?", "a": "From December to February, nights at Kolakham, about 1,981 m, and Lava, about 2,195 m, drop close to freezing, and Lava sometimes sees snow. Days are cool and bright. In October, November, March and April, expect cold nights and pleasant days. Pack a down jacket, a warm cap and thermal layers, as rooms in homestays and the forest lodge can be chilly."},
+    {"q": "Should we add a day in Neora Valley National Park?", "a": "If you enjoy forest walks, yes. Our plan includes a short guided morning on day 5, with the permit and compulsory guide from the Lava range office. A full extra day suits birders. Entry is about ₹150–300 each, plus ₹600–1,000 for the guide and a vehicle fee. The park closes roughly mid-June to mid-September, so check current status before you travel."},
+    {"q": "Is NH10 open for the drive to Kalimpong?", "a": "NH10, from Sevoke up the Teesta, has had repeated landslide and flood closures since the October 2023 Teesta flood. When it is shut, your driver will use Gajoldoba and Odlabari, the Gorubathan–Lava road (NH717A) or Darjeeling and Peshok. For this trip the Gorubathan road also suits the way down from Lava. Check current status before you travel."},
+    {"q": "When is the best time for a Kolakham honeymoon?", "a": "October to early December brings the clearest Kanchenjunga mornings and dry roads, and March to May brings milder nights and spring birds. January and February are cold but quiet, with lower prices. We avoid mid-June to mid-September: Neora Valley National Park is closed, the rain is heavy and landslides slow the roads. Check current status before you travel."}
+  ]
+}

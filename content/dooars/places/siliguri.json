@@ -1,0 +1,116 @@
+{
+  "slug": "siliguri", "name": "Siliguri", "name_local": "सिलिगुडी", "region": "dooars",
+  "kind": "market town",
+  "wiki": "Siliguri", "image_query": "Siliguri city Mahananda river",
+  "lat": 26.71, "lng": 88.43, "altitude_m": 122,
+  "tagline": "The gateway town on India's chicken's neck",
+  "meta_description": "Siliguri travel guide: NJP and Bagdogra, the chicken's neck corridor, Hong Kong Market, Coronation Bridge, Gajoldoba birds, costs and where to stay.",
+  "summary": "Siliguri is the transit town for the whole Darjeeling, Sikkim and Dooars region: NJP station, Bagdogra airport and the jeep and bus stands are all here. Most people pass straight through. Give it one night and you get cheap shopping, a river barrage full of winter ducks and the Teesta at Sevoke.",
+  "local_story": {"title": "A railhead on a 22 km wide strip of India", "paras": [
+    "Siliguri sits on the Siliguri Corridor, the strip of Indian land between Nepal and Bangladesh that is only about 20–22 km wide at its narrowest. Newspapers call it the chicken's neck, because every road, railway and pipeline between the rest of India and the Northeast passes through it. Bhutan lies a short drive north. For a town of traders, that geography has been both a business and a responsibility.",
+    "The name is often explained as Shiliguri, a heap of stones, from shila (stone) and guri (heap), after the boulders the rivers left on these plains; it is a commonly told explanation rather than a settled one. What is settled is the railway. The Darjeeling Himalayan Railway started from Siliguri in 1880, and the station that matters today, New Jalpaiguri, was built in the 1960s when broad gauge reached the area. The toy train's line was extended down to NJP in 1964.",
+    "The town grew fast after 1947 and again after 1962, with refugees, traders and soldiers. Today it is the largest city in north Bengal, spread across two districts, with the Mahananda river running through the middle and the Teesta at its eastern edge."]},
+  "did_you_know": [
+    "The Darjeeling Himalayan Railway began at Siliguri Town station in 1880; the line was extended south to New Jalpaiguri (NJP) only in 1964.",
+    "Sevoke's Coronation Bridge over the Teesta was planned in 1937 to mark George VI's coronation and opened in 1941; locals call it Bagh Pul for the big-cat statues at its end.",
+    "Siliguri is split between Darjeeling and Jalpaiguri districts; the municipal corporation, formed in 1994, covers wards in both."
+  ],
+  "intro": [
+    "Most travellers meet Siliguri at 6 am off an overnight train, look at the traffic on Hill Cart Road and leave as fast as a shared jeep allows. We understand. But this is the town where you will buy your rain jacket, change money, eat your cheapest decent meal of the trip and find every road onwards: up to Darjeeling and Gangtok, east into the tea gardens and rhino parks of the Dooars.",
+    "For the Dooars, Siliguri is the base for supplies and transport, not the destination. Stay one night if your train or flight arrives late, or if you want a dawn morning at the Gajoldoba barrage in winter. Otherwise keep moving east along the Sevoke road; Lataguri is barely two hours away."
+  ],
+  "facts": [["Best months", "Oct – Mar"], ["Nights we suggest", "0–1"], ["From NJP", "≈ 6 km · 20–30 min"], ["Altitude", "122 m"], ["Known for", "NJP station, Bagdogra airport, markets, jeep stands"], ["Network", "All networks strong"]],
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0–1",
+  "costs": [["Auto from NJP to the city centre", "₹30–50 shared, ₹200–300 reserved"], ["Budget hotel near Hill Cart Road", "₹1,200–2,500 a room"], ["Bengali thali or veg meal", "₹120–250"], ["Plate of momos", "₹60–120"], ["Bus to Malbazar or Lataguri", "₹100–150"], ["Reserved car to Gajoldoba and back", "₹1,500–2,000"]],
+  "highlights": [
+    {"title": "Gajoldoba in winter", "text": "The Teesta barrage at Gajoldoba, about 30 km from Siliguri, fills with migratory ducks from November to February: ruddy shelduck, bar-headed geese and many more. Hire a boat at dawn and go with a birder from the area."},
+    {"title": "Coronation Bridge at Sevoke", "text": "The arched bridge over the Teesta, opened in 1941, is where the hills begin. Stop at the Sevokeswari Kali temple, look upstream into the gorge and you will understand why every road north starts here."},
+    {"title": "Hong Kong Market and Bidhan Market", "text": "Cheap jackets, shoes, bags, electronics and imported odds and ends fill the lanes traders still call Hong Kong Market. Bargain gently, check stitching and zips, and buy your rain gear here before the hills."},
+    {"title": "The toy train's first station", "text": "NJP is the lowest station of the Darjeeling Himalayan Railway. Even if you skip the full ride, look at the narrow-gauge platform and the tiny coaches next to the broad-gauge expresses."},
+    {"title": "Mahananda by the bridge", "text": "The Mahananda runs through the heart of town. In the dry season its wide stony bed and the evening crowds on the bridges show the everyday Siliguri that travellers usually miss."}
+  ],
+  "how_to_reach": [
+    {"mode": "Train", "text": "New Jalpaiguri (NJP) is the main railhead, with direct trains from Kolkata, Delhi, Guwahati and most major cities. Siliguri Junction handles some Dooars line trains. Autos and taxis wait outside both; NJP to the centre is about 6 km."},
+    {"mode": "Air", "text": "Bagdogra airport (IXB) is about 12–15 km west of the centre, with flights from Kolkata, Delhi, Mumbai, Bengaluru and other cities. A prepaid taxi to Siliguri costs roughly ₹400–600; to Lataguri ₹3,000–3,800."},
+    {"mode": "Bus", "text": "North Bengal State Transport and private buses run to Siliguri from Kolkata overnight, and from Guwahati, Patna and Nepal's border at Panitanki. The Tenzing Norgay bus terminus on Hill Cart Road is the main stand."}
+  ],
+  "where_to_stay": "For an early train or flight, stay near NJP or on the Bagdogra side; for markets and onward jeeps, stay near Hill Cart Road, Sevoke Road or Pradhan Nagar, where budget and mid-range hotels line the streets. Expect ₹1,200–2,500 for a clean budget room and ₹3,000–5,000 for a business-style hotel. Prices jump during Durga Puja and the winter peak. Ask for a room away from the main road; Hill Cart Road traffic starts before dawn.",
+  "stays": [],
+  "tips": [
+    "Book your onward car at the NJP or Bagdogra prepaid counter rather than with touts on the platform.",
+    "Buy rain jackets, thermals and torches in Siliguri; prices are lower than in Lataguri or Madarihat.",
+    "Draw enough cash here, because ATMs in the forest villages run dry on weekends.",
+    "Leave Siliguri before 9 am or after 1 pm to avoid the worst traffic on Sevoke Road.",
+    "If your train is delayed overnight, use the NJP retiring rooms or a nearby hotel rather than driving to the forest in the dark."
+  ],
+  "themes": ["long-weekends", "food-trails", "wildlife-birds", "solo-backpacking"],
+  "nearby": ["lataguri", "gorumara", "samsing"],
+  "experiences": [
+    {"slug": "siliguri-gajoldoba-teesta-barrage-birds", "title": "Winter ducks at the Gajoldoba barrage",
+     "kind": "wildlife", "duration": "4–5 hours", "best_time": "6–10 am, Nov–Feb", "cost": "₹1,500–2,000 car + ₹300–600 boat",
+     "image_query": "Gajoldoba Teesta barrage birds", "wiki": "",
+     "summary": "Gajoldoba, where the Teesta barrage holds back a wide sheet of water about 30 km from Siliguri, is the region's best easy site for winter waterbirds. Come at dawn from November to February for ducks, geese and waders by the thousand.",
+     "body": ["The Teesta Barrage at Gajoldoba was built to feed irrigation canals across north Bengal, and the slow water upstream has become a winter refuge for migratory birds. From November to February flocks of ruddy shelduck, bar-headed geese, common teal, northern pintail and other ducks rest here, with lapwings, plovers and storks along the edges. In recent years the state has promoted the area as a tourism hub, so expect some development on the banks.",
+              "Leave Siliguri by 6 am in winter; the light is soft until about 9 and the birds are most active. Local boatmen take visitors out on the reservoir in small country boats; agree the price and the time on the water before you step in, and ask them to keep a respectful distance from the flocks rather than chase them for photographs.",
+              "Bring binoculars, a warm layer for the river mist and a field guide or app. Fish lunches are served in small eateries near the barrage, often with boroli or local river fish. Combine the trip with the Coronation Bridge at Sevoke on the way back, or go on to Lataguri by the Odlabari road."],
+     "good_for": ["photographers", "couples", "seniors", "students"],
+     "faqs": [
+       {"q": "When is the best time to see birds at Gajoldoba?", "a": "December and January are the peak, with large flocks of migratory ducks and geese; November and February are also good. Arrive by 6:30 or 7 am. From April the winter visitors leave and the barrage is mostly a picnic spot. In the monsoon the river is high and boating may stop."},
+       {"q": "How do I get to Gajoldoba from Siliguri?", "a": "It is about 30 km, 45 minutes to an hour by car via the Siliguri–Jalpaiguri side roads. A reserved car for the morning costs roughly ₹1,500–2,000. There is no convenient public transport at dawn, which is when you want to be there."},
+       {"q": "Is boating at Gajoldoba safe?", "a": "The country boats are small and the water is wide, so wear a life jacket if one is offered and ask for it if not. Avoid going out in wind or fog thick enough to hide the bank. Agree the fare first; prices are usually per boat for a fixed time."}
+     ]},
+    {"slug": "siliguri-sevoke-coronation-bridge-and-teesta", "title": "Coronation Bridge and the Teesta at Sevoke",
+     "kind": "viewpoint", "duration": "1–1.5 hours", "best_time": "Morning or late afternoon, Oct–May", "cost": "Free",
+     "image_query": "Coronation Bridge Sevoke Teesta", "wiki": "Coronation Bridge",
+     "summary": "At Sevoke, about 20 km from Siliguri, the Teesta leaves the hills and the Coronation Bridge carries the road east into the Dooars. Pair it with the hilltop Sevokeswari Kali temple and the view up the gorge.",
+     "body": ["The Coronation Bridge was planned in 1937 to commemorate the coronation of King George VI and Queen Elizabeth, and it opened in 1941. Its single concrete arch spans the Teesta where the river comes out of its gorge, and the road it carries is the one most Dooars travellers use. Locals call it Bagh Pul, the tiger bridge, after the pair of big-cat statues at its end.",
+              "Just before the bridge, steps climb from the road to the Sevokeswari Kali temple, a busy roadside shrine where drivers stop for blessings before the hills. From the steps and the bridge approach you can look up the Teesta gorge towards Kalimpong and down to the plains. Stopping on the bridge itself is not allowed and traffic is heavy; use the marked viewpoints and parking.",
+              "Since the October 2023 Teesta flood and the earlier dam works upstream, the river here looks different from older photographs, with more silt and changed banks. The NH10 road north along the Teesta has had long closures; if you are heading on to Kalimpong or Sikkim, check current status before you travel."],
+     "good_for": ["first-timers", "families", "photographers"],
+     "faqs": [
+       {"q": "Can we stop on the Coronation Bridge for photos?", "a": "No. It is a narrow, busy highway bridge and police discourage stopping on it. Park at the approach before or after the bridge and walk to the safe viewpoints. The best angles are from the Sevoke side and from a short walk along the road on the Bagrakote side."},
+       {"q": "Is the Sevoke Kali temple worth the climb?", "a": "If you are fit, yes. It is a short but steep flight of steps from the road, about 10–15 minutes up. The temple is busy with drivers and local devotees, and the climb gives a broad view over the Teesta. Remove shoes at the top and carry small change for offerings."},
+       {"q": "Why is it called the Coronation Bridge?", "a": "It was planned in 1937 to mark the coronation of King George VI and named for that event. Construction finished in 1941. Its local name, Bagh Pul, comes from the two big-cat statues placed at one end, often described as tigers or lions depending on who you ask."}
+     ]},
+    {"slug": "siliguri-hong-kong-market-shopping", "title": "Hong Kong Market for jackets and gear",
+     "kind": "culture", "duration": "1.5–2 hours", "best_time": "11 am–6 pm, closed some afternoons", "cost": "Free to browse",
+     "image_query": "Hong Kong Market Siliguri",
+     "wiki": "",
+     "summary": "The lanes of shops traders call Hong Kong Market are Siliguri's place for cheap jackets, bags, shoes, electronics and imported goods. It is the right stop for rain gear and warm layers before you go into the hills or the forests.",
+     "body": ["Hong Kong Market grew up as Siliguri became the trading hub for goods moving between Nepal, Bhutan, Sikkim, the Northeast and the plains. The name stuck to a cluster of narrow lanes packed with tiny shops selling imported and copied goods: padded jackets, rucksacks, shoes, sunglasses, phone accessories and kitchenware. Bidhan Market and the streets around Hill Cart Road add clothes, spices and dry fruit.",
+              "For travellers, this is where you buy what you forgot: a rain poncho for the forest jeeps, a fleece for dawn in a watchtower, a power bank, a torch. Quality varies widely. Check zips and stitching, test electronics before paying, and bargain politely; first prices are often well above what locals pay. Many shopkeepers speak Hindi, Bengali and Nepali.",
+              "Go late morning, after the shops open, and avoid the evening rush. Keep bags in front in the crowded lanes. Several shops close for a weekly day off, so ask at your hotel which day that is before you set out."],
+     "good_for": ["students", "solo", "families", "first-timers"],
+     "faqs": [
+       {"q": "Where is Hong Kong Market in Siliguri?", "a": "It is in central Siliguri, close to Hill Cart Road and Bidhan Market, about 6–7 km from NJP station. Any auto or cycle-rickshaw driver knows it. Shared autos run along Hill Cart Road for ₹15–30 a seat. It is a short walk from many budget hotels in the centre."},
+       {"q": "Is Hong Kong Market good for winter jackets?", "a": "Yes, for budget padded and fleece jackets that are fine for the Dooars and the lower hills. For high Sikkim passes in winter, quality matters more, so check fill and stitching carefully or buy a branded jacket elsewhere. Expect to bargain; start well below the first price."},
+       {"q": "Is it safe to shop in Hong Kong Market?", "a": "Yes, in the usual market way. The lanes are narrow and crowded, so watch phones and wallets and keep bags zipped. Shopkeepers are used to tourists. Pay by UPI where possible, count change, and ask for a bill for electronics in case something stops working."}
+     ]},
+    {"slug": "siliguri-momos-and-mishti-evening", "title": "Momos, rolls and mishti on Hill Cart Road",
+     "kind": "food", "duration": "1.5–2 hours", "best_time": "5–8 pm, all year", "cost": "₹200–500 per person",
+     "image_query": "Siliguri street food momo",
+     "wiki": "",
+     "summary": "Siliguri eats like its traders: Tibetan-style momos and thukpa, Bengali sweets, Kolkata-style egg rolls, Bihari litti and Marwari snacks, often on the same street. An evening walk around Hill Cart Road and Sevoke Road is a cheap tour of the whole region's kitchens.",
+     "body": ["Because everyone passes through Siliguri, its food is a meeting of the hills, the plains and the Northeast. Momo stalls serve steamed and fried dumplings with fiery tomato and chilli sauce; small restaurants run by families from Darjeeling and Sikkim add thukpa and thenthuk; Bengali sweet shops sell rosogolla, sandesh and mishti doi; roll counters fold egg and chicken into parathas Kolkata style.",
+              "Start with momos and a bowl of soup, try a kathi roll, then finish at a sweet shop with mishti doi and a hot jalebi. Street prices are low: ₹60–120 for a plate of momos, ₹50–100 for a roll, ₹20–40 for a sweet. Vegetarians do well too, with chhole, puri-sabzi and dosa counters near the markets.",
+              "Choose stalls with a quick turnover and hot, freshly steamed food. Drink bottled or filtered water. If you have an early train, eat near NJP, where small dhabas stay open late for passengers."],
+     "good_for": ["students", "solo", "couples", "families"],
+     "faqs": [
+       {"q": "What food is Siliguri known for?", "a": "Momos and thukpa from the hills, Bengali sweets and fish curries, Kolkata-style rolls and the North Indian dhaba food of a highway town. In winter look for river fish such as boroli from the Teesta and Torsa, a north Bengal favourite cooked in mustard gravy."},
+       {"q": "Is street food in Siliguri safe for tourists?", "a": "Usually, with simple care. Eat at busy stalls where food is cooked in front of you and served hot, avoid cut fruit and chutneys that have sat in the heat, and drink bottled or filtered water. Carry oral rehydration salts on any India trip."},
+       {"q": "Where can vegetarians eat in Siliguri?", "a": "Easily. Pure-vegetarian restaurants run by Marwari and Gujarati families serve thalis, and there are South Indian dosa places and veg momo stalls across the centre. A veg thali costs about ₹120–250. Ask for less oil if you are heading into a long drive."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "Is it worth staying a night in Siliguri?", "a": "Only if your train or flight arrives late, if you need to shop, or if you want a winter dawn at Gajoldoba. Otherwise go straight on to Lataguri, about two hours away, and you gain a forest evening. Arriving at a forest lodge after dark is the main thing to avoid."},
+    {"q": "How far is Siliguri from NJP station and Bagdogra airport?", "a": "NJP is about 6 km from central Siliguri, 20–30 minutes by auto or taxi depending on traffic. Bagdogra airport is about 12–15 km, 30–45 minutes. Both have prepaid taxi counters for onward trips into the Dooars and the hills."},
+    {"q": "What is the Siliguri Corridor or chicken's neck?", "a": "It is the narrow strip of Indian territory around Siliguri, about 20–22 km wide at its narrowest, between Nepal and Bangladesh with Bhutan just to the north. It connects the Northeast to the rest of India by road and rail, which is why Siliguri is such a busy transit town."},
+    {"q": "How do I get from Siliguri to the Dooars?", "a": "By road east along the Sevoke road through Malbazar for Gorumara and Lataguri, or onward through Chalsa and Birpara to Jaldapara. Reserved cars cost ₹3,000–5,000 depending on the destination; buses ₹100–250. Dooars line trains also run from Siliguri Junction and NJP to Malbazar, Madarihat, Hasimara and Alipurduar."},
+    {"q": "Is Siliguri safe for solo travellers?", "a": "Generally yes. It is a busy commercial town with crowds day and night around the stations and markets. Use prepaid taxis or app cabs at night, keep valuables close in markets and on platforms, and book a hotel with good reviews near your departure point."},
+    {"q": "What is the best time to visit Siliguri?", "a": "October to March is dry and mild, with winter mornings around 10 °C and pleasant afternoons. April and May get hot and humid, often above 33 °C. The monsoon from June to September brings heavy rain and the Dooars parks close, though Siliguri itself carries on as normal."},
+    {"q": "Can I catch the toy train from Siliguri?", "a": "The Darjeeling Himalayan Railway runs from NJP, with some services stopping at Siliguri Junction and Siliguri Town. Full-line services to Darjeeling depend on the season, landslides and track work. Book on IRCTC and check current status before you travel."},
+    {"q": "Where should I change money or draw cash before the Dooars?", "a": "Siliguri has plenty of ATMs and banks, and money changers around the markets handle Nepali rupees and major currencies. Draw what you need for safaris, homestays and tips here. Forest villages such as Lataguri, Murti and Buxa have few ATMs, and they often run out at weekends."},
+    {"q": "How much does a day in Siliguri cost?", "a": "A shoestring day is about ₹1,500–2,000 per person with a budget room, street food and autos. A comfortable day with a business hotel, restaurant meals and a car for a Gajoldoba morning is around ₹4,000–6,000. Shopping is the real cost; set a limit before Hong Kong Market."}
+  ]
+}

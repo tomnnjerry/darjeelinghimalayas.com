@@ -1,0 +1,174 @@
+{
+ "slug": "sittong-orange-village-3n",
+ "title": "Sittong orange village and Ahaldara",
+ "region": "kurseong-mirik",
+ "nights": 3,
+ "themes": [
+  "homestays",
+  "food-trails",
+  "kanchenjunga-views",
+  "solo-backpacking"
+ ],
+ "tier": "Shoestring",
+ "travel_mode": "Mixed",
+ "stops": [
+  {
+   "place": "sittong",
+   "nights": 3
+  }
+ ],
+ "start": "NJP railway station or Bagdogra airport",
+ "end": "NJP railway station or Bagdogra airport",
+ "price_from_inr": 8000,
+ "cost_split": [
+  {
+   "item": "Jeeps, local jeeps and one shared day car",
+   "inr": 1800
+  },
+  {
+   "item": "Homestay, 3 nights with dinner and breakfast",
+   "inr": 4500
+  },
+  {
+   "item": "Lunches, oranges and snacks",
+   "inr": 900
+  },
+  {
+   "item": "Guides and small fees",
+   "inr": 800
+  }
+ ],
+ "best_months": [
+  2,
+  1,
+  2,
+  2,
+  1,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  2
+ ],
+ "pace": "Balanced",
+ "max_altitude_m": 1500,
+ "meta_description": "Sittong in 3 nights from ₹8,000: orange orchards, the Riyang river, the old church, Ahaldara sunrise and Latpanchar hornbills, on jeeps and a homestay.",
+ "summary": "Three nights in Darjeeling's orange village. Walk the orchards and the Riyang river, see the old village church, and take one early car to Ahaldara for sunrise over the Teesta and to Latpanchar for hornbills. From about ₹8,000 per person with homestay meals.",
+ "intro": [
+  "Sittong is a farming village in the Riyang valley, and this trip treats it that way: one homestay, three nights, and days built around walking, eating and village life. In orange season, November to January, the whole valley is heavy with fruit.",
+  "To keep costs down, you travel by shared and local jeeps where they run, and share one day car with other guests for the dawn trip to Ahaldara and Latpanchar. Your homestay host can usually arrange it."
+ ],
+ "highlights": [
+  "Orange orchards in season",
+  "Walk down to the Riyang river",
+  "Sittong's old church",
+  "Sunrise at Ahaldara over the Teesta",
+  "Hornbill dawn at Latpanchar"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Siliguri to Sittong",
+   "place": "sittong",
+   "overnight": "Sittong",
+   "drive": "≈ 55–60 km · 2.5–3 h by jeeps",
+   "text": "Take a shared jeep from Siliguri to Kurseong, then a local jeep or the homestay's car over Bagora and Mahaldiram into the Riyang valley. If the direct Sittong jeep is running from Siliguri, take it instead. Arrive by mid-afternoon, check in and walk round the nearest orchards with your host. Dinner is home-cooked, with oranges for dessert in season.",
+   "meals": "Dinner",
+   "spend": "₹200 + ₹150 jeeps + ₹150 lunch"
+  },
+  {
+   "day": 2,
+   "title": "Orchards, church and the Riyang",
+   "place": "sittong",
+   "overnight": "Sittong",
+   "drive": "",
+   "text": "Spend the morning walking down through terraces and forest to the Riyang river, with bamboo footbridges and clear pools in the dry season. Have a packed lunch by the water and climb back by early afternoon. Later, walk the village lanes to the church, which local accounts say started as a bamboo chapel over a century ago, and buy oranges from a grower's veranda.",
+   "meals": "Breakfast, Dinner",
+   "spend": "₹500 guide + ₹200 oranges"
+  },
+  {
+   "day": 3,
+   "title": "Ahaldara sunrise and Latpanchar birds",
+   "place": "sittong",
+   "overnight": "Sittong",
+   "drive": "≈ 30–45 min each way by shared car",
+   "text": "Leave before dawn in a car arranged by your homestay and drive via Latpanchar to Ahaldara. Walk the short path to the top and watch sunrise over the Teesta valley and the Kalimpong hills, with Kanchenjunga to the north on clear days. On the way back, stop at Latpanchar for an hour of birding with a local guide, looking for hornbills, then return for a late breakfast and an easy afternoon.",
+   "meals": "Breakfast, Dinner",
+   "spend": "₹600 car share + ₹500 guide share"
+  },
+  {
+   "day": 4,
+   "title": "Back to Siliguri",
+   "place": "sittong",
+   "overnight": "",
+   "drive": "≈ 55–60 km · 2.5–3 h by jeeps",
+   "text": "Have breakfast and take the morning jeep out of Sittong towards Kurseong or Siliguri; ask your host for the time the day before. Change at Kurseong for a Siliguri jeep if needed. Leave a buffer of three to four hours before evening trains or flights.",
+   "meals": "Breakfast",
+   "spend": "₹350 jeeps + ₹150 lunch"
+  }
+ ],
+ "stays": [],
+ "includes": [
+  "Shared jeep seats between NJP/Siliguri and the hills",
+  "Homestay or budget rooms on twin sharing",
+  "Dinner and breakfast at homestays",
+  "Our day-by-day plan with fares and contacts"
+ ],
+ "excludes": [
+  "Flights and trains to NJP or Bagdogra",
+  "Lunches unless stated",
+  "Toy train tickets unless stated",
+  "Tips, porters and personal shopping",
+  "Anything not listed under includes"
+ ],
+ "save_money": [
+  "Share the Ahaldara car with other homestay guests; ask your host to pool it.",
+  "Buy oranges from the grower, not from roadside resellers.",
+  "Take the early village jeep out instead of a reserved car to Siliguri."
+ ],
+ "good_to_know": [
+  "Orange season is November to January, peaking in December.",
+  "Village jeeps are few and leave early; confirm timings with your host.",
+  "Teesta valley roads have had closures since October 2023; check current status before you travel."
+ ],
+ "faqs": [
+  {
+   "q": "Is the price per person?",
+   "a": "Yes. ₹8,000 is per person on twin sharing for Indian nationals, from NJP or Bagdogra and back, as an indicative 2025–26 figure. Solo travellers pay more for rooms and cars; groups of four sharing a car pay less. We round to the nearest ₹500."
+  },
+  {
+   "q": "Can we start from Bagdogra airport instead of NJP?",
+   "a": "Yes. Bagdogra is about 30 minutes from Siliguri and a little further from NJP. Shared autos and taxis link the airport to the Siliguri jeep stands. With a reserved car, the fare from Bagdogra is about the same as from NJP."
+  },
+  {
+   "q": "Can we change the number of nights?",
+   "a": "Yes. Add a night where you want more time, usually in the village stops, or drop one on a tight schedule. Keep at least two nights in any place where you want a clear dawn view, since weather can spoil one morning."
+  },
+  {
+   "q": "When is the best time for Sittong?",
+   "a": "November to January for oranges and clear mornings at Ahaldara; December is the peak. March and April are good for birds at Latpanchar. Avoid July and August, when roads and village paths are slippery."
+  },
+  {
+   "q": "Are there direct jeeps from Siliguri to Sittong?",
+   "a": "A few, usually leaving Sittong early in the morning and Siliguri in the afternoon. Timings change, so ask your homestay. The reliable alternative is a shared jeep to Kurseong and a local jeep or car from there."
+  },
+  {
+   "q": "Can I see Kanchenjunga on this trip?",
+   "a": "Possibly, from Ahaldara at sunrise on a clear morning, most likely between October and March. Weather decides. If the first morning is cloudy, ask your host to try again the next day."
+  },
+  {
+   "q": "What will I eat in Sittong?",
+   "a": "Home-cooked Nepali hill food: rice, dal, greens, squash, potatoes, pickles and, on request, chicken or pork. In season you will eat many oranges. Breakfast is usually roti or puri with potato curry, or bread and eggs."
+  },
+  {
+   "q": "Is Sittong good for a first trip to the hills?",
+   "a": "Yes, if you want village life over sightseeing. It is quiet, cheap and friendly. If you want shops, cafés and many sights, start with Kurseong or Mirik and add Sittong on a later trip."
+  },
+  {
+   "q": "Is there mobile network in Sittong?",
+   "a": "Patchy. Jio and Airtel work in parts of the village, better on the upper road. Do not plan to work online. Tell family you may be out of reach and download offline maps."
+  }
+ ]
+}

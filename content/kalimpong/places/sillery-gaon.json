@@ -1,0 +1,110 @@
+{
+  "slug": "sillery-gaon", "name": "Sillery Gaon", "name_local": "", "region": "kalimpong",
+  "kind": "village",
+  "wiki": "Sillery Gaon", "image_query": "Sillery Gaon Kalimpong village",
+  "lat": 27.145, "lng": 88.595, "altitude_m": 1830,
+  "tagline": "Homestay ridge above Pedong with the Teesta's bends below",
+  "meta_description": "Sillery Gaon above Pedong, about 1,830 m: Ramitey Dara and the Teesta's bends, Kanchenjunga dawns, cinchona slopes, homestays, jeeps and 2025–26 costs.",
+  "summary": "Sillery Gaon is a small homestay village at about 1,830 m, 5–6 km above Pedong and roughly 25 km from Kalimpong. Come for Kanchenjunga at dawn, the walk to Ramitey Dara where the Teesta loops through its valley, and Damsang fort nearby. Two nights suit it best.",
+  "local_story": {"title": "A plant's name and a quinine hillside",
+    "paras": ["Sillery Gaon takes its name, the villagers say, from the sillery, a plant that once grew thickly on these slopes; gaon simply means village. We have not found a botanical name for it that we can confirm, so take it as the local story. What is certain is the village's position: a pine-and-cardamom ridge above Pedong, on the side of the hills that looked towards the old trade road to Tibet.",
+              "The British left a different plant here. The slopes around Sillery Gaon carry cinchona plantations, introduced in the region during the colonial period as a source of quinine against malaria. Some of the village's families have worked on the plantations for generations.",
+              "For most of the 20th century Sillery Gaon was a quiet farming village. Homestays came much later, and travellers began calling it 'New Darjeeling' for its views, a nickname that says more about marketing than about the place, which has no town and almost no traffic. Below the ridge, at Ramitey Dara, you can look down on the Teesta winding through its valley in a long series of bends."]},
+  "did_you_know": [
+    "From Ramitey Dara, about 3 km from Sillery Gaon, the Teesta can be seen making a series of bends, often counted as 14, through its valley below.",
+    "The slopes around Sillery Gaon carry cinchona plantations, first planted in the region under British rule to produce quinine for treating malaria.",
+    "Damsang fort, the 17th-century stronghold of the Lepcha chief Gaeboo Achyok, is a short drive from Sillery Gaon via Pedong."
+  ],
+  "intro": ["Sillery Gaon is a ridge of family homestays with a view, and not much else, which is why people love it. On clear mornings from October to April, the Kanchenjunga range rises to the north-west. During the day you walk: down to Ramitey Dara for the Teesta's bends, along the ridge through pine and cinchona, or to Damsang fort with a guide. In the evening you eat with your hosts.",
+            "It is cheap and close to Kalimpong. Homestays charge about ₹1,400–2,200 per person with meals, and a shared jeep to Pedong plus a short car ride gets you here for under ₹500. The road up from Pedong is narrow and steep in places. Two nights let you see the dawn twice and walk without hurrying."],
+  "facts": [["Best months", "Oct – Dec · Mar – May"], ["Nights we suggest", "2"], ["From Kalimpong", "≈ 25 km · 1.5 h via Pedong"], ["Altitude", "≈ 1,830 m"], ["Known for", "Ramitey Dara, Kanchenjunga dawns, homestays"], ["Network", "Jio/Airtel patchy"]],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "2",
+  "costs": [["Shared jeep Kalimpong–Pedong", "₹80–120 a seat"], ["Car Pedong–Sillery Gaon", "₹500–800 one way"], ["Reserved car from Kalimpong", "₹2,000–2,800 one way"], ["Homestay with dinner and breakfast", "₹1,400–2,200 pp"], ["Guide to Ramitey Dara", "₹500–800"]],
+  "highlights": [
+    {"title": "Ramitey Dara and the Teesta", "text": "A viewpoint about 3 km from the village where the Teesta winds through its valley in a long series of bends, often counted as 14. Walk there with a local guide in the morning, before haze."},
+    {"title": "Kanchenjunga dawn", "text": "Most homestays face north-west to the Kanchenjunga range. On clear mornings from October to April, step outside 30 minutes before sunrise and watch the summit catch the light."},
+    {"title": "Damsang fort", "text": "The ruins of the Lepcha chief Gaeboo Achyok's 17th-century fort are a short drive away via Pedong, with a forest walk at the end. Go with a guide who knows the story."},
+    {"title": "Cinchona slopes", "text": "Colonial-era cinchona plantations, grown for quinine, cover parts of the surrounding hills. Walk through them on the village trails and ask your hosts about the plantation work."},
+    {"title": "Homestay evenings", "text": "Family kitchens, squash and greens from the garden, home pickles and tea by the fire. Sillery Gaon's homestays are small, so meals often turn into long conversations."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep and car", "text": "Take a shared jeep from Kalimpong's Motor Stand to Pedong (₹80–120, about 1 hour), then a local car for the 5–6 km up to Sillery Gaon (₹500–800). Your homestay can arrange the pickup from Pedong."},
+    {"mode": "Reserved car", "text": "From Kalimpong a car costs about ₹2,000–2,800 one way. From NJP or Bagdogra, about ₹4,500–6,000 and 4–4.5 hours. NH10 has had closures since October 2023; when shut, cars use diversions via the Dooars and Lava or via Darjeeling. Check current status before you travel."},
+    {"mode": "On foot from Pedong", "text": "Fit walkers can climb from Pedong to Sillery Gaon on village paths in about 1.5–2 hours. Send bags up by car and ask locals for the shortcuts."}
+  ],
+  "where_to_stay": "Sillery Gaon is a homestay village: family-run rooms and cottages along the ridge, most with views towards Kanchenjunga, at about ₹1,400–2,200 per person with dinner and breakfast. Rooms vary from basic with shared bathrooms to wood-panelled cottages with geysers; ask about hot water, heaters and whether the room faces north-west. There are no hotels. For more choice, stay in Pedong's simple lodges below, or in Icchey Gaon and Ramdhura nearby, which have similar homestays and views.",
+  "stays": [],
+  "tips": ["Ask for a north-west-facing room for the Kanchenjunga dawn.",
+           "Walk to Ramitey Dara in the morning, before haze softens the Teesta's bends.",
+           "Arrange your Pedong pickup with your homestay so you do not wait at the jeep stand.",
+           "Carry cash and a torch; there are no shops beyond basic stalls.",
+           "The road from Pedong is steep and can be blocked after heavy rain: check current status before you travel."],
+  "themes": ["homestays", "kanchenjunga-views", "treks", "budget-honeymoons"],
+  "nearby": ["pedong", "icchey-gaon", "ramdhura"],
+  "experiences": [
+    {"slug": "sillery-gaon-ramitey-dara-teesta-bends", "title": "Ramitey Dara and the bends of the Teesta",
+     "kind": "trek", "duration": "3 hours return", "best_time": "7–11 am, Oct–May", "cost": "Guide ₹500–800",
+     "image_query": "Teesta river bends Kalimpong view", "wiki": "Teesta River",
+     "summary": "Walk about 3 km from Sillery Gaon to Ramitey Dara, a ridge where the Teesta winds through its valley in a long series of loops below you, often counted as 14, with the hills of Sikkim beyond.",
+     "body": ["Ramitey Dara is a ridge-top clearing below Sillery Gaon with one of the strangest views in the Kalimpong hills. Far below, the Teesta, the river that drains almost all of Sikkim, winds through its valley in a long series of tight bends. Locals usually count 14 of them; some say 11; it depends on the light and how you count. Behind the river, the hills of Sikkim rise ridge after ridge.",
+              "The walk from the village is about 3 km each way on a trail and rough road through pine forest and fields, with a fair amount of up and down. Allow about 3 hours return with time at the top. A local guide, about ₹500–800, helps you find the right path and the best spot. Some people go by car most of the way.",
+              "Go in the morning: by midday haze often softens the river, and cloud can fill the valley. October and November give the sharpest views; after the monsoon the river runs high and brown. Carry water and a snack; there is little at the top except prayer flags and the view."],
+     "good_for": ["couples", "photographers", "students", "families"],
+     "faqs": [
+       {"q": "How many turns of the Teesta can you see from Ramitey Dara?", "a": "Locals usually say 14 bends, though some count 11; it depends on visibility and how you count the loops. On a clear morning you can trace the river through its valley for a long way. Go early, before haze and cloud."},
+       {"q": "How far is Ramitey Dara from Sillery Gaon?", "a": "About 3 km each way on trails and a rough road, taking about 1–1.5 hours each way on foot. A guide costs about ₹500–800. Some homestays can arrange a car for part of the way."},
+       {"q": "Can I reach Ramitey Dara by car?", "a": "Partly. Cars can get close on a rough road, but the last stretch is usually on foot. Ask your homestay about current road conditions, especially after rain, and check current status before you travel."}
+     ]},
+    {"slug": "sillery-gaon-kanchenjunga-dawn", "title": "Kanchenjunga dawn from Sillery Gaon",
+     "kind": "viewpoint", "duration": "1 hour", "best_time": "Pre-dawn, Oct–Apr", "cost": "Free from your homestay",
+     "image_query": "Kanchenjunga dawn Sillery Gaon", "wiki": "Kangchenjunga",
+     "summary": "Step out of your homestay before sunrise and watch Kanchenjunga turn pink, gold and white to the north-west, with tea in hand and prayer flags in front. No drive, no crowd.",
+     "body": ["Like most villages on the Kalimpong ridges, Sillery Gaon was not built for the view, but it got one anyway. From the ridge the Kanchenjunga range lies to the north-west, beyond the hills of Sikkim. On clear mornings, the summit catches the sun a few minutes before the rest of the range, and the snow turns pink, then gold, then white.",
+              "Ask your hosts to knock 30 minutes before sunrise, about 5.30 am in October and March and after 6 am in December and January. Some homestays have a viewing deck or a garden; otherwise walk a few minutes along the ridge to an open spot. Dress warmly, because dawn in winter is close to freezing.",
+              "Mid-October to early December gives the best odds, with February and March next. Two nights give you two chances, which matters: even in good months, one dawn in three may be cloudy. Photographers should bring a zoom lens to bring the range closer."],
+     "good_for": ["couples", "photographers", "families", "seniors"],
+     "faqs": [
+       {"q": "Can you see Kanchenjunga from Sillery Gaon?", "a": "Yes, on clear days, mostly from October to April. The range lies to the north-west, and many homestays see it from their rooms or gardens. The best time is dawn; cloud usually builds by mid-morning. From June to September it is rarely visible."},
+       {"q": "Is Sillery Gaon better than Kalimpong for views?", "a": "For a quiet dawn from your doorstep, yes. Kalimpong's best views are from Deolo and Durpin, which need a taxi. Sillery Gaon is higher than the town and has no traffic or haze from the bazaar."},
+       {"q": "What time is sunrise in Sillery Gaon?", "a": "Around 6.15 am in December and January, about 5.30–5.45 am in October and March, and earlier in April and May. Be outside 30 minutes before, when the summit first lights up."}
+     ]},
+    {"slug": "sillery-gaon-cinchona-village-walk", "title": "Cinchona slopes and village trails",
+     "kind": "culture", "duration": "2–3 hours", "best_time": "8 am–12 pm or 3–5 pm, Oct–May", "cost": "Free · guide ₹500–800",
+     "image_query": "cinchona plantation Darjeeling hills", "wiki": "Cinchona",
+     "summary": "Walk the trails around Sillery Gaon through pine forest, cardamom groves and the colonial-era cinchona plantations once grown for quinine, with a village guide who can explain who works them and how.",
+     "body": ["The hills around Sillery Gaon carry cinchona plantations, a legacy of British rule. Cinchona bark contains quinine, for long the main treatment for malaria, and in the 19th century the colonial government planted it in the Darjeeling and Kalimpong hills to supply quinine to India's malarial plains. Some local families have worked on the plantations for generations.",
+              "A village walk takes you through these slopes and the pine forest around them, past cardamom growing in the shade, terraces of maize and vegetables, and small shrines. A local guide, about ₹500–800, can explain the plantation work and the farming year, and lead you along paths you would not find alone.",
+              "Walk in the morning or late afternoon, when the light is soft and the views open. Wear shoes with grip, as paths are steep and slippery after rain. Greet people you pass, ask before photographing them, and stay on the paths through fields and plantations."],
+     "good_for": ["students", "families", "solo", "photographers"],
+     "faqs": [
+       {"q": "What is cinchona?", "a": "Cinchona is a tree whose bark contains quinine, long the main drug against malaria. The British planted it in the Darjeeling and Kalimpong hills in the 19th century to supply quinine to India. Plantations still cover parts of the hills around Sillery Gaon."},
+       {"q": "Can I walk through the cinchona plantations?", "a": "You can walk village paths that pass through and beside them, ideally with a local guide. Plantations are working land, so stay on the paths, do not strip bark or pick plants, and ask before photographing workers."},
+       {"q": "Is a guide needed for walks around Sillery Gaon?", "a": "Not for short walks along the ridge, but a guide is worth it for longer trails, Ramitey Dara and Damsang fort. Village guides cost about ₹500–800 for a few hours and add the stories you would otherwise miss."}
+     ]},
+    {"slug": "sillery-gaon-homestay-kitchen", "title": "Squash, gundruk and pickles in a Sillery kitchen",
+     "kind": "food", "duration": "Evening", "best_time": "6–8 pm, all year", "cost": "Included with homestay",
+     "image_query": "Nepali home food dal bhat", "wiki": "Gundruk",
+     "summary": "Eat what the hill families eat: rice, dal, squash and its shoots, mustard greens, gundruk soup in winter and fiery chilli pickles, cooked on a wood or gas stove in your host's kitchen.",
+     "body": ["Homestay meals in Sillery Gaon are hill home cooking, made from what grows around the house. Dinner is usually rice, dal, a vegetable such as squash (iskus) or potato, a leafy green, and a pickle: tomato, radish or the small, very hot round chillies called dalle khursani. Chicken or eggs come on request.",
+              "Seasons change the table. In spring and the monsoon, tender squash shoots and ningro fern tips appear; in winter, gundruk, leafy greens fermented and sun-dried after the autumn harvest, goes into a sour soup. Breakfast is often puri with potato curry, bread and eggs, or noodles. Butter tea or milk tea is always on offer.",
+              "Ask to sit in the kitchen while the meal is cooked; it is the warmest room in the house on a winter evening. Tell your hosts in advance if you do not eat meat, eggs or very spicy food. Taste the dalle khursani pickle with care."],
+     "good_for": ["families", "couples", "solo", "students"],
+     "faqs": [
+       {"q": "What food do Sillery Gaon homestays serve?", "a": "Home-cooked Nepali food: rice, dal, seasonal vegetables such as squash and its shoots, greens, pickles, eggs, and chicken on request. Breakfast is often puri-sabzi, bread and eggs or noodles. Meals are usually included in the rate of ₹1,400–2,200 per person."},
+       {"q": "What is dalle khursani?", "a": "Dalle khursani is a small, round, very hot chilli grown in the Darjeeling and Sikkim hills, often made into a pickle. A little goes a long way. Try a tiny piece with rice before you take more."},
+       {"q": "Can homestays in Sillery Gaon cater for vegetarians?", "a": "Yes, easily. Most daily meals are vegetarian, with dal, vegetables and pickles; meat and eggs are extras. Tell your hosts in advance about restrictions such as no eggs, onion or garlic."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "How do I reach Sillery Gaon from Kalimpong?", "a": "Take a shared jeep from Kalimpong to Pedong (₹80–120, about an hour), then a local car for the last 5–6 km (₹500–800). A reserved car from Kalimpong costs about ₹2,000–2,800 and takes around 1.5 hours."},
+    {"q": "Why is Sillery Gaon called New Darjeeling?", "a": "The nickname was given by travellers and tour sellers for its mountain views and cool climate. It is misleading: Sillery Gaon is a small homestay village with no town, toy train or market. Come for quiet and views, not for a Darjeeling-style hill station."},
+    {"q": "How many days are enough for Sillery Gaon?", "a": "Two nights is ideal: one day for Ramitey Dara and a village walk, one for Damsang fort and Pedong's monastery and Cross Hill, and two chances at a clear Kanchenjunga dawn."},
+    {"q": "What is the homestay price in Sillery Gaon?", "a": "About ₹1,400–2,200 per person per night with dinner and breakfast, depending on the room and season. Rates rise in October, December and on long weekends. Lunch is extra, about ₹150–250."},
+    {"q": "What is the best time to visit Sillery Gaon?", "a": "October to December for clear skies and views, and March to May for mild weather and spring flowers. January and February are cold but often clear. From June to September it is wet and misty, and the steep road from Pedong can be blocked."},
+    {"q": "Is Sillery Gaon on the Silk Route?", "a": "It lies above Pedong, on the Bengal side of the old Kalimpong–Tibet trade road over Jelep La. The Silk Route drive popular today runs through Rongli and Zuluk in East Sikkim. Many tours combine Sillery Gaon with that route via Reshi and Rhenock."},
+    {"q": "Is Sillery Gaon good for families?", "a": "Yes, for families who enjoy simple stays and walks. Choose a homestay with an attached bathroom and hot water. The walk to Ramitey Dara suits older children; younger ones may prefer the village lanes. Nights are cold, so pack warm clothes."},
+    {"q": "Is there mobile network in Sillery Gaon?", "a": "Patchy. Jio and Airtel work in parts of the village, often only at certain spots. Data can be slow. Download maps and tickets before you arrive, and tell family you may be hard to reach."},
+    {"q": "Sillery Gaon or Icchey Gaon: which is better?", "a": "They are similar homestay villages a few kilometres apart, both with Kanchenjunga views. Sillery Gaon is closer to Ramitey Dara and Pedong; Icchey Gaon is a little closer to Kalimpong and Ramdhura. Many travellers stay in one and visit the other."}
+  ]
+}

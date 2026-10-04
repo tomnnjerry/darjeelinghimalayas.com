@@ -1,0 +1,20 @@
+<form class="qform form" method="post" action="{% url 'plan' %}" data-cta-form="{{ qf_id|default:'quick' }}" style="color:var(--ink)">
+  {% csrf_token %}
+  <div><p class="qform__t">{{ qf_title|default:"Get a priced route" }}</p><p class="qform__s">{{ qf_sub|default:"Within one working day. No payment to start." }}</p></div>
+  <input type="hidden" name="kind" value="{{ qf_kind|default:'quick' }}">
+  <input type="hidden" name="source_page" value="{{ request.path }}">
+  {% if qf_land %}<input type="hidden" name="lands" value="{{ qf_land }}">{% endif %}
+  {% if qf_message %}<input type="hidden" name="message" value="{{ qf_message }}">{% endif %}
+  <input type="text" name="website" class="honey" tabindex="-1" autocomplete="off" aria-hidden="true">
+  <div class="field"><label for="{{ qf_id|default:'q' }}-name">Name</label><input id="{{ qf_id|default:'q' }}-name" name="name" required autocomplete="name"></div>
+  <div class="form__row">
+    <div class="field"><label for="{{ qf_id|default:'q' }}-email">Email</label><input id="{{ qf_id|default:'q' }}-email" name="email" type="email" required autocomplete="email"></div>
+    <div class="field"><label for="{{ qf_id|default:'q' }}-phone">WhatsApp <small>(optional)</small></label><input id="{{ qf_id|default:'q' }}-phone" name="phone" type="tel" autocomplete="tel"></div>
+  </div>
+  <div class="form__row">
+    <div class="field"><label for="{{ qf_id|default:'q' }}-month">Month</label><select id="{{ qf_id|default:'q' }}-month" name="month"><option value="">Flexible</option><option>January</option><option>February</option><option>March</option><option>April</option><option>May</option><option>June</option><option>July</option><option>August</option><option>September</option><option>October</option><option>November</option><option>December</option></select></div>
+    <div class="field"><label for="{{ qf_id|default:'q' }}-trav">Travellers</label><input id="{{ qf_id|default:'q' }}-trav" name="travellers" type="number" min="1" max="40" value="2" inputmode="numeric"></div>
+  </div>
+  <button class="btn btn--foil" type="submit">{{ qf_button|default:"Send me the real cost" }}</button>
+  <p class="small muted" style="margin:0">We reply by email{% if wa_base %} or WhatsApp{% endif %}. See our <a href="{% url 'policy' 'privacy' %}">privacy policy</a>.</p>
+</form>

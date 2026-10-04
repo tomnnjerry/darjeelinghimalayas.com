@@ -1,0 +1,68 @@
+{
+  "slug": "kalimpong-morgan-house-heritage-3n",
+  "title": "Kalimpong heritage from Morgan House",
+  "region": "kalimpong",
+  "nights": 3,
+  "themes": ["monasteries", "long-weekends", "food-trails"],
+  "tier": "Comfort",
+  "travel_mode": "Reserved car",
+  "stops": [{"place": "kalimpong", "nights": 3}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 19500,
+  "cost_split": [
+    {"item": "Reserved car NJP or Bagdogra to Kalimpong and back, half the fare", "inr": 4500},
+    {"item": "Morgan House, 3 nights, half a double room", "inr": 7800},
+    {"item": "Meals, tea and snacks", "inr": 3600},
+    {"item": "Kalimpong sightseeing car, one full day and one half day, half share", "inr": 2800},
+    {"item": "Entry fees, nursery visits and donations", "inr": 800}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 1704,
+  "meta_description": "3 nights from ₹19,500 at Morgan House on Durpin hill: Zang Dhok Palri, Thongsa Gompa, Dr Graham's Homes, Tagore's Kalimpong and the town's cheese story.",
+  "summary": "Three nights in Kalimpong for about ₹19,500 per person, staying at Morgan House, the 1930s stone house on Durpin hill now run as a WBTDC heritage lodge. A reserved car brings you up and takes you round the monasteries, mission schools, nurseries and the houses where Tagore and Tibet travellers once stayed.",
+  "intro": [
+    "Morgan House was built in the 1930s by George Morgan, a jute baron, on Durpin hill about 3 km from the town centre. West Bengal's tourism corporation, WBTDC, runs it as a heritage lodge today, with rooms at roughly ₹3,500–6,500 (indicative). Staff and guests trade ghost stories about the house; treat them as folklore, which is what they are. Durpin itself, 1,372 m, is said locally to take its name from durbin, the Nepali word for binoculars or a telescope. Its neighbours are an army golf course and Zang Dhok Palri Phodang, the monastery that holds all 108 volumes of the Kangyur.",
+    "Kalimpong has more layers than most hill towns. Bhutan is said to have taken control in 1706; the Treaty of Sinchula passed it to the British in 1865. Scottish missionaries opened schools from the 1870s, Tibet traders and travellers came through for decades, and Tagore spent long stays here from 1938 to 1940. We keep the pace easy, with a reserved car and no early starts beyond one optional dawn. The drive up normally takes NH10, closed many times since October 2023; drivers then use Gajoldoba and Odlabari, the Gorubathan–Lava road or Darjeeling and Peshok, so check current status before you travel."
+  ],
+  "highlights": [
+    "Three nights at Morgan House, built by jute baron George Morgan in the 1930s",
+    "Zang Dhok Palri on Durpin, home to the 108 volumes of the Kangyur",
+    "Thongsa Gompa, built by the Bhutanese in 1692",
+    "Dr Graham's Homes, begun in 1900 with six children in one cottage",
+    "Kalimpong cheese and lollipops, a legacy of Father André Butty"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Durpin hill by reserved car", "place": "kalimpong", "overnight": "Kalimpong (Morgan House)", "drive": "≈ 3–3.5 h by reserved car, ₹3,500–5,000", "text": "Your car meets you at NJP or Bagdogra; a reserved car to Kalimpong costs ₹3,500–5,000. The usual road crosses the Coronation Bridge at Sevoke, built in 1937–41, and follows NH10 up the Teesta to Teesta Bazar before the 16 km climb to town. NH10 has had repeated closures since October 2023, and drivers then go round by Gajoldoba and Odlabari, the Gorubathan–Lava road or Darjeeling and Peshok, which adds time. Check current status before you travel. Check in at Morgan House, about 3 km above the centre, and walk the lawns before dark. Tashiding Tourist Lodge, a colonial-era building, shares the grounds.", "meals": "Dinner", "spend": "Half of a ₹3,500–5,000 car + ₹500 dinner"},
+    {"day": 2, "title": "Durpin, Deolo and the mission schools", "place": "kalimpong", "overnight": "Kalimpong (Morgan House)", "drive": "Full-day local car, ₹3,000–3,500", "text": "Walk downhill after breakfast to Zang Dhok Palri Phodang, established in 1957 by Dudjom Rinpoche and consecrated by the 14th Dalai Lama in 1976. Then take the car across town to Deolo hill, 1,704 m, Kalimpong's highest point, with a Science Centre on top; tandem paragliding flights cost ₹2,500–4,500 if you want one. At the foot of Deolo are Dr Graham's Homes. The Rev. Dr John Anderson Graham founded them in 1900 as the St Andrew's Colonial Homes for Anglo-Indian children, starting with six children in a cottage. Another Scot, the Rev. William Macfarlane, had opened the first schools here in the early 1870s. It is a working school, so ask before entering.", "meals": "Breakfast, dinner", "spend": "Half of a ₹3,000–3,500 car + ₹300 lunch"},
+    {"day": 3, "title": "Thongsa, Tagore and the Tibet road", "place": "kalimpong", "overnight": "Kalimpong (Morgan House)", "drive": "Half-day local car, ₹1,800–2,500", "text": "Start at Thongsa Gompa, built by the Bhutanese in 1692 and the town's oldest monastery. Then ask your driver to pass the old Himalayan Hotel: David Macdonald, interpreter on the 1904 Younghusband expedition to Tibet and later British trade agent, turned his home into a hotel after retiring in 1924, and Everest climbers stayed there. It is now a luxury spa resort run by Mayfair. Tagore stayed at Gauripur House from 1938 to 1940, and his poem Janmadin was broadcast from Kalimpong on his birthday in 1938. If it is a Wednesday or Saturday, end at the haat bazaar, confirming the day locally. Look for Kalimpong cheese and lollipops.", "meals": "Breakfast, dinner", "spend": "Half of a ₹1,800–2,500 car + ₹300 lunch"},
+    {"day": 4, "title": "An orchid nursery and the road down", "place": "kalimpong", "overnight": "", "drive": "≈ 3–3.5 h by reserved car to NJP or Bagdogra", "text": "About 300 species of orchid grow around Kalimpong, and the town has long been a nursery centre for orchids, gladioli and cacti. After breakfast, visit a nursery before the drive; Pine View Nursery is known for its cactus collection. While you pack, the cheese story is worth knowing. Father André Butty, a Swiss Jesuit refused entry to Tibet in the 1950s, stayed on and set up the Swiss Welfare Dairy, making a gouda-style cheese and the hand-rolled milk sweets called Kalimpong lollipops. The dairy closed in 1990. Leave by late morning: NH10 closures since October 2023 can force long diversions, so check current status before you travel.", "meals": "Breakfast", "spend": "Half of a ₹3,500–5,000 car + ₹200 snacks"}
+  ],
+  "stays": ["kalimpong-morgan-house"],
+  "includes": ["Reserved car NJP or Bagdogra to Kalimpong and back", "3 nights at Morgan House, twin sharing", "One full day and one half day of local sightseeing by car", "Meals, tea and snacks", "Monastery donations, nursery visits and small entry fees"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Paragliding at Deolo, ₹2,500–4,500", "Shopping for cheese, lollipops and crafts", "Tips for drivers and lodge staff"],
+  "save_money": [
+    "Book the Morgan House room directly with WBTDC and ask about weekday and off-season rates, which can sit at the lower end of ₹3,500–6,500.",
+    "Walk from Morgan House down to Zang Dhok Palri on Durpin instead of paying car hours for a stop that is close by.",
+    "Combine the full-day and half-day car into one long day if you are happy with a fuller schedule, saving about ₹1,800–2,500 a car."
+  ],
+  "good_to_know": [
+    "NH10 has had repeated closures since October 2023; diversions run via Gajoldoba and Odlabari, the Gorubathan–Lava road or Darjeeling and Peshok, so check current status before you travel.",
+    "The ghost stories told about Morgan House are folklore; the house was built in the 1930s for George Morgan.",
+    "Dr Graham's Homes is a working school; ask at the gate before you walk in.",
+    "The Himalayan Hotel is now a luxury spa resort, not a budget stay; we include it here only for its history.",
+    "Kalimpong's haat bazaar is usually on Wednesdays and Saturdays; confirm locally."
+  ],
+  "faqs": [
+    {"q": "Is Morgan House in Kalimpong haunted?", "a": "The ghost stories are folklore. Morgan House was built in the 1930s by the jute baron George Morgan, and over the decades staff, drivers and guests have passed ghost stories about it from one to the next. They are local storytelling, not history, and nothing on record supports them. We enjoy them as part of the house's character, and you are free to sleep with the lights on."},
+    {"q": "How do we book Morgan House?", "a": "Morgan House is run by WBTDC, West Bengal's state tourism corporation, so book through the corporation's official booking channels rather than through unknown agents. Rooms cost roughly ₹3,500–6,500 a night, indicative for 2025–26, depending on the room and season. October, November and the Dashain and Tihar holidays fill early, so book a few weeks ahead for those months."},
+    {"q": "How far is Morgan House from Kalimpong town?", "a": "About 3 km, on Durpin hill at around 1,372 m. By car it is 10–15 minutes to the centre, depending on traffic. Zang Dhok Palri Phodang and the army golf course are close by, so you can walk to the monastery. For the market and Thongsa Gompa you will want a car or a taxi, as the road back up is steep."},
+    {"q": "Where did Rabindranath Tagore stay in Kalimpong?", "a": "Tagore stayed at Gauripur House in Kalimpong between 1938 and 1940. In 1938 his poem Janmadin was broadcast from Kalimpong on his birthday. Another Kalimpong house linked to the family is Chitrabhanu, the home of his daughter-in-law Pratima Devi. Ask your driver to point out both; check locally how much of each is open to visitors."},
+    {"q": "What is Kalimpong cheese?", "a": "Kalimpong cheese is a gouda-style cheese first made here by the Swiss Welfare Dairy, set up by Father André Butty, a Swiss Jesuit who was refused entry to Tibet in the 1950s and stayed on. The dairy also made Kalimpong lollipops, hand-rolled milk sweets. It closed in 1990, but others still make both on a small scale; ask in the market."},
+    {"q": "What did David Macdonald have to do with Kalimpong?", "a": "David Macdonald was interpreter on Younghusband's 1904 expedition to Tibet and later a British trade agent. After retiring in 1924 he turned his Kalimpong home into the Himalayan Hotel, where Everest climbers and Tibet travellers stayed. It is now a luxury spa resort under Mayfair, so we mention it for its history rather than as a stay."},
+    {"q": "How much does this heritage trip cost?", "a": "About ₹19,500 per person, twin sharing, from NJP or Bagdogra back again, indicative for 2025–26. That covers half a reserved car each way, three nights at Morgan House, meals, a full day and a half day of local car sightseeing, and small entry fees and donations. Paragliding at Deolo, at ₹2,500–4,500, is extra. Solo travellers pay more, as the room and car are not shared."},
+    {"q": "Is NH10 open for the drive to Kalimpong?", "a": "NH10, from Sevoke up the Teesta to Teesta Bazar, has had repeated landslide and flood closures since the October 2023 Teesta flood. On those days drivers take Gajoldoba and Odlabari, the Gorubathan–Lava road (NH717A) or the long way via Darjeeling and Peshok, which adds time. Your driver will know the day's road, but check current status before you travel."},
+    {"q": "When is the best time for a Kalimpong heritage trip?", "a": "March to May and October to December are best: dry roads, mild days around Kalimpong's 1,247 m and clear evenings on Durpin. January and February are cold but quiet, with lower room rates. July and August bring heavy rain and landslide risk on NH10. Losar in February or March and Dashain and Tihar in October and November add festival life but fill rooms."}
+  ]
+}

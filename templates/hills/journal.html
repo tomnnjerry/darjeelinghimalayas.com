@@ -1,0 +1,10 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}{% if category %}{{ category.name }} · {% endif %}Stories from the hills · Darjeeling Himalayas{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:20px"><div class="phead__body" style="margin-top:0">
+  <p class="eyebrow">Stories from the hills</p><h1 class="h-1">{% if category %}{{ category.name }}{% else %}Read before you pack{% endif %}</h1>
+  <p class="lede">History, food, money, roads and the small facts that make a place make sense.</p>
+  <div class="chips" style="margin-top:20px"><a class="chip" href="{% url 'journal' %}">Everything</a>{% for c in cats %}<a class="chip" href="{% url 'journal_cat' c.slug %}">{{ c.name }}</a>{% endfor %}</div>
+</div></div></header>
+<section class="sec--tight"><div class="wrap grid grid--3">{% for d in posts %}{% include "hills/partials/card_post.html" %}{% empty %}<p>Stories are on their way.</p>{% endfor %}</div></section>
+{% endblock %}

@@ -1,0 +1,78 @@
+{
+  "slug": "north-sikkim-lachung-slow-3n",
+  "title": "Three slow nights in Lachung",
+  "region": "north-sikkim",
+  "nights": 3,
+  "themes": ["homestays", "snow-and-passes", "budget-honeymoons", "monasteries"],
+  "tier": "Value",
+  "travel_mode": "Shared jeeps",
+  "stops": [{"place": "lachung", "nights": 3}],
+  "start": "Gangtok (agent's office or Vajra stand)",
+  "end": "Gangtok",
+  "price_from_inr": 12000,
+  "cost_split": [
+    {"item": "Shared tour seats and permits, Gangtok–Lachung return", "inr": 3500},
+    {"item": "Homestay, 3 nights with dinner and breakfast", "inr": 6000},
+    {"item": "Zero Point add-on, shared share per person", "inr": 1500},
+    {"item": "Lunches, tea and snacks", "inr": 800},
+    {"item": "Boot rental, monastery donation, tips", "inr": 200}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Easy",
+  "max_altitude_m": 4700,
+  "meta_description": "Lachung in 3 nights from Gangtok: Yumthang, Zero Point, the monastery and the Dzumsa village, slowly, from ₹12,000 per person. Costs, permits, road status.",
+  "summary": "Most tours give Lachung one night. This one gives it three: Yumthang and Zero Point on one morning, Lachung's monastery, orchards and Dzumsa village on another, and a buffer for bad weather. About ₹12,000 per person from Gangtok with permits, homestay meals and a shared Zero Point add-on.",
+  "intro": [
+    "Lachung is the most comfortable of North Sikkim's high villages and the one tours rush through fastest. Arrive in the dark, leave for Yumthang at 6 am, back to Gangtok by night: you see the valley, not the village. Three nights changes that. You still do Yumthang and Zero Point, but you also walk up to the 1880 monastery, see the orchards and talk to your hosts about how the Dzumsa council runs the place.",
+    "This trip avoids Gurudongmar and its 5,000-metre altitude, which makes it better for couples who want a calm break, for older travellers, and for foreigners, who can go to Lachung and Yumthang with a Protected Area Permit but not Zero Point. Agents sell it as a shared Lachung tour with extra nights. Check current status before you travel."
+  ],
+  "highlights": [
+    "Yumthang Valley without rushing back to Gangtok",
+    "Snow at Zero Point, about 4,700 m, if the jeep shares the add-on",
+    "Lachung Monastery, founded in 1880, in the quiet afternoon",
+    "Orchard and village walks with a homestay host",
+    "A spare day if snow or landslides change the plan"
+  ],
+  "days": [
+    {"day": 1, "title": "Gangtok to Lachung", "place": "lachung", "overnight": "Lachung", "drive": "≈ 118 km · 6–8 h by shared tour jeep", "text": "Leave Gangtok at 10–11 am once permits are ready. The road runs north past Kabi Lungchok, Phodong and Mangan, with lunch around Mangan or Singhik. At Chungthang, where the Lachen and Lachung rivers meet to form the Teesta, you turn right up the Lachung valley. Arrive in Lachung in the evening at about 2,700 m. Dinner at your homestay, an early night, and a reminder to your driver that you are staying three nights, so the Yumthang trip can be tomorrow or the day after depending on weather.", "meals": "Dinner", "spend": "₹200 lunch + ₹50 tea"},
+    {"day": 2, "title": "Yumthang and Zero Point", "place": "yumthang", "overnight": "Lachung", "drive": "≈ 94 km return · 5–6 h", "text": "Leave at 6 am for Yumthang, 24 km up through the Shingba Rhododendron Sanctuary, and on to Zero Point at about 4,700 m if your vehicle has agreed to the add-on. Spend 30–60 minutes in the snow, drink tea at the stalls, and come back down via the Yumthang hot spring. You are back in Lachung for a late lunch. Rest in the afternoon; the altitude gain is big even for a few hours. If anyone feels unwell, skip Zero Point and spend longer at Yumthang.", "meals": "Breakfast, Dinner", "spend": "₹1,500 Zero Point share + ₹200 boot rental + ₹150 tea"},
+    {"day": 3, "title": "Lachung village, monastery and orchards", "place": "lachung", "overnight": "Lachung", "drive": "", "text": "A day on foot. In the morning, cross to the east bank and walk the orchard lanes with your host; in autumn the maples and larches turn red and gold and apples are picked. After lunch, walk up to Lachung Monastery, a Nyingma gompa founded in 1880, when the tour vehicles have gone and the courtyard is quiet. In the evening ask to sit in the kitchen while dinner is cooked, try butter tea and thenthuk, and ask how the Dzumsa and the Pipon decide village rules.", "meals": "Breakfast, Dinner", "spend": "₹200 lunch + ₹100 monastery donation"},
+    {"day": 4, "title": "Back to Gangtok", "place": "lachung", "overnight": "Gangtok (not included)", "drive": "≈ 118 km · 6–8 h by shared tour jeep", "text": "After breakfast, join a vehicle heading back to Gangtok; your agent will have arranged a seat. If the weather on day two was poor, this morning can be used for Yumthang instead, returning to Lachung before the drive down. Stop at Chungthang to see the confluence and the scars of the 2023 flood, and at Singhik for a last look toward Kanchenjunga if the sky is clear. Reach Gangtok in the evening.", "meals": "Breakfast", "spend": "₹200 lunch + ₹100 snacks"}
+  ],
+  "stays": ["lachung-yarlam-resort"],
+  "includes": [
+    "Shared jeep seats Gangtok–Lachung–Gangtok",
+    "North Sikkim permit processing",
+    "Three nights in a Lachung homestay or small hotel with dinner and breakfast",
+    "Yumthang Valley visit"
+  ],
+  "excludes": [
+    "Zero Point add-on (shared per vehicle)",
+    "Transport between NJP/Bagdogra and Gangtok",
+    "Lunches, snacks and drinks",
+    "Upgrade to Yarlam Resort or similar",
+    "Boot and coat rental"
+  ],
+  "save_money": [
+    "Book the extra Lachung nights directly with a homestay and only the transport and permit through the agent.",
+    "Share Zero Point with the whole vehicle so the ₹3,000–4,500 is split six to ten ways.",
+    "Travel in late October, early November or March, outside the holiday peaks, when rooms are cheaper."
+  ],
+  "good_to_know": [
+    "Foreign nationals can do this trip without Zero Point, with a Protected Area Permit and a registered agent.",
+    "Ask your agent in writing which day's vehicle will take you back to Gangtok.",
+    "In winter, Yumthang and Zero Point may be closed by snow; the spare day helps.",
+    "Check current status before you travel; the North Sikkim road has had long closures since 2023."
+  ],
+  "faqs": [
+    {"q": "Is 3 nights in Lachung too long?", "a": "Not if you want to see the village as well as Yumthang. Two nights covers the sights with a little breathing room; the third gives a full day for the monastery, orchards and village life, and a weather buffer. If you only want photographs of Yumthang, one or two nights is enough."},
+    {"q": "Can I book extra nights in Lachung on a shared tour?", "a": "Yes. Most Gangtok agents can put you on a vehicle up one day and a different vehicle back two or three days later, with your permit dated to match. Tell the agent your dates when booking and confirm the return seat before you leave Gangtok."},
+    {"q": "Can foreigners do this Lachung trip?", "a": "Yes, without Zero Point. Foreign nationals with a Protected Area Permit, in a group of at least two and booked through a registered agent, have been allowed to Lachung and Yumthang. Zero Point is closed to them. Check current status before you travel."},
+    {"q": "What does a Lachung homestay cost per night?", "a": "About ₹1,500–2,500 per person per night with dinner and breakfast in 2025–26. Heated rooms and named hotels cost more. In the peak weeks of May, October and late December, book well ahead and expect the upper end of the range."},
+    {"q": "Is Lachung good for a budget honeymoon?", "a": "Yes. It is calm, scenic and lower than Gurudongmar, so you avoid the hardest altitude. Book one good room with heating for three nights instead of moving every day, and spend the spare day walking the orchards and visiting the monastery."},
+    {"q": "When is the best month for this trip?", "a": "Late April and May for rhododendrons, October and November for clear skies and autumn colour, and March for snow at Yumthang. December to February is very cold with a chance of road closures. Avoid June to August because of monsoon landslides."},
+    {"q": "Do I need to go to Zero Point?", "a": "No. Zero Point adds ₹3,000–4,500 per vehicle and climbs to about 4,700 m. It is worth it for healthy adults who want snow. If you have health concerns, Yumthang at 3,564 m is enough, and you save the money."},
+    {"q": "What if snow closes the road above Lachung?", "a": "With three nights, you can wait a day and try again. If Yumthang stays closed, enjoy Lachung itself, which often has snow in winter. Ask your agent in advance whether any part of the price is refunded for a missed visit."},
+    {"q": "Can I see Gurudongmar on this trip?", "a": "No. Gurudongmar is reached only from Lachen, in the other valley. If you want both, choose a combined Lachen–Lachung trip, ideally with two nights in Lachen. This slow Lachung trip is meant for people who prefer to avoid the 5,000-metre lake."}
+  ]
+}

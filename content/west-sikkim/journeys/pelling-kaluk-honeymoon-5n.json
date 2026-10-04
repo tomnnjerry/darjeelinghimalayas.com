@@ -1,0 +1,79 @@
+{
+  "slug": "pelling-kaluk-honeymoon-5n",
+  "title": "Pelling and Kaluk honeymoon on a budget",
+  "region": "west-sikkim",
+  "nights": 5,
+  "themes": ["budget-honeymoons", "kanchenjunga-views", "monasteries"],
+  "tier": "Comfort",
+  "travel_mode": "Reserved car",
+  "stops": [{"place": "pelling", "nights": 3}, {"place": "kaluk", "nights": 2}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 30000,
+  "cost_split": [
+    {"item": "Reserved car for the whole trip, half share", "inr": 11000},
+    {"item": "Mountain-view rooms, 5 nights with breakfast and dinner", "inr": 14500},
+    {"item": "Lunches and cafes", "inr": 3000},
+    {"item": "Entries, skywalk and a local guide", "inr": 1500}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2200,
+  "meta_description": "5 nights for couples in Pelling and Kaluk with a private car: Kanchenjunga from your room, Pemayangtse, Khecheopalri Lake and orange orchards. From ₹30,000.",
+  "summary": "A five-night honeymoon in West Sikkim with your own car and a room facing Kanchenjunga. Three nights in Pelling for monasteries, the Rabdentse ruins and Khecheopalri Lake, then two quiet nights at Kaluk among orange orchards and village lanes. About ₹30,000 per person, twin sharing, from NJP and back.",
+  "intro": [
+    "Most honeymoon packages to Sikkim crowd a week into Gangtok, Lachung and a lot of driving. We prefer fewer places and longer mornings. Pelling sits at about 2,150 m with the Kanchenjunga range spread across the north-west, and from October to December the peaks often show from sunrise until mid-morning. Kaluk, two hours away on the next ridge, is quieter still: a farming village of oranges, cardamom and slow afternoons, beside the old monastery of Rinchenpong.",
+    "We keep it affordable by choosing good mid-range rooms with a view rather than resorts, and by keeping one car for the whole trip so there is no haggling at stands. Expect a comfortable double room with a window on the range, breakfast and dinner included, a driver who knows the roads, and plenty of time to do nothing. The price assumes two people sharing the room and the car; it is not a luxury trip, and does not pretend to be."
+  ],
+  "highlights": [
+    "A room facing the Kanchenjunga range in Upper Pelling for three mornings",
+    "The Chenrezig statue and glass skywalk on the Sanga Choeling ridge",
+    "Pemayangtse Monastery and a guided walk through the Rabdentse ruins",
+    "A day out to Khecheopalri Lake, Rimbi Falls and Kanchenjunga Falls",
+    "Two slow days at Kaluk among orange orchards and Rinchenpong Monastery"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Pelling by private car", "place": "pelling", "overnight": "Pelling", "drive": "≈ 135 km · 5.5 h by reserved car", "text": "Your driver meets you at NJP station or Bagdogra airport. The road runs along the Teesta past Sevoke and Melli, climbs the Rangeet valley to Jorethang, and goes on through Legship and Geyzing to Pelling. Stop for lunch at Jorethang or Legship. You arrive in the late afternoon at a mountain-view hotel in Upper Pelling, where we suggest asking for a room on an upper floor facing north-west. Take tea on the balcony, watch the light go off the ridges and have an early dinner. Set an alarm for sunrise in case the sky is clear.", "meals": "Dinner", "spend": "₹300–400 lunch per person"},
+    {"day": 2, "title": "Skywalk, Pemayangtse and Rabdentse", "place": "pelling", "overnight": "Pelling", "drive": "≈ 20 km of local driving by reserved car", "text": "After the dawn view, drive up to the Sanga Choeling ridge to see the large Chenrezig statue and walk the glass skywalk opened in 2018; go early, before the day-trippers. Then visit Pemayangtse, the leading Nyingma monastery of Sikkim, founded around 1705. On its top floor is a seven-tiered wooden model of Guru Rinpoche's celestial palace. From near the monastery a forest path leads to the ruins of Rabdentse, Sikkim's capital from 1670. A local guide for this part of the day makes the history clear. The evening is yours.", "meals": "Breakfast, dinner", "spend": "₹100–150 skywalk entry + ₹50 monastery entry + guide share + ₹400 lunch"},
+    {"day": 3, "title": "Khecheopalri Lake and the falls", "place": "pelling", "overnight": "Pelling", "drive": "≈ 80 km round trip · 5 h by reserved car", "text": "A gentle day out on the Yuksom road. Stop at Rimbi Falls, then turn up through forest to Khecheopalri Lake, sacred to Buddhists and Hindus. Its older name, Sho Dzo Sho, is usually read as O lady, sit here. Walk the prayer-flag jetty in silence; the folklore is that birds lift every fallen leaf off the water. Continue a little way along the Yuksom road to Kanchenjunga Falls, at its fullest after rain. You are back in Pelling for a late lunch or an early dinner, with time for a cafe and a slow walk along the ridge road.", "meals": "Breakfast, dinner", "spend": "₹50 lake entry + ₹400 lunch"},
+    {"day": 4, "title": "Pelling to Kaluk and Rinchenpong", "place": "kaluk", "overnight": "Kaluk", "drive": "≈ 40 km · 2 h by reserved car", "text": "After breakfast drive across to Kaluk, about two hours, with time for photographs on the way. Kaluk lies at about 1,600–1,700 m in Soreng district, beside Rinchenpong, and is a place of farms rather than hotels. Check in at a view-facing room in a family-run guesthouse or homestay. In the afternoon walk or drive to Rinchenpong Monastery, built in 1730, which keeps a rare image of the Adi Buddha, Kuntuzangpo, in union with his consort. The sunset over the range from the monastery ridge is reason enough to linger.", "meals": "Breakfast, dinner", "spend": "₹300 lunch + ₹50–100 monastery donation"},
+    {"day": 5, "title": "A slow day at Kaluk", "place": "kaluk", "overnight": "Kaluk", "drive": "", "text": "No driving today. Watch the dawn from the room, then walk the village lanes. From November to January the orange trees are heavy with fruit, and cardamom is drying in the autumn. Walk to the Bishey Pokhari, the poison lake of a local story: Lepcha fighters are said to have poisoned it during the British campaign of 1860–61 so soldiers drinking from it fell ill. If the village heritage house is open, it shows old Lepcha and Sikkimese farm life. Lunch at the guesthouse, a nap, and a last evening of tea and stars.", "meals": "Breakfast, lunch, dinner", "spend": "₹300 lunch + ₹100 entries"},
+    {"day": 6, "title": "Kaluk to NJP or Bagdogra", "place": "kaluk", "overnight": "", "drive": "≈ 125 km · 5 h by reserved car via Jorethang", "text": "Leave after an early breakfast. The road drops to Jorethang and follows the Rangeet down to Melli, then the Teesta to Sevoke and Siliguri. Your driver drops you at NJP station or Bagdogra airport. Allow five hours plus a lunch stop, and keep a wide margin for afternoon traffic near Sevoke and any roadwork on the Teesta stretch. If you want a souvenir, buy a bag of large cardamom or Temi tea in Jorethang bazaar, which costs less than the same thing at the airport.", "meals": "Breakfast", "spend": "₹300–400 lunch per person"}
+  ],
+  "stays": [],
+  "includes": [
+    "One reserved car with driver for all six days, shared by two",
+    "Five nights in mountain-view double rooms with breakfast and dinner",
+    "A budget for lunches and cafe stops",
+    "Skywalk and monastery entries, and a local guide for Pemayangtse and Rabdentse"
+  ],
+  "excludes": [
+    "Train or flight to NJP or Bagdogra",
+    "Sikkim Restricted Area Permit costs for foreign nationals",
+    "Driver's tips and night halts beyond the plan",
+    "Room upgrades, special cakes and decorations",
+    "Alcohol and personal shopping"
+  ],
+  "save_money": [
+    "Fix the car for the whole trip in one deal before you arrive; daily hires from Pelling stands add up to more than a single six-day rate.",
+    "Travel in February, March or the first half of December, when mountain-view rooms in Pelling cost noticeably less than in October and late December.",
+    "Ask for a view room on the floor below the top one; it usually costs less and the Kanchenjunga view is almost the same."
+  ],
+  "good_to_know": [
+    "Indian nationals need no permit for Pelling and Kaluk; foreign nationals need a Sikkim Restricted Area Permit, check current status before you travel.",
+    "The roads via Jorethang and Legship see landslides from June to September; check current status before you travel.",
+    "Kanchenjunga views are most reliable from October to December and in March and April, and best in the first hours after sunrise.",
+    "Kaluk has few shops and no ATM; carry cash from Siliguri, Jorethang or Pelling."
+  ],
+  "faqs": [
+    {"q": "Is Pelling good for a honeymoon on a budget?", "a": "Yes. Pelling has many mid-range hotels with direct views of the Kanchenjunga range, and rooms cost far less than in Gangtok's better hotels. Add two nights at Kaluk for quiet, and you have a calm trip with little driving. Around ₹30,000 per person covers a private car, good rooms with meals and the sights, from NJP and back."},
+    {"q": "Which months are best for a honeymoon in Pelling?", "a": "October to early December for clear mountain views and dry weather, and March to April for rhododendron and magnolia colour with milder nights. December and January are cold but often very clear. Avoid June to August if views matter: the range hides behind cloud and the roads see landslides. Book early for October and the Christmas week."},
+    {"q": "Why a reserved car and not shared jeeps?", "a": "Shared jeeps in West Sikkim run on a few routes and mostly in the morning, which means early starts, changes at Jorethang and waiting at stands. With a private car you leave when you are ready, stop for photographs and keep your luggage with you. For a couple, half the car cost works out to about ₹11,000 each for six days."},
+    {"q": "What kind of rooms are included?", "a": "Clean, comfortable mid-range double rooms with a window or balcony facing the Kanchenjunga range, breakfast and dinner included. Think family-run hotels in Upper Pelling and a good guesthouse or homestay at Kaluk, not five-star resorts. Ask for heating in winter, as nights drop to a few degrees above freezing from December to February, and check the room has a geyser."},
+    {"q": "How far is Kaluk from Pelling?", "a": "About 40 km and two hours by car. Kaluk sits on a ridge in Soreng district, next to Rinchenpong, and has wider, quieter views than Pelling. There are few shared jeeps on this route, which is one reason we keep a reserved car. From Kaluk to NJP or Bagdogra is about 125 km and five hours via Jorethang."},
+    {"q": "Can we see snow on this trip?", "a": "You will see snow on Kanchenjunga and the range in every clear month, but you will not usually walk in it. Pelling and Kaluk sit between 1,600 and 2,200 m, which rarely gets snowfall. For snow underfoot, add a trip to North Sikkim or the passes of East Sikkim, though those roads have had long closures since 2023, so check current status before you travel."},
+    {"q": "Is the glass skywalk at Pelling worth it?", "a": "It is a short, fun walk with a view down the valley and across to the range, and the large Chenrezig statue on the same ridge is impressive. Go early to avoid crowds and haze. Sanga Choeling Monastery, established in 1697, is a forest walk above it and is quieter. The skywalk charges a small entry fee, which may change."},
+    {"q": "Can we add a night in Yuksom?", "a": "Yes, and it is a good addition. Yuksom is about 35–40 km and two hours from Pelling, and was Sikkim's first capital, with the coronation throne at Norbugang from 1642 and Dubdi Monastery above the village. Add a night between Pelling and Kaluk; the Yuksom to Kaluk drive is about three hours. Plan roughly ₹5,500–6,000 more per person."},
+    {"q": "Is there network and Wi-Fi in Pelling and Kaluk?", "a": "In Pelling, Jio and Airtel data work well in most of Upper Pelling, and many hotels have Wi-Fi. At Kaluk the signal is weaker and comes and goes, and Wi-Fi is not guaranteed. For a honeymoon that is no bad thing, but download maps and tickets before you leave Pelling, and let family know you may be offline."}
+  ]
+}

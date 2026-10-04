@@ -1,0 +1,340 @@
+{
+  "slug": "bijanbari",
+  "name": "Bijanbari",
+  "name_local": "",
+  "region": "darjeeling",
+  "kind": "river town",
+  "wiki": "Bijanbari",
+  "image_query": "Bijanbari Darjeeling valley",
+  "lat": 27.1,
+  "lng": 88.21,
+  "altitude_m": 760,
+  "tagline": "A warm valley town on the Little Rangeet, below Pulbazar",
+  "meta_description": "Bijanbari on a budget: the drive down via Ging and Pulbazar, the Little Rangeet valley, jeep fares from Darjeeling, homestays and the back road to Rimbik.",
+  "summary": "Bijanbari is a small, warm market town in the Chhota (Little) Rangeet valley, about 35 km below Darjeeling via Ging and Pulbazar. It drops from Darjeeling's 2,042 m to roughly 760 m, so winters are mild. Come for the descent, river walks, valley farms and the quiet back road to Rimbik.",
+  "local_story": {
+    "title": "Down to the bridge market and the Little Rangeet",
+    "paras": [
+      "Most of Darjeeling's visitors look north to Kanchenjunga. Bijanbari is what lies directly below that view: the valley of the Chhota Rangeet, the Little Rangeet, a river that drains the slopes between the Darjeeling ridge and the Singalila range on the Nepal border. The road from Darjeeling winds down past the tea bushes of Ging tea estate to Pulbazar, whose name simply means bridge market, pul being the Nepali and Hindi word for a bridge, and then on to Bijanbari on the valley floor.",
+      "Bijanbari grew as a market and administrative centre for the scattered farming villages of this valley, and it is the block headquarters today. Its people are mostly Nepali-speaking, with Lepcha families in the older settlements around. The warmth of the valley shapes what they grow: maize and millet on the slopes, oranges in winter, and large cardamom in the shady, damp gullies. Market days bring people down from villages that are still a long walk from any road.",
+      "There are fewer written stories about Bijanbari than about Darjeeling, and we would rather say so than pad it. Some local accounts say a goods ropeway once linked Darjeeling and Bijanbari to carry produce up the hill; we have not been able to confirm the details, so treat it as hearsay until you hear it in the bazaar yourself. What is certain is the road onward via Lodhoma to Rimbik, a quieter back way to the Singalila side."
+    ]
+  },
+  "did_you_know": [
+    "Pulbazar, the market village on the road down to Bijanbari, takes its name from the bridge: pul means bridge in Nepali and Hindi, and bazar means market.",
+    "Bijanbari lies at roughly 760 m, about 1,300 m lower than Darjeeling town, though only around 35 km away by road; the drive passes from cool tea slopes to warm valley farms.",
+    "The road from Bijanbari continues via Lodhoma to Rimbik, the roadhead where most Sandakphu–Phalut treks on the Singalila Ridge come down."
+  ],
+  "intro": [
+    "Bijanbari is not a sightseeing town, and we would not send anyone here for a checklist. It is a working bazaar on the valley floor, with government offices, a school, small eating houses, a jeep stand and the Little Rangeet running past. Its value for travellers is the change it gives you in a single morning: from the cold, crowded ridge of Darjeeling down through tea gardens and terraced villages to a warm river valley where oranges ripen in winter and people dry maize on their roofs.",
+    "Most visitors come on a day drive from Darjeeling, or pass through on the back road to Rimbik and the Singalila treks. A night or two in a village homestay suits people who like slow, ordinary places: river walks, market mornings and conversations at tea stalls. Facilities are basic and information is thin, so carry cash, check road conditions in Darjeeling before you leave, and do not expect English signboards or tourist services."
+  ],
+  "facts": [
+    [
+      "Best months",
+      "Oct – Mar"
+    ],
+    [
+      "Nights we suggest",
+      "0–1 (day trip or en route to Rimbik)"
+    ],
+    [
+      "From Darjeeling",
+      "≈ 35 km · 1.5–2 h via Pulbazar"
+    ],
+    [
+      "Altitude",
+      "≈ 760 m (approximate)"
+    ],
+    [
+      "Known for",
+      "Little Rangeet valley, Pulbazar, Ging tea, back road to Rimbik"
+    ],
+    [
+      "Network",
+      "Usually workable in the bazaar, weak in outer villages"
+    ]
+  ],
+  "best_months": [
+    2,
+    2,
+    2,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "nights": "0–1",
+  "costs": [
+    [
+      "Shared jeep, Darjeeling to Bijanbari",
+      "₹100–150 a seat (indicative)"
+    ],
+    [
+      "Reserved car, Darjeeling to Bijanbari, one way",
+      "₹2,000–3,000"
+    ],
+    [
+      "Car day hire, Darjeeling–Bijanbari–Darjeeling",
+      "₹2,500–4,000"
+    ],
+    [
+      "Village homestay with dinner and breakfast",
+      "₹1,500–2,200 pp"
+    ],
+    [
+      "Rice-dal thali in the bazaar",
+      "₹120–200"
+    ],
+    [
+      "Momos and tea",
+      "₹60–120"
+    ]
+  ],
+  "highlights": [
+    {
+      "title": "The descent from Darjeeling",
+      "text": "In about 35 km the road falls roughly 1,300 m, from Darjeeling's cold ridge through the tea rows of Ging and the village of Pulbazar to the valley floor. Sit on the downhill side of the jeep, and watch the vegetation change from conifers and tea to bamboo, orange trees and maize."
+    },
+    {
+      "title": "Pulbazar, the bridge market",
+      "text": "A small roadside market village whose name means bridge market. Stop for tea and watch the jeeps load sacks of vegetables, cooking gas and school children. It is a good place to see the everyday traffic between the valley villages and Darjeeling town."
+    },
+    {
+      "title": "Ging tea estate",
+      "text": "One of the Darjeeling gardens on the slopes below town, passed on the road down to Pulbazar. The tea rows run steeply into the valley. In the plucking season, roughly March to November, you will see pluckers at work beside the road."
+    },
+    {
+      "title": "The Little Rangeet",
+      "text": "The Chhota Rangeet runs through the valley below Bijanbari over boulders and shingle. Walk down to the bank for a picnic, a cold paddle in winter or simply the sound of water. Stay well back in the monsoon, when it rises fast and turns brown."
+    },
+    {
+      "title": "Valley farms and oranges",
+      "text": "The warm valley grows maize, millet, vegetables and, in damp shady gullies, large cardamom. In November to January, orange trees around the villages are heavy with fruit, and you can often buy a bag straight from a farm family."
+    },
+    {
+      "title": "The back road to Rimbik",
+      "text": "From Bijanbari the road climbs again via Lodhoma towards Rimbik, the roadhead for the Singalila Ridge. It is a slow, quiet route with few tourist vehicles, useful if you are heading to or from a Sandakphu trek and want to avoid retracing the Maneybhanjan road."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Shared jeep",
+      "text": "Shared jeeps run between Darjeeling and Bijanbari through the day, leaving when full from the motor stand area below Chowk Bazaar; ask locally for the current stand. The trip takes about 1.5–2 hours and costs roughly ₹100–150 a seat. Last jeeps back to Darjeeling leave in the early afternoon, so start early on a day trip."
+    },
+    {
+      "mode": "Reserved car",
+      "text": "A car from Darjeeling costs about ₹2,000–3,000 one way or ₹2,500–4,000 for a day trip with waiting. From NJP or Siliguri, most drivers go via Darjeeling: allow 4.5–5.5 hours and ₹4,500–6,000. Check road conditions after rain; landslides on valley roads are common in the monsoon."
+    },
+    {
+      "mode": "Onward to Rimbik",
+      "text": "Jeeps link Bijanbari with Lodhoma and Rimbik, the roadhead for the Singalila Ridge, but services are less frequent than on the Darjeeling side. If you are joining or leaving a Sandakphu trek this way, ask in Bijanbari bazaar the day before and check current status before you travel."
+    }
+  ],
+  "where_to_stay": "Bijanbari has no named tourist properties we can recommend with confidence, so we suggest you treat it as a day trip from Darjeeling or a stop en route to Rimbik. If you want to stay, the villages around the bazaar and on the slopes towards Pulbazar have a few family homestays, usually about ₹1,500–2,200 per person with dinner and breakfast, and the bazaar has simple lodges used by officials and traders. Book through a Darjeeling agent or ask at the jeep stand; check hot water and the road to the door, especially in the monsoon.",
+  "stays": [],
+  "tips": [
+    "Start early from Darjeeling and confirm the time of the last jeep back before you settle in for lunch.",
+    "Carry cash; ATMs in the bazaar may be out of service and card payments are rare.",
+    "Dress in layers: you leave Darjeeling in a jacket and may want a T-shirt by noon in the valley.",
+    "Avoid the river banks from June to September, when the Little Rangeet rises suddenly after rain.",
+    "Ask before photographing people at the market and in the villages; it is a working town, not a tourist stop."
+  ],
+  "themes": [
+    "solo-backpacking",
+    "tea-country",
+    "treks",
+    "homestays"
+  ],
+  "nearby": [
+    "darjeeling",
+    "ghoom"
+  ],
+  "experiences": [
+    {
+      "slug": "bijanbari-pulbazar-descent-drive",
+      "title": "The drive down via Ging and Pulbazar",
+      "kind": "culture",
+      "duration": "Half day",
+      "best_time": "8 am – 1 pm, Oct–Mar",
+      "cost": "Shared jeep ₹100–150 a seat · car ₹2,500–4,000 a day",
+      "image_query": "Darjeeling tea garden valley road",
+      "wiki": "",
+      "summary": "Ride down from Darjeeling's ridge to the warm floor of the Little Rangeet valley, past Ging tea estate and the bridge market at Pulbazar. In 35 km the air, crops and pace of life all change.",
+      "body": [
+        "This is a journey through the layers of a Himalayan hillside. Leaving Darjeeling, the road drops off the north side of the ridge into tea country, where the rows of Ging tea estate cling to slopes that seem too steep to stand on. Below the tea come terraced villages, bamboo clumps and orange trees, and then Pulbazar, a roadside market whose name simply means bridge market. The temperature climbs with every hairpin, and jackets come off one by one.",
+        "Stop at Pulbazar for a glass of tea and watch the jeep traffic: sacks of vegetables going up to Darjeeling, cooking gas and rice coming down, students and office workers squeezed into every seat. Then carry on to Bijanbari, about 760 m above sea level and noticeably warmer, for lunch in a bazaar eating house: rice, dal and a vegetable curry, or a plate of momos. Walk the market lane after lunch. Shops sell farm tools, school uniforms, cooking pots and seasonal produce from the valley, which tells you more about how people live here than any sight could.",
+        "You can do the whole trip by shared jeep for under ₹300 return, or hire a car for flexibility and photo stops along the tea slopes. Start by 8 am; return jeeps thin out in the afternoon, and you do not want to be waiting at a roadside stand as the light goes. Take a sweater for Darjeeling and a T-shirt for the valley. In the monsoon, landslides can close the road for hours, so check current status before you travel and keep the afternoon free in case of delays."
+      ],
+      "good_for": [
+        "solo",
+        "students",
+        "photographers",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "How long is the drive from Darjeeling to Bijanbari?",
+          "a": "About 35 km and 1.5–2 hours each way by shared jeep or car, longer if you stop at Pulbazar and the tea gardens. The road is narrow and winding with a long descent of roughly 1,300 m. Allow a full morning for the round trip if you want lunch in the valley."
+        },
+        {
+          "q": "Is Bijanbari worth a day trip from Darjeeling?",
+          "a": "It is worth it if you want to see ordinary hill life rather than sights. The drive through Ging tea estate and Pulbazar down to a warm river valley is the main attraction. There are no ticketed sights in Bijanbari itself, so go for the journey, the market and a walk by the Little Rangeet."
+        },
+        {
+          "q": "What does Pulbazar mean?",
+          "a": "Pulbazar means bridge market: pul is the word for a bridge in Nepali and Hindi, and bazar means market. It is a small market village on the road between Darjeeling and Bijanbari, and the block that covers this part of the valley takes its name from it."
+        }
+      ]
+    },
+    {
+      "slug": "bijanbari-little-rangeet-riverside-walk",
+      "title": "Riverside walk on the Little Rangeet",
+      "kind": "trek",
+      "duration": "2–3 hours",
+      "best_time": "10 am – 2 pm, Nov–Mar",
+      "cost": "Free",
+      "image_query": "Rangeet river valley Darjeeling",
+      "wiki": "Rangeet River",
+      "summary": "Walk down from Bijanbari bazaar to the boulder-strewn banks of the Chhota Rangeet, past maize terraces, banana clumps and orange trees. An easy, warm winter walk that ends with a picnic beside clear, cold water.",
+      "body": [
+        "The Chhota Rangeet, or Little Rangeet, drains the slopes between the Darjeeling ridge and the Singalila range. It is a tributary of the larger Rangeet, which itself meets the Teesta further east. Below Bijanbari it runs fast and clear in winter over grey boulders and shingle, with farm paths leading down to it from the villages above. In winter its water runs clear; in the monsoon it turns brown and loud, rolling stones down its bed.",
+        "Ask in the bazaar for the nearest path to the river; locals walk down to bathe, wash and fish. The descent passes terraces of maize and millet, banana and orange trees, and houses with corn cobs drying under the eaves. Allow about two to three hours there and back, including a long stop on the bank. Carry water and snacks. Greet people as you pass; a namaste opens most conversations, and children will often show you the quickest path.",
+        "This is a dry-season walk only. From June to September the river rises suddenly after rain upstream, sometimes when the sky above you is clear, the banks become slippery, and leeches appear on the paths. Even in winter, do not swim in deep or fast water, and keep children well back from the edge. Carry your rubbish back up to the bazaar; there are no bins by the river, and plastic left on the banks washes downstream at the first flood."
+      ],
+      "good_for": [
+        "families",
+        "couples",
+        "solo",
+        "students"
+      ],
+      "faqs": [
+        {
+          "q": "Can you swim in the Little Rangeet at Bijanbari?",
+          "a": "We would not. The water is cold, the current is stronger than it looks, and the bed is covered with slippery boulders. A paddle at the edge on a sunny winter day is fine. In the monsoon from June to September stay away from the banks, as the river can rise quickly after rain upstream."
+        },
+        {
+          "q": "Is the river walk at Bijanbari difficult?",
+          "a": "It is easy to moderate: a downhill walk on farm paths and steps, then the same climb back, about two to three hours in all. Wear shoes with grip, carry water and ask locals for the path, as there are no signboards. Avoid it in the heat of a May afternoon."
+        },
+        {
+          "q": "Is the Chhota Rangeet the same as the Rangeet?",
+          "a": "No. The Chhota Rangeet, or Little Rangeet, is a smaller river that drains the valley between the Darjeeling ridge and the Singalila range. It flows into the larger Rangeet, which forms part of the Darjeeling–Sikkim border and later joins the Teesta near Melli and Teesta Bazar."
+        }
+      ]
+    },
+    {
+      "slug": "bijanbari-ging-tea-estate-stop",
+      "title": "Tea rows of Ging on the way down",
+      "kind": "tea",
+      "duration": "1 hour",
+      "best_time": "9–11 am, Mar–Nov",
+      "cost": "Free from the road · tea packets ₹200–600",
+      "image_query": "Ging tea estate Darjeeling",
+      "wiki": "Darjeeling tea",
+      "summary": "Pause on the Bijanbari road among the steep tea rows of Ging tea estate, one of the registered Darjeeling gardens below town. Watch the plucking in season and buy a packet of garden tea in Darjeeling or the local shops.",
+      "body": [
+        "Darjeeling tea is a protected name: only tea grown on the registered gardens of these hills can carry it, and in 2004 it became India's first product with a Geographical Indication tag. Ging is one of those gardens, spread over the slopes that fall away north of Darjeeling town towards the Little Rangeet valley. The road to Bijanbari runs through its tea, giving you close views without a detour. It is a working garden, not a show estate, which is part of its interest.",
+        "From roughly March to November you may see pluckers moving along the rows with baskets on their backs, taking two leaves and a bud. First flush comes in spring, second flush in early summer, and monsoon and autumn flushes after. Stop at a wide bend, stay on the road edge and ask before photographing anyone. The work is careful and quick, and a good plucker fills a basket far faster than any visitor imagines. Leaf is weighed at collection points during the day before it goes to the factory.",
+        "Factory visits at Ging are not a regular tourist service, as far as we know, so do not count on one. For a guided factory tour, Happy Valley Tea Estate, a short walk from Darjeeling town on Lebong Cart Road, is easier. Buy garden-marked tea from reputable shops in Darjeeling rather than unlabelled roadside packets, and look for the garden name, the flush and the grade on the label. Expect about ₹200–600 for 100 g of good garden tea, and more for small special lots of first flush."
+      ],
+      "good_for": [
+        "photographers",
+        "couples",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "Can I visit Ging tea factory?",
+          "a": "We know of no regular tourist visits at Ging's factory, so treat the garden as something you see from the road. Ask locally if you are keen, as estates sometimes allow visitors on working days. For a reliable factory tour, Happy Valley Tea Estate near Darjeeling town is the easier option."
+        },
+        {
+          "q": "When is plucking season in Darjeeling tea gardens?",
+          "a": "Plucking runs roughly from March to November. First flush, light and floral, is picked in March and April; second flush, fuller and muscatel, in May and June; then the monsoon and autumn flushes. From December to February the bushes rest and are pruned, so you will see few pluckers."
+        },
+        {
+          "q": "Where should I buy Darjeeling tea on this route?",
+          "a": "Buy in Darjeeling town from established tea shops that show the garden name, grade and flush on the packet. Roadside packets on village roads are cheaper but often unlabelled blends. Expect about ₹200–600 for 100 g of good garden tea, more for special first-flush lots."
+        }
+      ]
+    },
+    {
+      "slug": "bijanbari-lodhoma-rimbik-back-road",
+      "title": "Back road via Lodhoma to Rimbik",
+      "kind": "adventure",
+      "duration": "Half day by jeep",
+      "best_time": "Morning, Oct–Dec and Mar–Apr",
+      "cost": "Shared jeep fares (ask locally) · reserved car ₹3,000–4,500 (indicative)",
+      "image_query": "Rimbik Darjeeling village road",
+      "wiki": "",
+      "summary": "Leave the Darjeeling crowds behind on the slow valley road from Bijanbari through Lodhoma to Rimbik, the roadhead where most Sandakphu treks finish. Few tourist vehicles, village markets and long views up to the Singalila Ridge.",
+      "body": [
+        "Most Sandakphu trekkers reach the Singalila Ridge from Maneybhanjan and come down at Rimbik. Bijanbari offers a quieter link: from the valley floor the road climbs through Lodhoma, a small market centre, and on to Rimbik in the hills below the ridge. It is useful if you are coming off a trek and want to return to Darjeeling a different way, or want to reach Rimbik without going round by Maneybhanjan.",
+        "The road is narrow and slow, with some broken stretches, and passes farm villages, cardamom gullies and patches of forest, climbing steadily from the warm valley floor into cooler hills. Shared jeeps run on parts of it, but not as often as on the Darjeeling side; ask in Bijanbari bazaar the evening before about times and fares, and be ready to change jeeps at Lodhoma. Small stalls along the way serve tea, noodles and biscuits. Carry snacks and water anyway, because a breakdown or landslide can turn a short hop into a long wait.",
+        "Landslides and road works can close sections, especially from June to September. If you are on a trek schedule, give yourself a buffer day and check current status before you travel. A reserved car gives more control and is easy to share between trekkers, bringing the cost per head close to shared-jeep fares for a group of four or five. Trekkers coming off the Singalila Ridge will find the warm valley a welcome change after nights above 3,000 m, and a hot lunch in Bijanbari a fine way to end the walk."
+      ],
+      "good_for": [
+        "solo",
+        "students",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "Can I go from Bijanbari to Rimbik by road?",
+          "a": "Yes, a road runs from Bijanbari via Lodhoma to Rimbik, the usual end point of Sandakphu treks. Shared jeeps run on the route but less often than on main roads, so ask in Bijanbari the evening before. A reserved car costs roughly ₹3,000–4,500. Check road conditions, especially in the monsoon."
+        },
+        {
+          "q": "Is the Bijanbari route a good way back from a Sandakphu trek?",
+          "a": "It works well if you want a change from the Maneybhanjan road. From Rimbik you drive down via Lodhoma to Bijanbari and then climb to Darjeeling via Pulbazar, seeing the Little Rangeet valley on the way. It is slower than the usual return, so allow most of a day."
+        },
+        {
+          "q": "How long does Bijanbari to Rimbik take?",
+          "a": "Allow roughly two to three hours by jeep, depending on road conditions, stops and the wait for a shared jeep to fill. Times stretch in the monsoon when landslides slow traffic. Ask locally for current timings and check current status before you travel."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is Bijanbari?",
+      "a": "Bijanbari is a small market town in the Chhota (Little) Rangeet valley in Darjeeling district, about 35 km by road below Darjeeling town via Ging tea estate and Pulbazar. It lies at roughly 760 m, much lower and warmer than Darjeeling, and is the block headquarters for this part of the valley."
+    },
+    {
+      "q": "How do I get to Bijanbari from Darjeeling?",
+      "a": "Shared jeeps leave from the motor stand area below Chowk Bazaar in Darjeeling when full, about ₹100–150 a seat and 1.5–2 hours. A reserved car costs about ₹2,000–3,000 one way or ₹2,500–4,000 for a day trip. Start early, as return jeeps thin out in the afternoon."
+    },
+    {
+      "q": "Is Bijanbari worth visiting?",
+      "a": "It is worth it for travellers who like ordinary places and long drives through changing landscapes. The descent through tea gardens and Pulbazar, the river and the market are the attractions. If you want famous sights, viewpoints and cafés, spend the day in Darjeeling or at Tiger Hill instead."
+    },
+    {
+      "q": "What is the weather like in Bijanbari?",
+      "a": "Much warmer than Darjeeling. Winters from December to February are mild and sunny in the valley, when Darjeeling is cold. From April to June it can be hot and sticky, and the monsoon from June to September brings heavy rain, swollen rivers and landslides on the roads."
+    },
+    {
+      "q": "Are there hotels in Bijanbari?",
+      "a": "There are no tourist hotels we can recommend with confidence. The bazaar has simple lodges used by officials and traders, and nearby villages have a few family homestays at about ₹1,500–2,200 per person with meals. Most travellers come on a day trip from Darjeeling or pass through on the way to Rimbik."
+    },
+    {
+      "q": "Can I combine Bijanbari with a Sandakphu trek?",
+      "a": "Yes. The road from Bijanbari continues via Lodhoma to Rimbik, where most Sandakphu–Phalut treks end. Trekkers sometimes return to Darjeeling this way instead of via Maneybhanjan. Jeeps are less frequent, so plan a buffer and check road status before you travel."
+    },
+    {
+      "q": "What is the best time to visit Bijanbari?",
+      "a": "October to March. Skies are clearer, the valley is warm by day, oranges ripen from November to January and river walks are safe. April and May are hot. Avoid June to September, when rain, landslides and a fast-rising Little Rangeet make travel slow and walks unsafe."
+    },
+    {
+      "q": "Is there an ATM and mobile network in Bijanbari?",
+      "a": "Mobile signal is usually workable in the bazaar but weak in outer villages. The town may have an ATM, but do not depend on it; machines in small hill towns often run out of cash or go offline. Carry enough cash from Darjeeling for jeeps, food and any homestay."
+    },
+    {
+      "q": "Is Bijanbari safe for solo travellers?",
+      "a": "Yes, it is a quiet working town where visitors are rare enough to be greeted with curiosity rather than sales pitches. Use normal care: travel in daylight, confirm the last jeep back, and tell someone your plans if you walk to the river or into outlying villages alone."
+    }
+  ]
+}

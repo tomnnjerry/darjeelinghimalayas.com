@@ -1,0 +1,87 @@
+{
+  "slug": "grand-west-and-south-sikkim-8n",
+  "title": "Grand West and South Sikkim loop",
+  "region": "west-sikkim",
+  "nights": 8,
+  "themes": ["monasteries", "kanchenjunga-views", "family-trips", "homestays"],
+  "tier": "Comfort",
+  "travel_mode": "Reserved car",
+  "stops": [
+    {"place": "ravangla", "nights": 2},
+    {"place": "pelling", "nights": 3},
+    {"place": "yuksom", "nights": 2},
+    {"place": "rinchenpong", "nights": 1}
+  ],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 45000,
+  "cost_split": [
+    {"item": "Reserved car with driver, nine days", "inr": 16000},
+    {"item": "Cottages, hotels and a heritage farmstay, 8 nights", "inr": 22000},
+    {"item": "Meals, tea and snacks", "inr": 4500},
+    {"item": "Entries, donations and local guides", "inr": 2500}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2200,
+  "meta_description": "8 nights by private car through Ravangla, Pelling, Yuksom and Rinchenpong: Buddha Park, Pemayangtse, Khecheopalri, Dubdi, Tashiding. From ₹45,000 per person.",
+  "summary": "Eight nights that join the best of South and West Sikkim in one unhurried loop by private car. Ravangla's Buddha and Temi tea, three nights in Pelling for Pemayangtse and Khecheopalri, two in Yuksom where Sikkim began in 1642, and a last night on a heritage farm at Rinchenpong. About ₹45,000 per person.",
+  "intro": [
+    "If you have only one Sikkim trip in you, and North Sikkim's roads are uncertain, this is the one we would plan. It begins in the south, with the 130-ft Buddha at Ravangla and the tea of Temi, crosses the Rangeet valley via Legship to Pelling for the closest Kanchenjunga views in the region, and climbs to Yuksom, where three lamas crowned Sikkim's first Chogyal in 1642. The last night is at Yangsum Heritage Farm in Rinchenpong, among cardamom and oranges, before the run back to the plains.",
+    "The car stays with you all nine days, so there are no early jeep stands and no changes at Jorethang. Drives are kept to three and a half hours or less after the first day, and every stop has at least one full day without packing. Rooms are comfortable rather than grand: Mt Narsing Village Resort near Ravangla, a mountain-view hotel in Upper Pelling, a good guesthouse in Yuksom and the farmstay at Rinchenpong. It works for couples, families and older parents."
+  ],
+  "highlights": [
+    "Ravangla's 130-ft Buddha and an afternoon among the tea rows of Temi",
+    "Three mornings facing Kanchenjunga from Upper Pelling, with Pemayangtse and Rabdentse",
+    "Khecheopalri Lake, sacred to Buddhists and Hindus, and Rimbi Falls",
+    "Norbugang's coronation throne of 1642, Dubdi Monastery and Tashiding",
+    "A last night on a family heritage farm at Rinchenpong"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Ravangla", "place": "ravangla", "overnight": "Ravangla", "drive": "≈ 120 km · 4.5 h by reserved car", "text": "Your driver meets you at NJP station or Bagdogra airport. The road follows the Teesta to Melli, then climbs through Namchi district to Ravangla at about 2,000 m. Stop for lunch in Namchi. You reach Mt Narsing Village Resort, a long-running cottage resort on the edge of Ravangla, in the afternoon. The wooden cottages look across to the Kanchenjunga range, and the garden is pleasant for a slow walk after the drive. Dinner is at the resort. Set an alarm in case tomorrow dawns clear.", "meals": "Dinner", "spend": "₹250 lunch per person"},
+    {"day": 2, "title": "Buddha Park and Temi tea", "place": "ravangla", "overnight": "Ravangla", "drive": "≈ 40 km of local driving by reserved car", "text": "Start at Buddha Park, or Tathagata Tsal, where the 130-ft Buddha was consecrated by the Dalai Lama in March 2013, with Rabong gompa beside it. After lunch drive 18 km to Temi Tea Garden, set up by the Sikkim government in 1969 on the slopes of Tendong Hill. Walk the estate roads, watch the plucking in season and taste the organic tea where the counter is open. If you prefer monasteries to tea, go instead to Ralang, about 13 km away, for the Kagyu monastery of the 1990s and the older 18th-century gompa.", "meals": "Breakfast, dinner", "spend": "₹50–100 Buddha Park entry + ₹200–300 tea tasting + ₹250 lunch"},
+    {"day": 3, "title": "Across the Rangeet to Pelling", "place": "pelling", "overnight": "Pelling", "drive": "≈ 3–3.5 h by reserved car via Legship", "text": "Leave after breakfast and drop down to Legship on the Rangeet, then climb through Geyzing, the district headquarters, to Pelling at about 2,150 m. The drive takes three to three and a half hours with a tea stop. Check in at a mountain-view hotel in Upper Pelling and ask for a room on an upper floor facing north-west. Spend the afternoon resting, then walk to the helipad ground at sunset for the first long look at the range. Pelling's ridge road has small cafes and momo shops for an easy evening.", "meals": "Breakfast, dinner", "spend": "₹300 lunch per person"},
+    {"day": 4, "title": "Skywalk, Pemayangtse and Rabdentse", "place": "pelling", "overnight": "Pelling", "drive": "≈ 20 km of local driving by reserved car", "text": "After the dawn view, drive up to the Sanga Choeling ridge for the Chenrezig statue and the glass skywalk opened in 2018; Sanga Choeling Monastery, established in 1697, is a forest walk above. Later visit Pemayangtse, founded around 1705 and the leading Nyingma monastery of Sikkim; its top floor holds a seven-tiered painted wooden model of Guru Rinpoche's celestial palace. Walk the forest path from near the monastery to the ruins of Rabdentse, Sikkim's capital from 1670 until the Gorkha raids. A local guide for the afternoon makes the history come alive.", "meals": "Breakfast, dinner", "spend": "₹100–150 skywalk entry + ₹50 monastery entry + guide share + ₹300 lunch"},
+    {"day": 5, "title": "Khecheopalri Lake and Rimbi Falls", "place": "pelling", "overnight": "Pelling", "drive": "≈ 60 km round trip · 4 h by reserved car", "text": "Drive out on the Yuksom road to Rimbi Falls, then turn up through forest to Khecheopalri Lake at about 1,700 m, sacred to Buddhists and Hindus. Its older name is Sho Dzo Sho, often read as O lady, sit here, and the whole area belongs to Demazong, the hidden valley of rice blessed by Guru Rinpoche. Walk the prayer-flag jetty quietly. Folklore says birds pick up any leaf that falls on the water. Visit the small gompa in Khecheopalri village above if you have energy, then return to Pelling for a free afternoon.", "meals": "Breakfast, dinner", "spend": "₹50 lake entry + ₹300 lunch"},
+    {"day": 6, "title": "Pelling to Yuksom, the first capital", "place": "yuksom", "overnight": "Yuksom", "drive": "≈ 35–40 km · 1.5–2 h by reserved car", "text": "A short drive brings you to Yuksom at about 1,780 m, with a stop at Kanchenjunga Falls on the way. Check in at a good guesthouse in the village. After lunch walk to Norbugang, where the stone coronation throne stands under an old pine beside a chorten. Here, in 1642, three lamas from Tibet consecrated Phuntsog Namgyal as the first Chogyal of Sikkim, and the name Yuksom is usually explained as the meeting place of the three lamas. Kathok Lake, nearby, gave water for the ceremony. Walk back through the village at dusk.", "meals": "Breakfast, dinner", "spend": "₹300 lunch + ₹50 entries"},
+    {"day": 7, "title": "Dubdi Monastery and Tashiding", "place": "yuksom", "overnight": "Yuksom", "drive": "≈ 38 km round trip · 2 h by reserved car", "text": "Climb to Dubdi Monastery in the cool of the morning, about 45 minutes uphill on a steep forest path. It was built in 1701 under Chogyal Chakdor Namgyal and is often called the oldest monastery in Sikkim. Those who prefer not to climb can visit Tashi Tenka, the old palace site, instead. After lunch drive about 19 km to Tashiding, on its heart-shaped hill between the Rathong Chu and the Rangeet. Founded in 1641, it holds the Thongwa Rangdol chorten, said to cleanse sins by sight alone, and rows of carved mani stones. Return to Yuksom.", "meals": "Breakfast, dinner", "spend": "₹300 lunch + ₹50–100 donations"},
+    {"day": 8, "title": "Yuksom to Rinchenpong farmstay", "place": "rinchenpong", "overnight": "Rinchenpong", "drive": "≈ 3 h by reserved car", "text": "Drive about three hours to Rinchenpong, in Soreng district, and check in at Yangsum Heritage Farm, a family-run farmstay in an old Sikkimese farmhouse among cardamom, oranges and kitchen gardens. Lunch is home-cooked. In the afternoon walk to Rinchenpong Monastery, built in 1730, which keeps a rare image of the Adi Buddha, Kuntuzangpo, in union with his consort. Nearby is the Bishey Pokhari, the poison lake of a local story about Lepcha fighters and British soldiers in 1860–61. Sunset over the range from the farm makes a fitting last evening.", "meals": "Breakfast, lunch, dinner", "spend": "₹50–100 monastery donation"},
+    {"day": 9, "title": "Rinchenpong to NJP or Bagdogra", "place": "rinchenpong", "overnight": "", "drive": "≈ 125 km · 5 h by reserved car via Jorethang", "text": "Take a last walk round the farm before breakfast, then leave for the plains. The road drops to Jorethang and follows the Rangeet down to Melli, then the Teesta to Sevoke and Siliguri. Allow five hours plus a lunch stop, and keep a wide margin before any train or flight; the Teesta stretch has had roadworks and landslide delays since 2023. Your driver drops you at NJP station or Bagdogra airport. Jorethang bazaar is a good last stop for large cardamom, Temi tea and churpi to take home.", "meals": "Breakfast", "spend": "₹300 lunch per person"}
+  ],
+  "stays": ["ravangla-mt-narsing-village-resort", "rinchenpong-yangsum-heritage-farm"],
+  "includes": [
+    "One reserved car with driver for all nine days",
+    "Two nights at Mt Narsing Village Resort near Ravangla and one at Yangsum Heritage Farm, Rinchenpong",
+    "Three nights in a mountain-view hotel in Upper Pelling and two in a good Yuksom guesthouse",
+    "Breakfast and dinner throughout, with a budget for lunches and tea",
+    "Entries, monastery donations and local guides at Pemayangtse, Rabdentse and Yuksom"
+  ],
+  "excludes": [
+    "Train or flight to NJP or Bagdogra",
+    "Sikkim Restricted Area Permit costs for foreign nationals",
+    "Khangchendzonga National Park permits and trek guides",
+    "Driver's tips, alcohol and personal shopping"
+  ],
+  "save_money": [
+    "Travel as a group of four and share one larger car; the transport cost per head drops by about a third.",
+    "Come in February, March or early December, when Pelling's mountain-view rooms are cheaper than in October and the Christmas week.",
+    "Take simple lunches at local canteens in Ravangla, Pelling and Yuksom, where thalis cost ₹150–250, and keep hotel meals for dinner."
+  ],
+  "good_to_know": [
+    "Indian nationals need no permit for any stop on this loop; foreign nationals need a Sikkim Restricted Area Permit, check current status before you travel.",
+    "Roads via Legship, Yuksom and Jorethang see landslides from June to September, and the Teesta road near Melli has had damage since October 2023; check current status before you travel.",
+    "Dubdi and Tashiding are reached by steep paths; anyone who finds steps hard can enjoy the views from below and visit the lake and Norbugang instead.",
+    "Carry cash for Yuksom and Rinchenpong, where ATMs are few or none and card machines are rare."
+  ],
+  "faqs": [
+    {"q": "Is eight nights enough to see West and South Sikkim?", "a": "It is enough to see the main sights without hurrying. This loop covers Ravangla, Temi, Pelling, Khecheopalri, Yuksom, Tashiding and Rinchenpong, with at least one full day at each stop except the last. You miss the far west, such as Uttarey and Barsey, and the treks, which need their own trip with more days and more walking."},
+    {"q": "Why start in Ravangla rather than Pelling?", "a": "Because the loop works best that way. NJP to Ravangla is about 120 km and four and a half hours, a gentler first day than the five and a half hours to Pelling. You then move west across the Rangeet, finish at Rinchenpong and leave via Jorethang, so no road is driven twice and the last day is a manageable five hours."},
+    {"q": "Is ₹45,000 per person a fair price for this trip?", "a": "For two people sharing a room and a private car for nine days, in the main seasons, yes. The car is about a third of the cost and comfortable rooms about half. You could do the same route for much less with shared jeeps and budget rooms, but you would lose time at jeep stands and could not reach Khecheopalri or Tashiding easily."},
+    {"q": "Can we see Kanchenjunga on this trip?", "a": "On clear days, from almost every stop. Pelling has the closest and most famous view, and Ravangla, Yuksom and Rinchenpong all face the range too. October to December gives the most reliable clear mornings, followed by March and April. In the monsoon months the peaks are usually hidden, which is one reason we do not sell this trip from June to August."},
+    {"q": "Is this trip suitable for older parents?", "a": "Mostly, yes. Drives after the first day are three and a half hours or less, and most sights have short walks on paved or gentle paths. The exceptions are the steep climbs to Dubdi Monastery and Tashiding, which older travellers can skip without missing the trip's heart. Ask for ground-floor rooms when booking, especially at Yuksom and Rinchenpong."},
+    {"q": "What is Yangsum Heritage Farm like?", "a": "A family-run farmstay at Rinchenpong in an old Sikkimese farmhouse, surrounded by cardamom, oranges and kitchen gardens. Meals are home-cooked from the farm and the village, and the family can show you around the fields. It is comfortable but simple, more home than hotel. Rates change with the season, so ask the farm directly for the current price."},
+    {"q": "Do we need a guide for this journey?", "a": "Your driver will know the roads and the sights, but a local guide for a few hours at Pemayangtse, Rabdentse and Yuksom adds real depth to the history. Guides usually charge ₹1,000–2,000 for a half day. At Buddha Park, Temi and Khecheopalri the signboards and the places themselves tell enough, and you can go on your own."},
+    {"q": "Can we add a trek to this journey?", "a": "Yes, from Yuksom. A short trek to Tshoka and back takes two to three days; the full Goecha La trek takes eight to ten. Both need a licensed guide, park permits from the Khangchendzonga National Park office and registration, arranged through a registered agency. Rules and permitted routes change between seasons, so check current status before you travel."},
+    {"q": "Can we start from Gangtok instead of NJP?", "a": "Yes. Gangtok to Ravangla is about 65 km and three hours, so you can join the loop on day one after a stay in Gangtok. The rest of the route stays the same, and you return to NJP or Bagdogra from Rinchenpong. The car cost changes slightly, as Gangtok taxis have their own rates and some charge for the empty return."}
+  ]
+}

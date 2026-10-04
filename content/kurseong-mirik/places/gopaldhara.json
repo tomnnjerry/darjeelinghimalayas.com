@@ -1,0 +1,121 @@
+{
+  "slug": "gopaldhara", "name": "Gopaldhara", "name_local": "", "region": "kurseong-mirik",
+  "kind": "tea garden",
+  "wiki": "Gopaldhara Tea Estate", "image_query": "Gopaldhara tea estate Mirik",
+  "lat": 26.923, "lng": 88.162, "altitude_m": 1900,
+  "tagline": "Gopal's stream, one of the highest tea gardens in Darjeeling",
+  "meta_description": "Gopaldhara tea estate between Mirik and Darjeeling: tea grown at 1,700–2,100 m since 1881, the story of its name, high garden walks and how to visit on a budget.",
+  "summary": "Gopaldhara is a tea estate of about 320 hectares on the high slopes between Mirik and Darjeeling, planted from 1881 and growing tea at 1,700–2,100 m, among the highest in Darjeeling. Visit on the drive between Mirik and Darjeeling for cool air, high-grown tea and wide views. Entry to the roads is free.",
+  "local_story": {"title": "A stream that belonged to Gopal", "paras": [
+    "In the estate's own telling, tea planting began here in 1881 on green paddy fields that belonged to a man named Gopal, and the streams that ran through them gave the garden its name: dhara means a stream or spring in Nepali, so Gopaldhara is 'Gopal's stream'. We have no other record of Gopal himself, but the name has outlasted everything else from that time.",
+    "What makes Gopaldhara stand out is height. Its sections run from about 1,700 m to about 2,100 m, among the highest tea in the Darjeeling hills. At that height tea grows slowly in cool air and frequent mist, and the leaf tends to give light, aromatic cups. The estate has become known for experimenting with new styles of tea-making alongside classic Darjeeling black teas, and its name appears on the lists of specialist tea sellers around the world. On the ground, it is a working garden of about 320 hectares, with workers' villages, shade trees and long views down to Mirik's valley."
+  ]},
+  "did_you_know": [
+    "Gopaldhara's tea sections run from about 1,700 m to 2,100 m (5,500–7,000 ft), making it one of the highest tea estates in Darjeeling.",
+    "The estate covers about 320 hectares and traces its first tea planting to 1881.",
+    "In Nepali, dhara means a stream or spring; local water spouts in hill villages are also called dhara."
+  ],
+  "intro": [
+    "Gopaldhara lies on the high ground between Mirik and Darjeeling, where the road climbs out of the Mirik valley through tea and forest towards the Darjeeling ridge. The air is noticeably cooler than at the lake, mist comes and goes through the shade trees, and the bushes grow on steep slopes that seem to hang above the valley.",
+    "It is best seen as part of a drive between Mirik and Darjeeling, with a stop to walk a stretch of estate road and look back down at the valley. Tea lovers can look for Gopaldhara's teas in Mirik and Darjeeling shops; factory access depends on the estate and is not routine. Come in spring for first flush and in autumn for clear air."
+  ],
+  "facts": [["Best months", "Mar – May · Oct – Nov"], ["Nights we suggest", "Stop between Mirik and Darjeeling"], ["From Siliguri", "≈ 65 km via Mirik · 3 h"], ["Altitude", "≈ 1,700–2,100 m"], ["Known for", "High-grown Darjeeling tea"], ["Network", "Jio and Airtel patchy"]],
+  "best_months": [1, 0, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "Stopover",
+  "costs": [["Car from Mirik, return with waiting", "₹1,200–1,800"], ["Mirik–Darjeeling shared jeep, passing the area", "₹150–200 a seat"], ["Mirik–Darjeeling reserved car with stops", "₹2,500–3,200"], ["100 g of estate tea in Mirik or Darjeeling shops", "₹300–1,500 by grade"], ["Tea and snacks at a village stall", "₹50–120"]],
+  "highlights": [
+    {"title": "High tea slopes", "text": "Some of the highest tea bushes in Darjeeling, on sections from about 1,700 m to 2,100 m. Walk a stretch of estate road and feel the cool air that slows the leaf's growth."},
+    {"title": "Views to the Mirik valley", "text": "From the upper slopes you look down over the tea gardens and villages of the Mirik valley, with Nepal's hills to the west on clear days."},
+    {"title": "The story in the name", "text": "Gopal's stream: the estate's own account of tea planted in 1881 on paddy fields belonging to a man called Gopal, crossed by streams."},
+    {"title": "Spring first flush", "text": "In March and April the high sections produce light, aromatic first-flush tea. Look for Gopaldhara teas in shops in Mirik and Darjeeling."},
+    {"title": "Mist and shade trees", "text": "Mist often drifts through the shade trees in the afternoon. It is not a viewpoint stop then, but it is the weather that makes high-grown tea taste the way it does."}
+  ],
+  "how_to_reach": [
+    {"mode": "Reserved car", "text": "Gopaldhara lies roughly midway between Mirik and Darjeeling. On a car transfer between the two (₹2,500–3,200), ask the driver to stop. From Mirik, a return car for a half day costs about ₹1,200–1,800."},
+    {"mode": "Shared jeep", "text": "Mirik–Darjeeling shared jeeps (₹150–200) pass through the area; ask to be dropped near the estate. Continuing needs another jeep, which may be full; allow time."}
+  ],
+  "where_to_stay": "We do not know of established budget stays on the estate itself. Stay in Mirik, where budget hotels in Krishnanagar start around ₹1,200 a double and the GTA's Swiss Cottages sit above the lake, or in Darjeeling. Village homestays on the Mirik side of the hill take guests at about ₹1,200–1,800 per person with meals; ask in Mirik for current names.",
+  "stays": [],
+  "tips": [
+    "Visit in the morning; mist often closes in by afternoon at this height.",
+    "Carry a warm layer: it is several degrees colder than Mirik.",
+    "Do not enter the factory or walk between the bushes without permission.",
+    "Buy tea from established shops and ask for the estate name, flush and date on the pack.",
+    "Combine with the Mirik–Darjeeling drive rather than making a separate trip."
+  ],
+  "themes": ["tea-country", "photography", "kanchenjunga-views"],
+  "nearby": ["mirik", "sourenee", "tingling"],
+  "experiences": [
+    {"slug": "gopaldhara-high-garden-walk", "title": "Walk the high sections of Gopaldhara",
+     "kind": "tea", "duration": "1.5 hours", "best_time": "8–11 am, Mar–May and Oct–Nov", "cost": "Free",
+     "image_query": "high altitude tea garden Darjeeling mist", "wiki": "Darjeeling tea",
+     "summary": "Walk a stretch of estate road through tea growing at up to about 2,100 m, among the highest in Darjeeling. Cool air, slow-growing bushes, shade trees and long views down to the Mirik valley.",
+     "body": [
+       "At Gopaldhara you are walking through tea at a height where many gardens stop. The bushes are often smaller and denser than in the warm lower valleys, and the leaf grows slowly in the cool air, which is part of why high-grown teas are prized for their aroma.",
+       "Walk on the estate road with a driver or local person who knows which stretches are open. In the plucking season you may see pluckers on the slopes; in winter, pruned bushes and maintenance work.",
+       "Keep to the roads, ask before photographing anyone, and turn back when the mist comes in; at this height it can close quickly."
+     ],
+     "good_for": ["couples", "photographers", "seniors"],
+     "faqs": [
+       {"q": "How high is Gopaldhara tea estate?", "a": "Its sections run from about 1,700 m to about 2,100 m (roughly 5,500–7,000 ft), which makes it one of the highest tea estates in Darjeeling. At that height the bushes grow slowly in cool, misty air, which helps give high-grown tea its light, aromatic character."},
+       {"q": "Can I walk in Gopaldhara tea garden?", "a": "You can walk on public and estate roads where access is open; ask locally which ones. Do not walk between the bushes or enter factory areas without permission. Mornings are best, before the mist rises."},
+       {"q": "Why does high-grown tea taste different?", "a": "Cooler temperatures and frequent mist slow the growth of the leaf, which tends to concentrate aroma and give lighter, more fragrant cups. Soil, plant type, plucking and processing matter too, so not every high-grown tea is better, but height is a big part of Darjeeling's character."}
+     ]},
+    {"slug": "gopaldhara-high-grown-tea-tasting", "title": "Taste high-grown Gopaldhara teas",
+     "kind": "tea", "duration": "1 hour", "best_time": "Any time, Mar–Dec", "cost": "₹200–600 for samples and a pot",
+     "image_query": "Darjeeling first flush tea cup leaves", "wiki": "",
+     "summary": "Find Gopaldhara's teas in a Mirik or Darjeeling tea shop and taste a first flush against a second flush. A simple way to understand what height does to tea, without needing a factory visit.",
+     "body": [
+       "Gopaldhara's teas are sold under the estate's name through specialist shops and sellers in India and abroad. In the hills, ask in good tea shops in Mirik and Darjeeling for Gopaldhara first and second flush.",
+       "Brew each at about 90–95 °C for 3–4 minutes, without milk. Compare the light, flowery first flush of spring with the fuller second flush of early summer. Look at the leaf: high-grown first flush often has a lot of green and silvery tips.",
+       "Buy small amounts and ask for the flush and date on the pack. Darjeeling tea is best within a year of manufacture."
+     ],
+     "good_for": ["couples", "seniors", "solo"],
+     "faqs": [
+       {"q": "Where can I buy Gopaldhara tea?", "a": "In specialist tea shops in Darjeeling and Mirik, and from online sellers in India and abroad. We have not confirmed a regular retail outlet at the estate itself; ask locally. Check the pack for the estate name, flush and manufacture date."},
+       {"q": "How should I brew Darjeeling first flush?", "a": "Use about 2–3 g of leaf per cup, water just off the boil at about 90–95 °C, and steep for 3–4 minutes. Drink it without milk. Longer or hotter brewing makes it bitter."},
+       {"q": "Is Gopaldhara tea expensive?", "a": "It depends on the grade and lot. Regular grades cost a few hundred rupees per 100 g, while special first-flush or experimental lots cost much more. Taste before buying large amounts if the shop allows."}
+     ]},
+    {"slug": "gopaldhara-morning-above-the-mist", "title": "Above the valley mist at dawn",
+     "kind": "viewpoint", "duration": "2 hours", "best_time": "Sunrise, Oct–Feb", "cost": "Car ₹1,500–2,000 from Mirik",
+     "image_query": "tea garden mist sunrise Darjeeling hills", "wiki": "",
+     "summary": "Drive up from Mirik before dawn to the high slopes around Gopaldhara and watch the sun rise over a valley full of mist, with tea rows emerging as the cloud burns off.",
+     "body": [
+       "On many winter mornings the Mirik valley fills with mist overnight while the high ground stays clear. From the upper roads around Gopaldhara, at about 1,900–2,100 m, you can look down on that sea of cloud as the sun comes up.",
+       "Arrange a car with your Mirik hotel the night before, leave about an hour before sunrise and ask the driver to find an open bend facing east or south. On the clearest days, snow peaks show to the north.",
+       "Dress warmly; at this height dawn can be close to freezing in December and January. Return to Mirik for breakfast."
+     ],
+     "good_for": ["photographers", "couples"],
+     "faqs": [
+       {"q": "Is it worth driving to Gopaldhara for sunrise?", "a": "On clear winter mornings, yes, especially if the Mirik valley is full of mist below you. It is not a famous viewpoint, so you rely on your driver to find a good bend. If you want a guaranteed mountain view, Darjeeling's viewpoints are more reliable."},
+       {"q": "How cold is Gopaldhara at dawn?", "a": "At about 1,900–2,100 m it is several degrees colder than Mirik. In December and January dawn can be near freezing with wind. Bring a down jacket, gloves and a warm hat."},
+       {"q": "How long is the drive from Mirik to Gopaldhara?", "a": "Roughly 30–45 minutes, depending on which part of the estate you go to. Arrange a car the night before; a return trip with waiting time costs about ₹1,500–2,000."}
+     ]},
+    {"slug": "gopaldhara-tea-village-walk", "title": "Life in a high tea village",
+     "kind": "culture", "duration": "1.5 hours", "best_time": "Late morning, Oct–May", "cost": "Free · guide ₹500–800",
+     "image_query": "Darjeeling tea garden village houses", "wiki": "",
+     "summary": "Walk through one of the workers' villages on the estate with a local guide: small houses, kitchen gardens, a village water spout or dhara, a shrine and children on their way to school.",
+     "body": [
+       "Tea estates in the Darjeeling hills are whole communities. Families live in villages on estate land, many for four or five generations, and their lives are tied to the garden's rhythm: plucking seasons, pruning, festivals and school terms.",
+       "Walk with a local guide or someone from the village. You will see houses with flower pots and kitchen gardens of squash and greens, a dhara or water spout where people collect water, and small temples or prayer flags.",
+       "Be a polite guest: ask before photographing people or homes, do not hand out sweets to children, and accept tea if it is offered."
+     ],
+     "good_for": ["students", "solo", "families"],
+     "faqs": [
+       {"q": "What is a dhara in the Darjeeling hills?", "a": "A dhara is a spring or stream, and in villages it often means a stone or pipe spout where people collect water. Many hill place names include it, Gopaldhara among them. Water from dharas is precious in the dry season, so do not wash or bathe at one."},
+       {"q": "Can tourists visit tea workers' villages?", "a": "Yes, with respect and ideally with a local guide or host. They are private homes, not attractions. Ask before photographing people or houses, keep noise down and follow your guide's advice about where to walk."},
+       {"q": "Who works in Darjeeling tea gardens?", "a": "Mostly Nepali-speaking families, many descended from workers who came from eastern Nepal in the late nineteenth century. Women do most of the plucking; men often work in the factory, on maintenance and in supervision."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "Where is Gopaldhara tea estate?", "a": "Gopaldhara is in the Mirik block of Darjeeling district, on the high slopes roughly midway between Mirik and Darjeeling. Its tea grows at about 1,700–2,100 m, above the Mirik valley."},
+    {"q": "What does Gopaldhara mean?", "a": "According to the estate's account, tea was first planted in 1881 on paddy fields belonging to a man named Gopal, crossed by streams. Dhara means stream or spring in Nepali, so the name means 'Gopal's stream'."},
+    {"q": "Is Gopaldhara one of the highest tea gardens in Darjeeling?", "a": "Yes. With sections up to about 2,100 m (7,000 ft), it is among the highest tea estates in the Darjeeling hills. Several other gardens also grow tea above 2,000 m, so 'one of the highest' is the fair description."},
+    {"q": "Can I visit the Gopaldhara factory?", "a": "Factory visits are not routine and depend on the estate's own rules. We have not confirmed a regular visitor programme. You can walk estate roads that are open and buy Gopaldhara teas in shops in Mirik and Darjeeling."},
+    {"q": "How do I get to Gopaldhara?", "a": "By car on the road between Mirik and Darjeeling; ask your driver to stop. A return trip from Mirik costs about ₹1,200–1,800. Mirik–Darjeeling shared jeeps pass the area for ₹150–200, but continuing afterwards needs another jeep."},
+    {"q": "When is the best time to visit Gopaldhara?", "a": "March to May for first flush and spring, and October to November for clear air and autumn flush. Winter mornings are clear but cold. The monsoon brings heavy mist and rain at this height."},
+    {"q": "Can I stay at Gopaldhara?", "a": "We do not know of established budget stays on the estate. Stay in Mirik or Darjeeling and visit on the drive between them. Village homestays on the Mirik side cost about ₹1,200–1,800 per person with meals."},
+    {"q": "What is special about Gopaldhara tea?", "a": "Height and experiment. Its high sections give light, aromatic teas, and the estate is known among specialist sellers for trying new styles of tea-making alongside classic Darjeeling black teas. Taste a first and a second flush side by side."},
+    {"q": "How much time do I need at Gopaldhara?", "a": "About an hour as a stop on the Mirik–Darjeeling drive, or a half day from Mirik if you add a garden walk and a village visit. Early mornings give the clearest views."}
+  ]
+}

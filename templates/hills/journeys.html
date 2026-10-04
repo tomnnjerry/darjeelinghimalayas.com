@@ -1,0 +1,23 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Budget trips in Darjeeling, Sikkim and the Dooars, priced line by line · Darjeeling Himalayas{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:20px"><div class="phead__body" style="margin-top:0">
+  <p class="eyebrow">Trips with the fare printed</p><h1 class="h-1">Every ticket in the rack</h1>
+  <p class="lede">Shoestring, Value and Comfort trips from NJP or Bagdogra. Each one shows where the money goes: jeeps, beds, food and permits.</p>
+</div></div></header>
+<section class="sec--tight">
+  <div class="wrap">
+    <div class="filters" data-filter-group="#all-trips">
+      <select data-key="region" aria-label="Hill"><option value="">Every hill</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.short }}</option>{% endfor %}</select>
+      <select data-key="tier" aria-label="Budget"><option value="">Every budget</option><option value="Shoestring">Shoestring</option><option value="Value">Value</option><option value="Comfort">Comfort</option></select>
+      <select data-key="length" aria-label="Length"><option value="">Any length</option><option value="short">2–3 nights</option><option value="mid">4–6 nights</option><option value="long">7 nights or more</option></select>
+      <select data-key="themes" aria-label="Way to travel"><option value="">Any way to travel</option>{% for t in themes %}<option value="{{ t.slug }}">{{ t.name }}</option>{% endfor %}</select>
+    </div>
+    <p data-filter-empty hidden class="notice">No ticket matches all of that. <a href="{% url 'plan' %}">Ask us to build one</a>.</p>
+    <div id="all-trips">{% for r in regions %}{% if r.journeys %}<div data-section style="margin-bottom:46px" data-land="{{ r.slug }}">
+      <h2 class="h-2" style="display:flex;align-items:center;gap:12px;margin-bottom:20px"><span class="lbadge lbadge--sm">{% icon r.slug %}</span><a href="{{ r.url }}" style="color:inherit;text-decoration:none">{{ r.name }}</a></h2>
+      <div class="tickets">{% for j in r.journeys %}{% include "hills/partials/ticket.html" %}{% endfor %}</div>
+    </div>{% endif %}{% endfor %}</div>
+  </div>
+</section>
+{% endblock %}

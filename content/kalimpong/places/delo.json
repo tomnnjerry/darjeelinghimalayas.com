@@ -1,0 +1,110 @@
+{
+  "slug": "delo", "name": "Deolo", "name_local": "", "region": "kalimpong",
+  "kind": "viewpoint",
+  "wiki": "", "image_query": "Deolo Hill Kalimpong",
+  "lat": 27.08, "lng": 88.48, "altitude_m": 1704,
+  "tagline": "Kalimpong's highest hill, its water tank and its sunrise seat",
+  "meta_description": "Deolo hill above Kalimpong, 1,704 m: sunrise over Kanchenjunga, paragliding, Dr Graham's Homes, the WBTDC lodge, entry fees and what it costs.",
+  "summary": "Deolo is the hill above Kalimpong, 1,704 m and about 5–6 km from the Motor Stand. It holds the town's water reservoirs, a park with lawns, a government tourist lodge and the paragliding take-off. Come for Kanchenjunga at dawn between October and April, and for an easy half day with children.",
+  "local_story": {"title": "The hill that waters Kalimpong",
+    "paras": ["Deolo is the high northern end of the Kalimpong ridge, and in a town built on a saddle that makes it the obvious place to store water. Reservoirs on the hilltop hold water for the town below; the main supply comes from the Neora river on the far side of Lava, a reminder that the forests of Neora Valley quietly keep Kalimpong going. Around the tanks the municipality and West Bengal Tourism built a park, with lawns, flower beds, a children's play area and a tourist lodge.",
+              "The lower slopes of the hill belong, in spirit at least, to Dr Graham's Homes. When the Rev. Dr John Anderson Graham founded his colonial homes for Anglo-Indian children in 1900, he chose these slopes for a village of cottages, farm and chapel, and the campus still runs up the side of Deolo. Walking from the school up to the hilltop takes you from the Scottish mission era to the town's modern weekend playground in about 2 km.",
+              "In the last twenty years Deolo has also become Kalimpong's paragliding hill. Tandem pilots take off from the slopes and land far below in the valley, and on clear days the sky above the town fills with coloured wings."]},
+  "did_you_know": [
+    "At 1,704 m, Deolo is the highest point around Kalimpong, about 450 m above the bazaar at 1,247 m.",
+    "Kalimpong's Science Centre stands on Deolo hill and is a useful rainy-day stop with children.",
+    "Dr Graham's Homes, founded in 1900 with six children in one cottage, spreads across Deolo's lower slopes."
+  ],
+  "intro": ["Deolo is where Kalimpong goes for a view and a picnic. The hilltop park has lawns, flower beds, a small temple, pony rides and a café, and the slope below is the take-off point for tandem paragliding. On weekends it is busy with local families and day visitors; early in the morning and after 4 pm it is quiet.",
+            "For travellers, Deolo does two jobs. It is the easiest place around Kalimpong to see Kanchenjunga at sunrise, and it is a one-night stop with a difference if you book the West Bengal Tourism lodge on top. Combine it with a walk through Dr Graham's Homes and a visit to the Science Centre for an easy half day."],
+  "facts": [["Best months", "Oct – Dec · Mar – Apr"], ["Nights we suggest", "0–1"], ["From Kalimpong", "≈ 5–6 km · 15–20 min"], ["Altitude", "1,704 m"], ["Known for", "Sunrise, paragliding, park, Dr Graham's Homes"], ["Network", "Jio/Airtel good"]],
+  "best_months": [2, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0–1",
+  "costs": [["Taxi from Kalimpong bazaar", "₹250–400 one way"], ["Park entry", "Under ₹100 pp (indicative)"], ["Tandem paragliding flight", "₹2,500–4,500"], ["Deolo Tourist Lodge (WBTDC) room", "₹2,500–4,500 a night"], ["Tea and snacks at the top", "₹50–150"]],
+  "highlights": [
+    {"title": "Kanchenjunga at dawn", "text": "On clear mornings from October to April, Kanchenjunga turns pink and then white to the north-west, with the hills of Sikkim in front. Be at the top 30 minutes before sunrise; if you are staying in town, book a taxi the night before."},
+    {"title": "Tandem paragliding", "text": "Private operators fly tandem paragliders from Deolo in clear, calm weather outside the monsoon. Flights last about 10–25 minutes and cost ₹2,500–4,500. Check the operator's licence and kit, and expect cancellations in wind or cloud."},
+    {"title": "Dr Graham's Homes", "text": "The cottage campus of the school founded in 1900 covers the slope below the hilltop. Walk the main road through it in daylight, past stone cottages and the chapel, and remember it is a working school."},
+    {"title": "The hilltop park", "text": "Lawns, flower beds and a children's play area around the reservoirs, with pony rides and tea stalls. It is a good place to let children run after a long drive, and pleasant in the late afternoon light."},
+    {"title": "Science Centre", "text": "Kalimpong's Science Centre on Deolo has simple hands-on exhibits for children. It is no big museum, but it is useful on a cloudy day when the view has gone."}
+  ],
+  "how_to_reach": [
+    {"mode": "Taxi", "text": "Taxis from the Kalimpong Motor Stand or your hotel take 15–20 minutes and cost about ₹250–400 one way. For sunrise, agree the pickup time the night before and ask the driver to wait for the return."},
+    {"mode": "On foot", "text": "From the bazaar it is about 5 km uphill, around 1.5 hours, best done through Dr Graham's Homes. Most people take a taxi up and walk down, which is easier on the knees and the lungs."},
+    {"mode": "From Siliguri", "text": "Deolo is reached through Kalimpong, about 75 km from Siliguri. Shared jeeps run to Kalimpong for ₹200–300 a seat; NH10 has had closures since October 2023, so check current status before you travel."}
+  ],
+  "where_to_stay": "The only place to sleep on the hilltop is West Bengal Tourism's Deolo Tourist Lodge, plain government rooms with the sunrise at the door; ask for a north-facing room. Otherwise stay in Kalimpong town, 5–6 km below: budget hotels around the Motor Stand at ₹1,200–2,500, Morgan House and Tashiding Tourist Lodge on Durpin hill, or Holumba Haven's orchid-nursery cottages below town. For a village feel with a similar view, Ramdhura and Icchey Gaon are about 15–18 km away.",
+  "stays": ["delo-deolo-tourist-lodge"],
+  "tips": ["Go at sunrise or after 4 pm: midday on weekends is crowded and hazy.",
+           "Carry a warm layer even in May, because the hilltop is windy.",
+           "Book paragliding through your hotel and check the operator's licence before paying.",
+           "Walk down through Dr Graham's Homes instead of taking the road back.",
+           "Entry fees and paragliding rules change: check current status before you travel."],
+  "themes": ["kanchenjunga-views", "family-trips", "photography", "long-weekends"],
+  "nearby": ["kalimpong", "ramdhura", "icchey-gaon"],
+  "experiences": [
+    {"slug": "delo-sunrise-over-kanchenjunga", "title": "Sunrise over Kanchenjunga from Deolo",
+     "kind": "viewpoint", "duration": "1.5 hours", "best_time": "5–6.30 am, Oct–Apr", "cost": "Taxi ₹500–800 return · small entry fee",
+     "image_query": "Kanchenjunga sunrise from Kalimpong", "wiki": "",
+     "summary": "The easiest sunrise around Kalimpong: a 20-minute taxi ride to the top of Deolo, 1,704 m, and the Kanchenjunga massif to the north-west turning from grey to pink to white above the hills of Sikkim.",
+     "body": ["Kalimpong does not have a Tiger Hill crowd, and Deolo is the reason it does not need one. From the top of the hill, at 1,704 m, the view opens north-west across the Teesta valley to the hills of Sikkim and, behind them, the Kanchenjunga massif. On a clear winter morning the top of the mountain catches the sun several minutes before anything else.",
+              "Book a taxi the night before for about 30 minutes before sunrise: roughly 5.30 am in October and March, nearer 6.15 am in December and January. A return trip with waiting costs about ₹500–800. Wear a warm jacket, a cap and gloves in winter, when it is often near freezing at dawn. If you are staying at the Deolo Tourist Lodge, simply walk out of the door.",
+              "Clear dawns are most likely from mid-October to early December and again in February and March. In the monsoon, from June to September, you will rarely see the peaks. If the mountain does not come out, wait 20 minutes; cloud often lifts briefly just after sunrise. Afterwards, walk down through Dr Graham's Homes for breakfast in town."],
+     "good_for": ["couples", "photographers", "families", "first-timers"],
+     "faqs": [
+       {"q": "Is Deolo better than Durpin for sunrise?", "a": "Deolo is higher, at 1,704 m against Durpin's 1,372 m, and has a wider view north towards Kanchenjunga, so most people prefer it for sunrise. Durpin is better combined with morning prayers at Zang Dhok Palri. On a two-night stay, try one dawn at each."},
+       {"q": "Is Deolo park open at sunrise?", "a": "The viewpoint area is usually accessible at dawn, while the park facilities, ticket counter and stalls open later in the morning. Rules can change, especially for vehicles, so ask your hotel or driver the evening before and check current status before you travel."},
+       {"q": "When can you see Kanchenjunga from Kalimpong?", "a": "The clearest months are October to December and February to April. January is often clear but cold. From June to September monsoon cloud usually hides the peaks. Early morning is best; cloud builds through the day."}
+     ]},
+    {"slug": "delo-tandem-paragliding", "title": "Tandem paragliding off Deolo hill",
+     "kind": "adventure", "duration": "1–2 hours including waiting", "best_time": "10 am–2 pm, Oct–May on calm clear days", "cost": "₹2,500–4,500 per flight",
+     "image_query": "paragliding Kalimpong Deolo", "wiki": "",
+     "summary": "Fly tandem with a pilot from Deolo's slopes over Kalimpong and the Relli valley. Flights last 10–25 minutes and need calm, clear weather; no experience needed, but book with a licensed operator.",
+     "body": ["Deolo's open slopes and the drop to the valleys below make it Kalimpong's paragliding hill. Private operators run tandem flights, where you are strapped in front of a trained pilot who does all the flying. After a short run down the slope you are airborne, with the town, Dr Graham's Homes and the river valleys spread out beneath you.",
+              "Prices depend on flight length: about ₹2,500 for a short flight and up to ₹4,500 for a longer one, with extra for photos or video. Flights are possible on calm, clear days outside the monsoon, generally from October to May. Wind or low cloud can stop flying for hours, so keep your schedule loose and be ready to wait.",
+              "Choose an operator through your hotel and ask about licensing, insurance and equipment. Wear closed shoes, a jacket and sunglasses. There are weight limits, typically about 20–100 kg, and people with heart, back or pregnancy concerns should not fly. Rules and operators change, so check current status before you travel."],
+     "good_for": ["couples", "students", "solo"],
+     "faqs": [
+       {"q": "How much does paragliding in Kalimpong cost?", "a": "A tandem flight from Deolo costs about ₹2,500–4,500 depending on length, usually 10–25 minutes, with extra for photos or video. Prices vary by operator and season. Pay only after confirming the flight time and safety kit, and check current status before you travel."},
+       {"q": "Is paragliding in Kalimpong safe?", "a": "Tandem flights with trained pilots are generally safe in good weather, but it is an adventure sport with real risk. Choose an operator recommended by your hotel, ask about licensing and insurance, check the harness and helmet, and do not fly in wind or cloud. Follow the pilot's instructions exactly."},
+       {"q": "What is the best time for paragliding at Deolo?", "a": "October to May, on calm, clear days, usually late morning to early afternoon. The monsoon from June to September brings rain and cloud that stop most flights. Even in the dry season, wind can ground flights for hours, so keep a flexible plan."}
+     ]},
+    {"slug": "delo-grahams-homes-downhill-walk", "title": "Downhill walk from Deolo through Graham's Homes",
+     "kind": "trek", "duration": "1.5–2 hours", "best_time": "8–11 am, Oct–May", "cost": "Free · taxi up ₹250–400",
+     "image_query": "Dr Graham's Homes Kalimpong chapel", "wiki": "Dr. Graham's Homes",
+     "summary": "Take a taxi to the top of Deolo and walk 5 km downhill to Kalimpong through the cottage campus of Dr Graham's Homes, founded in 1900. Easy on the lungs, gentle on the budget, and full of Scottish mission history.",
+     "body": ["The road down from Deolo is the best short walk around Kalimpong. You start at the hilltop park, 1,704 m, and drop about 450 m to the bazaar over roughly 5 km. The first stretch passes pine and the edge of the park; then the road enters the campus of Dr Graham's Homes, where stone cottages, each named after an early donor, stand among lawns and old trees.",
+              "The school was founded in 1900 by the Rev. Dr John Anderson Graham as the St Andrew's Colonial Homes, starting with six Anglo-Indian children in one cottage. The idea of small family cottages, instead of a single orphanage block, shaped the whole hillside. Look for the chapel and the farm buildings. It is a working school, so stay on the road, keep voices down near classrooms and do not photograph students.",
+              "Below the school the road joins the town's upper lanes and comes down near the bazaar. Allow 1.5–2 hours with stops. Wear shoes with grip, because the steeper stretches are slippery after rain. In the monsoon expect leeches on grassy edges."],
+     "good_for": ["families", "couples", "seniors", "solo"],
+     "faqs": [
+       {"q": "How long is the walk from Deolo to Kalimpong?", "a": "About 5 km, all downhill, taking 1.5–2 hours with stops. It drops roughly 450 m from 1,704 m at Deolo to the bazaar at about 1,250 m. It is easy for most walkers, but the steep stretches are hard on the knees and slippery after rain."},
+       {"q": "Can I walk through Dr Graham's Homes?", "a": "The main road through the campus is generally open to walkers in daylight. It is a working school, so stay on the road, do not enter buildings and do not photograph children. During exams or events access may be limited; check current status before you travel."},
+       {"q": "Do I need a guide for the Deolo walk?", "a": "No. The route follows roads and is easy to find; ask locals for 'Graham's Homes' and then 'bazaar' at junctions. A guide is only useful if you want the school's history in detail or plan longer village trails beyond the town."}
+     ]},
+    {"slug": "delo-lodge-night-and-stargazing", "title": "A night on Deolo after the crowds leave",
+     "kind": "viewpoint", "duration": "Overnight", "best_time": "Oct–Dec, Feb–Apr", "cost": "₹2,500–4,500 a room (indicative)",
+     "image_query": "Kalimpong night lights hill", "wiki": "",
+     "summary": "Stay one night at the West Bengal Tourism lodge on top of Deolo: evening light over the valley, the lights of Kalimpong below, stars on clear winter nights and Kanchenjunga at the door at dawn.",
+     "body": ["Most people see Deolo for an hour in the middle of the day, when the park is busy and the haze has risen. Stay the night and you get the hill at its best. By 5 pm the day visitors and pony men have gone, and the light goes gold across the valley towards Sikkim. As it gets dark, the lights of Kalimpong appear below and the villages across the valley twinkle on.",
+              "On clear nights from October to March, with no town glare above you, the stars are bright, and the cold is sharp: expect 3–8 °C in December and January. The lodge rooms are simple; ask for extra blankets or a heater. Dinner is basic and needs to be ordered early.",
+              "The point of it all comes at dawn, when you step out and Kanchenjunga is there to the north-west without a drive in the dark. After breakfast, walk down through Dr Graham's Homes to town. One night is enough; pair it with two nights in Kalimpong or Durpin."],
+     "good_for": ["couples", "photographers", "families", "seniors"],
+     "faqs": [
+       {"q": "How do I book Deolo Tourist Lodge?", "a": "It is run by West Bengal Tourism Development Corporation, so book it through the WBTDC online booking site or their offices in Kolkata and Siliguri. Weekends and holidays fill early. Carry your voucher and ID. Rates change, so check current status before you travel."},
+       {"q": "Is it very cold on Deolo at night?", "a": "In winter, yes: around 3–8 °C at night from December to February, sometimes lower, and the hilltop is windy. Spring and autumn nights are about 8–14 °C. Pack a down jacket, cap and gloves, and ask the lodge for extra blankets or a heater."},
+       {"q": "Is there food on Deolo hill in the evening?", "a": "Stalls close by early evening, so plan to eat at the lodge, ordering dinner by late afternoon. Meals are simple Indian and Chinese dishes. If you want more choice, eat in Kalimpong town before you drive up, or carry snacks."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "What is the entry fee for Deolo hill?", "a": "Day visitors pay a small entry fee to the Deolo park, usually under ₹100 per person, with extra for cameras or vehicles at times. Paragliding, pony rides and food are paid separately. Fees change, so check current status before you travel."},
+    {"q": "How far is Deolo from Kalimpong town?", "a": "About 5–6 km from the Motor Stand, a 15–20 minute taxi ride costing about ₹250–400 one way. On foot it takes about 1.5 hours uphill, or around 1.5–2 hours down through Dr Graham's Homes."},
+    {"q": "Is Deolo the same as Delo?", "a": "Yes. The hill is spelled Deolo, Delo and sometimes Dello on signs and maps. All refer to the hill at 1,704 m on the northern end of the Kalimpong ridge, with the park, lodge and paragliding take-off on top."},
+    {"q": "Can you see Kanchenjunga from Deolo?", "a": "Yes, on clear days, best at sunrise between October and April. The massif rises to the north-west above the hills of Sikkim. From June to September monsoon cloud usually hides it. Cloud builds by mid-morning even in good months, so go early."},
+    {"q": "Is Deolo good for children?", "a": "Yes. The hilltop park has lawns, flower beds, a play area, pony rides and space to run, and the Science Centre is nearby. Keep children away from the slope edges and the paragliding take-off. Late afternoon is pleasant; midday weekends are crowded."},
+    {"q": "How long should I spend at Deolo?", "a": "One to two hours is enough for the view and the park, or a half day if you add paragliding and the walk through Dr Graham's Homes. Stay one night at the lodge only if sunrise without a pre-dawn drive matters to you."},
+    {"q": "What is the best time of day to visit Deolo?", "a": "Sunrise for Kanchenjunga, or after 4 pm for soft light and fewer people. Late morning on weekends is the busiest and haziest. Paragliding usually runs from late morning to early afternoon in calm weather."},
+    {"q": "Is paragliding available at Deolo all year?", "a": "No. Flights run mainly from October to May on calm, clear days, and stop in the monsoon from June to September. Even in season, wind or cloud can halt flying for hours. Book through your hotel and check current status before you travel."},
+    {"q": "Can I walk from Deolo to Durpin?", "a": "Yes, but it is a long town walk of about 8–9 km through the bazaar, with a steep climb to Durpin at the end. Most people take a taxi between the two hills, about ₹350–500, and walk one downhill stretch instead."}
+  ]
+}

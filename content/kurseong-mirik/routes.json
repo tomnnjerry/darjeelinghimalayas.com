@@ -1,0 +1,76 @@
+[
+  {"slug": "siliguri-to-kurseong", "from": "siliguri", "to": "kurseong", "distance_km": 47,
+   "summary": "Siliguri to Kurseong is about 35–50 km depending on the road: 1.5–2 hours by the steep Rohini road or 2–2.5 hours by the old Hill Cart Road past Tindharia. Shared jeeps cost ₹150–200 a seat; the toy train takes much longer and runs only when the line is open.",
+   "options": [
+     {"mode": "Shared jeep", "time": "1.5–2.5 h", "fare": "₹150–200 a seat", "text": "Jeeps leave from the Hill Cart Road stands near Siliguri Junction and the Tenzing Norgay bus terminus when full, from about 7 am to mid-afternoon. Most use the faster Rohini road. Ask for a front seat if you get carsick, and keep small notes for the fare."},
+     {"mode": "Reserved car", "time": "1.5–2 h", "fare": "₹2,000–2,800 a car", "text": "A car from NJP, Bagdogra or Siliguri can stop where you like: at Tindharia for the railway loops on the old road, or at a tea garden. Agree whether the driver will take Rohini road or Hill Cart Road, and travel in daylight."},
+     {"mode": "Toy train", "time": "5–6 h when running", "fare": "Check IRCTC; varies by class", "text": "The Darjeeling Himalayan Railway climbs from NJP through Sukna, Rangtong, Tindharia and Gayabari to Kurseong, with loops and zig-zag reverses. Lower-section services have been suspended for long periods by landslides at Pagla Jhora and Tindharia. Book on IRCTC and check current status before you travel."}
+   ],
+   "stops_on_way": ["Sukna and the edge of Mahananda Wildlife Sanctuary", "Rohini tea garden (Rohini road)", "Tindharia railway workshop and loops (Hill Cart Road)", "Pagla Jhora landslide stretch (Hill Cart Road)"],
+   "tip": "Take the Hill Cart Road one way to see Tindharia and Pagla Jhora, and the Rohini road the other way to save time.",
+   "faqs": [
+     {"q": "Which is better, Rohini road or Hill Cart Road?", "a": "Rohini road is shorter and faster, about 1.5–2 hours, but very steep with tight hairpins. Hill Cart Road is longer, 2–2.5 hours, and follows the toy train past Tindharia and the Pagla Jhora landslide zone. Landslides sometimes close one; drivers choose the open road on the day."},
+     {"q": "What is Pagla Jhora?", "a": "Pagla Jhora, roughly 'mad stream', is a stretch of Hill Cart Road and the toy train line below Kurseong where a torrent runs down an unstable slope. It has caused repeated landslides; one in 2010 cut the railway and helped suspend lower-section train services for years. Pass through quickly and do not stop on the slide."},
+     {"q": "How early do jeeps leave Siliguri for Kurseong?", "a": "The first jeeps usually leave around 7 am and run until mid-afternoon, leaving when full. Morning departures fill fastest. After about 3–4 pm they become scarce, and you may have to reserve a whole car."},
+     {"q": "Can I get to Kurseong directly from Bagdogra airport?", "a": "Yes, by reserved car, about 2 hours, ₹2,000–2,800. For a cheaper option, take a shared auto or taxi to Siliguri (about 30 minutes) and then a shared jeep to Kurseong for ₹150–200."}
+   ]},
+  {"slug": "siliguri-to-mirik", "from": "siliguri", "to": "mirik", "distance_km": 52,
+   "summary": "Siliguri to Mirik is about 52 km via Matigara and Dudhia, 2–2.5 hours. The road crosses the Balason at Dudhia and climbs through the tea gardens of Tingling and Sourenee. Shared jeeps cost ₹150–200 a seat; a reserved car ₹2,200–3,000.",
+   "options": [
+     {"mode": "Shared jeep", "time": "2–2.5 h", "fare": "₹150–200 a seat", "text": "Jeeps for Mirik leave from stands near Siliguri Junction and Hill Cart Road when full, mostly in the morning and early afternoon. The road is good, with a steep climb after Dudhia. Ask locally for the current stand, which moves from time to time."},
+     {"mode": "Reserved car", "time": "2 h", "fare": "₹2,200–3,000 a car", "text": "A car from NJP or Bagdogra lets you stop at Dudhia on the Balason, Tingling viewpoint and the Sourenee tea slopes. Plan an extra hour for these stops. Agree the stops when you book."},
+     {"mode": "Bus", "time": "2.5–3 h", "fare": "₹80–150", "text": "A few state buses run between Siliguri and Mirik. They are slower and cheaper than jeeps, with fixed timings. Ask at the Tenzing Norgay bus terminus for the current schedule."}
+   ],
+   "stops_on_way": ["Matigara", "Dudhia on the Balason river", "Tingling viewpoint", "Sourenee tea estate"],
+   "tip": "Ask the driver to stop at Tingling on the way up in the morning, when the light on the tea slopes is best.",
+   "faqs": [
+     {"q": "How long does it take from Siliguri to Mirik?", "a": "About 2–2.5 hours for the 52 km by jeep or car, more with stops. The first half is flat to Dudhia; then the road climbs steeply through tea gardens. Weekend and holiday traffic out of Siliguri can add 30–60 minutes."},
+     {"q": "Is the Siliguri to Mirik road good?", "a": "It is generally a good, paved hill road. The section above Dudhia is steep with many bends, and monsoon rain can cause small slides and slowdowns. Travel in daylight and check current status before you travel in July and August."},
+     {"q": "What is Dudhia?", "a": "Dudhia is the riverside stop where the Mirik road crosses the Balason river, about an hour from Siliguri. It has a bridge, a stony river bed and food stalls, and Siliguri families picnic there. The river rises fast after rain, so do not swim in the monsoon."},
+     {"q": "Can I go from NJP straight to Mirik?", "a": "Yes. A reserved car from NJP to Mirik costs about ₹2,200–3,000 and takes about 2–2.5 hours. For less, take an auto or local taxi from NJP to Siliguri and then a shared jeep to Mirik for ₹150–200."}
+   ]},
+  {"slug": "kurseong-to-darjeeling", "from": "kurseong", "to": "darjeeling", "distance_km": 32,
+   "summary": "Kurseong to Darjeeling is about 32 km up Hill Cart Road, 1.5 hours by shared jeep for ₹100–150. The toy train covers the same stretch in about 2.5–3 hours via Tung, Sonada and Ghoom when services run.",
+   "options": [
+     {"mode": "Shared jeep", "time": "1.5 h", "fare": "₹100–150 a seat", "text": "Jeeps leave the Kurseong stand near the station when full, throughout the day. The road climbs with the railway alongside, through Tung, Sonada and Ghoom. Sit on the left going up for valley views."},
+     {"mode": "Toy train", "time": "2.5–3 h", "fare": "Check IRCTC; varies by class", "text": "The Darjeeling Himalayan Railway runs from Kurseong through Tung, Sonada and Ghoom, the highest station on the line at 2,258 m, and loops round Batasia before Darjeeling. Services and timings change; book on IRCTC and check current status before you travel."},
+     {"mode": "Reserved car", "time": "1–1.5 h", "fare": "₹1,800–2,500 a car", "text": "A car lets you stop at Sonada, Ghoom monastery or the Batasia Loop on the way. Agree the stops in advance; extra waiting time may be charged."}
+   ],
+   "stops_on_way": ["Tung", "Sonada", "Ghoom and Yiga Choeling monastery", "Batasia Loop"],
+   "tip": "Ride the toy train up and take a shared jeep down, so you get the railway experience without spending a whole day on it.",
+   "faqs": [
+     {"q": "Is the toy train from Kurseong to Darjeeling worth it?", "a": "Yes, if it is running and you have the time. The 2.5–3 hour ride climbs through village bazaars and forest to Ghoom and loops round Batasia. It is slower than a jeep but far more memorable. Seats are limited; book on IRCTC in advance."},
+     {"q": "How much is a shared jeep from Kurseong to Darjeeling?", "a": "About ₹100–150 a seat, for a ride of roughly 1.5 hours. Jeeps leave from the stand near Kurseong station when full, frequently in the morning and less often in the late afternoon."},
+     {"q": "Can I do a day trip from Kurseong to Darjeeling?", "a": "Yes. Leave Kurseong by 8 am by jeep, spend the day in Darjeeling and return by a jeep before about 4 pm, when they thin out. A reserved car gives more flexibility for about ₹3,000–4,000 for the day."},
+     {"q": "Is the Kurseong–Darjeeling road open all year?", "a": "Usually, yes. Monsoon landslides can cause delays between June and September, and fog reduces speed in winter evenings. Check current status before you travel during heavy rain."}
+   ]},
+  {"slug": "mirik-to-darjeeling", "from": "mirik", "to": "darjeeling", "distance_km": 49,
+   "summary": "Mirik to Darjeeling is about 49 km, around 2 hours, climbing through the high tea of the Gopaldhara area and over the ridge via Sukhia Pokhari and Ghoom. Shared jeeps cost about ₹150–200; a reserved car ₹2,500–3,200.",
+   "options": [
+     {"mode": "Shared jeep", "time": "2–2.5 h", "fare": "₹150–200 a seat", "text": "Jeeps leave Mirik's stand in the bazaar when full, mostly in the morning. The road climbs out of the valley through tea estates to the ridge at Sukhia Pokhari, then on through Ghoom to Darjeeling."},
+     {"mode": "Reserved car", "time": "2 h", "fare": "₹2,500–3,200 a car", "text": "A car allows stops at the high tea slopes around Gopaldhara and at Ghoom. In clear weather, ask the driver to pause at open bends near the ridge for views."}
+   ],
+   "stops_on_way": ["Gopaldhara tea estate area", "Sukhia Pokhari", "Jorebunglow", "Ghoom"],
+   "tip": "Leave Mirik in the morning to cross the high ridge before afternoon mist and to reach Darjeeling in time to find a room.",
+   "faqs": [
+     {"q": "How long does Mirik to Darjeeling take?", "a": "About 2 hours by car and 2–2.5 hours by shared jeep for the 49 km. The road climbs from about 1,495 m at Mirik to about 2,250 m on the ridge near Ghoom, then drops slightly into Darjeeling. Fog can slow the high section in winter evenings."},
+     {"q": "Are there shared jeeps from Mirik to Darjeeling?", "a": "Yes, from the Mirik bazaar stand, mainly in the morning, for about ₹150–200 a seat. Later in the day they become scarce. If you miss them, you can go via Siliguri or hire a car."},
+     {"q": "What can I see on the Mirik–Darjeeling road?", "a": "High tea slopes around Gopaldhara, views back over the Mirik valley, the market town of Sukhia Pokhari on the ridge, and Ghoom with its monastery and railway station before Darjeeling. A car lets you stop; a jeep will not."},
+     {"q": "Is it better to visit Mirik before or after Darjeeling?", "a": "Either works. Many travellers go Siliguri–Mirik–Darjeeling–Kurseong–Siliguri, which climbs gradually and ends near the plains. If you have only one night for Mirik, visit it on the way up from Siliguri."}
+   ]},
+  {"slug": "kurseong-to-sittong", "from": "kurseong", "to": "sittong", "distance_km": 25,
+   "summary": "Kurseong to Sittong is about 25 km over the ridge via Bagora and down past Mahaldiram into the Riyang valley, 1–1.5 hours by car for ₹1,800–2,500. Local jeeps are few; most people hire a car or arrange a homestay pick-up.",
+   "options": [
+     {"mode": "Reserved car", "time": "1–1.5 h", "fare": "₹1,800–2,500 a car", "text": "The road climbs from Kurseong over Dow Hill and the Bagora ridge, then drops through forest and villages into the Riyang valley. It is narrow in places. Ask the driver to stop at Chimney on the way."},
+     {"mode": "Shared jeep", "time": "1.5–2 h", "fare": "₹80–150 a seat", "text": "A few local jeeps link Kurseong with Sittong, usually leaving Sittong early in the morning and returning in the afternoon. Ask at the Kurseong stand or your homestay for the day's timings."},
+     {"mode": "Homestay pick-up", "time": "1–1.5 h", "fare": "Fixed by the homestay", "text": "Many Sittong homestays arrange a car from Kurseong at a set price. Ask when you book and confirm the fare in writing."}
+   ],
+   "stops_on_way": ["Dow Hill", "Chimney", "Bagora", "Mahaldiram"],
+   "tip": "Combine the drive with a stop at the Chimney ruin and, in the monsoon, a detour to Namthing Pokhri.",
+   "faqs": [
+     {"q": "How far is Sittong from Kurseong?", "a": "About 25 km by road via Bagora and Mahaldiram, which takes 1–1.5 hours by car. A reserved car costs roughly ₹1,800–2,500 one way. The road is narrow and winding, so travel in daylight."},
+     {"q": "Is there public transport from Kurseong to Sittong?", "a": "Only a few local shared jeeps, mostly timed for villagers going to Kurseong in the morning and back in the afternoon. For flexibility, hire a car or ask your Sittong homestay to arrange one."},
+     {"q": "Can I visit Sittong as a day trip from Kurseong?", "a": "Yes, by car. Leave Kurseong by 8 am, see the orchards and the church, have lunch at a homestay and return by 4 pm. A car for the day costs about ₹2,800–3,500. Staying a night is more relaxed."},
+     {"q": "Is the Kurseong–Sittong road safe in the monsoon?", "a": "It is usable but slow, with slippery stretches and occasional small landslides between June and September. Travel with a local driver, start early and check current status before you travel after heavy rain."}
+   ]}
+]

@@ -1,0 +1,122 @@
+{
+  "slug": "makaibari", "name": "Makaibari", "name_local": "", "region": "kurseong-mirik",
+  "kind": "tea garden",
+  "wiki": "Makaibari Tea Estate", "image_query": "Makaibari tea estate Kurseong",
+  "lat": 26.865, "lng": 88.29, "altitude_m": 1200,
+  "tagline": "The cornfield that became one of Darjeeling's oldest tea gardens",
+  "meta_description": "Makaibari tea estate below Kurseong: its 1859 factory, the Banerjee family story, village homestays at about ₹1,500–2,000 with meals, tea walks and tastings.",
+  "summary": "Makaibari is a tea estate just below Kurseong, spread from about 600 to 1,500 m, whose factory first ran in 1859. It was run by the Banerjee family for four generations, went organic in 1988, and has a village homestay programme where workers' families host guests for about ₹1,500–2,000 per person with meals.",
+  "local_story": {"title": "From Captain Samler's cornfield to the Banerjees", "paras": [
+    "Makaibari means 'cornfield' in Nepali: makai is maize and bari a field. When the British began planting tea in the Darjeeling hills in the 1850s, a Captain Samler cleared land on these slopes below Kurseong. He soon sold it to Girish Chandra Banerjee, a Bengali who had come into the hills, and in 1859 a tea factory was commissioned on the estate, among the very first in the district. For the next century and a half the garden stayed with one Bengali family, which was unusual in a business dominated by British companies.",
+    "The best known of them was Swaraj Kumar Banerjee, called Rajah, the fourth generation, who turned the estate organic and made Makaibari in 1988 the first garden certified as fully organic. He kept large parts of the estate under forest, believing the garden and the jungle should feed each other. In 2014 the Luxmi Group bought the estate; Banerjee stepped down as chairman in 2017. The village homestay programme he encouraged, in which workers' families host visitors, still runs."
+  ]},
+  "did_you_know": [
+    "In 2014 a hand-made second-flush tea from Makaibari sold for about US$1,850 a kilogram, one of the highest prices ever paid for a Darjeeling tea.",
+    "Makaibari's estate covers about 670 hectares, but only a minority is under tea; much of the rest has been kept as forest.",
+    "Makaibari was certified fully organic in 1988, which the estate describes as a first among tea gardens."
+  ],
+  "intro": [
+    "Makaibari starts a few minutes below Kurseong on the Pankhabari road. The bushes fall steeply away from the road towards the Balason and the plains, broken by patches of forest and the workers' villages. The factory sits beside the road, and in the plucking season from March to November you can smell the leaf withering as you walk past.",
+    "This is the best place in the Darjeeling hills to sleep inside a working garden on a budget. Instead of a planter's bungalow, you stay with a family in one of the estate villages, eat what they eat, and walk out with the pluckers in the morning. Bring a day for the factory and tastings, and another to walk the slopes. Kurseong is close enough for a day trip, but you will learn more if you stay."
+  ],
+  "facts": [["Best months", "Mar – May · Oct – Nov"], ["Nights we suggest", "1–2"], ["From Siliguri", "≈ 45 km · 1.5–2 h"], ["Altitude", "≈ 600–1,500 m"], ["Known for", "1859 factory, organic tea, village homestays"], ["Network", "Jio and Airtel fair near the road; weak in villages"]],
+  "best_months": [1, 0, 2, 2, 2, 1, 1, 1, 1, 2, 2, 1],
+  "nights": "1–2",
+  "costs": [["Shared jeep Kurseong to Makaibari", "₹20–40 a seat"], ["Car from Kurseong, one way", "₹300–500"], ["Village homestay with dinner and breakfast", "≈ ₹1,500–2,000 pp"], ["Tea tasting at the estate", "₹200–500, varies by teas"], ["100 g of estate tea to take home", "₹300–1,500 depending on flush and grade"]],
+  "highlights": [
+    {"title": "The 1859 factory", "text": "The estate's factory beside the Pankhabari road, where leaf is withered, rolled, fermented and dried. Visits depend on the day's work and the season; ask a day ahead and go in the morning when the leaf comes in."},
+    {"title": "Village homestays", "text": "Sleep in a tea worker's family house in one of the estate villages, with dinner and breakfast included. Simple rooms, real hill food and early-morning walks to the plucking sections."},
+    {"title": "Plucking at dawn", "text": "From March to November pluckers start early, taking two leaves and a bud by hand. Walk out with your host family and watch, without stepping between the bushes or slowing anyone down."},
+    {"title": "Tasting the flushes", "text": "Compare first flush (spring, light and green), second flush (early summer, fuller, with the muscatel character Darjeeling is known for) and autumn flush in one sitting."},
+    {"title": "Forest within the garden", "text": "Large parts of Makaibari are kept as forest, a choice the Banerjee family made deliberately. Walk the paths between the tea and the jungle for birds and long views to the plains."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "From Kurseong, local jeeps on the Pankhabari road pass Makaibari in 10–15 minutes for ₹20–40. From Siliguri, take a Kurseong jeep (₹150–200) and change, or ask for a Pankhabari-road jeep if one is running."},
+    {"mode": "Reserved car", "text": "A taxi from Kurseong costs ₹300–500 one way. A car from NJP or Bagdogra direct to Makaibari costs about ₹2,200–3,000; the Pankhabari road route from the plains is steep but short."},
+    {"mode": "On foot", "text": "Walk down from Kurseong bazaar along the Pankhabari road in 45 minutes to 1 hour. The walk back up is steep; take a jeep."}
+  ],
+  "where_to_stay": "Stay in the Makaibari village homestays, arranged through the estate or the homestay coordinators in the villages, for about ₹1,500–2,000 per person with dinner and breakfast. Rooms are in family houses, some with attached bathrooms. For a single splurge night nearby, Cochrane Place on the same Pankhabari road is a heritage hotel. Otherwise, stay in Kurseong, 3–4 km above, and come down for the day.",
+  "stays": ["makaibari-village-homestays"],
+  "tips": [
+    "Visit between March and November; the factory is quiet in the winter dormant season.",
+    "Ask before photographing pluckers, and never pick leaves or walk through the rows.",
+    "Buy tea at the estate and ask for the flush and the date of manufacture on the pack.",
+    "Pack light: the paths between homestay villages and the road are steep and stepped.",
+    "Tip your host family's children with books or pencils from Kurseong rather than sweets."
+  ],
+  "themes": ["tea-country", "homestays", "food-trails", "budget-honeymoons"],
+  "nearby": ["kurseong", "dow-hill", "chimney"],
+  "experiences": [
+    {"slug": "makaibari-factory-visit", "title": "Inside the Makaibari tea factory",
+     "kind": "tea", "duration": "1–1.5 hours", "best_time": "9 am – 12 noon, Mar–Nov", "cost": "Fee varies · ask at the estate",
+     "image_query": "Makaibari tea factory withering", "wiki": "Darjeeling tea",
+     "summary": "Follow the leaf through the factory that first ran in 1859: withering troughs, rolling machines, oxidation, drying and sorting. Best in the morning of a plucking day between March and November.",
+     "body": [
+       "A Darjeeling tea factory works in a simple order. Leaf arrives from the gardens in the morning and is spread in long troughs to wither, losing water for 12–16 hours. Rollers then twist it to break the cells, the leaf oxidises on the floor until the tea maker judges the colour and smell are right, and dryers stop the process. Finally the tea is sorted by grade.",
+       "Makaibari's factory was commissioned in 1859, which puts it among the first in the district. Visits depend on the season and the day's work: in the dormant months, roughly December to February, there may be nothing to see. Ask the estate office or your homestay host a day ahead.",
+       "Do not touch the leaf or the machines, and follow the guide's directions around the rollers and dryers. Photography rules vary inside; ask first."
+     ],
+     "good_for": ["families", "students", "photographers", "first-timers"],
+     "faqs": [
+       {"q": "Can I visit the Makaibari factory?", "a": "Usually yes in the plucking season, March to November, but it depends on the day's work and the estate's current visitor policy. Ask at the estate office or through your homestay a day ahead. Morning visits are best because fresh leaf is coming in and the withering and rolling are under way."},
+       {"q": "When was the Makaibari factory built?", "a": "The estate's tea factory was commissioned in 1859, a few years after Captain Samler cleared the land and sold it to Girish Chandra Banerjee. That makes it one of the first tea factories in Darjeeling district. The machinery and buildings have of course been renewed many times since."},
+       {"q": "Is there a fee for the factory tour?", "a": "Fees and tasting charges change, and some visits are arranged free for homestay guests. Ask what is included before you start. Budget roughly ₹200–500 for a tasting of several teas, and more if you buy special lots."}
+     ]},
+    {"slug": "makaibari-dawn-plucking-walk", "title": "Walk out with the pluckers at dawn",
+     "kind": "tea", "duration": "2 hours", "best_time": "6.30–8.30 am, Mar–Nov", "cost": "Free for homestay guests · tip your guide",
+     "image_query": "tea pluckers Darjeeling garden morning", "wiki": "",
+     "summary": "Leave your homestay early with your host and walk to the sections being plucked that day. Watch the 'two leaves and a bud' rule done by hand at speed, and learn how a plucking day is organised.",
+     "body": [
+       "Plucking starts early in the season. Women do most of the plucking, each with a basket or bag on her back held by a strap across the forehead, moving along the rows and taking the top two leaves and a bud with quick, practised fingers. The leaf is weighed during the day and sent to the factory.",
+       "If you stay in a Makaibari village homestay, ask your host to take you to the section being plucked that morning. Walk on the paths, not between the bushes, and keep out of the way of the work. Ask before you photograph anyone.",
+       "Spring (first flush, March–April) is the most delicate plucking; early summer (second flush, May–June) is the most famous; autumn flush comes in October and November."
+     ],
+     "good_for": ["photographers", "couples", "solo", "students"],
+     "faqs": [
+       {"q": "What does 'two leaves and a bud' mean?", "a": "It is the standard fine plucking for Darjeeling tea: the unopened bud at the tip of a shoot plus the two youngest leaves below it. These give the most aromatic tea. Coarser plucking takes more leaves and makes cheaper grades."},
+       {"q": "Can I try plucking tea at Makaibari?", "a": "Sometimes a host or supervisor will let you try a few shoots for fun, but do not pick on your own. Pluckers are paid by the weight and quality of their leaf, and visitors who pick, trample or slow the work cost them money."},
+       {"q": "Which months have tea plucking?", "a": "Roughly March to November. First flush is March–April, second flush May–June, monsoon flush July–September and autumn flush October–November. The bushes rest and are pruned from about December to February."}
+     ]},
+    {"slug": "makaibari-flush-tasting", "title": "Taste first, second and autumn flush",
+     "kind": "tea", "duration": "1 hour", "best_time": "Late morning, Mar–Nov", "cost": "₹200–500",
+     "image_query": "Darjeeling tea tasting cups", "wiki": "",
+     "summary": "Sit down with three or four Makaibari teas from different seasons and taste the difference: light green spring tea, fuller muscatel summer tea, round autumn tea. Learn to read the dry leaf, the liquor and the wet leaf.",
+     "body": [
+       "Tea tasters in Darjeeling taste with a ritual: a fixed weight of leaf, boiling water, a timed steep of about five minutes, then the liquor poured into a bowl with the wet leaf turned out on the lid. You slurp loudly to spray the tea across your palate.",
+       "Try a first flush from March or April, light, floral and often greenish. Then a second flush from May or June, darker, fuller and, in a good year, with the grape-like 'muscatel' note. Then an autumn flush, rounder and coppery. If the estate has an organic white or oolong-style tea, add it.",
+       "Ask what the estate charges for a tasting and which teas are available that week. Buying a pack afterwards is welcome but not required."
+     ],
+     "good_for": ["couples", "seniors", "first-timers"],
+     "faqs": [
+       {"q": "What is the difference between first and second flush?", "a": "First flush is the spring plucking, March to April, giving light, floral, often greenish tea. Second flush, May to June, is darker and fuller, and the best lots have the 'muscatel' grape-like note that made Darjeeling famous. Prices for good lots of both can be high."},
+       {"q": "How much does Makaibari tea cost?", "a": "At the estate, ordinary grades start around a few hundred rupees per 100 g, while special hand-made lots cost far more. In 2014 a hand-made second-flush lot sold for about US$1,850 a kilogram. Ask for the flush and manufacture date on any pack you buy."},
+       {"q": "Is Makaibari tea organic?", "a": "Makaibari was certified fully organic in 1988 and has followed organic and biodynamic methods since. Check the certification marks on the pack you buy, as certifications are renewed and can change."}
+     ]},
+    {"slug": "makaibari-forest-village-walk", "title": "Forest and village paths of Makaibari",
+     "kind": "trek", "duration": "3 hours", "best_time": "7–10 am, Oct–May", "cost": "Free · local guide ₹600–1,000",
+     "image_query": "Makaibari forest tea garden path", "wiki": "",
+     "summary": "Walk the paths that link the estate villages through tea and forest. About 6–8 km of steep steps and trails, with long views to the plains, birds in the forest patches and tea stops in village houses.",
+     "body": [
+       "Makaibari is unusual in how much forest it keeps. The paths between the villages pass from rows of bushes into shady patches of trees and back again, and the slopes open to views across the Balason valley to the plains.",
+       "Go with your homestay host or a young person from the village who knows the paths. You will pass small temples, kitchen gardens, cows and schoolchildren, and you will be offered tea in at least one house.",
+       "The terrain is steep, with stone steps and narrow paths. Wear good shoes, carry water, and avoid the forest paths in the monsoon, when they are slippery and full of leeches."
+     ],
+     "good_for": ["solo", "students", "photographers", "couples"],
+     "faqs": [
+       {"q": "Do I need a guide to walk in Makaibari?", "a": "It is better to go with your homestay host or a local guide, about ₹600–1,000 for a morning. The paths are not signposted and cross private village land and working sections of the garden. A local walker also explains what you see."},
+       {"q": "How hard are the walks in Makaibari?", "a": "Moderate. Expect steep stone steps and narrow paths, with 300–500 m of climbing on a typical loop. Most fit walkers manage 6–8 km in about 3 hours. Older visitors can do shorter flat sections near the road."},
+       {"q": "Are there leeches on the Makaibari paths?", "a": "Yes in the monsoon, June to September, especially in forest patches. Wear long socks, carry salt and keep to wider paths. From October to May leeches are rare."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "Where is Makaibari tea estate?", "a": "Makaibari lies just below Kurseong on the Pankhabari road in Darjeeling district, about 3–4 km from Kurseong bazaar and about 45 km from Siliguri. The estate runs down the slopes from about 1,500 m to about 600 m above the plains."},
+    {"q": "What does Makaibari mean?", "a": "It means 'cornfield' in Nepali: makai is maize and bari is a field or garden. The name is thought to come from the maize fields on these slopes before tea was planted in the 1850s."},
+    {"q": "Who owns Makaibari tea estate?", "a": "The Banerjee family ran Makaibari for four generations, from Girish Chandra Banerjee in the nineteenth century to Swaraj Kumar 'Rajah' Banerjee. In 2014 the Luxmi Group bought the estate, and Banerjee stepped down as chairman in 2017."},
+    {"q": "How much does a Makaibari homestay cost?", "a": "About ₹1,500–2,000 per person per night with dinner and breakfast, as an indication for 2025–26. Rates depend on the house and room. Confirm the price, meals and bathroom type before you book, and pay the family directly."},
+    {"q": "Is Makaibari the oldest tea garden in Darjeeling?", "a": "It is one of the oldest. Its land was cleared in the 1850s and its factory commissioned in 1859, among the first in the district. Other gardens also claim early dates, so 'one of the oldest' is the fair description."},
+    {"q": "What is the best time to visit Makaibari?", "a": "March to May for first flush and spring, and October to November for autumn flush and clear weather. The factory is quiet from December to February. The monsoon months are green and productive but wet, with leeches on forest paths."},
+    {"q": "Can I visit Makaibari as a day trip from Darjeeling?", "a": "Yes. Kurseong is 1.5 hours from Darjeeling by shared jeep, and Makaibari is 10–15 minutes below it. Leave Darjeeling by 8 am to reach the factory in the morning. Staying a night is better if you want the dawn plucking walk."},
+    {"q": "Is Makaibari good for a budget honeymoon?", "a": "Yes, if you like simple rooms and real local life. A night or two in a village homestay with meals costs far less than a hotel, and the setting is quiet and green. For one special night, Cochrane Place is nearby on the same road."},
+    {"q": "Can I buy tea directly at Makaibari?", "a": "Yes, the estate sells tea to visitors. Prices range from a few hundred rupees per 100 g for regular grades to much more for special hand-made lots. Ask for the flush and the manufacture date, and taste before buying if you can."}
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "charkhole", "name": "Charkhole", "name_local": "", "region": "kalimpong",
+  "kind": "village",
+  "wiki": "", "image_query": "Charkhole Kalimpong Kanchenjunga view",
+  "lat": 27.0, "lng": 88.6, "altitude_m": 1680,
+  "tagline": "A small Lepcha ridge with Kanchenjunga full in the window",
+  "meta_description": "Charkhole near Lolegaon, about 1,680 m: open Kanchenjunga views, Lepcha homestays, forest trails, how to reach via Panbu or Lava, costs and best months.",
+  "summary": "Charkhole is a small Lepcha village at about 1,680 m, 12–15 km from Lolegaon and roughly 3 hours from Siliguri via Panbu. There is almost nothing to do except watch Kanchenjunga, walk the forest trails and eat well, which is exactly why people come. One or two nights.",
+  "local_story": {"title": "A Lepcha hamlet that kept its quiet",
+    "paras": ["Charkhole is a hamlet of Lepcha families on a ridge south of Lolegaon, looking north across a deep valley to the Kanchenjunga range. Like Lolegaon, it belongs to the Lepcha, or Rong, the oldest known people of these hills, whose oral tradition holds Kanchenjunga as a guardian and the forests as full of spirits to be respected. Farming here has long meant maize, millet, cardamom and cattle on steep fields cut out of the forest.",
+              "Tourism arrived late and in small doses. A few families opened homestays more recently than in Lava or Lolegaon, as travellers began to look beyond them, and the village has kept its scale: a handful of houses with rooms, no hotels, no market and no traffic to speak of. We have heard several explanations of the name from locals, but none we could confirm, so we will leave it there.",
+              "What Charkhole does have is a remarkably open view. The ridge faces Kanchenjunga with little in the way, and on clear winter days the range stays visible far longer than it does from busier viewpoints."]},
+  "did_you_know": [
+    "Charkhole sits at about 1,680 m (5,500 ft), almost the same height as Lolegaon, 12–15 km away by road.",
+    "Most visitors reach Charkhole from Siliguri via Panbu in about 3 hours, a route that avoids Kalimpong town altogether.",
+    "Charkhole's homestays are run by Lepcha families, and the village has no hotels or market of its own."
+  ],
+  "intro": ["Charkhole is a place to do very little, well. The village is a few houses and homestays along a ridge, with forest behind and the Kanchenjunga range in front. Days here go like this: tea at dawn while the peaks turn pink, a forest walk in the morning, a long lunch, a nap, and the mountains again at sunset.",
+            "It suits couples, writers, photographers and anyone tired of crowds. It does not suit people who need restaurants, shops or a strong phone signal. Homestays charge about ₹1,500–2,200 per person with meals. Pair it with Lolegaon, 12–15 km away, for the canopy walk, or with Lava and Kolakham for a longer forest trip."],
+  "facts": [["Best months", "Oct – Dec · Feb – Apr"], ["Nights we suggest", "1–2"], ["From Siliguri", "≈ 3 h via Panbu"], ["Altitude", "≈ 1,680 m"], ["Known for", "Open Kanchenjunga view, Lepcha homestays, quiet"], ["Network", "Weak; BSNL/Jio in spots"]],
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1–2",
+  "costs": [["Reserved car from NJP or Bagdogra", "₹4,000–5,500 a car"], ["Reserved car from Lolegaon", "₹1,200–1,800 one way"], ["Homestay with dinner and breakfast", "₹1,500–2,200 pp"], ["Lunch at the homestay", "₹150–250"], ["Local guide for a forest walk", "₹500–800"]],
+  "highlights": [
+    {"title": "Kanchenjunga, unobstructed", "text": "The ridge faces the Kanchenjunga range with little in between. On clear days from October to April you see it from your homestay, at dawn pink, by midday white and at sunset gold."},
+    {"title": "Forest trail to a viewpoint", "text": "A trail climbs from the village through oak and cypress forest to a higher viewpoint. Allow about 2 hours return with a local guide, and carry water."},
+    {"title": "Lepcha homestays", "text": "Rooms in Lepcha family homes, with home food and conversation. Ask about the Lepcha language, the old stories about Kanchenjunga and the festivals of the year."},
+    {"title": "Quiet nights and stars", "text": "With few lights and no traffic, Charkhole is dark at night. On clear winter nights the stars are bright, and the cold is real, so bring warm layers."},
+    {"title": "Easy pairing with Lolegaon", "text": "Lolegaon's canopy walk and Jhandi Dara sunrise are 12–15 km away, 45 minutes to an hour by car, so a two-village Lepcha trip is simple to plan."}
+  ],
+  "how_to_reach": [
+    {"mode": "Reserved car via Panbu", "text": "Most visitors come straight from NJP or Bagdogra by car, via Sevoke and Panbu, in about 3 hours for ₹4,000–5,500. Part of the route uses roads affected by Teesta valley closures since October 2023, so ask your homestay which way is open and check current status before you travel."},
+    {"mode": "From Lolegaon or Lava", "text": "Charkhole is 12–15 km from Lolegaon (45 minutes–1 hour, ₹1,200–1,800 by car) and about 27 km from Lava. There is no regular shared transport; your homestay can arrange a car."},
+    {"mode": "Shared jeep and car", "text": "On a tight budget, take shared jeeps to Lava via Kalimpong, then a local car to Lolegaon and Charkhole. It is slow, a full day, and the car legs cost more than the jeep seats."}
+  ],
+  "where_to_stay": "Charkhole has only homestays and small cottages run by Lepcha families, spread along the ridge, at about ₹1,500–2,200 per person with dinner and breakfast. Rooms are simple, many with large north-facing windows; ask about hot water, heaters and whether the bathroom is attached. Book ahead for October to December and long weekends, when the few rooms fill. For a government lodge, stay at the forest corporation's eco tourism centre in Lolegaon and visit Charkhole for the day.",
+  "stays": [],
+  "tips": ["Book a north-facing room; the view is the reason you are here.",
+           "Bring snacks, cash and a power bank: there are no shops and power cuts happen.",
+           "Download maps and tickets before you arrive, because the phone signal is weak.",
+           "Plan two nights if you can, to double your chance of a clear dawn.",
+           "Roads into the area can be blocked after heavy rain: check current status before you travel."],
+  "themes": ["homestays", "kanchenjunga-views", "budget-honeymoons", "photography"],
+  "nearby": ["lolegaon", "lava"],
+  "experiences": [
+    {"slug": "charkhole-kanchenjunga-from-the-ridge", "title": "Kanchenjunga from dawn to dusk at Charkhole",
+     "kind": "viewpoint", "duration": "All day, in pieces", "best_time": "Dawn and late afternoon, Oct–Apr", "cost": "Free from your homestay",
+     "image_query": "Kanchenjunga range from Kalimpong hills", "wiki": "Kangchenjunga",
+     "summary": "Charkhole's ridge faces the Kanchenjunga range with almost nothing in the way. Watch it at dawn from your window, at midday from the garden and at sunset with tea, without getting into a car.",
+     "body": ["Most viewpoints in these hills make you work for Kanchenjunga: a pre-dawn drive, a crowd, a short window before cloud rises. Charkhole is different. The ridge looks north across a deep valley to the range, and on clear winter days the mountains stay in view long after sunrise.",
+              "Set an alarm for 30 minutes before sunrise, about 5.30 am in October and March and after 6 am in December and January, and watch the summit turn pink, then gold. Go back to bed if you like. By mid-morning the snow is bright white; by late afternoon the light softens again, and sunset can colour the whole range.",
+              "Clear days are most likely from mid-October to early December and again in February and March. In April haze builds, and from June to September the peaks are usually hidden. Bring binoculars or a zoom lens; the range is well over 80 km away, and you will want to pick out the individual peaks."],
+     "good_for": ["couples", "photographers", "seniors", "solo"],
+     "faqs": [
+       {"q": "Is the Kanchenjunga view from Charkhole good?", "a": "Yes, it is one of the most open views in the Kalimpong hills, across a deep valley with little in the way. On clear days from October to April you can watch the range from your homestay at dawn, midday and sunset. In the monsoon it is usually hidden."},
+       {"q": "What is the best month to see Kanchenjunga from Charkhole?", "a": "Late October to early December has the clearest skies, with February and March next. January is often clear but very cold at dawn. April brings haze, and from June to September cloud usually hides the peaks."},
+       {"q": "Do I need to go to a viewpoint in Charkhole?", "a": "No. Most homestays have the view from their rooms or gardens. A forest trail leads to a higher viewpoint if you want a walk, but the village itself is the viewpoint."}
+     ]},
+    {"slug": "charkhole-forest-viewpoint-trail", "title": "Forest trail above Charkhole",
+     "kind": "trek", "duration": "2–3 hours return", "best_time": "7–11 am, Oct–May", "cost": "Guide ₹500–800",
+     "image_query": "oak forest trail Darjeeling hills", "wiki": "",
+     "summary": "Climb from the village through oak and cypress forest to a higher viewpoint over the valley, with a local guide. Moss, ferns, birds, and Kanchenjunga at the top on a clear morning.",
+     "body": ["Behind Charkhole's houses the forest rises steeply: oak, cypress, chestnut and rhododendron, with ferns and moss on every trunk. A trail used by villagers climbs through it to a higher viewpoint, where the valley opens below and the Kanchenjunga range spreads across the horizon.",
+              "With a local guide, allow 2–3 hours return at an easy pace, with time for birds and photographs. The path is steep in places and can be muddy; after rain, roots and stones are slippery. In spring, from March to April, rhododendrons flower along the upper stretches. Listen for laughingthrushes and barbets, and look for sunbirds in flowering trees.",
+              "Ask your homestay to arrange a guide, about ₹500–800, and start early, before cloud builds. Carry water and a light rain jacket. From May to September, leeches are common; wear long socks and tuck in your trousers."],
+     "good_for": ["couples", "solo", "students", "photographers"],
+     "faqs": [
+       {"q": "Is the Charkhole forest trail difficult?", "a": "It is moderate: steep in places, with roots, stones and mud after rain, but not long. Most reasonably fit walkers manage it in 2–3 hours return. Older walkers and young children may find the climb hard. Wear shoes with good grip."},
+       {"q": "Do I need a guide for the Charkhole trail?", "a": "We recommend one. The trail is not marked, mist is common and side paths lead into the forest. A village guide costs about ₹500–800 and will also show you plants and birds. Ask your homestay a day ahead."},
+       {"q": "Are there leeches on Charkhole trails?", "a": "Yes, from about May to September, when the forest is wet. Wear long socks, tuck trousers in, and carry salt or a leech spray. From October to April there are few or none."}
+     ]},
+    {"slug": "charkhole-lepcha-homestay-stories", "title": "Lepcha stories by a homestay fire",
+     "kind": "culture", "duration": "Evening", "best_time": "Oct–Mar evenings", "cost": "Included with homestay",
+     "image_query": "Lepcha traditional house Kalimpong", "wiki": "Lepcha people",
+     "summary": "Ask your Lepcha hosts about their language, their festivals and the old stories of Kanchenjunga and the Teesta. An evening of conversation is the best way into the culture of the oldest people of these hills.",
+     "body": ["The Lepcha, who call themselves Rong, are the oldest known people of the Kalimpong and Sikkim hills, with their own language and script. In their tradition Kanchenjunga is a guardian, and rivers, forests and mountains have spirits that must be respected. Charkhole's homestays are run by Lepcha families, and the long cold evenings are a natural time to talk.",
+              "Ask about Namsoong, the Lepcha New Year in December or January, and about the 20 December gathering at Damsang fort near Pedong for the Lepcha hero Gaeboo Achyok. Ask about the Lepcha story of the Teesta and the Rangeet, two lovers who raced to meet, guided by a snake and a bird; it is folklore, and families tell it in their own ways.",
+              "Listen more than you ask, and do not press for rituals or private matters. Some families may show you traditional dress, cane and bamboo work or old household objects. A small gift from your home town, or buying local produce, is a better thank-you than money."],
+     "good_for": ["couples", "solo", "students", "families"],
+     "faqs": [
+       {"q": "Who are the Lepchas?", "a": "The Lepcha, or Rong, are the oldest known inhabitants of Sikkim and the Darjeeling and Kalimpong hills. They have their own language and script, a close relationship with the forest, and traditions in which Kanchenjunga is a guardian. Their villages around Kalimpong include Lolegaon and Charkhole."},
+       {"q": "Do Lepcha families in Charkhole speak Hindi or English?", "a": "Most speak Nepali and Hindi, and younger family members often speak some English. Lepcha is spoken at home in many families. Learning a greeting in Nepali or asking your hosts to teach you a Lepcha word is a good way to start a conversation."},
+       {"q": "Is it respectful to ask about Lepcha rituals?", "a": "It is fine to show interest, but let your hosts decide what to share. Ask open questions, do not insist on seeing rituals, and always ask before photographing people, shrines or ceremonies. If invited to a festival, follow your hosts' lead on dress and behaviour."}
+     ]},
+    {"slug": "charkhole-lolegaon-day-loop", "title": "Day loop to Lolegaon's canopy walk",
+     "kind": "viewpoint", "duration": "Half day", "best_time": "8 am–1 pm, Oct–May", "cost": "Car ₹2,000–2,800 return · small entry fees",
+     "image_query": "Lolegaon canopy walk", "wiki": "",
+     "summary": "From Charkhole, drive 12–15 km to Lolegaon for the canopy walk through its heritage forest and the Kafer viewpoint, then back for a late lunch. An easy half day for your second morning.",
+     "body": ["Charkhole has no sights of its own beyond the view, so on a two-night stay many guests spend a morning in Lolegaon, 12–15 km away and 45 minutes to an hour by car. The drive runs along forested ridges, with glimpses of the valley and, on clear days, the Kanchenjunga range.",
+              "In Lolegaon, walk the canopy bridge of about 180 m through the crowns of old oak and cypress in the heritage forest, then the ground trails beneath. Continue to the Kafer viewpoint, about 1 km from the village centre, for another angle on the mountains. Have tea in the village, and if you are there early, look for birds in the forest.",
+              "A car with waiting costs about ₹2,000–2,800 from Charkhole; your homestay will arrange it. Canopy walk entry is a small fee. Go in the morning, before cloud builds and day trippers arrive. The bridge can close for repairs or bad weather, so check current status before you travel."],
+     "good_for": ["families", "couples", "first-timers", "seniors"],
+     "faqs": [
+       {"q": "How far is Lolegaon from Charkhole?", "a": "About 12–15 km, 45 minutes to an hour by car on narrow hill roads. A car for a half-day return trip with waiting costs about ₹2,000–2,800. There is no regular shared transport between the two."},
+       {"q": "Should I stay in Charkhole or Lolegaon?", "a": "Stay in Charkhole for the quietest nights and a view from your room; stay in Lolegaon for the canopy walk, Jhandi Dara sunrise and a little more choice of stays. With two or three nights, split them between both."},
+       {"q": "Is the Lolegaon canopy walk worth the drive from Charkhole?", "a": "Yes, for a half day. The walk through old, moss-covered trees is unlike anything else in the Kalimpong hills, and the drive itself is pleasant. Go in the morning, and combine it with Kafer viewpoint and tea in the village."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "How do I reach Charkhole from Siliguri?", "a": "By reserved car from NJP, Bagdogra or Siliguri, about 3 hours via Panbu, for ₹4,000–5,500. There is no direct public transport. Roads in the Teesta valley have had closures since October 2023, so ask your homestay which route is open and check current status before you travel."},
+    {"q": "Is Charkhole worth visiting?", "a": "Yes, if you want quiet and a wide Kanchenjunga view from your room. Charkhole has no sights, shops or restaurants, only a few Lepcha homestays, forest trails and the mountains. It is ideal for rest, photography and couples; less so for people who like to be busy."},
+    {"q": "How many nights in Charkhole?", "a": "One night gives you a sunset and a sunrise; two give you a second chance at clear weather and time for a forest walk or a half day in Lolegaon. More than two suits people who want to read, write or simply rest."},
+    {"q": "What does a Charkhole homestay cost?", "a": "About ₹1,500–2,200 per person per night with dinner and breakfast, more for the best rooms. Lunch is extra, about ₹150–250. Rates rise in October and on long weekends. Most homestays prefer cash or UPI, and the network for UPI is weak."},
+    {"q": "Is there mobile network in Charkhole?", "a": "It is weak. Some spots get BSNL or Jio signal, but data is slow and unreliable. Download maps, tickets and anything you need before you arrive, and tell family you may be hard to reach."},
+    {"q": "When is the best time to visit Charkhole?", "a": "Late October to early December for the clearest Kanchenjunga views, and February to April for mild days and spring flowers. January is clear but very cold at night. From June to September it is wet and misty and the views are rare."},
+    {"q": "Can I combine Charkhole with Lolegaon and Lava?", "a": "Yes. Charkhole is 12–15 km from Lolegaon and about 27 km from Lava. A good plan is two nights in Lava or Kolakham, one in Lolegaon and one or two in Charkhole, then back to Siliguri via Panbu."},
+    {"q": "Is Charkhole suitable for older travellers?", "a": "Yes, if you choose a homestay with an easy approach and attached bathroom. The altitude, about 1,680 m, is comfortable, and the view needs no walking. Nights are cold in winter, so ask about heaters or extra blankets."},
+    {"q": "Is Charkhole safe for solo travellers?", "a": "Generally yes. It is a small village where everyone knows the homestay families. Take the usual care: let your hosts know when you go walking, do not walk forest trails alone or after dark, and carry a torch and some cash."}
+  ]
+}

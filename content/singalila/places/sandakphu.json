@@ -1,0 +1,175 @@
+{
+  "slug": "sandakphu",
+  "name": "Sandakphu",
+  "name_local": "",
+  "region": "singalila",
+  "kind": "viewpoint",
+  "wiki": "Sandakphu",
+  "image_query": "Sandakphu Kanchenjunga sleeping Buddha view",
+  "lat": 27.106,
+  "lng": 88.001,
+  "altitude_m": 3636,
+  "tagline": "West Bengal's highest point, with Everest on the skyline",
+  "meta_description": "Sandakphu (3,636 m), the highest point in West Bengal: Everest and Kanchenjunga views, the Sleeping Buddha, lodges, Land Rovers, costs and when to go.",
+  "summary": "Sandakphu, at 3,636 m on the India–Nepal border, is the highest point in West Bengal. From its summit four of the world's five highest peaks, Everest, Kanchenjunga, Lhotse and Makalu, are visible on clear mornings, with the Kanchenjunga range forming the Sleeping Buddha. Reach it in 3–4 days on foot or 4 hours by Land Rover.",
+  "local_story": {
+    "title": "The height of the poisonous plant",
+    "paras": [
+      "Sandakphu's name is usually traced to Lepcha and translated as 'the height of the poisonous plant'. A century ago the summit slopes were thick with aconite, Aconitum ferox, one of the most toxic plants known, along with rhododendrons poisonous to livestock. Herders driving sheep and cattle along the ridge are said to have muzzled them here so they could not graze. The aconite is much rarer now, but the name stuck, and so did Bikheybhanjang, the 'poison pass' below.",
+      "For the British in Darjeeling, the ridge became a classic hill excursion for the view of Everest, which the Survey of India announced as the world's highest peak in 1856. In 1905 the first documented Kanchenjunga expedition passed this way. Today a small settlement sits on the summit, with a GTA trekkers' hut, family lodges, and an SSB border camp, and the cobbled track brings Land Rovers from Maneybhanjan almost every day of the open season."
+    ]
+  },
+  "did_you_know": [
+    "Sandakphu at 3,636 m is the highest point in West Bengal; Phalut, 21 km north along the ridge at about 3,600 m, is the second highest.",
+    "From the summit, Kanchenjunga lies roughly 70 km to the north while Everest is about 140 km away to the north-west.",
+    "K2 is the only one of the world's five highest peaks not visible from Sandakphu; it stands in the Karakoram, about 1,500 km to the north-west."
+  ],
+  "intro": [
+    "Sandakphu is a bald, windswept summit with a cluster of lodges, a trekkers' hut, prayer flags and an army-green SSB camp, and from it you see more of the high Himalaya than from almost anywhere you can reach without a tent. To the north, the Kanchenjunga massif spreads across the horizon with its neighbours Kabru, Pandim and Simvo. To the north-west, beyond the hills of Nepal, the Everest group stands in a tight cluster, with Lhotse beside it and Makalu's dark pyramid to the right.",
+    "Most people arrive tired, either after three days of walking or four hours of bouncing in a Land Rover, and the summit can be in cloud on arrival. Do not worry. The mountains usually show at sunset or at dawn. Sleep here at least one night, get up at 5 am, and stand at the viewpoint as the Sleeping Buddha turns pink. This is the moment the whole trip is built around."
+  ],
+  "facts": [
+    ["Best months", "Oct – Dec for views · Apr – May for flowers"],
+    ["Nights we suggest", "1–2"],
+    ["From Maneybhanjan", "≈ 31 km · 3–4 days on foot · 4 h by Land Rover"],
+    ["Altitude", "3,636 m"],
+    ["Known for", "Everest, Kanchenjunga, Sleeping Buddha, highest point in West Bengal"],
+    ["Network", "Patchy Indian and Nepali signal"]
+  ],
+  "best_months": [1, 1, 1, 2, 1, 0, 0, 0, 0, 2, 2, 2],
+  "nights": "1–2",
+  "costs": [
+    ["Dorm or shared lodge bed", "₹500–900 pp"],
+    ["Private twin room", "₹2,000–3,500 a room"],
+    ["Dal-bhat dinner", "₹300–400"],
+    ["Breakfast", "₹200–300"],
+    ["Hot water bucket", "₹100–150"],
+    ["Tea", "₹40–60"],
+    ["Land Rover from Maneybhanjan and back, one night", "₹6,500–9,000 a vehicle"]
+  ],
+  "highlights": [
+    {"title": "The Sleeping Buddha at dawn", "text": "The Kanchenjunga massif and its neighbouring peaks form a long reclining outline that guides call the Sleeping Buddha. At sunrise the summits turn pink, then gold, while the valleys stay dark. On clear days it fills about a third of the horizon."},
+    {"title": "Everest, Lhotse and Makalu", "text": "Look north-west for a tight group of peaks beyond the Nepali hills: Everest, with Lhotse beside it and Makalu's sharp pyramid to the right. They are 125–145 km away, small but unmistakable on clear autumn mornings."},
+    {"title": "Highest point in West Bengal", "text": "Standing at 3,636 m, you are on the state's highest ground, on a ridge that marks the international border. Prayer flags, a survey marker and the SSB camp share the summit."},
+    {"title": "The Land Rover arrival", "text": "Watching the old Land Rovers from Maneybhanjan crawl up the last switchbacks to the summit is part of the scene. If you rode up, you will remember the final stretch, cobbled, steep and full of hairpins."},
+    {"title": "Rhododendron and aconite slopes", "text": "In April and May the slopes below the summit flower with rhododendrons, and in late summer the aconite that gave Sandakphu its name blooms blue and purple. The park closes in the monsoon, so the aconite is rarely seen by trekkers."},
+    {"title": "Gateway to Phalut", "text": "Sandakphu is the turning point. Most trekkers go down to Srikhola and Rimbik from here, but the 21 km ridge walk north to Phalut, with Kanchenjunga ahead all day, is the finest stretch of the whole trail."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Maneybhanjan via Chitrey, Tumling, Gairibas and Kalipokhri: about 31 km over 3 days, gaining around 1,500 m. Alternatively, start from Dhotrey via Tonglu. A licensed guide and park entry are required."},
+    {"mode": "Land Rover", "text": "From the Maneybhanjan stand, about 4 hours on the cobbled track. Indicatively ₹6,500–9,000 a vehicle for a round trip with one night, up to six passengers, plus guide fee. Check current status before you travel."},
+    {"mode": "On foot from Srikhola", "text": "The steep reverse route up from Srikhola via Gurdum climbs about 1,700 m in roughly 13 km. It is hard work and usually done downhill instead."}
+  ],
+  "where_to_stay": "Sandakphu has a GTA trekkers' hut and a group of private lodges along the summit, including Sherpa Chalet, one of the longest-running. Rooms range from dorm beds at about ₹500–900 per person to private twins at ₹2,000–3,500, with meals extra. Toilets are mostly shared and cold. Book ahead for October, the Puja holidays, Christmas and April weekends; at other times beds are easier, but phone ahead through your guide.",
+  "stays": ["singalila-gta-trekkers-hut-sandakphu", "singalila-sherpa-chalet-sandakphu"],
+  "tips": [
+    "Stay two nights if you can; a second dawn doubles your chance of a clear Everest view.",
+    "Watch sunset as well as sunrise; Makalu and Everest often glow pink after the afternoon cloud clears.",
+    "Sleep in a cap and warm socks; rooms are unheated and nights drop well below freezing in winter.",
+    "Drink plenty of water and avoid alcohol; 3,636 m is high enough for headaches.",
+    "Pay attention to your guide on the summit's edges; the border and SSB areas are not for wandering."
+  ],
+  "themes": ["kanchenjunga-views", "treks", "snow-and-passes", "photography", "family-trips"],
+  "nearby": ["kalipokhri", "phalut", "srikhola", "tumling"],
+  "experiences": [
+    {
+      "slug": "sandakphu-sleeping-buddha-sunrise",
+      "title": "Sleeping Buddha sunrise from the summit",
+      "kind": "viewpoint",
+      "duration": "1–1.5 hours",
+      "best_time": "5–6.30 am, Oct–Dec",
+      "cost": "Free",
+      "image_query": "Sleeping Buddha Kanchenjunga Sandakphu sunrise",
+      "wiki": "Kangchenjunga",
+      "summary": "Stand on West Bengal's highest point before dawn and watch the Kanchenjunga massif, the Sleeping Buddha, catch the first light. It is the view people trek three days for, and on a clear November morning it does not disappoint.",
+      "body": [
+        "The Sleeping Buddha is not a single peak but a line of them. Seen from the Darjeeling hills, the Kanchenjunga massif and its neighbours form the outline of a reclining figure, with the head, chest and folded arms picked out by different summits. From Sandakphu, 70 km away and 3,636 m up, the figure is at its largest and clearest.",
+        "Be at the viewpoint by 5 am in October and November, a little later in December. The sky lightens behind you in the east; then the top of Kanchenjunga, at 8,586 m the world's third-highest mountain, catches the sun first, a pink spark. In minutes the light runs along the range, lighting Kabru, Pandim and the lower peaks, and the Buddha appears entire.",
+        "Turn left to the north-west at the same time and you may see Everest, Lhotse and Makalu taking the light. Then the cloud below begins to stir. Stay until the sun reaches you and warms your hands, and only then go in for tea."
+      ],
+      "good_for": ["photographers", "couples", "families", "first-timers"],
+      "faqs": [
+        {"q": "What is the Sleeping Buddha seen from Sandakphu?", "a": "It is the outline of the Kanchenjunga massif and neighbouring peaks, which together look like a reclining Buddha from the Darjeeling hills. Guides point out the head, chest and feet. From Sandakphu it is especially large and clear at sunrise."},
+        {"q": "What time should I wake up for sunrise at Sandakphu?", "a": "Around 4.45 am in October to December, to reach the viewpoint 15–20 minutes before sunrise. In April and May, sunrise is earlier, around 5 am. Your lodge or guide will tell you the day's time."},
+        {"q": "What if Sandakphu is cloudy?", "a": "Clouds often rise by mid-morning and clear again by evening or the next dawn. Stay a second night if your schedule allows. October to December has the best odds; in April and May mornings are often hazy even when skies are blue."}
+      ]
+    },
+    {
+      "slug": "sandakphu-four-giants-view",
+      "title": "Spot Everest, Lhotse, Makalu and Kanchenjunga",
+      "kind": "viewpoint",
+      "duration": "1 hour",
+      "best_time": "Dawn and late afternoon, Oct–Dec",
+      "cost": "Free",
+      "image_query": "Everest Lhotse Makalu from Sandakphu",
+      "wiki": "Mount Everest",
+      "summary": "Learn to read the skyline from Sandakphu: four of the five highest mountains on Earth in one sweep. With a guide's help and a little patience you can name each peak, from Everest's flat-topped pyramid to Makalu's black rock.",
+      "body": [
+        "Face north-west at the summit viewpoint on a clear morning. Far beyond the forested Nepali hills you will see a cluster of snow peaks. The highest, often with a plume of cloud blowing off its summit, is Everest, 8,849 m, roughly 140 km away. Immediately beside it is Lhotse, 8,516 m, joined to Everest by a ridge. To their right stands Makalu, 8,485 m, a sharp pyramid with dark rock faces.",
+        "Then turn north. The Kanchenjunga massif, about 70 km away, fills a wide arc of sky, its main summit 8,586 m. To its left and right run Kabru, Pandim and many lower peaks of Sikkim and Nepal. Together they are four of the five highest peaks in the world; only K2, in the Karakoram, is missing.",
+        "Binoculars help, and a phone app that labels peaks can confirm what you see. Late afternoon, once the day's cloud breaks up, can be as good as dawn, with warm light on the western peaks."
+      ],
+      "good_for": ["photographers", "students", "families", "seniors"],
+      "faqs": [
+        {"q": "How far is Everest from Sandakphu?", "a": "About 140 km to the north-west in a straight line. It looks small but clear on good days, part of a cluster with Lhotse and Makalu. Kanchenjunga, by contrast, is only about 70 km away and dominates the northern view."},
+        {"q": "Which mountains can you see from Sandakphu?", "a": "Everest, Lhotse, Makalu and Kanchenjunga, four of the five highest in the world, plus Kabru, Pandim and many other peaks of the Kanchenjunga range, and on clear days more of the Everest region such as Chamlang and Baruntse."},
+        {"q": "Is the Everest view better from Sandakphu or Phalut?", "a": "Both show Everest. Sandakphu is the better-known viewpoint and easier to reach. Phalut, further north, is closer to Kanchenjunga and gives a broader, emptier panorama. Clear weather matters more than which summit you choose."}
+      ]
+    },
+    {
+      "slug": "sandakphu-poison-plant-slopes",
+      "title": "Walk the slopes that named Sandakphu",
+      "kind": "wildlife",
+      "duration": "1–1.5 hours",
+      "best_time": "Afternoon, Apr–May and Oct",
+      "cost": "Included in your guide fee",
+      "image_query": "Aconitum ferox Himalaya flower",
+      "wiki": "Aconitum",
+      "summary": "A short afternoon walk with your guide around the summit slopes shows the high-altitude plants of Singalila: dwarf rhododendrons, junipers, primulas and, if you know where to look, the aconite that gave the hill its Lepcha name.",
+      "body": [
+        "The upper slopes of Sandakphu are a different world from the forest below: open grass, dwarf rhododendron scrub, junipers and a few stunted firs bent by the wind. In April and May rhododendrons flower in pinks, whites and yellows. In autumn the grass turns tawny and berries ripen on the shrubs.",
+        "Aconite, Aconitum ferox and related species, once grew so thick here that herders muzzled their animals. It flowers in late summer, when the park is closed, but its deeply divided leaves can be spotted by a guide who knows them. Look, do not touch: every part of the plant is poisonous, and it can be absorbed through broken skin.",
+        "Keep to paths, avoid the SSB area and stay within sight of the lodges. An hour is enough. Then return for tea and wait for the evening light on Makalu."
+      ],
+      "good_for": ["students", "seniors", "photographers"],
+      "faqs": [
+        {"q": "Why is Sandakphu called the land of poisonous plants?", "a": "Its Lepcha name is usually translated as 'the height of the poisonous plant', after the aconite and some rhododendrons that grew thickly near the summit and poisoned livestock. Herders muzzled animals to cross. Aconite is much rarer now."},
+        {"q": "Can I see aconite flowers at Sandakphu?", "a": "Aconite blooms in late summer, mostly during the monsoon when the park is closed. In October you may find seed heads or leaves with a knowledgeable guide. Never touch or pick it; it is highly toxic."},
+        {"q": "When do rhododendrons flower at Sandakphu?", "a": "Usually late April to May at the summit level, later than the lower ridge. Species near the top are smaller shrubs with pink, white or pale yellow flowers. Bloom varies yearly with the winter's snow."}
+      ]
+    },
+    {
+      "slug": "sandakphu-land-rover-ride-up-the-ridge",
+      "title": "Ride an old Land Rover up to Sandakphu",
+      "kind": "adventure",
+      "duration": "4 hours each way",
+      "best_time": "Leave Maneybhanjan 8–10 am, Oct–May",
+      "cost": "₹6,500–9,000 a vehicle round trip with one night",
+      "image_query": "Land Rover Sandakphu road",
+      "wiki": "Land Rover series",
+      "summary": "For those who cannot walk three days, a Maneybhanjan Land Rover makes the 31 km climb to Sandakphu in about four hours on a cobbled track of hairpins, border villages and forest. It is rough, slow and one of the great vehicle rides in India.",
+      "body": [
+        "Book the vehicle at the Maneybhanjan stand through the owners' association, with your guide and park entry sorted. Up to six people share a Land Rover, so a full vehicle brings the cost per head close to walking with lodges. Pack light; bags go on the roof or in the back under a tarpaulin.",
+        "The track leaves Maneybhanjan in steep bends past Chitrey and Meghma, then runs along the ridge through Tumling, Gairibas and Kalipokhri, often on stone cobbles, with stretches that have been rebuilt in recent years. You will cross in and out of Nepal without a gate. Drivers stop for tea at Tumling or Gairibas and for photographs if you ask.",
+        "The last climb from Bikheybhanjang to the summit is the steepest: tight hairpins in low gear, engine roaring. Then you are on top, stiff and dusty, at 3,636 m. Agree in advance when the driver will take you back down, usually after the next morning's sunrise."
+      ],
+      "good_for": ["families", "seniors", "couples", "photographers"],
+      "faqs": [
+        {"q": "How long does the Land Rover take to Sandakphu?", "a": "About 4 hours from Maneybhanjan, depending on the track, traffic and stops, and a little less coming down. Snow or rain can slow it. In heavy snow in January and February the track may close for days."},
+        {"q": "Is the Land Rover ride to Sandakphu safe?", "a": "The drivers know the track well and accidents are rare, but the road is rough, steep and narrow, and the ride is bumpy. It is not ideal for people with back problems or pregnant women. Ask the driver to slow down if you are uncomfortable."},
+        {"q": "Can I go to Sandakphu and back in one day by Land Rover?", "a": "It is possible, about 8 hours of driving with a short stop, but you would arrive at midday when cloud usually hides the peaks. We strongly suggest one night on the summit to see sunset and sunrise."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Sandakphu the highest point in West Bengal?", "a": "Yes. At 3,636 m, Sandakphu is the highest point in West Bengal and the highest summit of the Singalila Ridge. Phalut, about 21 km north, at around 3,600 m, is the second highest. Both lie on the India–Nepal border."},
+    {"q": "Can you see Everest from Sandakphu?", "a": "Yes, on clear days, along with Lhotse and Makalu, about 125–145 km to the north-west. Kanchenjunga dominates the northern view. October to December gives the best chances; dawn is the most reliable time."},
+    {"q": "How do I reach Sandakphu?", "a": "Walk from Maneybhanjan in 3 days via Tumling, Gairibas and Kalipokhri, or ride a Land Rover from Maneybhanjan in about 4 hours. Both need park entry and a licensed guide. Maneybhanjan is 26 km from Darjeeling."},
+    {"q": "What is the best time to visit Sandakphu?", "a": "October to December for clear mountain views, with November often the best month. April and May bring rhododendrons but haze. January and February bring snow and very clear but cold days. The park usually closes mid-June to mid-September."},
+    {"q": "Does it snow at Sandakphu?", "a": "Yes, most winters, mainly from late December to February and sometimes in March. Snow can close the Land Rover track and make walking slow. Snowfall is not guaranteed on any given date."},
+    {"q": "Where can I stay in Sandakphu?", "a": "At the GTA trekkers' hut or private lodges such as Sherpa Chalet. Expect dorm beds at about ₹500–900 per person or private twins at ₹2,000–3,500, all basic and unheated. Book ahead in peak season."},
+    {"q": "How cold does it get at Sandakphu?", "a": "In December and January nights drop to about −8 to −10 °C, sometimes colder with wind. October and November nights are around −2 to 3 °C. Even in May, nights are near 4–6 °C. Carry serious warm layers."},
+    {"q": "Is Sandakphu suitable for children and older people?", "a": "By Land Rover, generally yes for healthy travellers, though the altitude of 3,636 m and the rough ride need care. Children should be watched for altitude symptoms. People with heart or lung conditions should consult a doctor first."},
+    {"q": "Is there electricity and network at Sandakphu?", "a": "Electricity is available but can be intermittent; carry a power bank. Indian and Nepali mobile networks reach the summit patchily. Turn off data roaming to avoid charges on Nepali networks."}
+  ]
+}

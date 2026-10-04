@@ -1,0 +1,114 @@
+{
+  "slug": "murti", "name": "Murti", "name_local": "मूर्ति", "region": "dooars",
+  "kind": "river town",
+  "wiki": "", "image_query": "Murti river Dooars",
+  "lat": 26.83, "lng": 88.81, "altitude_m": 150,
+  "tagline": "A stony river between two forests",
+  "meta_description": "Murti guide: the Murti river between Gorumara and Chapramari, Dhupjhora's elephants, forest corporation cottages, birding, costs and how to reach.",
+  "summary": "Murti is a small settlement where the Murti river leaves the hills and runs between Gorumara and Chapramari. Its wide, stony bed, the forest corporation's riverside cottages and the forest elephants at Dhupjhora make it the quietest base for both parks.",
+  "local_story": {"title": "A river that starts in the red panda forest", "paras": [
+    "The Murti begins high in the Neora Valley, in forest where red pandas live, and drops through Samsing and the tea slopes to reach the plains here. Within a few kilometres it changes from a mountain stream to a broad river of boulders and shingle that braids across the forest edge before joining the Jaldhaka.",
+    "The settlement grew around the bridge, the forest beat offices and, from the late 20th century, the forest corporation's riverside cottages, known to generations of Bengali families as Banani. Nearby Dhupjhora became home to the forest department's working elephants, the kunkis used for patrols in Gorumara. Many people in Murti work for the forest, in the tea gardens or in tourism, and some families cut grass and gather fuel under the forest department's joint management schemes.",
+    "In early October 2025 the Murti, like the Jaldhaka, rose suddenly after extreme rain in the hills and swept through the forest below, a reminder that its quiet winter bed belongs to a mountain river."]},
+  "did_you_know": [
+    "The Murti rises in Neora Valley National Park, a red panda forest established in 1986, and runs down past Samsing's tea slopes to the plains at Murti, at about 150 m.",
+    "The forest department's kunki elephants at Dhupjhora are working animals used for patrols and rescue; in October 2025 kunkis ferried stranded tourists across floodwater in Jaldapara.",
+    "Murti lies on the boundary between Gorumara National Park to the south and Chapramari Wildlife Sanctuary to the north, so both are within 15 minutes."
+  ],
+  "intro": [
+    "Murti is the place we send people who want a forest holiday without the highway resorts. The river is the centre of everything: in the morning people walk down to the stony bank with tea, in the afternoon children paddle at the edges, and in the evening everyone watches the light go orange across the water while peafowl call from the forest.",
+    "It is also well placed. Gorumara's counters at Lataguri are about 15 km away, Chapramari is closer still, and Samsing and Suntalekhola are an hour uphill. Spend two nights here, take one watchtower slot in each park, watch the elephants bathe at Dhupjhora and keep an afternoon for doing very little on the riverbank."
+  ],
+  "facts": [["Best months", "Nov – Mar"], ["Nights we suggest", "2"], ["From Siliguri", "≈ 80 km · 2.5 h"], ["Altitude", "≈ 150 m"], ["Known for", "Murti river, Banani cottages, Dhupjhora elephants"], ["Network", "Jio/Airtel patchy"]],
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 0, 1, 2, 2],
+  "nights": "2",
+  "costs": [["Forest corporation cottage at Murti", "₹1,800–4,000 a room (indicative)"], ["Forest corporation tent", "About ₹1,500"], ["Meals at a corporation camp", "About ₹500 pp a day"], ["Private resort near Murti", "₹3,000–6,000 a room"], ["Car to the Lataguri safari counter", "₹600–1,000"], ["Tea and snacks at the bridge", "₹30–80"]],
+  "highlights": [
+    {"title": "Evenings on the Murti riverbed", "text": "The wide stony bed is where Murti lives in winter. Walk down an hour before sunset, sit on a boulder and watch birds over the water and the forest edge turn gold."},
+    {"title": "Dhupjhora's elephants", "text": "The forest department's kunki elephants are bathed in the river most mornings. Watch from a safe distance as mahouts scrub them down, a quiet and joyful scene."},
+    {"title": "Two parks, one base", "text": "Gorumara and Chapramari are each 15–30 minutes away, which lets you take a morning slot in one and an afternoon slot in the other without a long drive."},
+    {"title": "River birds at dawn", "text": "Wagtails, river lapwings, plovers, kingfishers and in winter ruddy shelduck work the channels. Walk the bank at first light with binoculars."},
+    {"title": "Up to Samsing for the day", "text": "The Murti leads uphill to the tea garden village of Samsing and the Suntalekhola stream, an hour away. A good half-day when parks are closed or slots are full."}
+  ],
+  "how_to_reach": [
+    {"mode": "Reserved car", "text": "From NJP or Bagdogra about 80–90 km, two and a half hours via Malbazar, ₹3,000–3,800. Most drivers know the Banani and Dhupjhora turnings."},
+    {"mode": "Bus and local car", "text": "Bus from Siliguri to Malbazar or Chalsa, ₹100–150, then a local car or auto to Murti, ₹500–800. Slow but cheap."},
+    {"mode": "Train", "text": "Chalsa and New Mal Junction stations on the Dooars line are each about 15–20 km away. Check the timetable and arrange a pickup in advance."}
+  ],
+  "where_to_stay": "The forest corporation's Murti Banani Eco-Tourism Centre at Uttar Dhupjhora is the classic stay, with cottages in several grades and tents near the river. The corporation also runs small camps at Murti and at Dhupjhora, the latter with tree-house style cottages beside the elephant camp. A handful of private resorts line the roads around Murti, from about ₹3,000 to ₹6,000 a room. Book weekends early; Murti is a favourite of Bengal families.",
+  "stays": ["dooars-murti-banani-eco-tourism-centre"],
+  "tips": [
+    "Leave the riverbed at once if the water turns brown or starts to rise; rain in the hills reaches Murti before the sky changes.",
+    "Do not walk along the forest edge or riverbanks after dusk; elephants and gaur use them.",
+    "Order meals at forest corporation camps in advance, since kitchens cook to numbers.",
+    "Carry cash and snacks; Murti has only a few stalls and no reliable ATM.",
+    "The parks close from about 16 June to 15 September; check current status before you travel."
+  ],
+  "themes": ["wildlife-birds", "family-trips", "budget-honeymoons", "photography"],
+  "nearby": ["gorumara", "chapramari", "lataguri", "samsing"],
+  "experiences": [
+    {"slug": "murti-riverbed-sunset", "title": "Sunset on the Murti riverbed",
+     "kind": "viewpoint", "duration": "1.5 hours", "best_time": "4–5:30 pm, Nov–Mar", "cost": "Free",
+     "image_query": "Murti river sunset Dooars", "wiki": "",
+     "summary": "In the dry season the Murti spreads into a wide bed of boulders and clear channels between Gorumara and Chapramari. Walking down for sunset is the simplest pleasure in the Dooars, and it costs nothing.",
+     "body": ["From November to March the Murti runs low and clear, and its bed opens out into shingle bars and boulder fields a few hundred metres wide. Forest rises on both sides. In the late afternoon, families from the lodges walk down, children skip stones, and the light turns gold over the water and the sal trees.",
+              "Bring tea in a flask and a mat to sit on. Watch for river birds: white-browed wagtails, river lapwings, little ringed plovers and kingfishers. On some evenings peafowl walk out onto the gravel, and the forest department warns that elephants may cross the river at dusk, so leave the bed before darkness.",
+              "Even in winter, rain in the hills upstream can raise the river quickly. If the water colour changes or the level rises, move to the bank at once. In the monsoon the riverbed is not a place to be at all."],
+     "good_for": ["couples", "families", "seniors", "photographers"],
+     "faqs": [
+       {"q": "Is the Murti riverbed safe for children?", "a": "In the dry season, at the edges and in daylight, yes, with an adult close by. Keep them out of the main channel, where the current is stronger than it looks. Leave the bed before dusk, and at once if the water level rises after rain in the hills."},
+       {"q": "Can we see wildlife from the Murti riverbank?", "a": "Birds certainly, and sometimes peafowl, deer or gaur on the far bank. Elephants cross at dusk and at night. Watch from the lodge side, do not approach animals and leave the bed as the light fades. Real wildlife viewing is on the park watchtowers."},
+       {"q": "What is the best season for Murti?", "a": "November to March, when the river is low and clear, the parks are open and evenings are cool. April and May are hot but still pleasant on the river. Avoid June to September, when the river runs high and the parks are closed."}
+     ]},
+    {"slug": "murti-dhupjhora-elephant-bath", "title": "The morning elephant bath at Dhupjhora",
+     "kind": "wildlife", "duration": "1 hour", "best_time": "7–9 am, Oct–May", "cost": "Free to watch; rides only when offered",
+     "image_query": "Dhupjhora elephant camp bath", "wiki": "",
+     "summary": "The forest department keeps its working elephants, the kunkis used for patrols in Gorumara, at Dhupjhora near Murti. Most mornings the mahouts bring them down to the river to bathe, and visitors can watch from a respectful distance.",
+     "body": ["Kunki elephants are trained elephants used by the forest department for patrolling, tracking poachers, guiding wild herds away from villages and, when needed, rescue. In October 2025, kunkis at Jaldapara carried stranded tourists across floodwater after a bridge collapsed. At Dhupjhora the department's elephants and their mahouts live beside the forest corporation's small camp.",
+              "In the morning the mahouts walk the elephants down to the water, scrub them with stones and husks and let them spray and roll. It is a calm, unhurried scene. Stand where the staff tell you, keep children close, and do not feed or touch the elephants without the mahouts' permission.",
+              "Elephant rides for visitors have been offered from Dhupjhora in some seasons and stopped in others, depending on the department's rules and the animals' work. Ask the camp or the Lataguri counter, and check current status before you travel."],
+     "good_for": ["families", "photographers", "seniors"],
+     "faqs": [
+       {"q": "What are kunki elephants?", "a": "Kunkis are trained captive elephants used by forest departments in India to patrol forests, drive wild elephants away from villages, carry staff into difficult terrain and help in rescues. Each works with its own mahout. Those at Dhupjhora serve the Gorumara area."},
+       {"q": "Can we ride elephants at Dhupjhora?", "a": "Only when the forest department offers rides, which has varied over the years. Many visitors are happy just watching the morning bath. If rides are running, they are booked through the forest corporation or the department; check current status before you travel."},
+       {"q": "Is it ethical to watch the elephants?", "a": "Watching working elephants being bathed and cared for, from a distance and without feeding or touching them, is low-impact. Avoid any activity that involves the animals performing for visitors, and follow the mahouts' instructions on where to stand."}
+     ]},
+    {"slug": "murti-river-birding-dawn", "title": "River birding along the Murti at dawn",
+     "kind": "wildlife", "duration": "2 hours", "best_time": "6–8 am, Nov–Mar", "cost": "Free; local guide ₹500–800",
+     "image_query": "river lapwing Dooars", "wiki": "",
+     "summary": "The Murti's channels, gravel bars and forested banks hold a good mix of river and forest birds. A slow dawn walk along the bank from your lodge, ideally with a local birder, can easily give 40 or more species in winter.",
+     "body": ["Rivers leaving the Himalaya create some of the richest bird habitat in the Dooars: open gravel for lapwings, plovers and wagtails, fast riffles for forktails and redstarts coming down in winter, and forest edges for barbets, hornbills, drongos and bulbuls. At Murti all of these come together within a short walk.",
+              "Start at first light, walk slowly along the lodge side of the river and scan the channels and the far bank. In winter look for ruddy shelduck, great cormorant, river lapwing, white-capped redstart and plumbeous water redstart. Overhead, oriental pied hornbills fly between forest patches, and crested serpent eagles call.",
+              "Local guides from the forest villages know where birds feed and can tell calls apart. Ask at your lodge. Keep to the open riverbank, away from the dense forest edge, and turn back if the staff warn you of elephants nearby."],
+     "good_for": ["photographers", "seniors", "solo", "students"],
+     "faqs": [
+       {"q": "What birds can be seen at Murti?", "a": "River birds such as lapwings, plovers, wagtails, kingfishers, cormorants and in winter redstarts and ruddy shelduck; forest-edge birds such as hornbills, barbets, drongos and bulbuls; and raptors like the crested serpent eagle. Winter mornings from November to March give the best variety."},
+       {"q": "Do I need a guide for birding at Murti?", "a": "Not for the riverbank near the lodges, but a local guide helps you find more species and keeps you away from elephant paths. Fees are modest, roughly ₹500–800 for a morning. Inside the parks, birding is only from the watchtowers."},
+       {"q": "What should I bring for birding at Murti?", "a": "Binoculars, a field guide or app, a warm layer for the misty dawn, shoes that can take wet gravel and a flask of tea. A long lens if you photograph birds. Leave bright clothes behind."}
+     ]},
+    {"slug": "murti-banani-local-evening", "title": "A local dinner and folk dance evening",
+     "kind": "culture", "duration": "1.5–2 hours", "best_time": "Evening, Oct–Mar", "cost": "Dance programme about ₹275 at some camps (indicative)",
+     "image_query": "Dooars folk dance evening", "wiki": "",
+     "summary": "Some forest corporation camps around Murti host evening dance programmes by local troupes from the forest villages and tea gardens, with a local-style dinner. It is a small, paid performance, and the money goes to the performers.",
+     "body": ["The Dooars are home to many communities: Rajbanshi farmers of the plains, Adivasi families in the tea gardens whose ancestors came from Chota Nagpur, Nepali-speaking families in the hills, and smaller groups such as the Mech and Rava. Their music and dance are part of everyday festivals, and some troupes perform for visitors at the forest corporation's camps, which list programmes on their tariffs.",
+              "Expect drums, songs and line dances, often by young people from the nearby villages. Treat it as what it is: a short performance shared with guests, not a ritual. Ask the performers before taking close-up photographs, applaud, and if the troupe passes a hat, add to it.",
+              "Dinner at the camps is usually simple and local: rice, dal, a vegetable, chicken or fish and a chutney. Ask whether a programme is scheduled on your night; it is not daily everywhere."],
+     "good_for": ["families", "first-timers", "students"],
+     "faqs": [
+       {"q": "Which camps hold folk dance evenings near Murti?", "a": "The forest corporation lists dance programmes at Murti Banani and at its small camps such as Dhupjhora, Kalipur and Ramsai, usually on certain nights or on request for a fee. Ask when you book or at check-in, because schedules vary through the season."},
+       {"q": "Who performs at these evenings?", "a": "Usually troupes from nearby forest villages and tea gardens, often young people from local communities. Programmes help bring income to families living around the parks. Performers are not exhibits; talk to them, ask before close-up photos and thank them."},
+       {"q": "Is the folk dance programme suitable for children?", "a": "Yes. It is a short, friendly evening programme with music and dance, often in the open in the camp compound. Children usually enjoy it. Bring a warm layer in winter, as evenings by the river are cold from December to February."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "Where is Murti in the Dooars?", "a": "Murti lies on the Murti river between Gorumara National Park and Chapramari Wildlife Sanctuary in Jalpaiguri district, about 80 km east of Siliguri. Lataguri, where Gorumara's safari counters are, is about 15 km away; Chalsa is a similar distance north."},
+    {"q": "Is Murti better than Lataguri?", "a": "For quiet, yes: the river, fewer resorts and no highway at the door. For convenience, Lataguri is better, with the counters, shops and more transport. Many people prefer Murti and drive 20 minutes to the counters for their slots."},
+    {"q": "How do I book Murti Banani?", "a": "Through the West Bengal Forest Development Corporation's website. Room grades run from standard to premium, plus tents, at roughly ₹1,500–4,000 in the current tariff. Meals are usually extra. Book weekends and the Puja and winter holidays well ahead."},
+    {"q": "Can we swim in the Murti river?", "a": "We do not recommend swimming. The river can rise fast after rain in the hills even when Murti is dry, and the main channels have strong currents. Paddling at the edges in winter is fine with care and supervision of children."},
+    {"q": "What is there to do in Murti?", "a": "Watchtower safaris in Gorumara and Chapramari, the elephant bath at Dhupjhora, dawn birding and sunset on the riverbed, a local dance evening at some camps and a half-day up to Samsing and Suntalekhola. It is a place for slow days."},
+    {"q": "How far is Murti from Samsing?", "a": "About 20–25 km, roughly 45 minutes to an hour by car via Chalsa and Metali, climbing to around 900 m. Many visitors do Samsing as a day trip from Murti, or spend a night there and a night by the river."},
+    {"q": "Is Murti safe at night?", "a": "Inside your lodge compound, yes. Outside, wild elephants and gaur move along the river and forest edges after dark, and the roads are unlit. Stay in after dusk, use a torch in the compound and follow staff instructions."},
+    {"q": "Is there mobile network in Murti?", "a": "Coverage is patchy and varies by network, with better signal near the main road and bridge. Jio and Airtel generally work in places; data can be slow. Download maps and booking confirmations before you arrive."},
+    {"q": "Did the October 2025 floods affect Murti?", "a": "Yes. Extreme rain in early October 2025 raised the Murti and the Jaldhaka through the forest below, with damage to roads and forest areas around Gorumara. Lodges and parks reopened after repairs at different times; check current status before you travel."}
+  ]
+}

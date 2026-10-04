@@ -1,0 +1,67 @@
+{
+  "slug": "ravangla-namchi-shared-jeep-4n",
+  "title": "Ravangla and Namchi on a shoestring",
+  "region": "west-sikkim",
+  "nights": 4,
+  "themes": ["monasteries", "solo-backpacking", "long-weekends", "tea-country"],
+  "tier": "Shoestring",
+  "travel_mode": "Shared jeeps",
+  "stops": [{"place": "ravangla", "nights": 2}, {"place": "namchi", "nights": 2}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 10000,
+  "cost_split": [
+    {"item": "Shared jeeps", "inr": 1500},
+    {"item": "Budget hotels and a homestay, 4 nights", "inr": 4400},
+    {"item": "Meals, tea and snacks", "inr": 2600},
+    {"item": "Entries and shared local taxis to the sights", "inr": 1500}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2100,
+  "meta_description": "4 nights in Ravangla and Namchi by shared jeep from ₹10,000: Buddha Park, Ralang, Samdruptse's Guru Rinpoche, Char Dham and Temi tea.",
+  "summary": "South Sikkim's two big statues and its quiet monasteries, on shared jeeps. Two nights in Ravangla for Buddha Park and Ralang, two in Namchi for Samdruptse, Char Dham and a Temi tea stop, from about ₹10,000 per person.",
+  "intro": [
+    "South Sikkim is where the state built its modern landmarks: a 130-foot Buddha at Ravangla, consecrated by the Dalai Lama in 2013, a 118-foot Guru Rinpoche on Samdruptse hill above Namchi, completed in 2004, and the Char Dham complex at Solophok. Between them sit older places, Ralang's monasteries, Kewzing's Bon gompa, Temi's tea slopes, and Tendong Hill, which the Lepchas say saved their ancestors from a flood.",
+    "The roads here are shorter and gentler than in the west, and shared jeeps between Siliguri, Namchi and Ravangla are frequent. That makes this the easiest budget trip in our land, and a good one for families who do not want long drives."
+  ],
+  "highlights": [
+    "The 130-foot Buddha at Tathagata Tsal, Ravangla",
+    "Ralang Monastery and the forest road beyond Ravangla",
+    "Guru Rinpoche on Samdruptse hill, 118 feet tall",
+    "Char Dham at Solophok with its 108-foot Shiva",
+    "Tea and the slopes of Tendong Hill at Temi"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Ravangla", "place": "ravangla", "overnight": "Ravangla", "drive": "≈ 120 km · 4.5–5 h by shared jeep", "text": "Take a shared jeep from Siliguri to Ravangla if one is leaving; otherwise go to Namchi or Jorethang and change. The road follows the Teesta to Melli, then climbs through Namchi district to Ravangla at about 2,000 m. Check in to a budget hotel or a homestay in Kewzing, a short drive below town. In the evening walk the bazaar for momos and thukpa and ask about local taxis for the next morning.", "meals": "Dinner", "spend": "₹350–400 jeep seat + ₹150 lunch"},
+    {"day": 2, "title": "Buddha Park and Ralang", "place": "ravangla", "overnight": "Ravangla", "drive": "≈ 30 km in all · local taxi shares", "text": "Go to Buddha Park, also called Tathagata Tsal, early, when the mountains are most likely to be clear behind the statue. It was built for the 2,550th Buddha Jayanti and consecrated by the 14th Dalai Lama in March 2013; the base holds a museum and a circumambulation path. In the afternoon share a taxi to Ralang, where the large Kagyu monastery of Ralang Palchen Choeling stands near the older gompa. Return before dusk.", "meals": "Breakfast, dinner", "spend": "₹50–100 entry + ₹300–500 taxi share"},
+    {"day": 3, "title": "Ravangla to Namchi via Temi", "place": "namchi", "overnight": "Namchi", "drive": "≈ 45 km · 2–2.5 h by shared jeep and local taxi", "text": "Take a morning shared jeep or share a taxi towards Temi Tea Garden, set up by the Sikkim government in 1969 on the slopes of Tendong Hill. Walk the tea rows, drink a cup at the garden and buy a packet to take home. Continue to Namchi, about 1,675 m, by jeep. In the late afternoon walk to the Rock Garden or the central plaza, where Namchi's evening life happens.", "meals": "Breakfast, dinner", "spend": "₹150–250 in jeeps + ₹100 tea"},
+    {"day": 4, "title": "Samdruptse and Char Dham", "place": "namchi", "overnight": "Namchi", "drive": "≈ 20 km in all · local taxi shares", "text": "Start with Samdruptse, the hill above Namchi where a 118-foot statue of Guru Padmasambhava stands; its foundation was laid by the Dalai Lama in 1997 and it was completed in 2004. Then go across town to Char Dham at Solophok, opened in 2011, with a 108-foot Shiva and replicas of the four dhams and twelve jyotirlingas. In the afternoon visit the Ngadak Monastery in town, one of the older gompas of South Sikkim.", "meals": "Breakfast, dinner", "spend": "₹50–100 entries + ₹400–600 taxi share"},
+    {"day": 5, "title": "Namchi to NJP", "place": "namchi", "overnight": "", "drive": "≈ 100 km · 3.5–4 h by shared jeep", "text": "Shared jeeps from Namchi to Siliguri leave through the morning. Book a seat the evening before at the stand. The road drops to Jorethang, follows the Rangeet to Melli and then the Teesta to Sevoke. Allow extra time near Siliguri for traffic if you have an evening train or flight.", "meals": "Breakfast", "spend": "₹300–350 jeep seat + ₹150 lunch"}
+  ],
+  "stays": [],
+  "includes": ["Shared jeep seats on all main legs", "4 nights in budget hotels or a homestay, twin sharing", "Entries at Buddha Park, Samdruptse and Char Dham"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Reserved cars", "Tendong Hill guide", "Tips and shopping"],
+  "save_money": [
+    "Share local taxis to Buddha Park, Samdruptse and Char Dham with other travellers at the stand; drivers often take groups.",
+    "Eat in the bazaars of Ravangla and Namchi, where a thali costs a fraction of a hotel meal.",
+    "Stay in a Kewzing homestay with meals included; it is often cheaper than a room plus restaurant food in Ravangla town."
+  ],
+  "good_to_know": [
+    "Indian citizens need no permit; foreign nationals need a Sikkim Restricted Area Permit. Check current status before you travel.",
+    "Clear mornings are best for both statues; afternoon cloud is common from April.",
+    "Shared jeeps thin out after 3 pm.",
+    "Monsoon landslides can hit the Melli and Jorethang roads; check current status before you travel."
+  ],
+  "faqs": [
+    {"q": "Is Ravangla or Namchi better for a base?", "a": "Ravangla is higher, cooler and closer to Buddha Park, Ralang and the Maenam walk; Namchi is a district town with more shops, restaurants and jeeps, close to Samdruptse and Char Dham. On a 4-night trip we split two and two, so neither sightseeing day needs a long drive."},
+    {"q": "How much does this trip cost?", "a": "About ₹10,000 per person, twin sharing, from NJP back to NJP, indicative for 2025–26. That covers jeep seats, four nights in budget hotels or a homestay, meals, entries and shared local taxis. A reserved car throughout would add roughly ₹6,000–8,000 per person for two."},
+    {"q": "Is this trip good for families with children?", "a": "Yes. The drives are short by Sikkim standards, the sights are reached by road, and both towns have simple restaurants. Buddha Park and Char Dham have wide paths and space to walk. Pack warm layers, as Ravangla evenings are cool even in spring."},
+    {"q": "Can I add Tendong Hill?", "a": "Yes, add a night and start early from Damthang, between Namchi and Ravangla. The walk climbs through forest to about 2,600 m in roughly 3 to 4 hours one way. In Lepcha tradition the hill rose to save their ancestors from a great flood. Avoid it in heavy rain."},
+    {"q": "What are the entry fees at Buddha Park and Char Dham?", "a": "Both charge small entry fees, roughly ₹50–100 for Indian adults, with separate rates for foreigners and sometimes for cameras. Samdruptse also charges a fee. Amounts change, so carry small notes and check current status before you travel."},
+    {"q": "When is the best time to visit Ravangla and Namchi?", "a": "October to December for clear skies and views, March to May for flowers and mild weather. January and February are cold but often clear. Late August or September brings Pang Lhabsol at Ravangla, but also monsoon rain and possible road delays."},
+    {"q": "Can I visit Temi Tea Garden without a car?", "a": "Yes. Some shared jeeps between Ravangla, Namchi and Singtam pass through Temi; ask at the stand. Otherwise share a local taxi for the 18 km from Ravangla. The garden can be walked freely along roads and paths; factory visits depend on the season."},
+    {"q": "Do I need to book hotels in advance?", "a": "In October, Durga Puja and Diwali holidays and in April and May, book a few days ahead, as both towns fill with visitors from Bengal and Bihar. At other times you can usually find a room on arrival, though booking the first night is always wise."},
+    {"q": "Can I continue to Pelling instead of returning to NJP?", "a": "Yes. From Ravangla or Namchi take a jeep to Legship or Jorethang and change for Gyalshing and Pelling, about 3 to 4 hours in all. This turns the trip into a South and West Sikkim loop; add at least two nights in Pelling."}
+  ]
+}

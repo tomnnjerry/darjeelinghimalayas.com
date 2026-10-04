@@ -1,0 +1,87 @@
+{% load hills %}<nav class="nav" aria-label="Main">
+  <div class="nav__drop">
+    <button type="button" aria-expanded="false" aria-controls="m-hills">The hills <svg class="chev" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M2 4l4 4 4-4"/></svg></button>
+    <div class="mega" id="m-hills">
+      <div class="wrap mega__wrap">
+        <div>
+          <p class="eyebrow">Eight valleys and ridges</p>
+          <p class="mega__title">From 100 m of rhino grass to glacier lakes</p>
+          <p class="mega__lede">Each part of these hills has its own season, road and price. Pick one, or tell us your month and we will pick for you.</p>
+          <ul class="mega__links">
+            <li><a href="{% url 'seasons' %}">{% icon "calendar" %}Which valley in which month</a></li>
+            <li><a href="{% url 'lands' %}">{% icon "compass" %}Compare the hills</a></li>
+            <li><a href="{% url 'fares' %}">{% icon "jeep" %}Shared jeep fare board</a></li>
+            <li><a href="{% url 'routes' %}">{% icon "route" %}Routes and road times</a></li>
+          </ul>
+          <a class="btn btn--foil btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="mega-hills-plan">Ask a local planner</a>
+        </div>
+        <div class="mlands">
+          {% for r in nav_regions %}<div class="mcard" data-land="{{ r.slug }}">
+            {% with img=r|first_img %}{% if img %}<img src="{{ img|src:500 }}" alt="" loading="lazy">{% endif %}{% endwith %}
+            <span class="mcard__veil" aria-hidden="true"></span>
+            <span class="lbadge">{% icon r.slug %}</span>
+            <a class="mcard__name" href="{{ r.url }}">{{ r.short }}</a>
+            <span class="mcard__palette">{{ r.palette }}</span>
+            {% if r.per_day_from %}<span class="mcard__alt">From {{ r.per_day_from|inr }} a day</span>{% endif %}
+          </div>{% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="nav__drop">
+    <button type="button" aria-expanded="false" aria-controls="m-trips">Trips <svg class="chev" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M2 4l4 4 4-4"/></svg></button>
+    <div class="mega" id="m-trips">
+      <div class="wrap mega__cols">
+        <div>
+          <p class="eyebrow">By budget</p>
+          <div class="mtiers">
+            <a href="{% url 'journeys' %}?tier=Shoestring"><span class="milestone milestone--sm"><span class="milestone__cap">Day</span><span class="milestone__val">₹1.5k+</span></span><b>Shoestring</b><span>Shared jeeps, dorms and homestays</span></a>
+            <a href="{% url 'journeys' %}?tier=Value"><span class="milestone milestone--sm"><span class="milestone__cap">Day</span><span class="milestone__val">₹2.5k+</span></span><b>Value</b><span>Good homestays, some reserved cars</span></a>
+            <a href="{% url 'journeys' %}?tier=Comfort"><span class="milestone milestone--sm"><span class="milestone__cap">Day</span><span class="milestone__val">₹4k+</span></span><b>Comfort</b><span>A car of your own, rooms with a view</span></a>
+          </div>
+        </div>
+        <div>
+          <p class="eyebrow">By way of travel</p>
+          <ul class="mlist mlist--2">{% for t in nav_themes %}<li><a href="{{ t.url }}">{{ t.name }}</a></li>{% endfor %}</ul>
+        </div>
+        <div>
+          <p class="eyebrow">Fares we like</p>
+          {% for j in nav_popular|slice:":3" %}<a class="mfeat" href="{{ j.url }}" data-land="{{ j.region }}">{% with img=j|first_img %}{% if img %}<img src="{{ img|src:500 }}" alt="" loading="lazy">{% else %}<span></span>{% endif %}{% endwith %}<span><small>{% icon j.region %}{{ j.region_obj.short }} · {{ j.nights }} nights</small><b>{{ j.title }}</b><span class="fare">{{ j.price_from_inr|inr }} pp</span></span></a>{% endfor %}
+          <a class="link-arrow" href="{% url 'journeys' %}" style="margin-top:14px">Every trip {% icon "arrow" %}</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="nav__drop">
+    <button type="button" aria-expanded="false" aria-controls="m-do">Things to do <svg class="chev" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M2 4l4 4 4-4"/></svg></button>
+    <div class="mega" id="m-do">
+      <div class="wrap mega__cols">
+        <div style="grid-column: span 2">
+          <p class="eyebrow">By what you want to do</p>
+          <div class="mkinds" style="grid-template-columns: repeat(3, 1fr)">{% for k, n in nav_kinds %}<a href="{% url 'experience_kind' k %}"><span class="lbadge lbadge--sm lbadge--ground">{% icon k %}</span><b>{{ n }}</b></a>{% endfor %}</div>
+        </div>
+        <div>
+          <p class="eyebrow">Where you sleep</p>
+          <ul class="mlist"><li><a href="{% url 'stays' %}">{% icon "home" %}Homestays, lodges and huts</a></li><li><a href="{% url 'theme' 'homestays' %}">{% icon "bed" %}Village homestays</a></li><li><a href="{% url 'theme' 'tea-country' %}">{% icon "tea" %}Tea garden stays</a></li></ul>
+          <p class="eyebrow" style="margin-top: 22px">When it happens</p>
+          <ul class="mlist"><li><a href="{% url 'festivals' %}">{% icon "flag" %}Festival calendar</a></li><li><a href="{% url 'seasons' %}">{% icon "calendar" %}Season almanac</a></li></ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="nav__drop">
+    <button type="button" aria-expanded="false" aria-controls="m-plan">Plan <svg class="chev" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M2 4l4 4 4-4"/></svg></button>
+    <div class="mega" id="m-plan">
+      <div class="wrap mega__cols mega__cols--4">
+        <div><p class="eyebrow">Read first</p><ul class="mlist"><li><a href="{% url 'journal' %}">{% icon "story" %}Stories from the hills</a></li><li><a href="{% url 'guides' %}">{% icon "book" %}Planning guides</a></li><li><a href="{% url 'glossary' %}">{% icon "chat" %}Hill words</a></li><li><a href="{% url 'faq' %}">{% icon "chat" %}Questions answered</a></li></ul></div>
+        <div><p class="eyebrow">Money and roads</p><ul class="mlist"><li><a href="{% url 'fares' %}">{% icon "jeep" %}Jeep fare board</a></li><li><a href="{% url 'tool_budget' %}">{% icon "rupee" %}Budget builder</a></li><li><a href="{% url 'tool_permits' %}">{% icon "shield" %}Permits</a></li><li><a href="{% url 'routes' %}">{% icon "route" %}Routes</a></li></ul></div>
+        <div><p class="eyebrow">Booking with us</p><ul class="mlist"><li><a href="{% url 'how_we_work' %}">{% icon "sparkle" %}How we work</a></li><li><a href="{% url 'policy' 'refund-and-cancellation' %}">{% icon "shield" %}Refunds</a></li><li><a href="{% url 'policy' 'payments' %}">{% icon "rupee" %}Payments</a></li><li><a href="{% url 'contact' %}">{% icon "chat" %}Contact</a></li></ul></div>
+        <div class="mpromise" data-land="darjeeling"><p class="mega__title">Every rupee, <span class="foil-text">on paper</span></p><p class="mega__lede">Tell us your dates and budget. We reply within one working day with a route and a line-by-line cost. No payment to start.</p><a class="btn btn--foil btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="mega-plan-plan">Get my honest quote</a></div>
+      </div>
+    </div>
+  </div>
+  <a class="nav__link" href="{% url 'journal' %}">Stories</a>
+</nav>

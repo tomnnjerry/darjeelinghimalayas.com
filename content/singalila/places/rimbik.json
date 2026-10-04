@@ -1,0 +1,173 @@
+{
+  "slug": "rimbik",
+  "name": "Rimbik",
+  "name_local": "रिम्बिक",
+  "region": "singalila",
+  "kind": "market town",
+  "wiki": "Rimbick",
+  "image_query": "Rimbik Darjeeling village",
+  "lat": 27.122,
+  "lng": 88.107,
+  "altitude_m": 2286,
+  "tagline": "Jeep head, Tuesday market and the end of the trail",
+  "meta_description": "Rimbik, the road head of the Sandakphu trek: Tuesday haat, lodges, jeeps to Darjeeling (56 km), walks to Srikhola and what things cost.",
+  "summary": "Rimbik is a hill village and small market centre at about 2,286 m, 56 km from Darjeeling, where most Singalila treks end. Shared jeeps leave in the morning for Darjeeling, a Tuesday market draws farmers from the valleys, and simple lodges make it a comfortable last night after the walk down from Srikhola.",
+  "local_story": {
+    "title": "A school, a market and the morning jeeps",
+    "paras": [
+      "Rimbik grew as the market and service centre for the villages on the eastern slopes of the Singalila Ridge, places like Srikhola, Rammam and Gorkhey that had no road of their own. Its school, Rimbik Higher Secondary, was founded in 1948 and still draws children from farms hours away. Its weekly Tuesday market brings farmers down with vegetables, cheese and livestock and sends them home with rice, oil and cloth.",
+      "For trekkers, Rimbik has always meant the end of the trail and the jeep back to Darjeeling. The census counts nearly 7,000 people in the Rimbick area, many from Sherpa, Tamang, Rai and other Nepali-speaking communities. Walk through in the evening and you will see a working hill town, not a resort: lodges for trekkers, yes, but also tailors, grocers, a health centre and a jeep stand that comes alive before dawn."
+    ]
+  },
+  "did_you_know": [
+    "Rimbik is about 56 km by road from Darjeeling, and its morning shared jeeps are the usual exit for Sandakphu and Phalut trekkers.",
+    "Rimbik Higher Secondary School was established in 1948 and teaches from class V to class XII.",
+    "The 2011 Census recorded a population of 6,980 for Rimbick, with a literacy rate of about 75.6 percent among those over six."
+  ],
+  "intro": [
+    "After the quiet villages of the descent, Rimbik feels busy: jeeps, shops, a school bell, music from a tea stall. It sits on a broad slope at about 2,286 m, with terraced fields below and the Singalila Ridge above. Trekkers arrive tired and happy, find a lodge, take their first hot shower in a week and eat a large dinner.",
+    "Plan to sleep here. Shared jeeps to Darjeeling leave early, mostly between 6 and 8 am, and there are few later departures. If you arrive on a Monday, stay for the Tuesday market before you go. And if you have a spare day, Rimbik is a good base for short walks to Srikhola and the nearby villages without the climb back to the ridge."
+  ],
+  "facts": [
+    ["Best months", "Oct – Dec · Mar – May"],
+    ["Nights we suggest", "1"],
+    ["From Darjeeling", "≈ 56 km · 4–5 h by jeep"],
+    ["Altitude", "≈ 2,286 m"],
+    ["Known for", "Jeep head, Tuesday haat, trek end"],
+    ["Network", "Jio, Airtel and BSNL usually work"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1",
+  "costs": [
+    ["Shared jeep to Darjeeling", "₹200–300 a seat"],
+    ["Reserved jeep to Darjeeling", "₹3,000–4,500"],
+    ["Lodge room", "₹1,000–2,000 a room"],
+    ["Dinner and breakfast", "₹350–600 pp"],
+    ["Momos and tea", "₹100–180"],
+    ["Hot shower or bucket", "Often included; else ₹50–100"]
+  ],
+  "highlights": [
+    {"title": "The Tuesday haat", "text": "Every Tuesday, Rimbik's weekly market fills with farmers from the surrounding villages selling vegetables, cheese and livestock, and buying rice, oil, cloth and tools. It is the best way to see the region's rural life in one morning."},
+    {"title": "The morning jeep stand", "text": "Before dawn the jeep stand fills with passengers for Darjeeling: farmers, students, traders and trekkers. Shared jeeps leave as they fill, usually between 6 and 8 am. It is a lively, slightly chaotic start to the day."},
+    {"title": "First hot shower", "text": "After a week on the ridge, Rimbik's lodges, with buckets or geysers of hot water and proper beds, feel luxurious. Clean clothes, a long wash and a big dinner are the classic end-of-trek ritual."},
+    {"title": "Walk to Srikhola", "text": "If you have a spare day, walk the road down to Srikhola and its river, about 2 hours, through forest and fields. It is the gentlest way to see the valley without climbing back onto the ridge."},
+    {"title": "A working hill town", "text": "Rimbik has schools, shops, a health centre and a busy main street. Walk around in the evening to see a real Darjeeling hill town, far from tourist Darjeeling."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "From Darjeeling, shared jeeps to Rimbik leave from the main motor stand, mostly in the morning: ≈ 56 km, 4–5 hours, about ₹200–300 a seat. Returning, jeeps leave Rimbik early, roughly 6–8 am. Check current status before you travel."},
+    {"mode": "Reserved jeep", "text": "A reserved jeep between Darjeeling and Rimbik costs about ₹3,000–4,500 and takes around 4 hours. From NJP or Bagdogra, expect ₹5,500–7,000 and 6–7 hours."},
+    {"mode": "On foot from Srikhola", "text": "Walk the road from Srikhola, about 6–7 km and 2 hours, mostly climbing gently. Jeeps also run this stretch."}
+  ],
+  "where_to_stay": "Rimbik has several simple lodges and family hotels along the main road and near the jeep stand, with twin rooms at roughly ₹1,000–2,000, attached or shared bathrooms and hot water by bucket or geyser. Dinner is usually available in the lodge. Book ahead only in October and April; otherwise you can find a room on arrival.",
+  "stays": [],
+  "tips": [
+    "Book your morning jeep seat the evening before at the stand or through your lodge.",
+    "If you can, arrive on Monday to see the Tuesday market before you leave.",
+    "Pay your guide and porter here, including any agreed tip, before the jeep.",
+    "ATMs are unreliable; keep enough cash for the jeep and last night.",
+    "Pack your bag the night before; jeeps leave early and wait for no one."
+  ],
+  "themes": ["treks", "solo-backpacking", "food-trails", "off-season"],
+  "nearby": ["srikhola", "rammam", "dhotrey"],
+  "experiences": [
+    {
+      "slug": "rimbik-tuesday-haat",
+      "title": "Browse Rimbik's Tuesday haat",
+      "kind": "culture",
+      "duration": "1–2 hours",
+      "best_time": "Tuesday, 8 am–1 pm",
+      "cost": "Free · ₹100–300 for snacks and small buys",
+      "image_query": "weekly haat market Darjeeling hills",
+      "wiki": "",
+      "summary": "Each Tuesday, Rimbik's weekly market draws farmers from the Singalila valleys to sell vegetables, cheese and livestock and buy supplies. It is the best single window onto rural life in the region, and free.",
+      "body": [
+        "The haat, a weekly market, is an institution across rural India, and Rimbik's Tuesday market is the main one for the villages on this side of the ridge. From early morning, people walk or ride in from Srikhola, Rammam, Lodhama and further, carrying produce in bamboo baskets on their backs.",
+        "Walk through slowly. Look for local vegetables and greens, potatoes, squash, chillies, bundles of fern shoots in spring, blocks of churpi, and stalls of cloth, plastic goods, tools and medicines. Snack stalls sell momos, sel roti, pakoras and tea. Livestock, chickens and goats, may be traded at one end.",
+        "Ask before photographing people, buy something small if you can and enjoy the bargaining around you. The market is busiest in the late morning and winds down after lunch, when people start the long walk home."
+      ],
+      "good_for": ["photographers", "solo", "couples", "families"],
+      "faqs": [
+        {"q": "What day is the market in Rimbik?", "a": "Tuesday. The weekly haat runs from morning until early afternoon, busiest in the late morning. Market days can shift around festivals and holidays, so check locally."},
+        {"q": "What can I buy at Rimbik market?", "a": "Local vegetables, churpi, spices, cloth, household goods and snacks. There are few souvenirs; it is a farmers' market. A block of churpi or a bag of local tea makes a good small purchase."},
+        {"q": "Is it okay to photograph at the Rimbik haat?", "a": "Ask first, especially for close portraits. Most people are relaxed but busy. Buying something small or chatting before you raise a camera makes a difference."}
+      ]
+    },
+    {
+      "slug": "rimbik-end-of-trek-dinner",
+      "title": "End-of-trek momos and thukpa in Rimbik",
+      "kind": "food",
+      "duration": "1.5 hours",
+      "best_time": "Evening",
+      "cost": "₹250–500",
+      "image_query": "thukpa noodle soup Darjeeling",
+      "wiki": "Thukpa",
+      "summary": "Celebrate the end of the trek in a Rimbik eatery or lodge with plates of momos, a big bowl of thukpa or a full dal-bhat with chicken. Lower altitude and real appetite make it the best meal of the trip.",
+      "body": [
+        "After a week of lodge menus, Rimbik's small restaurants and lodge kitchens feel generous. Momos, steamed or fried, with pork, chicken or vegetable fillings; thukpa noodle soup; chowmein; and full dal-bhat with chicken or pork curry are standard. Prices are lower than on the ridge.",
+        "Look out for local foods if they are on offer: sel roti, the ring-shaped sweet rice bread made for festivals; gundruk, fermented greens in soup or pickle; and churpi in soup. Tea is milky and sweet; ask for black or ginger tea if you prefer.",
+        "Eat with your guide and porter if you can; it is a good way to say thank you. Then settle the trek accounts and book your jeep seat for the morning."
+      ],
+      "good_for": ["students", "solo", "couples", "families"],
+      "faqs": [
+        {"q": "What food is good in Rimbik?", "a": "Momos, thukpa, chowmein and dal-bhat with chicken or pork curry. If available, try sel roti, gundruk soup and churpi. Lodge kitchens and small eateries on the main road serve most of these."},
+        {"q": "Is food cheaper in Rimbik than on the trek?", "a": "Yes. A plate of momos costs roughly ₹80–150 and a dal-bhat dinner ₹200–300, cheaper than Sandakphu. Prices are indicative."},
+        {"q": "Should I eat with my guide at the end of the trek?", "a": "It is a kind gesture and common practice. Paying for your guide's and porter's dinner on the last night, along with an agreed tip, is a good way to thank them."}
+      ]
+    },
+    {
+      "slug": "rimbik-walk-to-srikhola-river",
+      "title": "Walk down to Srikhola and back",
+      "kind": "trek",
+      "duration": "4–5 hours return",
+      "best_time": "Morning, Oct–May",
+      "cost": "Free · guide fee if you enter the park area",
+      "image_query": "road Rimbik Srikhola forest",
+      "wiki": "",
+      "summary": "On a spare day in Rimbik, walk the quiet road down to the river village of Srikhola, about 2 hours each way, through forest and farmland. Lunch by the bridge, then walk or jeep back up.",
+      "body": [
+        "The road from Rimbik to Srikhola is about 6–7 km, descending gently through mixed forest, terraced fields and small hamlets. Traffic is light: a few jeeps, villagers on foot and the odd mule train. Birdlife along the way is good in the early morning.",
+        "At Srikhola, cross to the bridge over the river, prayer flags snapping above the water. The riverside lodges serve lunch: dal-bhat, noodles or momos. Sit by the water for an hour before the climb back.",
+        "Walking back up takes about 2–2.5 hours. If you are tired, ask about a jeep back to Rimbik; there are occasional shared ones and reserved jeeps can be arranged. This walk stays below the national park, but check with locals whether any park rules apply on the stretch you choose."
+      ],
+      "good_for": ["families", "seniors", "couples", "solo"],
+      "faqs": [
+        {"q": "How far is Srikhola from Rimbik on foot?", "a": "About 6–7 km along the road, roughly 2 hours down and 2–2.5 hours back up. It is an easy walk on a quiet road through forest and fields."},
+        {"q": "Do I need a guide to walk from Rimbik to Srikhola?", "a": "Usually not for the road itself, which is outside the main trekking corridor. If you go beyond Srikhola onto park trails, a licensed guide is required. Check current rules locally."},
+        {"q": "Can I take a jeep back from Srikhola to Rimbik?", "a": "Yes, occasional shared jeeps run, and a reserved jeep costs roughly ₹600–1,000. Ask at the Srikhola lodges. Times vary; do not count on a late-afternoon jeep."}
+      ]
+    },
+    {
+      "slug": "rimbik-dawn-jeep-to-darjeeling",
+      "title": "Ride the dawn jeep from Rimbik to Darjeeling",
+      "kind": "adventure",
+      "duration": "4–5 hours",
+      "best_time": "Departures roughly 6–8 am",
+      "cost": "₹200–300 a seat",
+      "image_query": "shared jeep Darjeeling hills road",
+      "wiki": "",
+      "summary": "Join farmers, students and traders on the early shared jeep to Darjeeling, winding 56 km along hill roads past villages, tea and forest. It is crowded and bumpy, cheap and very much part of the trip.",
+      "body": [
+        "Shared jeeps, usually Mahindra or Tata utility vehicles, leave Rimbik's stand from before dawn, departing as they fill. Book a seat the evening before if you can; front seats sell first. Bags go on the roof under a tarpaulin.",
+        "The road climbs and winds along the hills, passing villages, small bazaars and forest, with views back to the ridge you walked. Jeeps stop for tea and to pick up and drop passengers. Expect about 4–5 hours to Darjeeling, depending on the route and the road.",
+        "From Darjeeling, change for NJP or Siliguri the same day if you have a train or flight; allow a buffer, as hill roads can be slow. Roads can be affected by landslides after heavy rain; check current status before you travel."
+      ],
+      "good_for": ["students", "solo", "couples"],
+      "faqs": [
+        {"q": "What time do jeeps leave Rimbik for Darjeeling?", "a": "Mostly early, roughly 6–8 am, with fewer departures later. Times vary by season and demand. Book your seat the evening before at the stand or through your lodge, and check current status before you travel."},
+        {"q": "How much is a jeep from Rimbik to Darjeeling?", "a": "A shared seat costs about ₹200–300; a reserved jeep for the whole vehicle about ₹3,000–4,500. Prices are indicative and change with fuel costs."},
+        {"q": "Can I go from Rimbik straight to NJP?", "a": "Direct jeeps are rare. Usually you go to Darjeeling and change for NJP or Siliguri, or reserve a vehicle to NJP for about ₹5,500–7,000, taking 6–7 hours."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Rimbik from Darjeeling?", "a": "About 56 km by road, roughly 4–5 hours by shared jeep. Shared seats cost about ₹200–300 and jeeps leave mainly in the morning. A reserved jeep costs about ₹3,000–4,500."},
+    {"q": "Is Rimbik on the Sandakphu trek?", "a": "Yes, as the end point for most treks that descend from Sandakphu via Srikhola or from Phalut via Gorkhey and Rammam. Some trekkers also start here, walking up via Srikhola."},
+    {"q": "Where can I stay in Rimbik?", "a": "Several simple lodges and family hotels near the jeep stand and main road, with rooms at about ₹1,000–2,000. Hot water and dinner are usually available. Book ahead only in peak months."},
+    {"q": "What day is the Rimbik market?", "a": "Tuesday. The weekly haat brings farmers from the surrounding villages and runs from morning to early afternoon. It is worth timing your exit to see it."},
+    {"q": "Is there an ATM in Rimbik?", "a": "There may be one, but it is unreliable. Carry enough cash from Darjeeling for the whole trek and your jeep back. UPI works in some shops when the network is good."},
+    {"q": "What is the altitude of Rimbik?", "a": "About 2,286 m. It is lower and warmer than the ridge, with mild days in autumn and spring and cold nights in winter."},
+    {"q": "Does Rimbik have mobile network?", "a": "Yes, Indian networks usually work in Rimbik, though data can be slow. It is where most trekkers reconnect fully after the ridge."},
+    {"q": "Can I start the Sandakphu trek from Rimbik?", "a": "Yes, walking up via Srikhola and Gurdum, but it means a very steep 1,700 m climb in one day from Srikhola. Arrange your guide and park entry in advance, as Maneybhanjan is the usual starting office."},
+    {"q": "Is Rimbik worth staying an extra day?", "a": "If you like quiet hill towns and village walks, yes. The Tuesday market, the walk to Srikhola and the area's villages make a pleasant rest day after the trek."}
+  ]
+}

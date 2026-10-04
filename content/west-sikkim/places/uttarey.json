@@ -1,0 +1,173 @@
+{
+  "slug": "uttarey",
+  "name": "Uttarey",
+  "name_local": "",
+  "region": "west-sikkim",
+  "kind": "village",
+  "wiki": "Uttarey",
+  "image_query": "Uttarey West Sikkim village",
+  "lat": 27.268,
+  "lng": 88.078,
+  "altitude_m": 2000,
+  "tagline": "Border village under the Singalila ridge, past the Singshore Bridge",
+  "meta_description": "Uttarey, West Sikkim: a border village under the Singalila ridge with Singshore Bridge, Chewabhanjyang hikes and homestays. How to reach, costs, when to go.",
+  "summary": "Uttarey is a forest-edge village at about 2,000 m in Sikkim's Gyalshing district, close to the Nepal border below the Singalila ridge and roughly 30 km beyond Pelling via Dentam. Come for the Singshore Bridge, the long hike towards Chewabhanjyang pass, waterfalls, rhododendron forest and cheap, quiet homestays.",
+  "local_story": {
+    "title": "A village at the edge of the Singalila ridge",
+    "paras": [
+      "Uttarey sits where Sikkim runs out of road. Above it rises the Singalila ridge, which runs south from Kanchenjunga and forms the border between Sikkim and Nepal. For centuries the ridge was less a wall than a shared upland: Limboo country, called Limbuwan, stretched across both sides of it, and Lepcha families farmed and hunted the forests below. When the Namgyal kingdom took shape after 1642, these western hills became its frontier, and in the late 1780s Gorkha armies from Nepal crossed the high ground to overrun much of western Sikkim before the British settlement of 1817 restored the border.",
+      "Travellers have crossed this ridge for a long time. In late 1848 the botanist Joseph Dalton Hooker came over the Singalila range from eastern Nepal into Sikkim, and the rhododendrons he found in these forests went into his book The Rhododendrons of Sikkim-Himalaya, published from 1849 to 1851. Closer to home, local people speak of an old foot route over Chewabhanjyang, a pass of about 3,100 m above Uttarey, that villagers and traders from both sides used to visit relatives, sell goods and graze animals. Today a border post stands there, and going beyond it needs permission.",
+      "Modern Uttarey is a small, spread-out village of farms, a few shops and family homestays, with a small lake and waterfalls nearby. Most visitors arrive on the road from Dentam, which crosses a deep gorge on the Singshore Bridge, said to be the highest suspension bridge in Sikkim. The village came onto travellers' maps only in recent decades, as Sikkim promoted rural homestays, and it still feels like a place where the jeep timings, the school day and the farm set the rhythm rather than tourism."
+    ]
+  },
+  "did_you_know": [
+    "Singshore Bridge, on the road to Uttarey, is said to be about 240 m long and 100 m above the gorge, often called the highest suspension bridge in Sikkim.",
+    "The Singalila ridge runs south from Kanchenjunga and forms much of the border between Sikkim and Nepal before continuing into the Darjeeling hills towards Sandakphu.",
+    "Joseph Dalton Hooker described many Sikkim rhododendrons in The Rhododendrons of Sikkim-Himalaya (1849–51), after collecting in these border forests in 1848–49."
+  ],
+  "intro": [
+    "Uttarey is for people who want West Sikkim at its quietest. The village lies at about 2,000 m in a bowl of forest and farmland below the Singalila ridge, a few kilometres from the Nepal border and at the end of the road beyond Dentam. Days are spent walking: across the Singshore Bridge on the way in, to the waterfalls and the small lake, through oak and rhododendron forest, and for the fit, up towards Chewabhanjyang pass. Evenings are cold, dark and starry, with dinner by the kitchen fire in a family homestay.",
+    "It is roughly 30 km beyond Pelling, about 1.5–2 hours by road through Dentam, so it is easy to add two nights after Pelling or Yuksom. Shared jeeps run from Gyalshing. It is cheaper than Pelling, with homestays at roughly ₹1,500–2,500 per person including meals. Spring brings rhododendrons from March to May; autumn brings clear skies. Indians need no permit for the village; foreign nationals need the Sikkim Restricted Area Permit, and walks to the border need permission, so check current status before you travel."
+  ],
+  "facts": [
+    ["Best months", "Mar – May · Oct – Nov"],
+    ["Nights we suggest", "2"],
+    ["From Siliguri", "≈ 165 km · 7–8 h via Gyalshing"],
+    ["Altitude", "about 2,000 m"],
+    ["Known for", "Singshore Bridge, Singalila border walks, homestays"],
+    ["Network", "Weak; expect patchy calls and little data"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "2",
+  "costs": [
+    ["Shared jeep Siliguri–Gyalshing/Pelling", "₹450–600 a seat"],
+    ["Shared jeep Gyalshing–Uttarey", "about ₹120–200 a seat (check)"],
+    ["Reserved car Pelling–Uttarey", "₹2,500–3,500 one way (indicative)"],
+    ["Homestay with dinner and breakfast", "₹1,500–2,500 pp"],
+    ["Local guide for Chewabhanjyang", "₹1,500–2,500 a day"],
+    ["Thali / tea", "₹150–250 / ₹20–30"]
+  ],
+  "highlights": [
+    {"title": "Singshore Bridge", "text": "A suspension bridge across a deep gorge on the road from Dentam, said to be about 240 m long and 100 m high, and often called the highest in Sikkim. Walk across rather than driving over at speed, and look down at the forest and stream far below."},
+    {"title": "Towards Chewabhanjyang pass", "text": "A long, steep day hike from Uttarey through oak and rhododendron forest towards Chewabhanjyang, a pass of about 3,100 m on the Nepal border. Go with a local guide, carry ID and ask at the border post before going near the pass."},
+    {"title": "Mainebas waterfall", "text": "One of the falls near Uttarey, at its fullest after the monsoon from September to November. It makes a short outing from the village and a good stop for photographs. Ask your host for the current path, since tracks shift with landslides and repairs."},
+    {"title": "Rhododendron spring", "text": "From March to May the forests above Uttarey flower in red, pink and white, with the most colour higher up towards the ridge. Rhododendron niveum, with its lilac-purple flowers, is Sikkim's state tree. Peak bloom shifts by a few weeks each year with the weather."},
+    {"title": "Village and lake walks", "text": "Uttarey is spread over slopes of farms and forest, with a small lake near the village. An easy morning walk takes in houses, prayer flags, fields of potato and maize, and the lake, with the Singalila ridge always above you."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Take a morning shared jeep from Siliguri to Gyalshing or Pelling (about 5–6 h, ₹450–600 a seat). From Gyalshing, a few jeeps run to Uttarey through Dentam (about 2–2.5 h, roughly ₹120–200). They leave mostly in the morning and around midday, so plan to spend a night in Pelling or Gyalshing first."},
+    {"mode": "Reserved car", "text": "From Pelling a small car takes about 1.5–2 hours and costs roughly ₹2,500–3,500 one way. From NJP or Bagdogra expect about ₹6,500–8,000 and 7–8 hours. Fares are indicative; agree the price before you leave, and check current road status in the monsoon."}
+  ],
+  "where_to_stay": "Uttarey has a good spread of family homestays across the village, from simple rooms in farmhouses to small purpose-built guest blocks with attached bathrooms. Expect roughly ₹1,500–2,500 per person with dinner and breakfast, home-cooked food and hot water by geyser or bucket. Ask for blankets and a heater if you come between December and February, when nights can drop below freezing. If you plan the Chewabhanjyang hike, tell your host when you book so they can arrange a guide and an early breakfast. Dentam, an hour down the road, makes a lower, warmer alternative.",
+  "stays": [],
+  "tips": [
+    "Spend at least one night in Pelling or Gyalshing first, because the few jeeps to Uttarey leave in the morning.",
+    "Carry your passport or Aadhaar on walks towards the border, since the border post may check ID and you may be turned back without permission.",
+    "Pack proper warm layers; nights at 2,000 m can fall below freezing from December to February.",
+    "Walk across Singshore Bridge rather than just driving over it, and ask your driver to wait at the far end.",
+    "Draw cash before you leave Gyalshing or Pelling, as there are no reliable ATMs in Uttarey."
+  ],
+  "themes": ["treks", "homestays", "solo-backpacking", "photography", "off-season"],
+  "nearby": ["dentam", "hee-bermiok", "pelling"],
+  "experiences": [
+    {
+      "slug": "uttarey-singshore-bridge-walk",
+      "title": "Walk across the Singshore Bridge",
+      "kind": "viewpoint",
+      "duration": "45 minutes",
+      "best_time": "9 am–3 pm, Oct–May",
+      "cost": "Free",
+      "image_query": "Singshore Bridge Sikkim",
+      "wiki": "",
+      "summary": "Stop on the road between Dentam and Uttarey and walk across the Singshore Bridge, a suspension bridge said to be about 240 m long and 100 m above the gorge. It is a short, free outing with long views down to the forest and stream below.",
+      "body": [
+        "The Singshore Bridge spans a deep gorge on the road from Dentam to Uttarey, linking two sides of a valley that once took hours to cross on foot. It is commonly described as about 240 m long and about 100 m high, and is said to be the highest suspension bridge in Sikkim and among the highest in Asia; we use those figures as reported rather than measured. Whatever the exact numbers, standing in the middle and looking down is enough to make most people grip the rail.",
+        "The bridge carries road traffic, so walk on the side, keep children close and step aside for vehicles. The best plan is to have your driver drop you at one end and wait at the other while you walk across. From the middle you look down into forest and a stream far below, and up and down the valley towards the farms and ridges. On clear days the light is best from mid-morning, once the valley mist has burned off.",
+        "Most visitors see the bridge on the way into Uttarey from Pelling and Dentam, so build in 30–45 minutes for the stop. There is usually a small tea stall or two near the bridge in season, but do not count on it. People with a fear of heights can admire it from the approach. Wind can make the bridge feel livelier than it is; it is built for vehicles. Take your rubbish with you."
+      ],
+      "good_for": ["families", "couples", "photographers", "first-timers", "students"],
+      "faqs": [
+        {"q": "How high is the Singshore Bridge?", "a": "It is usually described as about 100 m above the gorge and about 240 m long, and is said to be the highest suspension bridge in Sikkim and among the highest in Asia. These are the commonly reported figures rather than our own measurements, but standing in the middle you will not doubt that it is very high."},
+        {"q": "Where is the Singshore Bridge?", "a": "It is on the road between Dentam and Uttarey in Sikkim's Gyalshing district, west of Pelling. Most people cross it on the way to Uttarey, roughly 1.5–2 hours from Pelling by car. Shared jeeps from Gyalshing to Uttarey also cross it, though they rarely stop, so a reserved car makes a proper visit easier."},
+        {"q": "Is it safe to walk across Singshore Bridge?", "a": "Yes, for most people. It is a road bridge built for vehicles, with railings along the sides. Walk on the edge, keep children close, step aside for jeeps and avoid it in strong wind or heavy rain. If you dislike heights, view it from the approach road, which still shows the gorge well."}
+      ]
+    },
+    {
+      "slug": "uttarey-chewabhanjyang-day-hike",
+      "title": "Day hike towards Chewabhanjyang pass",
+      "kind": "trek",
+      "duration": "Full day, 8–10 hours return",
+      "best_time": "Start 6 am, Mar–May and Oct–Nov",
+      "cost": "Local guide ₹1,500–2,500 a day",
+      "image_query": "Singalila Ridge rhododendron forest",
+      "wiki": "Singalila Ridge",
+      "summary": "A long, steep day hike from Uttarey through oak and rhododendron forest towards Chewabhanjyang, a pass of about 3,100 m on the Nepal border. You climb about 1,100 m, need a local guide and must respect the border post. In spring the forest is in full flower.",
+      "body": [
+        "Chewabhanjyang, roughly 3,100 m, is a pass on the Singalila ridge above Uttarey, on the border between Sikkim and Nepal. Local people speak of it as an old foot route between villages on both sides, used for trade, grazing and family visits long before roads. Today a border post stands there. From Uttarey the trail climbs about 1,100 m through farmland and then mixed forest of oak, maple, magnolia and rhododendron, with bamboo thickets higher up and, on clear days, wide views back over West Sikkim.",
+        "This is a serious day, not a stroll. Expect roughly 5–6 hours up and 3–4 hours down, depending on fitness and conditions; trail times vary and we suggest confirming with your guide. Go with a local guide, who knows the paths and the people at the border post, and pay ₹1,500–2,500 for the day. Carry your passport or Aadhaar. Crossing into Nepal or walking along the ridge beyond needs permission, so do not assume you can continue. Check current status before you travel.",
+        "Start by 6 am with a packed lunch from your homestay, 2 litres of water, rain gear, a warm layer and a torch. March to May brings rhododendron bloom; October and November bring the clearest skies and colder air. Avoid the monsoon, when the trail turns to mud and leeches are everywhere, and deep winter, when snow can lie near the pass. If you feel headache or breathlessness, turn back; 3,100 m is high enough for mild altitude symptoms."
+      ],
+      "good_for": ["solo", "students", "photographers"],
+      "faqs": [
+        {"q": "How difficult is the Chewabhanjyang hike from Uttarey?", "a": "It is a hard day hike: about 1,100 m of ascent to roughly 3,100 m, with an estimated 8–10 hours return on forest trails that can be steep and muddy. You need good fitness, proper shoes and an early start. It is not suitable for young children or people with heart or knee problems."},
+        {"q": "Do we need permission to go to Chewabhanjyang?", "a": "Hiking to the area with a local guide is generally possible for Indian citizens carrying ID, but there is a border post at the pass and going into Nepal or along the ridge needs permission. Foreign nationals face stricter rules. Ask your homestay host and the local police or border post, and check current status before you travel."},
+        {"q": "When do the rhododendrons bloom on the way to Chewabhanjyang?", "a": "Usually from March to May, starting lower down and moving up the slopes as spring warms. Late March to late April often has the most colour on the forest trails above Uttarey, but timing shifts by a few weeks each year. Ask your host about the bloom before you set out."}
+      ]
+    },
+    {
+      "slug": "uttarey-mainebas-waterfall",
+      "title": "Mainebas waterfall after the rains",
+      "kind": "viewpoint",
+      "duration": "1.5–2 hours",
+      "best_time": "10 am–2 pm, Sep–Nov",
+      "cost": "Free",
+      "image_query": "Mainebas waterfall Uttarey",
+      "wiki": "",
+      "summary": "A short outing from Uttarey village to the Mainebas waterfall, best from September to November when the monsoon has filled the streams and the paths have dried. Pair it with a walk through the farms and a picnic lunch from your homestay.",
+      "body": [
+        "Mainebas is one of the waterfalls around Uttarey, fed by streams coming off the Singalila ridge. Like most hill falls it changes with the seasons: full and loud after the monsoon, from September into November, thinner but still pretty in spring, and reduced to a trickle in the driest weeks before the rains. We think autumn is the best time, when the water is strong but the paths have had a few weeks to dry and the leeches have mostly gone.",
+        "Your host will tell you the current route, which may be partly by road and partly by footpath, depending on landslide repairs and how the tracks have shifted. The outing usually takes 1.5–2 hours including time at the falls. On the way you pass farmhouses and fields of potato, maize and vegetables, and in spring you may see rhododendron and magnolia flowering in the forest above. Ask before crossing private land.",
+        "Wear shoes with good grip, as rocks near falling water are slippery even in dry weather. Do not climb on wet rocks or stand at the edge for photos; every year people get hurt at hill waterfalls. Take a small picnic and your rubbish home with you. If you are in Uttarey from June to August, look from a safe distance rather than trying to reach the base, since paths can be washed out."
+      ],
+      "good_for": ["families", "couples", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "When is the best time to see Mainebas waterfall?", "a": "September to November, after the monsoon, when the water is high and the paths have dried. Spring, from March to May, is also pleasant, with less water but flowering forests. From June to August the falls are at their fullest but paths can be slippery, leech-heavy or washed out, so view from a distance."},
+        {"q": "How far is Mainebas waterfall from Uttarey village?", "a": "It is close enough for a short outing, usually 1.5–2 hours including time at the falls, partly by road and partly on foot. The exact route depends on current path and road conditions, so ask your homestay host for directions or a guide on the day rather than relying on old online maps."},
+        {"q": "Is the waterfall walk safe for children?", "a": "Yes, with care. The approach is not long, but rocks near the falls are slippery. Keep children away from the edges, do not let them climb on wet rocks, and turn back if the path looks damaged. Shoes with good grip are essential. In the monsoon, look from a safe distance only."}
+      ]
+    },
+    {
+      "slug": "uttarey-village-and-lake-walk",
+      "title": "Uttarey village and lake morning walk",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "7–10 am, Oct–May",
+      "cost": "Free",
+      "image_query": "Uttarey lake Sikkim",
+      "wiki": "",
+      "summary": "An easy morning walk around Uttarey's farms, prayer flags and small lake, with the Singalila ridge above and the border country all around. Good for a first morning or a rest day, and a chance to meet the families who farm here.",
+      "body": [
+        "Uttarey is spread across a bowl of slopes rather than built along one street, so walking is the best way to understand it. Start from your homestay after breakfast and follow the village paths between farmhouses, potato and maize fields, kitchen gardens and the school. Families here are Limboo, Lepcha, Gurung, Rai, Chettri and others, a mix typical of western Sikkim, and many still farm much as their grandparents did. Say namaste, ask before taking photographs of people, and expect curious children.",
+        "The small lake near the village makes a natural turning point. It is not a large or sacred lake like Khecheopalri, but a quiet spot with forest and ridge views where people stroll in the evenings. Above everything rises the Singalila ridge, the border with Nepal. Ask your host to point out the line of the old foot route towards Chewabhanjyang, which local people say villagers on both sides once used to visit family and trade.",
+        "Allow two hours at an easy pace. Wear shoes with grip and carry a warm layer, since mornings are cold even in spring. The walk is ideal on arrival day after the drive from Pelling, or on a rest day after the Chewabhanjyang hike. In the evening, return to the lake for the light on the ridge. There are no entry fees, but buy a cup of tea or some snacks from a village shop; it helps the local economy."
+      ],
+      "good_for": ["families", "seniors", "couples", "first-timers"],
+      "faqs": [
+        {"q": "Is there a lake in Uttarey?", "a": "Yes, there is a small lake near the village, a pleasant spot for a short walk with forest and ridge views. It is not a large or sacred lake like Khecheopalri, so do not travel to Uttarey for it alone, but it makes a good turning point for a morning or evening stroll around the village."},
+        {"q": "What else can we do in Uttarey on a rest day?", "a": "Walk the village and lake, visit the Mainebas waterfall, sit with a book and tea on your homestay terrace, or ask your host to show you the farm and kitchen. Uttarey is a slow place by design; most people come for walks, quiet and fresh air rather than a list of sights."},
+        {"q": "Who lives in Uttarey?", "a": "Uttarey is home to a mix of communities typical of western Sikkim, including Limboo, Lepcha, Gurung, Rai and Chettri families, most of whom farm. Nepali is the common language, and many people also speak Hindi and some English. Hosts are used to travellers and happy to talk about village life if you ask."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Uttarey worth visiting?", "a": "Yes, if you want quiet, forest walks and a border village feel rather than sights. Uttarey gives you the Singshore Bridge on the way in, rhododendron forests, waterfalls, a long hike towards Chewabhanjyang pass and cheap family homestays. It is less polished than Pelling and colder at night, so pack warm layers and patience."},
+    {"q": "How far is Uttarey from Pelling?", "a": "Roughly 30 km, about 1.5–2 hours by road through Dentam. A reserved car costs about ₹2,500–3,500 one way. Shared jeeps run from Gyalshing, just below Pelling, mostly in the morning and around midday, for roughly ₹120–200 a seat. Fares and timings are indicative, so confirm locally."},
+    {"q": "How do we reach Uttarey from NJP?", "a": "Take a morning shared jeep from Siliguri to Gyalshing or Pelling (about 5–6 h, ₹450–600), spend a night there, then take a shared jeep from Gyalshing to Uttarey the next morning (about 2–2.5 h). A reserved car from NJP or Bagdogra costs about ₹6,500–8,000 and takes 7–8 hours. Check current road status in the monsoon."},
+    {"q": "Can we cross into Nepal from Uttarey?", "a": "Not as an ordinary tourist route. Chewabhanjyang pass above Uttarey has a border post, and crossing into Nepal or trekking along the ridge needs permission. The official crossings for travellers are elsewhere, for example at Panitanki near Siliguri. Ask the local police or border post, and check current status before you travel."},
+    {"q": "When is the best time to visit Uttarey?", "a": "March to May for rhododendron bloom and mild days; October and November for clear skies and crisp air. December to February is cold, with frost and occasional snow higher up. June to September is wet, leech-heavy and prone to landslides on the road, so most people avoid it, though the forests are very green."},
+    {"q": "Do we need a permit for Uttarey?", "a": "Indian citizens need no permit for Uttarey village, but carry ID, especially on walks towards the border. Foreign nationals need the Sikkim Restricted Area Permit, and walks near the border post may need extra permission. Rules change, so check current status before you travel."},
+    {"q": "Is Uttarey cold?", "a": "Yes, colder than Pelling. At about 2,000 m, winter nights from December to February can fall below freezing, and even in October and April evenings are chilly. Pack a down jacket or warm fleece, thermals, a cap and socks. Ask your homestay for extra blankets or a heater."},
+    {"q": "How many days should we spend in Uttarey?", "a": "Two nights is the minimum to enjoy it: one day for the Chewabhanjyang hike or the waterfall and village walk, and an easy morning before you leave. Three nights suits walkers who want both the long hike and a rest day. Combine with a night in Dentam on the way."},
+    {"q": "How much does a trip to Uttarey cost?", "a": "Two nights in an Uttarey homestay cost roughly ₹3,000–5,000 per person with dinner and breakfast. Add a local guide for the Chewabhanjyang hike at ₹1,500–2,500 a day, shared jeeps of about ₹450–600 from Siliguri plus ₹120–200 from Gyalshing each way, and modest food costs. Figures are indicative for 2025–26."}
+  ]
+}

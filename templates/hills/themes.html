@@ -1,0 +1,9 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Ways to travel the Darjeeling and Sikkim hills · Darjeeling Himalayas{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:20px"><div class="phead__body" style="margin-top:0">
+  <p class="eyebrow">Ways to travel</p><h1 class="h-1">Choose how, not just where</h1>
+  <p class="lede">Tea gardens, the toy train, treks, homestays, monasteries, snow, festivals and the cheap green months of the monsoon.</p>
+</div></div></header>
+<section class="sec--tight"><div class="wrap grid grid--3">{% for row in rows %}<a class="gcard rv" href="{{ row.t.url }}"><span class="gcard__cat">{% icon "leaf" %}Way to travel</span><b>{{ row.t.name }}</b><p>{{ row.t.summary|truncatewords:28 }}</p></a>{% endfor %}</div></section>
+{% endblock %}

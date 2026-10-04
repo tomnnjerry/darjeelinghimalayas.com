@@ -1,0 +1,101 @@
+[
+  {
+    "slug": "darjeeling-to-maneybhanjan",
+    "from": "darjeeling",
+    "to": "maneybhanjan",
+    "distance_km": 26,
+    "summary": "Darjeeling to Maneybhanjan, the start of the Sandakphu trek, is about 26 km via Ghoom and Sukhiapokhri. Shared jeeps take 1–1.5 hours for about ₹100–150 a seat, leaving through the morning from Chowk Bazaar. A reserved car costs about ₹1,500–2,000.",
+    "options": [
+      {"mode": "Shared jeep", "time": "1–1.5 h", "fare": "₹100–150 a seat", "text": "Shared jeeps leave Darjeeling's Chowk Bazaar motor stand for Maneybhanjan through the morning, departing as they fill. The road runs via Ghoom and Sukhiapokhri through pine forest and small bazaars. Take a 7–8 am jeep if you plan to walk to Tumling the same day. Afternoon departures are fewer; check current status before you travel."},
+      {"mode": "Reserved car", "time": "1 h", "fare": "₹1,500–2,000 a car", "text": "Any Darjeeling taxi stand or hotel can arrange a reserved car to Maneybhanjan. It is the easiest option for groups with luggage or families, and lets you leave at 6.30 am for a full day on the trail. Agree the fare and drop point at the guide office before you set off."},
+      {"mode": "Via Sukhiapokhri", "time": "1.5–2 h", "fare": "₹60–80 + ₹40–60", "text": "If no direct jeep is filling, take a shared jeep to Sukhiapokhri and change there for Maneybhanjan. It costs about the same and adds 20–30 minutes. Sukhiapokhri's stand is busy in the mornings with jeeps toward Mirik and Maneybhanjan."}
+    ],
+    "stops_on_way": ["Ghoom monastery and station", "Sukhiapokhri bazaar", "Jorebunglow pine forest"],
+    "tip": "Leave Darjeeling by 8 am so you reach the guide office before the queue builds and can start walking by 10.",
+    "faqs": [
+      {"q": "How do I get from Darjeeling to Maneybhanjan?", "a": "By shared jeep from the Chowk Bazaar motor stand, about ₹100–150 a seat and 1–1.5 hours, or by reserved car for about ₹1,500–2,000. The road goes via Ghoom and Sukhiapokhri, about 26 km. Morning departures are the most reliable."},
+      {"q": "What is the first jeep from Darjeeling to Maneybhanjan?", "a": "Shared jeeps usually start running around 7 am and leave as they fill through the morning. Times are informal and vary. Ask at the stand the day before, and check current status before you travel."},
+      {"q": "Can I go from Darjeeling to Maneybhanjan and back in a day?", "a": "Yes. It is an easy day trip: an hour each way, time in the bazaar, and perhaps a walk up to Chitrey with a guide or a Land Rover ride to Tumling for the view. Return jeeps are less frequent in the late afternoon."},
+      {"q": "Is there a bus from Darjeeling to Maneybhanjan?", "a": "Shared jeeps are the practical public transport on this route. Occasional buses may run, but schedules are irregular. Jeeps are faster and more frequent."}
+    ]
+  },
+  {
+    "slug": "siliguri-to-maneybhanjan",
+    "from": "siliguri",
+    "to": "maneybhanjan",
+    "distance_km": 90,
+    "summary": "Siliguri, NJP or Bagdogra to Maneybhanjan is about 90 km via Mirik or via Ghoom, taking 3.5–4 hours. A reserved car costs about ₹3,500–4,500. On shared jeeps, change at Mirik, Sukhiapokhri or Darjeeling, spending about ₹300–450 in total.",
+    "options": [
+      {"mode": "Reserved car", "time": "3.5–4 h", "fare": "₹3,500–4,500 a car", "text": "The fastest way to start trekking on the day you arrive. Book a car from NJP station, Bagdogra airport or Siliguri, and ask for the Mirik road via Dudhia and Sukhiapokhri or the Rohini road via Kurseong and Ghoom. Leave by 6.30–7 am to reach Maneybhanjan by 11."},
+      {"mode": "Shared jeeps via Mirik", "time": "4.5–5.5 h", "fare": "≈ ₹300–400 total", "text": "Take a shared jeep from Siliguri to Mirik, about 2.5 hours, then a jeep toward Sukhiapokhri or Maneybhanjan. Connections are best in the morning. It is cheaper and scenic, passing tea gardens and Mirik lake, but needs patience."},
+      {"mode": "Shared jeeps via Darjeeling", "time": "5–6 h", "fare": "≈ ₹350–450 total", "text": "Take a shared jeep from Siliguri or NJP to Darjeeling, about 3–3.5 hours for ₹250–350, then a shared jeep to Maneybhanjan. Most trekkers using shared jeeps sleep in Darjeeling and continue next morning."}
+    ],
+    "stops_on_way": ["Dudhia on the Balason river", "Mirik lake", "Sukhiapokhri", "Kurseong and Ghoom on the Rohini route"],
+    "tip": "If you arrive at NJP or Bagdogra after 9 am, sleep in Darjeeling or Mirik and go to Maneybhanjan the next morning.",
+    "faqs": [
+      {"q": "How far is Maneybhanjan from NJP?", "a": "About 90–100 km depending on the route via Mirik or via Ghoom, usually 3.5–4 hours by car. Shared jeeps with a change take 4.5–6 hours. Hill roads can be slow after rain; check current status before you travel."},
+      {"q": "How much is a taxi from Bagdogra to Maneybhanjan?", "a": "Roughly ₹3,500–4,500 for a reserved car, indicative and higher in peak season. Prepaid taxi counters at the airport and stands at NJP quote fixed fares. Agree the route and drop point in advance."},
+      {"q": "Is there a direct shared jeep from Siliguri to Maneybhanjan?", "a": "Direct shared jeeps are uncommon. Most people change at Mirik, Sukhiapokhri or Darjeeling. Morning departures from Siliguri give the best chance of same-day connections."},
+      {"q": "Which route to Maneybhanjan is better, via Mirik or Ghoom?", "a": "The Mirik route is quieter, passing tea gardens and the lake. The Ghoom route via Kurseong is busier but has more transport. Times are similar. Choose based on road conditions on the day."}
+    ]
+  },
+  {
+    "slug": "maneybhanjan-to-sandakphu",
+    "from": "maneybhanjan",
+    "to": "sandakphu",
+    "distance_km": 31,
+    "summary": "Maneybhanjan to Sandakphu is about 31 km along the Singalila Ridge. Walk it in 3 days via Tumling, Gairibas and Kalipokhri, or ride one of Maneybhanjan's vintage Land Rovers in about 4 hours. A licensed guide and park entry are required either way.",
+    "options": [
+      {"mode": "On foot", "time": "3 days", "fare": "Guide ₹1,500–2,000 a day per group + lodges", "text": "The classic trek: Maneybhanjan to Tumling via Chitrey and Meghma on day one, Tumling to Kalipokhri via Jaubari and Gairibas on day two, and Kalipokhri to Sandakphu via Bikheybhanjang on day three. It climbs about 1,500 m, crossing in and out of Nepal. Budget about ₹2,000–2,500 a day per person in a pair."},
+      {"mode": "Land Rover", "time": "≈ 4 h", "fare": "₹6,500–9,000 a vehicle round trip with one night", "text": "Book through the owners' association at the Maneybhanjan stand. Up to six people share a vehicle, plus the compulsory guide. The cobbled track is rough and steep; the last climb from Bikheybhanjang is the hardest. Snow can close it in January and February. Check current status before you travel."},
+      {"mode": "Walk up, ride down", "time": "3 days up, 3.5 h down", "fare": "Lodges + one-way Land Rover", "text": "A popular compromise: walk up for the forest and acclimatisation, then hire a Land Rover back down from Sandakphu to Maneybhanjan to save tired knees. Arrange the return vehicle in advance through the association or your guide."}
+    ],
+    "stops_on_way": ["Chitrey gompa", "Meghma monastery", "Tumling", "Tonglu", "Jaubari", "Gairibas", "Kalipokhri"],
+    "tip": "Even by Land Rover, spend a night on the summit; arriving at midday usually means cloud, while dawn is usually clear.",
+    "faqs": [
+      {"q": "How long does it take to walk from Maneybhanjan to Sandakphu?", "a": "Three days for most trekkers, with nights at Tumling and Kalipokhri or Gairibas. Fast, acclimatised walkers can do it in two, but that is hard and risks altitude problems. The distance is about 31 km with roughly 1,500 m of climbing."},
+      {"q": "How much is a Land Rover from Maneybhanjan to Sandakphu?", "a": "About ₹6,500–9,000 per vehicle for a round trip with one night on the summit, indicative and set by the owners' association. Each extra night adds a waiting charge. A vehicle seats up to six. Check current status before you travel."},
+      {"q": "Do I need a guide for the Land Rover trip to Sandakphu?", "a": "Yes. Every group entering Singalila National Park needs a licensed guide, including vehicle groups. Arrange the guide and park entry at Maneybhanjan before the Land Rover leaves."},
+      {"q": "Can private cars drive to Sandakphu?", "a": "Generally no. The track is used by the Maneybhanjan Land Rovers and a few permitted local vehicles. Ordinary cars and SUVs from Darjeeling or the plains are not suited to it and are usually not allowed inside the park."}
+    ]
+  },
+  {
+    "slug": "dhotrey-to-tonglu",
+    "from": "dhotrey",
+    "to": "tonglu",
+    "distance_km": 6,
+    "summary": "Dhotrey to Tonglu is a 6 km forest trail climbing about 500 m to the Singalila Ridge, usually 3–4 hours on foot. It is the shortest walking route onto the ridge and a quieter alternative to starting from Maneybhanjan. A licensed guide and park entry are required.",
+    "options": [
+      {"mode": "On foot", "time": "3–4 h up · 2.5–3 h down", "fare": "Guide ₹1,500–2,000 a day per group + park entry", "text": "The trail climbs from the top of Dhotrey village through oak, chestnut, rhododendron and bamboo to Tonglu's open summit at about 3,070 m. It is steep in places but shaded. Good for birds in the early morning and rhododendrons in April. Arrange the guide and entry at Maneybhanjan before driving to Dhotrey."},
+      {"mode": "By road via Maneybhanjan", "time": "2–2.5 h", "fare": "Jeep to Maneybhanjan + Land Rover drop", "text": "There is no direct road. Drive from Dhotrey back to Maneybhanjan, about an hour, then take a Land Rover up the Sandakphu track to Tonglu or Tumling, about 1.5 hours. Useful only if someone cannot walk the forest trail."}
+    ],
+    "stops_on_way": ["Forest edge above Dhotrey village", "Bamboo belt below the ridge"],
+    "tip": "Walk up from Dhotrey and down via Chitrey to Maneybhanjan for a varied two-day loop with one night at Tumling.",
+    "faqs": [
+      {"q": "How long is the Dhotrey to Tonglu trek?", "a": "About 6 km, usually 3–4 hours uphill and 2.5–3 hours down, gaining around 500 m. It is moderate, steep in parts, and shaded by forest most of the way."},
+      {"q": "Do I need a guide from Dhotrey to Tonglu?", "a": "Yes. The trail is inside Singalila National Park, where a licensed guide is compulsory. Arrange the guide and park entry at Maneybhanjan before you drive to Dhotrey. Check current status before you travel."},
+      {"q": "How do I get to Dhotrey?", "a": "By jeep from Maneybhanjan, about an hour, for roughly ₹80–150 a seat on a shared jeep or ₹1,200–1,800 reserved. A reserved car from Darjeeling takes about 2 hours."},
+      {"q": "Is Dhotrey to Tonglu good for a first trek?", "a": "Yes. It is short, shaded and reaches a big viewpoint quickly. Fit beginners and families with active children manage it well. Combine it with a night at Tumling for a Kanchenjunga sunrise."}
+    ]
+  },
+  {
+    "slug": "rimbik-to-darjeeling",
+    "from": "rimbik",
+    "to": "darjeeling",
+    "distance_km": 56,
+    "summary": "Rimbik to Darjeeling is about 56 km of hill road, 4–5 hours by shared jeep for roughly ₹200–300 a seat. Jeeps leave early, mostly 6–8 am, and are the usual exit for trekkers coming down from Sandakphu or Phalut. A reserved jeep costs about ₹3,000–4,500.",
+    "options": [
+      {"mode": "Shared jeep", "time": "4–5 h", "fare": "₹200–300 a seat", "text": "Shared jeeps leave Rimbik's stand early in the morning as they fill, carrying farmers, students and trekkers. Book a seat the evening before through your lodge or at the stand. Later departures are few, so do not count on an afternoon jeep. Check current status before you travel."},
+      {"mode": "Reserved jeep", "time": "≈ 4 h", "fare": "₹3,000–4,500 a vehicle", "text": "Hire a whole jeep if you are a group, have a train or flight to catch, or missed the morning departures. Lodges in Rimbik and Srikhola can arrange one. To NJP or Bagdogra directly, expect about ₹5,500–7,000 and 6–7 hours."},
+      {"mode": "Via Maneybhanjan", "time": "4.5–5.5 h", "fare": "≈ ₹250–350 total", "text": "Some jeeps run from Rimbik toward Maneybhanjan via Dhotrey; from there, shared jeeps continue to Darjeeling. Useful if direct Darjeeling jeeps are full. Ask at the Rimbik stand which jeeps are running."}
+    ],
+    "stops_on_way": ["Valley villages and bazaars", "Views back to the Singalila Ridge", "Ghoom on the final approach"],
+    "tip": "Do not book a same-day train or flight from NJP or Bagdogra after a Rimbik jeep; allow a night in Darjeeling or at least six hours of buffer.",
+    "faqs": [
+      {"q": "How far is Rimbik from Darjeeling?", "a": "About 56 km by road, roughly 4–5 hours by shared jeep. Shared seats cost about ₹200–300; a reserved jeep about ₹3,000–4,500. Jeeps leave early in the morning."},
+      {"q": "What time do jeeps leave Rimbik for Darjeeling?", "a": "Mostly between about 6 and 8 am, as they fill. There are few later departures. Book your seat the evening before. Times vary with season and demand; check current status before you travel."},
+      {"q": "Can I reach NJP the same day from Rimbik?", "a": "Yes, with an early jeep to Darjeeling and a connecting jeep to NJP, or a reserved vehicle direct. Total travel is 7–9 hours. Do not book a train or flight without several hours of buffer."},
+      {"q": "Is the Rimbik to Darjeeling road affected by landslides?", "a": "Hill roads in the Darjeeling district can be blocked by landslides, mainly in the monsoon and after heavy rain. In the main trekking seasons the road is usually open. Check current status before you travel."}
+    ]
+  }
+]

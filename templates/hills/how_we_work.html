@@ -1,0 +1,12 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}How we work: from your message to the drive back · Darjeeling Himalayas{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:20px"><div class="phead__body" style="margin-top:0">
+  <p class="eyebrow">How we work</p><h1 class="h-1">Five stops on the road</h1>
+  <p class="lede">From your first message to the drive back to NJP, this is what happens, and when you pay.</p>
+</div></div></header>
+<section class="sec--tight"><div class="wrap wrap--narrow days">
+  {% for s in steps %}<article class="day rv"><div class="day__no"><small>Stop</small><b>{{ forloop.counter|pad2 }}</b></div><div><h3>{{ s.0 }}</h3><p>{{ s.1 }}</p></div></article>{% endfor %}
+</div></section>
+<section class="sec sec--paper2"><div class="wrap wrap--narrow">{% include "hills/partials/faq.html" %}</div></section>
+{% endblock %}

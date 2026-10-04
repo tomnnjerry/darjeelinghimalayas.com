@@ -1,0 +1,113 @@
+{
+  "slug": "suntalekhola", "name": "Suntalekhola", "name_local": "सुन्तलेखोला", "region": "dooars",
+  "kind": "forest village",
+  "wiki": "", "image_query": "Suntalekhola hanging bridge Samsing",
+  "lat": 26.99, "lng": 88.80, "altitude_m": 750,
+  "tagline": "The orange stream and its hanging bridge",
+  "meta_description": "Suntalekhola guide: the orange stream below Neora Valley, the hanging bridge, forest corporation cottages and river camp, birding, costs and access.",
+  "summary": "Suntalekhola is a forest settlement about 5 km beyond Samsing, where a clear stream comes out of Neora Valley National Park under a suspension footbridge. Forest corporation cottages and a river camp sit across the water. It is a place for birdsong, cold streams and early nights.",
+  "local_story": {"title": "The orange stream below Neora Valley", "paras": [
+    "Suntalekhola means orange stream in Nepali: suntala is the mandarin orange, and khola a stream or small river. The name points to mandarin oranges, still grown by families in parts of the Kalimpong and Darjeeling hills, though the slopes around this stream today are mostly forest, tea and small farms of cardamom, broom grass and vegetables.",
+    "The stream itself rises in the forests of Neora Valley National Park and joins the Murti below Samsing. The settlement is tiny, a few houses, a forest office and the forest corporation's cottages, reached by a suspension footbridge over the stream. For generations of Bengali travellers who came up from the Dooars, crossing that bridge with a suitcase was part of the trip.",
+    "Like the rest of the hills east of the Teesta, these slopes were Bhutanese until 1865. Today they belong to Kalimpong district, and the forest beyond the bridge is among the least disturbed in West Bengal."]},
+  "did_you_know": [
+    "Suntala is the Nepali word for the mandarin orange and khola means stream, so Suntalekhola is the orange stream, a name shared by several streams in these hills.",
+    "The Suntalekhola stream rises inside Neora Valley National Park and joins the Murti, which flows on past Gorumara to the Jaldhaka.",
+    "Darjeeling and Kalimpong mandarins are sold in winter across Bengal; their orchard belt lies mainly further west, around Mirik, Sittong and Kalimpong."
+  ],
+  "intro": [
+    "You hear Suntalekhola before you see it. The road from Samsing ends near the stream, and from there a suspension footbridge sways over clear water running across boulders, with forest climbing straight up on the far side. The forest corporation's cottages are just across. Leave the car, carry your bag over and the rest of the day belongs to the stream.",
+    "There is little to do here, and that is the point. Watch forktails and redstarts on the rocks, walk the short paths along the stream, read on the cottage veranda, and go to bed early to the sound of water. Combine one night here with Samsing and Rocky Island, then drop to Murti or Lataguri for safaris."
+  ],
+  "facts": [["Best months", "Oct – Apr"], ["Nights we suggest", "1"], ["From Siliguri", "≈ 90–100 km · 3 h"], ["Altitude", "≈ 700–800 m"], ["Known for", "Hanging bridge, stream, forest cottages"], ["Network", "Weak, patchy"]],
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1",
+  "costs": [["Forest corporation cottage", "₹2,500–3,000 a room (indicative)"], ["Forest corporation tent", "About ₹1,500"], ["Meals at the cottages", "About ₹500–700 pp a day"], ["Car from Samsing", "₹500–800"], ["Reserved car from NJP", "₹3,500–4,500"]],
+  "highlights": [
+    {"title": "The hanging bridge", "text": "A suspension footbridge carries you over the Suntalekhola to the forest cottages. Cross slowly, hold the cables and stop in the middle to look upstream into the forest."},
+    {"title": "A cottage by the water", "text": "The forest corporation's cottages sit within sound of the stream. No traffic, little signal, early dinners and very dark nights."},
+    {"title": "River birds on the boulders", "text": "Plumbeous and white-capped redstarts, forktails, wagtails and kingfishers hunt along the stream. Sit quietly on the bank in the morning and they come close."},
+    {"title": "Forest on the doorstep", "text": "Neora Valley National Park starts beyond the stream. Birdsong, cicadas and the occasional barking deer alarm call fill the day."},
+    {"title": "Rocky Island nearby", "text": "The Murti's boulder valley at Rocky Island is a short drive away. Do both in a day from Samsing, or stay one night at each."}
+  ],
+  "how_to_reach": [
+    {"mode": "Reserved car", "text": "From NJP or Bagdogra about 90–100 km via Malbazar, Chalsa, Metali and Samsing, about three hours, ₹3,500–4,500. The car stops near the bridge."},
+    {"mode": "Shared jeep and walk", "text": "Bus to Chalsa, shared jeep to Samsing, then a local car or a 5 km walk on the road to Suntalekhola. Slow, cheap and pleasant in the morning."}
+  ],
+  "where_to_stay": "Stay at the forest corporation's Suntaleykhola Eco-Tourism Centre across the bridge, with cottages at about ₹2,500–3,000 and tents at about ₹1,500 in the current tariff, or at its separate river camp nearby. There are a few homestays on the road between Samsing and Suntalekhola and more in Samsing village itself, at roughly ₹1,200–1,800 per person with meals. Book the corporation's cottages early for winter weekends.",
+  "stays": ["dooars-suntaleykhola-eco-tourism-centre"],
+  "tips": [
+    "Pack one soft bag; you carry it over the footbridge.",
+    "Carry a torch and a power bank; power and signal are limited.",
+    "Stay out of the stream after rain; it rises quickly from the forest above.",
+    "Order dinner when you arrive; the kitchen cooks for the number of guests.",
+    "Avoid June to September and check current status before you travel; the road above Samsing is prone to slides."
+  ],
+  "themes": ["budget-honeymoons", "wildlife-birds", "photography", "homestays"],
+  "nearby": ["samsing", "murti", "chapramari"],
+  "experiences": [
+    {"slug": "suntalekhola-hanging-bridge-walk", "title": "Across the Suntalekhola hanging bridge",
+     "kind": "viewpoint", "duration": "1 hour", "best_time": "Morning or late afternoon, Oct–Apr", "cost": "Free",
+     "image_query": "Suntalekhola suspension bridge", "wiki": "",
+     "summary": "The suspension footbridge over the Suntalekhola is the place's emblem: a narrow, swaying walk above a clear mountain stream, with the forest of Neora Valley rising behind. Cross it, then follow the bank up and down for a quiet hour.",
+     "body": ["The bridge links the road end with the forest corporation's cottages on the far bank. It is a cable suspension bridge, steady enough but with a gentle sway, and it gives the best view of the stream: boulders, pools, white water in the narrows and forest on both sides. Families take turns for photographs in the middle.",
+              "From the bridge, short paths lead along the stream in both directions. Upstream the forest closes in and the water gets louder; downstream the valley opens towards the Murti. In winter the stream runs clear and low, and you can sit on the rocks; after rain it turns fast and brown, and you should stay on the bank.",
+              "Morning light reaches the stream late because of the steep valley sides, so mid-morning and late afternoon are best for photographs. Only a few people should be on the bridge at once; wait your turn and do not bounce it."],
+     "good_for": ["families", "couples", "photographers", "first-timers"],
+     "faqs": [
+       {"q": "Is the Suntalekhola bridge safe?", "a": "It is a maintained suspension footbridge used daily by guests and staff. Cross a few people at a time, hold the cables, do not jump or swing it and keep children's hands in yours. After storms, ask staff whether it is open; repairs happen after the monsoon."},
+       {"q": "Can day visitors cross the bridge?", "a": "Usually yes, to see the stream and the far bank, though the cottages themselves are for guests. Day visitors often come from Samsing, Murti or Lataguri. Keep noise down near the cottages and leave nothing behind."},
+       {"q": "What is the best time to photograph Suntalekhola?", "a": "Mid-morning and late afternoon, when sunlight reaches the stream through the steep valley. Winter brings clear water and blue skies. In the monsoon the forest is greenest but the water runs muddy and the road is risky."}
+     ]},
+    {"slug": "suntalekhola-river-camp-night", "title": "A night at the Suntalekhola river camp",
+     "kind": "adventure", "duration": "Overnight", "best_time": "Nov–Mar", "cost": "₹1,500–3,000 (indicative, forest corporation)",
+     "image_query": "Suntalekhola river camp tents", "wiki": "",
+     "summary": "The forest corporation runs a river camp near Suntalekhola as well as its cottages. A tent or cottage beside the stream, a simple dinner and a night of water sounds is the most affordable forest night in this part of the hills.",
+     "body": ["The Suntaleykhola River Camp, listed separately from the main eco-tourism centre on the forest corporation's site, puts you close to the water. Expect clean tents or simple rooms, shared or attached bathrooms depending on the category, and meals cooked in the camp kitchen. Tariffs are published on the corporation's website and change from season to season.",
+              "Evenings are quiet: tea as the light fades, dinner around 8, and then darkness of a kind few city people know. Bring warm clothes from November to February, when nights fall to around 8–10 °C at this height. Mornings start with birds along the stream and mist lifting off the forest.",
+              "River camps here close for the monsoon and sometimes after flood damage. Check current status before you travel, and if heavy rain is forecast, choose a cottage over a tent."],
+     "good_for": ["couples", "students", "solo"],
+     "faqs": [
+       {"q": "How do I book the Suntalekhola river camp?", "a": "Through the West Bengal Forest Development Corporation's website, which lists the Suntaleykhola River Camp alongside the Suntaleykhola Eco-Tourism Centre. Check the room categories, whether meals are included and the current tariff, and book early for December and January weekends."},
+       {"q": "Is it cold at Suntalekhola in winter?", "a": "Nights from December to February fall to around 8–10 °C, colder by the stream. Days are mild. Bring a fleece, a warm jacket and socks for the night. Tents get damp by morning; a cottage is warmer for older travellers and small children."},
+       {"q": "Are there toilets and hot water at the river camp?", "a": "Facilities depend on the category booked; some units have attached bathrooms and others share. Hot water may be on request or for set hours. Ask when you book. Carry a headlamp for night trips to the bathroom."}
+     ]},
+    {"slug": "suntalekhola-stream-birding", "title": "Forktails and redstarts on the stream",
+     "kind": "wildlife", "duration": "2 hours", "best_time": "6:30–8:30 am, Nov–Apr", "cost": "Free; guide ₹500–800",
+     "image_query": "white-capped redstart stream", "wiki": "",
+     "summary": "Fast clear streams like Suntalekhola are the home of the Himalaya's river specialists: forktails, redstarts, dippers and wagtails. Sit still on the bank at dawn and they work the rocks a few metres away.",
+     "body": ["Many birds of Himalayan streams come down to these heights in winter, and Suntalekhola, with its boulders, pools and forested banks, suits them well. White-capped and plumbeous water redstarts flick their tails on wet rocks, slaty-backed and spotted forktails pick along the edges, and wagtails and kingfishers patrol the pools. On the forest edge, listen for barbets, laughingthrushes and the whistles of minivets.",
+              "The trick is stillness. Pick a rock with a view up and down the stream, sit down before the light comes, and wait. Birds that vanish when you walk will return to their feeding rocks within minutes. A local guide from Samsing can help with calls and with paths along the stream that are safe to walk.",
+              "Keep to the open bank; the forest beyond is the national park, where entry needs permission. Stay off the rocks after rain and watch for leeches in the wet season."],
+     "good_for": ["photographers", "solo", "seniors", "students"],
+     "faqs": [
+       {"q": "What birds live along Suntalekhola?", "a": "Stream specialists such as white-capped and plumbeous water redstarts, forktails, wagtails and kingfishers, plus forest-edge birds like barbets, laughingthrushes, minivets and sunbirds. Winter, from November to March, brings the most variety as birds from higher up descend."},
+       {"q": "Do I need binoculars at Suntalekhola?", "a": "They help a lot, even though some birds come close. A light 8x pair is ideal for watching movement along the stream and picking out forest birds in the canopy. Photographers need a zoom lens; the light in the valley is dim early on."},
+       {"q": "Can I walk into Neora Valley from Suntalekhola?", "a": "Entry into the national park needs forest department permission, and many areas are closed to casual visitors. Walk the paths along the stream and roads outside the park, and ask the forest office or a local guide about permitted routes."}
+     ]},
+    {"slug": "suntalekhola-village-road-walk", "title": "The road walk from Suntalekhola to Samsing",
+     "kind": "trek", "duration": "2–2.5 hours", "best_time": "Morning, Oct–Apr", "cost": "Free",
+     "image_query": "Samsing road tea garden view", "wiki": "",
+     "summary": "The 5 km road between Suntalekhola and Samsing is quiet enough to walk, climbing gently through forest edge, small farms and tea with views over the Murti valley and the plains. A good morning stretch before a car picks you up.",
+     "body": ["The road from the Suntalekhola bridge to Samsing sees only a few vehicles an hour. Walking it gives you forest at the start, then cardamom, broom grass and vegetable plots around scattered houses, and finally Samsing's tea, with the plains spread out to the south on clear mornings.",
+              "It is an easy walk on tarmac with a gentle climb towards Samsing, about two hours at a relaxed pace with stops. Children who walk at home will manage. Carry water, as there are only one or two small shops on the way. Say namaste to the families you pass; many will be happy to point out what they grow.",
+              "Arrange for your car to meet you in Samsing bazaar with the luggage. Walk in daylight only, keep to the edge of the road on bends and do not take shortcuts through the forest."],
+     "good_for": ["families", "couples", "students", "solo"],
+     "faqs": [
+       {"q": "Is the road between Suntalekhola and Samsing safe to walk?", "a": "In daylight, yes. Traffic is light, but stay on the edge at bends and listen for vehicles. Avoid walking after dark, when visibility is poor and animals move in the forest sections. In rain, watch for small slips on the road."},
+       {"q": "How long does the walk take?", "a": "About two to two and a half hours for 5 km at a relaxed pace with stops, a little longer uphill towards Samsing. Fit walkers do it in under two hours. Start after breakfast and finish in Samsing for tea."},
+       {"q": "What will we see on the walk?", "a": "Forest at the Suntalekhola end, then small farms with cardamom, broom grass and vegetables, homes with flower gardens, and Samsing's tea sections. On clear mornings there are views over the Murti valley and the Dooars plain."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "What does Suntalekhola mean?", "a": "In Nepali, suntala is the mandarin orange and khola means stream, so Suntalekhola means orange stream. Mandarins are a winter crop of these hills. Several streams in the Darjeeling and Kalimpong hills share the name."},
+    {"q": "How far is Suntalekhola from Samsing?", "a": "About 5 km, 15 minutes by car or around two hours on foot along a quiet road. Most visitors base themselves in either place and visit the other. A car from Samsing costs roughly ₹500–800 one way."},
+    {"q": "How do I reach Suntalekhola from NJP?", "a": "By road via Sevoke, Malbazar, Chalsa, Metali and Samsing, about 90–100 km and three hours, ₹3,500–4,500 for a reserved car. On a budget, bus to Chalsa and take a shared jeep to Samsing, then a local car."},
+    {"q": "Is Suntalekhola good for families?", "a": "Yes, for families who enjoy quiet nature. Children love the hanging bridge and the stream, but there are no shops, no play areas and little signal. Keep children away from the water after rain and close to you on the bridge."},
+    {"q": "Is one night enough at Suntalekhola?", "a": "For most people, yes. One night gives you an evening and a morning by the stream, birding at dawn and the walk or drive to Samsing and Rocky Island. Birders and writers looking for silence often stay two."},
+    {"q": "What is the best season for Suntalekhola?", "a": "October to April, with clear streams and pleasant days; December and January nights are cold. May is warm and fine. June to September brings heavy rain, slides on the road and dangerous water levels."},
+    {"q": "Are there shops or restaurants at Suntalekhola?", "a": "No. The forest corporation's kitchen serves its guests, and Samsing, 5 km away, has small shops, momo stalls and tea. Bring snacks, a water bottle and any medicines you need."},
+    {"q": "Is Suntalekhola part of Neora Valley National Park?", "a": "The cottages lie just outside the park, and the stream comes out of the park's forest. Entering the park itself needs forest department permission. From Suntalekhola, enjoy the forest edge and the stream, and ask the forest office about permitted walks."},
+    {"q": "Is there mobile signal at Suntalekhola?", "a": "It is weak and patchy, depending on the network and where you stand. Expect to be largely offline. Tell family before you arrive, download maps and tickets in Samsing or Siliguri, and carry a power bank."}
+  ]
+}

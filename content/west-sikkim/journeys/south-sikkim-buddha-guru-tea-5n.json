@@ -1,0 +1,80 @@
+{
+  "slug": "south-sikkim-buddha-guru-tea-5n",
+  "title": "Buddha, Guru and tea in South Sikkim",
+  "region": "west-sikkim",
+  "nights": 5,
+  "themes": ["family-trips", "monasteries", "tea-country"],
+  "tier": "Comfort",
+  "travel_mode": "Reserved car",
+  "stops": [{"place": "ravangla", "nights": 2}, {"place": "temi", "nights": 1}, {"place": "namchi", "nights": 2}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 27000,
+  "cost_split": [
+    {"item": "Reserved car with driver, six days", "inr": 9500},
+    {"item": "Cottages, guesthouse and hotel rooms, 5 nights", "inr": 13000},
+    {"item": "Meals, tea and snacks", "inr": 3000},
+    {"item": "Entries and a local guide", "inr": 1500}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2100,
+  "meta_description": "5 nights in South Sikkim by private car: Ravangla's Buddha Park, Ralang, Temi Tea Garden, Namchi's Samdruptse and Char Dham. Family-friendly, from ₹27,000.",
+  "summary": "A gentle five-night family loop through South Sikkim by private car. Ravangla's 130-ft Buddha and Ralang Monastery, a night at Temi Tea Garden, then Namchi's Guru Padmasambhava statue at Samdruptse and the Char Dham at Solophok. Short drives, easy walking, comfortable rooms, about ₹27,000 per person from NJP and back.",
+  "intro": [
+    "South Sikkim, now Namchi district, is where the state put up its great statues. In March 2013 the Dalai Lama consecrated the 130-ft Buddha at Ravangla's Buddha Park. Above Namchi, the 118-ft Guru Padmasambhava at Samdruptse was begun in 1997 and finished in 2004, and across the valley the Char Dham at Solophok opened in 2011 with a 108-ft Shiva and replicas of the four great Hindu pilgrimage shrines. Between them, on the slopes of Tendong Hill, lies Temi, Sikkim's government tea garden since 1969.",
+    "This is the loop we suggest for families with grandparents and young children. No drive after the first day is longer than an hour and a half, the big sights have paved paths and benches, and there is real variety: Buddhist and Hindu shrines, monasteries, tea and mountain views. We book two nights at Mt Narsing Village Resort near Ravangla, a guesthouse near the tea garden, and a comfortable family hotel in Namchi."
+  ],
+  "highlights": [
+    "The 130-ft Buddha at Ravangla, consecrated by the Dalai Lama in 2013",
+    "Ralang Monastery and the older Ralang gompa in the valley below Ravangla",
+    "A night beside Temi Tea Garden with an early walk through the tea rows",
+    "Samdruptse's 118-ft Guru Padmasambhava above Namchi",
+    "The Char Dham at Solophok with its 108-ft Shiva and twelve jyotirlinga shrines"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Ravangla by private car", "place": "ravangla", "overnight": "Ravangla", "drive": "≈ 120 km · 4.5 h by reserved car", "text": "Your driver meets you at NJP station or Bagdogra airport and heads up the Teesta to Melli, then climbs into Sikkim towards Namchi and on to Ravangla at about 2,000 m. Stop for lunch on the way; Namchi has good clean canteens. You reach Mt Narsing Village Resort, a long-running cottage resort on the edge of Ravangla, in the afternoon. The wooden cottages sit in a garden facing the Kanchenjunga range, so there is a fair chance of a view at sunset. Children can run about while you rest after the drive.", "meals": "Dinner", "spend": "₹250 lunch per person"},
+    {"day": 2, "title": "Buddha Park and Ralang Monastery", "place": "ravangla", "overnight": "Ravangla", "drive": "≈ 30 km of local driving by reserved car", "text": "Start at Buddha Park, also called Tathagata Tsal, built for the 2,550th Buddha Jayanti. The 130-ft statue stands over landscaped gardens, and a gallery inside the base tells the Buddha's life in paintings. Walk round to Rabong gompa beside it. After lunch drive about 13 km down to Ralang. The large Ralang Palchen Choeling, built in the 1990s for the Kagyu school, has a fine prayer hall, and the older Ralang gompa of the 18th century stands a short way off. Back at the resort, tea and an early night.", "meals": "Breakfast, dinner", "spend": "₹50–100 Buddha Park entry + ₹250 lunch + guide share"},
+    {"day": 3, "title": "Ravangla to Temi Tea Garden", "place": "temi", "overnight": "Temi", "drive": "≈ 18 km · 1 h by reserved car", "text": "A short morning drive brings you to Temi Tea Garden, set up by the Sikkim government in 1969 on the slopes of Tendong Hill and covering about 177 hectares. The estate is certified organic, and its first flush in March and April is the most prized. Walk the estate roads with the children, watch the pluckers at work in season and stop at the sales counter for a tasting where it is open. Factory visits depend on the season and permission. Stay the night in a guesthouse near the garden and take an evening walk as the light fades.", "meals": "Breakfast, dinner", "spend": "₹200–300 tea tasting + ₹250 lunch"},
+    {"day": 4, "title": "Temi to Namchi and Samdruptse", "place": "namchi", "overnight": "Namchi", "drive": "≈ 30 km · 1.5 h by reserved car", "text": "Walk the tea rows once more at dawn, then drive to Namchi, whose name is usually explained as sky high. Check in at a family hotel and, after lunch, go up to Samdruptse. The statue of Guru Padmasambhava, 118 ft tall, stands on the hilltop; its foundation was laid by the Dalai Lama in 1997 and it was completed in 2004. From the top there are wide views over the valleys when the haze clears. On the way down, stop at the Rock Garden, a terraced park of flowers and ponds that children enjoy.", "meals": "Breakfast, dinner", "spend": "₹50–100 entries + ₹250 lunch"},
+    {"day": 5, "title": "Char Dham and Ngadak Monastery", "place": "namchi", "overnight": "Namchi", "drive": "≈ 20 km of local driving by reserved car", "text": "Morning at Siddheshwar Dham, the Char Dham complex at Solophok, opened in 2011. A 108-ft Shiva sits above replicas of the four dhams, Badrinath, Dwarka, Jagannath and Rameswaram, and the twelve jyotirlingas, so families can see all of them in one walk. Paths are paved, with ramps and benches. After lunch visit Ngadak Monastery in Namchi, an older gompa in the town, and spend the evening walking the central plaza, where Namchi's families come out at dusk. Ask about Tendong Hill, the Lepcha flood legend's hill, rising behind the town.", "meals": "Breakfast, dinner", "spend": "₹50–100 Char Dham entry + ₹250 lunch"},
+    {"day": 6, "title": "Namchi to NJP or Bagdogra", "place": "namchi", "overnight": "", "drive": "≈ 100 km · 3.5–4 h by reserved car", "text": "Leave after breakfast for the drive down to Melli and along the Teesta to Siliguri. At about three and a half to four hours it is the shortest return of any South Sikkim trip, which suits families with afternoon trains or flights. Still, keep a wide margin: the Teesta stretch between Melli and Sevoke has had roadworks and landslide delays since 2023. Your driver drops you at NJP station or Bagdogra airport. Pack some Temi tea and a bag of local churpi for the people at home before you leave Namchi.", "meals": "Breakfast", "spend": "₹250 lunch per person"}
+  ],
+  "stays": ["ravangla-mt-narsing-village-resort"],
+  "includes": [
+    "One reserved car with driver for six days",
+    "Two nights at Mt Narsing Village Resort near Ravangla",
+    "One night in a guesthouse near Temi Tea Garden and two nights in a family hotel in Namchi",
+    "Breakfast and dinner on most days, with a small budget for lunches and snacks",
+    "Entries at Buddha Park, Samdruptse, Char Dham and a local guide for a day"
+  ],
+  "excludes": [
+    "Train or flight to NJP or Bagdogra",
+    "Sikkim Restricted Area Permit costs for foreign nationals",
+    "Extra beds or rooms for children beyond twin sharing",
+    "Tea and souvenirs you buy",
+    "Driver's tips and personal expenses"
+  ],
+  "save_money": [
+    "Families of four to six can share one larger car, which cuts the transport cost per head by a third or more.",
+    "Eat lunch in Namchi's local canteens, where a good thali costs ₹150–250, rather than in hotel restaurants.",
+    "Avoid the Durga Puja and Diwali weeks, when South Sikkim fills with family groups from Bengal and hotel rates rise sharply."
+  ],
+  "good_to_know": [
+    "Indian nationals need no permit for Ravangla, Temi and Namchi; foreign nationals need a Sikkim Restricted Area Permit, check current status before you travel.",
+    "The Teesta road between Sevoke and Melli has had flood and landslide damage since October 2023; check current status before you travel.",
+    "Entry fees and opening hours at Buddha Park, Samdruptse and Char Dham change from time to time; carry small notes.",
+    "Remove shoes where asked, walk clockwise round Buddhist shrines and dress modestly at both Buddhist and Hindu sites."
+  ],
+  "faqs": [
+    {"q": "Is South Sikkim good for a family trip with grandparents?", "a": "It is one of the easiest parts of Sikkim for older travellers. After the first day no drive is longer than about an hour and a half, the big sights have paved paths, steps with railings and benches, and Namchi is a well-kept town with doctors and pharmacies. Ask hotels for ground-floor rooms and western toilets when you book."},
+    {"q": "How tall is the Buddha statue at Ravangla?", "a": "About 130 ft, or roughly 40 m. It stands in Buddha Park, also called Tathagata Tsal, built for the 2,550th Buddha Jayanti and consecrated by the 14th Dalai Lama in March 2013. Inside the base is a gallery of paintings on the Buddha's life. Rabong gompa stands beside the park and is worth a short visit."},
+    {"q": "What is the Char Dham at Namchi?", "a": "Siddheshwar Dham, at Solophok near Namchi, is a pilgrimage complex opened in 2011. A 108-ft statue of Shiva sits above replicas of the four dhams of India, Badrinath, Dwarka, Jagannath Puri and Rameswaram, and the twelve jyotirlinga shrines. Many Hindu families visit as a pilgrimage. It is spacious, paved and easy to walk with children and older parents."},
+    {"q": "How far apart are Ravangla, Temi and Namchi?", "a": "Close. Ravangla to Temi is about 18 km and under an hour, Temi to Namchi about 30 km and an hour and a half, and Namchi to Ravangla about 27 km and an hour by the direct road. That is why this loop works so well for families: the long drives are only at the start and the end."},
+    {"q": "Is ₹27,000 per person enough for this trip?", "a": "Yes, for two adults sharing a room and a private car, in the main seasons. The car for six days is the largest share, followed by five nights of comfortable rooms. Families of four sharing one car pay less per head. Over Durga Puja, Diwali and the Christmas week, expect rooms to cost more and book early."},
+    {"q": "Can we see Kanchenjunga from Ravangla?", "a": "Yes, on clear mornings, especially from October to December and in March and April. Mt Narsing Village Resort and many spots in Ravangla face the range. The view from South Sikkim is more distant than from Pelling, but on a sharp winter morning it is very fine. In the monsoon months cloud usually hides it."},
+    {"q": "Can we visit the Temi tea factory?", "a": "It depends on the season and the garden's rules, which change. In the plucking season there is usually a counter where you can taste and buy tea, and walking the estate roads is open to visitors. Ask at your guesthouse on arrival. Do not walk between the tea bushes, and ask before photographing the pluckers."},
+    {"q": "What festivals happen in South Sikkim?", "a": "Pang Lhabsol, honouring Mount Kanchenjunga as Sikkim's guardian deity, is held with warrior dances at Ravangla in August or September on the lunar calendar. Tendong Lho Rum Faat, the Lepcha festival of Tendong Hill, falls on 8 August each year. Both are worth planning around, but dates and events vary, so check current status before you travel."},
+    {"q": "Can we add Pelling to this trip?", "a": "Yes. Pelling is about three to three and a half hours from Ravangla via Legship. Add two or three nights there for Pemayangtse, the Rabdentse ruins and the best Kanchenjunga views in the region. Our eight-night grand West and South Sikkim journey does exactly that, adding Yuksom and Rinchenpong as well."}
+  ]
+}

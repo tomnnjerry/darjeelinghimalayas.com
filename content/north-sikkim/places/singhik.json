@@ -1,0 +1,172 @@
+{
+  "slug": "singhik",
+  "name": "Singhik",
+  "name_local": "",
+  "region": "north-sikkim",
+  "kind": "viewpoint",
+  "wiki": "Singhik",
+  "image_query": "Singhik Kanchenjunga Siniolchu view Sikkim",
+  "lat": 27.52,
+  "lng": 88.57,
+  "altitude_m": 1560,
+  "tagline": "Kanchenjunga and Siniolchu across the Teesta gorge",
+  "meta_description": "Singhik, 4 km above Mangan: dawn views of Kanchenjunga and Siniolchu, a Lepcha village, where to stay, shared jeeps from Gangtok and costs.",
+  "summary": "Singhik is a mostly Lepcha village at about 1,560 m, 4 km above Mangan and roughly 70 km from Gangtok, known for its view across the Teesta gorge to Kanchenjunga and Siniolchu. It needs no permit for Indians and makes a calm, cheap first night on the way north. Check current status before you travel.",
+  "local_story": {
+    "title": "The most beautiful snow mountain in the world",
+    "paras": [
+      "Singhik's fame rests on one view. Across the Teesta valley to the west rise the Kanchenjunga massif, 8,586 m, and, closer and sharper, Siniolchu, 6,888 m. In 1899 the English mountaineer Douglas Freshfield made his tour round Kanchenjunga, and he called Siniolchu the most superb triumph of mountain architecture and the most beautiful snow mountain in the world. The summit was first reached in 1936 by the German climbers Karl Wien and Adi Göttner. Later the Sikkimese Everest climber Sonam Gyatso also stood on top.",
+      "The village itself belongs mostly to Lepchas, who make up nearly 80% of the people here, with Bhutia and Nepali families too. For Lepchas, Kanchenjunga is not a view but a guardian. Lepcha elders tell that the creator mother, Itbu-moo, made the first man and woman, Fudongthing and Nazaong Nyu, from the snows of Kongchen Konglo, their name for Kanchenjunga. Watching the mountain from a Lepcha village at dawn, with that story in mind, is a different experience from a hotel window in Gangtok."
+    ]
+  },
+  "did_you_know": [
+    "Siniolchu, 6,888 m, seen from Singhik, was first climbed in 1936 by the German climbers Karl Wien and Adi Göttner.",
+    "Lepchas make up nearly 80% of Singhik's population; Bhutia and Nepali families make up the rest.",
+    "Singhik is about 4 km from Mangan and around 600 m higher, at roughly 1,560 m."
+  ],
+  "intro": [
+    "Singhik is small: a road, a few houses, a school, a viewpoint and a government tourist lodge, strung along a ridge above the Teesta. North Sikkim tour vehicles pass it around lunchtime and many stop for five minutes at the viewpoint. Stay the night instead, and you get the view at sunrise, which is when it matters.",
+    "From October to April, clear mornings show the whole Kanchenjunga massif and Siniolchu's spire across the gorge, with the Teesta far below. Later in the day, clouds usually rise. The village is quiet, the air mild at about 1,560 m, and prices low. It is a good first night for families, letting you split the long drive to Lachung or Lachen. Check current status before you travel."
+  ],
+  "facts": [
+    ["Best months", "Oct – Apr"],
+    ["Nights we suggest", "1"],
+    ["From Gangtok", "≈ 70 km · 3 h"],
+    ["Altitude", "≈ 1,560 m"],
+    ["Known for", "Kanchenjunga and Siniolchu views, Lepcha village"],
+    ["Network", "Jio and BSNL usually work"]
+  ],
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1",
+  "costs": [
+    ["Shared jeep Gangtok to Mangan, then taxi", "₹200–300 + ₹200–400"],
+    ["Tourist lodge or homestay room", "₹1,500–3,000 a room (indicative)"],
+    ["Homestay dinner and breakfast", "₹500–800 pp"],
+    ["Tea at the viewpoint", "₹20–40"],
+    ["Simple lunch in Mangan", "₹120–200"]
+  ],
+  "highlights": [
+    {"title": "Kanchenjunga at sunrise", "text": "On clear mornings from October to April, the Kanchenjunga massif turns pink, then gold, across the Teesta gorge. Be at the viewpoint 20 minutes before sunrise."},
+    {"title": "Siniolchu's spire", "text": "The sharp, symmetrical peak Douglas Freshfield praised in 1899. Ask a local to point it out among the snow peaks; it is closer and steeper than Kanchenjunga."},
+    {"title": "A Lepcha village", "text": "Most families here are Lepcha. Walk the village paths, see the cardamom and vegetable plots, and ask about Kongchen Konglo, the Lepcha name and story of Kanchenjunga."},
+    {"title": "A gentle first night north", "text": "At about 1,560 m, Singhik breaks the long drive to Lachung or Lachen into two shorter days and lets your body start climbing gradually."},
+    {"title": "The Teesta gorge", "text": "From the ridge you look down on the Teesta far below. In the afternoon, watch light and cloud move through the gorge."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep and taxi", "text": "Take a shared jeep from Gangtok's Vajra stand to Mangan, about ₹200–300 and 2.5–3 hours, then a local taxi 4 km up to Singhik for ₹200–400. Some Chungthang-bound jeeps pass through Singhik; ask at Vajra."},
+    {"mode": "Reserved car", "text": "A small car from Gangtok to Singhik costs about ₹3,000–4,000 one way, with stops at Kabi Lungchok and Phodong. Agents can also arrange for your North Sikkim tour vehicle to collect you here next day."},
+    {"mode": "On foot from Mangan", "text": "If you are already in Mangan, walk the 4 km road uphill in about 1–1.5 hours. Do it at dawn for the sunrise."}
+  ],
+  "where_to_stay": "Singhik has a Sikkim Tourism tourist lodge on the ridge, whose main draw is the view toward Kanchenjunga, and a small number of homestays in the village. Rooms are simple and mid-priced, at about ₹1,500–3,000 a room. Ask for a room facing west. If Singhik is full, Mangan, 4 km below, has more small hotels at ₹1,200–2,500. For a Lepcha homestay with all meals, cross into Dzongu with a permit.",
+  "stays": ["singhik-tourist-lodge"],
+  "tips": [
+    "Be at the viewpoint 20 minutes before sunrise from October to April.",
+    "Spend two nights if Kanchenjunga matters to you; cloud can hide it for a whole day.",
+    "Use Singhik as the first night of a North Sikkim tour to reduce the long drive and altitude jump.",
+    "Carry cash; the nearest ATMs are in Mangan.",
+    "Ask before photographing people in the village, and keep to paths around fields."
+  ],
+  "themes": ["kanchenjunga-views", "family-trips", "photography", "homestays"],
+  "nearby": ["mangan", "dzongu", "chungthang"],
+  "experiences": [
+    {
+      "slug": "singhik-kanchenjunga-sunrise",
+      "title": "Kanchenjunga sunrise from Singhik",
+      "kind": "viewpoint",
+      "duration": "1 hour",
+      "best_time": "5.30–7 am, Oct–Apr",
+      "cost": "Free",
+      "image_query": "Kanchenjunga sunrise from Singhik North Sikkim",
+      "wiki": "Kangchenjunga",
+      "summary": "On clear mornings from October to April, the Kanchenjunga massif lights up pink and gold across the Teesta gorge from Singhik's viewpoint. Stand at the rail 20 minutes before sunrise with a cup of tea and watch the light move down the peaks.",
+      "body": [
+        "Kanchenjunga, 8,586 m, is the third-highest mountain on Earth and the guardian of Sikkim. From Singhik you see it from the east, across the deep Teesta valley, with the lower ridges of Dzongu in front. It is a different angle from the views at Pelling or Darjeeling, and much less crowded.",
+        "Sunrise works best from October to April, when the air is dry. Be at the viewpoint 20 minutes before the sun comes up. The highest summits catch the first light, pink then orange, while the valley below is still dark. Within half an hour the snow is white and the gorge fills with light.",
+        "Cloud is the risk. Some mornings the peaks never appear; on others they show for ten minutes and vanish. Two nights in Singhik give you two chances. Carry a warm layer and a flask of tea. A small zoom lens or phone zoom helps you pick out Siniolchu's sharp peak in the range."
+      ],
+      "good_for": ["photographers", "couples", "families", "seniors"],
+      "faqs": [
+        {"q": "Can you see Kanchenjunga from Singhik?", "a": "Yes. Singhik is one of the best Kanchenjunga viewpoints in North Sikkim, looking west across the Teesta gorge to the massif and Siniolchu. Views are clearest at sunrise from October to April. Cloud often covers the peaks later in the day and through the monsoon."},
+        {"q": "What time is sunrise at Singhik?", "a": "Roughly 5 to 5.15 am in May and June, 5.30 to 6 am in October and March, and 6.15 to 6.30 am in December and January. Be at the viewpoint 20 minutes before to see the first light on the peaks."},
+        {"q": "Is Singhik better than Pelling for Kanchenjunga?", "a": "It is different. Pelling in West Sikkim has a closer, wider view and more hotels. Singhik gives an eastern view across the Teesta with Siniolchu prominent, fewer people and lower prices, and it fits naturally into a North Sikkim trip."}
+      ]
+    },
+    {
+      "slug": "singhik-siniolchu-mountain-story",
+      "title": "Finding Siniolchu, the mountain Freshfield praised",
+      "kind": "viewpoint",
+      "duration": "30 minutes",
+      "best_time": "6–8 am, Oct–Apr",
+      "cost": "Free",
+      "image_query": "Siniolchu peak Sikkim",
+      "wiki": "Siniolchu",
+      "summary": "Among the peaks visible from Singhik is Siniolchu, 6,888 m, which Douglas Freshfield called the most beautiful snow mountain in the world after his 1899 tour round Kanchenjunga. Learn to pick it out, then hear its climbing story.",
+      "body": [
+        "Siniolchu stands south-east of Kanchenjunga, above the Zemu Glacier and the upper Lachen side. It is lower than its giant neighbour, but its steep, fluted ridges and pointed summit make it stand out. In 1899 Douglas Freshfield travelled round the Kanchenjunga massif with the photographer Vittorio Sella and wrote of Siniolchu in terms few mountains have earned.",
+        "The first ascent came in 1936, when Karl Wien and Adi Göttner of a German expedition reached the summit. Later climbers included the Sikkimese Everest climber Sonam Gyatso and the Ladakhi climber Sonam Wangyal. It remains a serious, technical peak, inside the Khangchendzonga National Park.",
+        "From the viewpoint, ask a local or the lodge staff to point out Siniolchu. Look for the sharpest, most pointed white peak, closer than Kanchenjunga. Early morning is best, before cloud rises. Binoculars help. It is a small detail, but once you have found it, you will look for it from every viewpoint in Sikkim."
+      ],
+      "good_for": ["photographers", "students", "solo"],
+      "faqs": [
+        {"q": "What is Siniolchu?", "a": "Siniolchu is a 6,888 m peak in North Sikkim, south-east of Kanchenjunga and inside the Khangchendzonga National Park. It is famous for its steep, symmetrical shape. Douglas Freshfield, who toured the Kanchenjunga massif in 1899, called it the most beautiful snow mountain in the world."},
+        {"q": "Who first climbed Siniolchu?", "a": "Karl Wien and Adi Göttner, members of a German expedition, made the first ascent in 1936. Later ascents include those by the Sikkimese Everest climber Sonam Gyatso and the Ladakhi climber Sonam Wangyal. It is still a difficult, technical climb."},
+        {"q": "Can I see Siniolchu from Singhik?", "a": "Yes, on clear mornings from October to April, Siniolchu is visible from Singhik's viewpoint among the snow peaks across the Teesta gorge. Ask locals to point it out; it is the sharp, pointed peak that stands out from the broader Kanchenjunga massif."}
+      ]
+    },
+    {
+      "slug": "singhik-lepcha-village-walk",
+      "title": "A Lepcha village walk and the Kongchen story",
+      "kind": "culture",
+      "duration": "1.5–2 hours",
+      "best_time": "8–11 am, Oct–May",
+      "cost": "Free · ₹200–400 tip for a local guide",
+      "image_query": "Lepcha village North Sikkim",
+      "wiki": "Lepcha people",
+      "summary": "Nearly 80% of Singhik's people are Lepcha. Walk the village paths with your host or a local young person, past cardamom groves and vegetable plots, and hear how Lepchas see Kanchenjunga, Kongchen Konglo, as the guardian from whose snows the first people were made.",
+      "body": [
+        "Lepchas call themselves Mutanchi Rongkup, often translated as beloved children of the Rong and of God, and regard Sikkim as Mayel Lyang, their homeland. Singhik, across the river from the Lepcha reserve of Dzongu, is a mainly Lepcha village. Ask your host whether someone can walk you round for an hour or two.",
+        "Lepcha elders tell that the creator mother, Itbu-moo, made the first man, Fudongthing, and the first woman, Nazaong Nyu, from the snows of Kanchenjunga, which Lepchas call Kongchen Konglo. The mountain is therefore a guardian and ancestor, not just a peak. Many families still honour it at home and in community rituals.",
+        "On the walk you pass houses, cardamom under shade trees, maize and vegetables, and paths down toward the Teesta. Ask about Lepcha words, food and the Lepcha script. Ask before photographs. A tip of ₹200–400 for a young guide is fair; offering to buy tea at a village shop is also a good way to say thanks."
+      ],
+      "good_for": ["students", "solo", "couples", "families"],
+      "faqs": [
+        {"q": "Who are the Lepchas?", "a": "The Lepchas, who call themselves Mutanchi Rongkup, are regarded as the earliest inhabitants of Sikkim. They live mainly in Sikkim, especially Dzongu, and in the Darjeeling and Kalimpong hills. They have their own language and script and a strong tradition of nature worship centred on Kanchenjunga."},
+        {"q": "Why is Kanchenjunga sacred to the Lepchas?", "a": "In Lepcha tradition, the creator mother Itbu-moo made the first man and woman from the snows of Kanchenjunga, called Kongchen Konglo. The mountain is seen as a guardian and ancestral home. This is a matter of belief and folklore that Lepcha elders pass down."},
+        {"q": "Can I visit a Lepcha home in Singhik?", "a": "Possibly, through your host or a homestay. There is no formal programme. Be polite, ask first, and do not treat it as a show. For a longer stay with a Lepcha family, cross into Dzongu with a permit and book a homestay there."}
+      ]
+    },
+    {
+      "slug": "singhik-ridge-birding-morning",
+      "title": "Birds of the Singhik ridge at first light",
+      "kind": "wildlife",
+      "duration": "2 hours",
+      "best_time": "6–8 am, Oct–May",
+      "cost": "Free",
+      "image_query": "Himalayan birds Sikkim forest ridge",
+      "wiki": "",
+      "summary": "After the sunrise, stay on the ridge. The mixed forest and farm edges around Singhik draw common mid-hill birds of Sikkim: bulbuls, flycatchers, sunbirds, minivets and laughingthrushes. Walk slowly with binoculars along the road and village paths.",
+      "body": [
+        "Singhik sits at about 1,560 m, in the middle band of the Sikkim Himalaya where warm valley forest meets cooler hill forest. The edges between farms, cardamom groves and forest are good for birds, and early morning, just after the Kanchenjunga sunrise, is the most active time.",
+        "Walk slowly along the road toward Mangan and on village paths. Typical sightings at this height include bulbuls, drongos, barbets, minivets, sunbirds, flycatchers and laughingthrushes; raptors ride the air over the gorge later in the morning. We do not promise species, but a patient two hours usually turns up a dozen or more.",
+        "Bring binoculars and a field guide or app for Indian birds. Stay on the road edge and paths, and do not enter fields or private land. Walk facing traffic. Cardamom groves are damp and have leeches in the wet months; tuck trousers into socks. Return for breakfast by 9 am."
+      ],
+      "good_for": ["photographers", "solo", "seniors", "students"],
+      "faqs": [
+        {"q": "Is Singhik good for birdwatching?", "a": "It is good for common mid-hill birds of Sikkim, especially in the early morning from October to May. The mix of forest, farms and cardamom groves along the ridge attracts bulbuls, sunbirds, flycatchers, minivets and laughingthrushes. Serious birders may prefer the higher forests of Lachung or Dzongu."},
+        {"q": "Do I need a guide for birding in Singhik?", "a": "Not necessarily. You can walk the road and village paths on your own with binoculars and a field guide. A local guide helps with finding birds and paths, but there are few dedicated bird guides in Singhik; ask your lodge or a Gangtok agency."},
+        {"q": "Are there leeches around Singhik?", "a": "Yes, in damp cardamom groves and forest, especially from May to September. In the dry season they are rare. Tuck trousers into socks, wear closed shoes and check your legs after walking. Salt or a little tobacco removes them."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Singhik?", "a": "Singhik is a village in North Sikkim, about 4 km beyond Mangan and roughly 70 km from Gangtok, on the road to Chungthang, Lachen and Lachung. It sits on a ridge at about 1,560 m above the Teesta valley, facing Kanchenjunga."},
+    {"q": "Do I need a permit for Singhik?", "a": "Indian nationals do not need a permit for Singhik. Foreign nationals need a Protected Area Permit for North Sikkim. If you continue beyond Mangan toward Lachen or Lachung, you need the North Sikkim permit through a registered Gangtok operator. Check current status before you travel."},
+    {"q": "What is Singhik famous for?", "a": "For its view across the Teesta gorge to Kanchenjunga and Siniolchu, best at sunrise from October to April. It is also a mainly Lepcha village, quiet and cheap, and a convenient first night on the way to Lachung or Lachen."},
+    {"q": "Where can I stay in Singhik?", "a": "Singhik has a Sikkim Tourism tourist lodge on the ridge with views toward Kanchenjunga, and a few village homestays. Rooms cost roughly ₹1,500–3,000. Mangan, 4 km below, has more small hotels. Book ahead in October and April."},
+    {"q": "Is Singhik worth a night on a North Sikkim tour?", "a": "Yes, especially for families and older travellers. It splits the long Gangtok–Lachung or Gangtok–Lachen drive into two easier days, gives a gentler altitude step, and adds a Kanchenjunga sunrise. Ask your agent to collect you from Singhik on day two."},
+    {"q": "When is the best time to visit Singhik?", "a": "October to April for clear mountain views, with the clearest skies in October, November and February to March. December and January are cold at night but often very clear. Avoid June to September, when monsoon cloud hides the peaks and landslides affect roads."},
+    {"q": "How do I get to Singhik by shared jeep?", "a": "Take a shared jeep from Gangtok's Vajra stand to Mangan, about ₹200–300 and 2.5–3 hours, then a local taxi 4 km to Singhik for about ₹200–400. Some jeeps heading to Chungthang pass through Singhik; ask at the stand."},
+    {"q": "Is Singhik safe after the 2023 flood?", "a": "Singhik sits on a ridge well above the Teesta and was not directly in the flood's path. The roads in the valley, however, have had closures since 2023, especially after heavy rain. Check current status before you travel and avoid monsoon journeys."},
+    {"q": "Can I see Kanchenjunga from Singhik in summer?", "a": "Rarely. From June to September monsoon cloud usually hides the peaks, with occasional clear early mornings. For reliable views, come between October and April and plan two sunrises if the view is the main reason for your visit."}
+  ]
+}

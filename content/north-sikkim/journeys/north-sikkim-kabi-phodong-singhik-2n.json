@@ -1,0 +1,73 @@
+{
+  "slug": "north-sikkim-kabi-phodong-singhik-2n",
+  "title": "Kabi, Phodong and Singhik: Sikkim's old story",
+  "region": "north-sikkim",
+  "nights": 2,
+  "themes": ["monasteries", "kanchenjunga-views", "long-weekends", "solo-backpacking"],
+  "tier": "Shoestring",
+  "travel_mode": "Shared jeeps",
+  "stops": [{"place": "phodong", "nights": 1}, {"place": "singhik", "nights": 1}],
+  "start": "Gangtok (Vajra stand)",
+  "end": "Gangtok",
+  "price_from_inr": 5500,
+  "cost_split": [
+    {"item": "Shared jeeps and short local taxis", "inr": 1300},
+    {"item": "Rooms, 2 nights with dinner and breakfast", "inr": 3300},
+    {"item": "Lunches, tea and snacks", "inr": 700},
+    {"item": "Monastery donations and small tips", "inr": 200}
+  ],
+  "best_months": [2, 2, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2130,
+  "meta_description": "2 nights from Gangtok by shared jeep: Kabi Lungchok, Phodong and Labrang monasteries, Tumlong and a Kanchenjunga sunrise at Singhik, from ₹5,500 per person.",
+  "summary": "A no-permit, shared-jeep weekend through the history of Sikkim: the 13th-century blood-brotherhood stones at Kabi Lungchok, Phodong and Labrang monasteries above the old capital of Tumlong, and a Kanchenjunga sunrise at Singhik. About ₹5,500 per person from Gangtok. Good for Indians who cannot get a North Sikkim permit in time.",
+  "intro": [
+    "Most travellers drive straight past these places on the way to Lachung. That is a pity, because they tell the story of Sikkim in order: Kabi Lungchok, where a Lepcha seer and a Tibetan prince swore blood brotherhood in the 13th century; Tumlong, the capital from 1793 to 1894; Phodong and Labrang, the monasteries above it; and Singhik, where Lepcha families watch the sun rise on Kanchenjunga, the mountain they call their guardian.",
+    "Indian nationals need no permit for any of it, and shared jeeps from Gangtok's Vajra stand run the whole way. Rooms are simple and cheap. It works as a long weekend, a rainy-season alternative to the high valleys, or a gentle first two nights before a North Sikkim tour picks you up at Singhik."
+  ],
+  "highlights": [
+    "The oath stones of Thekong Tek and Khye Bumsa at Kabi Lungchok",
+    "Morning prayers at Phodong Monastery",
+    "Labrang Monastery, built 1826–1843 and never rebuilt",
+    "Tumlong, Sikkim's capital for a century",
+    "Kanchenjunga and Siniolchu at sunrise from Singhik"
+  ],
+  "days": [
+    {"day": 1, "title": "Kabi Lungchok, Phensang and Phodong", "place": "kabi-lungchok", "overnight": "Phodong", "drive": "≈ 38 km · 2 h with stops, by shared jeep", "text": "Take a morning shared jeep from Gangtok's Vajra stand and get off at Kabi Lungchok, 17 km out, about ₹80–150. Spend 45 minutes at the oath stones and the statues of Thekong Tek and Khye Bumsa, then walk or take a short ride to Phensang Monastery, founded in 1721. Wave down a jeep heading north for Phodong, stopping at the Seven Sisters waterfall if the driver agrees. Check into a simple guesthouse in Phodong, eat sha phaley or thukpa for lunch, and walk the town in the afternoon.", "meals": "Dinner", "spend": "₹150 jeep + ₹100 jeep + ₹150 lunch"},
+    {"day": 2, "title": "Phodong, Labrang, Tumlong, then Singhik", "place": "phodong", "overnight": "Singhik", "drive": "≈ 32 km · 1.5 h by shared jeep and taxi", "text": "Be at Phodong Monastery by 8 am for prayers and the old murals. Take a local taxi 2 km up to Labrang Monastery, built from 1826 to 1843 and still in its original structure, and walk back down. Ask in town about Tumlong below, the capital from 1793 to 1894, where the 1861 treaty with the British was signed. After lunch, catch a jeep north to Mangan and a taxi 4 km on to Singhik. Check in, watch the light on the Teesta gorge and sleep early.", "meals": "Breakfast, Dinner", "spend": "₹400 Labrang taxi + ₹200 jeep + ₹300 Singhik taxi"},
+    {"day": 3, "title": "Singhik sunrise and back to Gangtok", "place": "singhik", "overnight": "Gangtok (not included)", "drive": "≈ 70 km · 3 h by taxi and shared jeep", "text": "Be at Singhik's viewpoint 20 minutes before sunrise. On clear mornings from October to April, Kanchenjunga turns pink and gold across the gorge, with Siniolchu's spire closer in. After tea, walk the 4 km down to Mangan, about an hour, or take a taxi. Have breakfast in Mangan bazaar, sel roti or momos, and buy large cardamom if you like. Shared jeeps to Gangtok leave mainly in the morning; you are back by early afternoon.", "meals": "Breakfast", "spend": "₹250 jeep + ₹150 breakfast"}
+  ],
+  "stays": ["singhik-tourist-lodge"],
+  "includes": [
+    "Two nights in simple rooms, Phodong and Singhik, with dinner and breakfast",
+    "A planned route by shared jeep with stops"
+  ],
+  "excludes": [
+    "Shared jeeps and taxis (paid locally)",
+    "Transport between NJP/Bagdogra and Gangtok",
+    "Lunches and snacks",
+    "Monastery donations"
+  ],
+  "save_money": [
+    "Use shared jeeps from Vajra stand for every leg; a reserved taxi costs ten times as much.",
+    "Walk from Singhik down to Mangan instead of taking a taxi.",
+    "Eat in Mangan bazaar and Phodong's small eateries rather than at hotel restaurants."
+  ],
+  "good_to_know": [
+    "Indian nationals need no permit for this trip; foreign nationals need the North Sikkim PAP.",
+    "Shared jeeps are frequent in the morning and thin out after 2 pm.",
+    "Confirm the Singhik lodge or homestay is operating before you go.",
+    "In the monsoon, landslides can block the road for hours; check current status before you travel."
+  ],
+  "faqs": [
+    {"q": "Do I need a permit for Kabi, Phodong and Singhik?", "a": "Indian nationals do not need a permit for any of these places, which lie before the North Sikkim permit area. Foreign nationals need a Protected Area Permit for North Sikkim. If you continue beyond Mangan to Lachung or Lachen, you need the North Sikkim permit through an agent."},
+    {"q": "How much does this weekend cost?", "a": "About ₹5,500 per person for two nights in 2025–26, including shared jeeps, short taxis, two nights' rooms with dinner and breakfast, lunches and donations. Solo travellers pay a little more for rooms and taxis. A reserved car would add about ₹2,500–3,500 a day."},
+    {"q": "Is this trip possible by public transport?", "a": "Yes. Shared jeeps from Gangtok's Vajra stand run to Kabi, Phodong and Mangan, and short local taxis cover Labrang and Singhik. Jeeps leave when full, mainly in the morning, so start early and avoid the last runs of the afternoon."},
+    {"q": "Can a North Sikkim tour pick me up after this trip?", "a": "Yes. Many Gangtok agents will collect you at Singhik or Mangan on day three if you book a Lachung or Lachen tour. Arrange it and the permit in Gangtok before you leave, and confirm the pickup time and place by phone the evening before."},
+    {"q": "What is the best season for this trip?", "a": "October to May for clear Kanchenjunga views and dry roads, and December for the masked dances at Phodong before Losoong. In the monsoon the monasteries are still open and the waterfalls full, but views are rare and landslides possible."},
+    {"q": "Is this trip good for families with children?", "a": "Yes. Drives are short, altitudes are low, and the statues at Kabi, the waterfall and the monasteries hold children's attention. Rooms are simple, so bring warm clothes for the nights. Shared jeeps can be cramped; a reserved car may suit families better."},
+    {"q": "Where can I stay in Phodong?", "a": "Phodong has a few small guesthouses and village homestays at roughly ₹1,000–2,000 a room. Ask in the bazaar or through a Gangtok contact, and confirm what is open. If you cannot find a room, Mangan and Singhik are 1–1.5 hours further on."},
+    {"q": "What will I see at Kabi Lungchok?", "a": "Standing stones marking the 13th-century blood-brotherhood oath between the Lepcha chief Thekong Tek and the Tibetan prince Khye Bumsa, a memorial with prayer flags, and life-size statues of the two men. It takes about 45 minutes and is free."},
+    {"q": "Will I definitely see Kanchenjunga from Singhik?", "a": "No view is guaranteed. Your chances are best at sunrise from October to April, when most mornings are clear. If cloud hides the peaks, stay a second night or try again from Mangan's ridges. In the monsoon, views are rare."}
+  ]
+}

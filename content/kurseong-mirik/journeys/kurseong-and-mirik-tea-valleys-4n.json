@@ -1,0 +1,191 @@
+{
+ "slug": "kurseong-and-mirik-tea-valleys-4n",
+ "title": "Kurseong and Mirik tea valleys",
+ "region": "kurseong-mirik",
+ "nights": 4,
+ "themes": [
+  "tea-country",
+  "toy-train",
+  "monasteries",
+  "long-weekends"
+ ],
+ "tier": "Value",
+ "travel_mode": "Mixed",
+ "stops": [
+  {
+   "place": "kurseong",
+   "nights": 2
+  },
+  {
+   "place": "mirik",
+   "nights": 2
+  }
+ ],
+ "start": "NJP railway station or Bagdogra airport",
+ "end": "NJP railway station or Bagdogra airport",
+ "price_from_inr": 13000,
+ "cost_split": [
+  {
+   "item": "Shared jeeps, one reserved car transfer and local cars",
+   "inr": 3400
+  },
+  {
+   "item": "Hotels and homestays, 4 nights with breakfast and some dinners",
+   "inr": 6800
+  },
+  {
+   "item": "Lunches, dinners out and snacks",
+   "inr": 2000
+  },
+  {
+   "item": "Museum, tastings, boating and donations",
+   "inr": 800
+  }
+ ],
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  2,
+  1,
+  0,
+  0,
+  1,
+  2,
+  2,
+  2
+ ],
+ "pace": "Balanced",
+ "max_altitude_m": 2000,
+ "meta_description": "Kurseong and Mirik in 4 nights from ₹13,000: Netaji's house, the toy train bazaar, Makaibari, Tingling tea views, Mirik lake and Bokar Monastery.",
+ "summary": "The two towns of the middle hills in four nights. Two nights in Kurseong for Netaji's house, Eagle's Crag, the toy train bazaar and Makaibari; two in Mirik for Sumendu Lake, Bokar Monastery and the Tingling and Sourenee tea slopes. From about ₹13,000 per person.",
+ "intro": [
+  "Kurseong and Mirik are close on the map but very different. Kurseong is a busy school and railway town with a strong history; Mirik is a quiet lake town in a valley of tea and oranges. Together they make a well-balanced first trip to the Darjeeling hills without the crowds of Darjeeling itself.",
+  "You go up to Kurseong by shared jeep, use one reserved car to cross to Mirik with stops at the tea viewpoints, and come down from Mirik by jeep. Rooms are a mix of family homestays and mid-range hotels."
+ ],
+ "highlights": [
+  "Netaji's house at Giddapahar",
+  "Toy train in Kurseong bazaar",
+  "Makaibari tea estate",
+  "Tingling and Sourenee tea viewpoints",
+  "Sumendu Lake and Bokar Monastery"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Siliguri to Kurseong",
+   "place": "kurseong",
+   "overnight": "Kurseong",
+   "drive": "≈ 35–50 km · 1.5–2 h by shared jeep",
+   "text": "Take a shared jeep from the Siliguri stands to Kurseong. After lunch, walk the bazaar along Hill Cart Road, time it with a train if one is due, and climb Eagle's Crag in the late afternoon for the view over the plains. Eat momos by the station before the stalls close.",
+   "meals": "Dinner",
+   "spend": "₹200 jeep + ₹150 lunch + ₹150 snacks"
+  },
+  {
+   "day": 2,
+   "title": "Giddapahar and Makaibari",
+   "place": "kurseong",
+   "overnight": "Kurseong",
+   "drive": "Local cars, ≈ 20 km in all",
+   "text": "Visit Netaji's house at Giddapahar in the morning, where Subhas Chandra Bose was held under house arrest in 1936; check the museum's hours first. After lunch, go down the Pankhabari road to Makaibari, whose factory first ran in 1859. Walk the garden roads and, if the factory is working, ask about a visit and a tasting.",
+   "meals": "Breakfast, Dinner",
+   "spend": "₹500 car share + ₹300 tasting + ₹150 lunch"
+  },
+  {
+   "day": 3,
+   "title": "Kurseong to Mirik via the tea slopes",
+   "place": "mirik",
+   "overnight": "Mirik",
+   "drive": "≈ 2.5–3 h by reserved car",
+   "text": "Leave Kurseong after breakfast by reserved car. Your driver will go down towards the foothills and up the Dudhia road, or over the ridge via Ghoom and Sukhia Pokhari, depending on the roads that day. On the Dudhia road, stop at Tingling viewpoint and Sourenee for the bowl of tea gardens and the view to Nepal. Reach Mirik by lunch and walk the footbridge and the lake in the evening light.",
+   "meals": "Breakfast",
+   "spend": "₹1,500 car share + ₹250 lunch"
+  },
+  {
+   "day": 4,
+   "title": "Mirik lake, Bokar and Rameetay Dara",
+   "place": "mirik",
+   "overnight": "Mirik",
+   "drive": "",
+   "text": "Walk round Sumendu Lake at dawn. After breakfast, walk or drive up to Bokar Monastery for morning prayers, and on to Rameetay Dara for the view over the lake and valley. Spend the afternoon on an estate road into the tea and, from November to January, the orange orchards, or take a rowing boat on the lake.",
+   "meals": "Breakfast",
+   "spend": "₹200–300 boat + ₹250 lunch + donation"
+  },
+  {
+   "day": 5,
+   "title": "Mirik to NJP",
+   "place": "mirik",
+   "overnight": "",
+   "drive": "≈ 52 km · 2–2.5 h by shared jeep",
+   "text": "Take a morning shared jeep from Mirik to Siliguri, ₹150–200, via Sourenee, Tingling and Dudhia. From Siliguri, take an auto or taxi to NJP or Bagdogra. Leave a three-hour buffer for traffic.",
+   "meals": "Breakfast",
+   "spend": "₹200 jeep + ₹200 lunch"
+  }
+ ],
+ "stays": [
+  "kurseong-tourist-lodge",
+  "mirik-gta-swiss-cottages"
+ ],
+ "includes": [
+  "Jeeps and reserved cars as listed",
+  "Homestays and mid-range rooms on twin sharing",
+  "Dinner and breakfast at homestays; breakfast at hotels",
+  "Local guides where listed"
+ ],
+ "excludes": [
+  "Flights and trains to NJP or Bagdogra",
+  "Lunches unless stated",
+  "Toy train tickets unless stated",
+  "Tips, porters and personal shopping",
+  "Anything not listed under includes"
+ ],
+ "save_money": [
+  "Use shared jeeps up and down and pay for only one reserved car, the Kurseong–Mirik crossing.",
+  "Stay in Kurseong homestays with meals included instead of hotels plus restaurant dinners.",
+  "Visit Mirik midweek, when hotel prices are lower."
+ ],
+ "good_to_know": [
+  "The Kurseong–Mirik crossing has no direct shared jeeps; a car is the practical choice.",
+  "Toy train services through Kurseong change with the season; check current status before you travel.",
+  "Book early for Puja, Diwali and the May school holidays."
+ ],
+ "faqs": [
+  {
+   "q": "Is the price per person?",
+   "a": "Yes. ₹13,000 is per person on twin sharing for Indian nationals, from NJP or Bagdogra and back, as an indicative 2025–26 figure. Solo travellers pay more for rooms and cars; groups of four sharing a car pay less. We round to the nearest ₹500."
+  },
+  {
+   "q": "Can we start from Bagdogra airport instead of NJP?",
+   "a": "Yes. Bagdogra is about 30 minutes from Siliguri and a little further from NJP. Shared autos and taxis link the airport to the Siliguri jeep stands. With a reserved car, the fare from Bagdogra is about the same as from NJP."
+  },
+  {
+   "q": "Can we change the number of nights?",
+   "a": "Yes. Add a night where you want more time, usually in the village stops, or drop one on a tight schedule. Keep at least two nights in any place where you want a clear dawn view, since weather can spoil one morning."
+  },
+  {
+   "q": "How do I get from Kurseong to Mirik?",
+   "a": "There are no direct shared jeeps, so we use a reserved car, about 2.5–3 hours, either down towards the foothills and up the Dudhia road, or over the ridge via Ghoom and Sukhia Pokhari. A car costs about ₹2,800–3,500. On a tight budget, go via Siliguri by two shared jeeps."
+  },
+  {
+   "q": "Is four nights enough for Kurseong and Mirik?",
+   "a": "Yes for the highlights of both towns. If you want village time, add a night at Makaibari or Sittong. If you want Darjeeling too, add two nights there between Kurseong and Mirik."
+  },
+  {
+   "q": "Which is better, Kurseong or Mirik?",
+   "a": "They suit different moods. Kurseong has more history and the toy train; Mirik is calmer, with a lake and tea views. This trip gives you both, two nights each, which we think is the right balance."
+  },
+  {
+   "q": "Is this trip good for a couple on a budget?",
+   "a": "Yes. At about ₹13,000 per person for four nights it is good value, with a heritage-feel option in Kurseong if you want to upgrade one night. Ask for a lake-view room in Mirik for a little extra."
+  },
+  {
+   "q": "Can we see Kanchenjunga on this trip?",
+   "a": "Possibly, on clear winter mornings from Eagle's Crag in Kurseong or Rameetay Dara in Mirik, but neither is a classic Kanchenjunga viewpoint. If the mountain matters, add a night in Darjeeling or at Latpanchar for Ahaldara."
+  },
+  {
+   "q": "Can children do this trip?",
+   "a": "Yes. Drives are short, the lake walk is level, and the toy train and boats please most children. Avoid the steep walks if you have toddlers, and pack warm clothes for evenings."
+  }
+ ]
+}

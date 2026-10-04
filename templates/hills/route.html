@@ -1,0 +1,40 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}{{ rt.from_obj.name }} to {{ rt.to_obj.name }}: shared jeep, car and fares · Darjeeling Himalayas{% endblock %}
+{% block description %}{{ rt.summary|truncatechars:156 }}{% endblock %}
+{% block body_attrs %} data-land="{{ rt.region }}"{% endblock %}
+{% block content %}
+<header class="phead phead--plain">
+  <div class="wrap phead__in" style="padding-top:28px">
+    <div class="phead__body" style="margin-top:0">
+      <p class="eyebrow">Route · {{ rt.region_obj.short }}</p>
+      <h1 class="h-1">{{ rt.from_obj.name }} to {{ rt.to_obj.name }}</h1>
+      <p class="lede">{{ rt.summary }}</p>
+      <div class="milestones">
+        <span class="milestone"><span class="milestone__cap">{{ rt.to_obj.name|truncatechars:12 }}</span><span class="milestone__val">{{ rt.distance_km }}<small>km</small></span></span>
+        {% if rt.from_obj.altitude_m and rt.to_obj.altitude_m %}<span class="milestone"><span class="milestone__cap">Climb</span><span class="milestone__val">{{ rt.from_obj.altitude_m|intcomma_plain }}→{{ rt.to_obj.altitude_m|intcomma_plain }}<small>m</small></span></span>{% endif %}
+      </div>
+    </div>
+  </div>
+</header>
+<section class="sec--tight">
+  <div class="wrap">
+    {% include "hills/partials/board.html" with rows=board %}
+  </div>
+</section>
+<section class="sec--tight">
+  <div class="wrap prail">
+    <div>
+      {% for o in rt.options %}<article class="day"><div class="day__no"><small>{{ o.time }}</small><b style="font-size:1.4rem">{{ o.fare|default:"" }}</b></div><div><h3>{{ o.mode }}</h3><p>{{ o.text }}</p></div></article>{% endfor %}
+      {% if rt.stops_on_way %}<h2 class="h-2" style="margin:36px 0 14px">On the way</h2><ul class="ticks">{% for x in rt.stops_on_way %}<li>{{ x }}</li>{% endfor %}</ul>{% endif %}
+      {% if rt.tip %}<p class="notice" style="margin-top:24px"><b>Local tip:</b> {{ rt.tip }}</p>{% endif %}
+    </div>
+    <aside class="prail__side">
+      <a class="pcard" href="{{ rt.to_obj.url }}" style="text-decoration:none">{% photo rt.to_obj|first_img alt=rt.to_obj.name credit=False ratio="ratio-43" %}<span class="pcard__name">{{ rt.to_obj.name }} guide →</span></a>
+      {% include "hills/partials/quick_form.html" with qf_id="route" qf_land=rt.region qf_title="Book the car or the whole trip" %}
+    </aside>
+  </div>
+</section>
+<section class="sec sec--paper2"><div class="wrap">{% atlas map_points route=True %}</div></section>
+<section class="sec"><div class="wrap wrap--narrow">{% include "hills/partials/faq.html" with faqs=rt.faqs %}</div></section>
+{% endblock %}
+{% block cta %}{% include "hills/partials/cta.html" with cta_land=rt.region %}{% endblock %}

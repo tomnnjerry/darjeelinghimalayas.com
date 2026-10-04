@@ -1,0 +1,75 @@
+[
+  {"slug": "siliguri-to-lataguri", "from": "siliguri", "to": "lataguri", "distance_km": 80,
+   "summary": "Siliguri to Lataguri, the Gorumara gateway, is about 75–85 km and two to two and a half hours by road via Sevoke, the Coronation Bridge, Odlabari and Malbazar. Buses and trains are cheap; a reserved car is easiest with luggage.",
+   "options": [
+     {"mode": "Reserved car", "time": "2–2.5 h", "fare": "₹3,000–3,500 a car", "text": "Prepaid and private taxis leave from NJP station, Bagdogra airport and the Siliguri stands. The usual route crosses the Teesta at Sevoke on the Coronation Bridge and runs through tea gardens to Malbazar and Lataguri. The last stretch passes forest with speed limits for animal crossings; drivers know them."},
+     {"mode": "Bus", "time": "2.5–3.5 h", "fare": "₹100–150", "text": "North Bengal State Transport and private buses run from Siliguri towards Malbazar, Maynaguri and Alipurduar. Ask for a bus that passes Lataguri, or change at Malbazar for a local bus or shared auto. Buses are frequent in the morning and thin out after dusk."},
+     {"mode": "Train", "time": "2–3 h to New Mal Jn", "fare": "₹30–150", "text": "Trains on the Dooars line from NJP or Siliguri Junction stop at New Mal Junction in Malbazar, about 15 km from Lataguri. Timings change, so check the current railway timetable. From New Mal, take an auto or a local car to Lataguri for roughly ₹400–600."}
+   ],
+   "stops_on_way": ["Sevoke Kali temple and the Coronation Bridge over the Teesta", "Tea gardens around Odlabari and Damdim", "Malbazar for an early lunch"],
+   "tip": "Leave Siliguri before 9 am to dodge the city traffic and reach Lataguri in time for an afternoon watchtower slot.",
+   "faqs": [
+     {"q": "What is the cheapest way from Siliguri to Lataguri?", "a": "A bus towards Malbazar or Maynaguri costs about ₹100–150 and takes two and a half to three and a half hours, or an unreserved seat on a Dooars line train to New Mal Junction costs well under ₹100. From Malbazar, local transport covers the last 15 km. Allow a full morning."},
+     {"q": "Which is better, Sevoke road or Jalpaiguri road?", "a": "Both work. The Sevoke road via the Coronation Bridge and Malbazar is the usual choice and passes tea gardens; the Jalpaiguri and Maynaguri road is flatter and sometimes faster from the south of Siliguri. Your driver will choose by traffic and road works on the day."},
+     {"q": "Can we reach Lataguri from Bagdogra airport directly?", "a": "Yes. Bagdogra to Lataguri is about 90 km and roughly two and a half hours by car, ₹3,000–3,800 for a reserved taxi. Most drivers skip central Siliguri and join the Sevoke road. If your flight lands after 3 pm, you will arrive after dark."},
+     {"q": "Is the road through the forest to Lataguri safe at night?", "a": "The highway is open, but elephants and gaur cross after dark and speed limits are enforced. Drivers slow down and sometimes stop for herds. We prefer daylight arrivals. Do not get out of the car for photographs if an animal is on the road."}
+   ]},
+  {"slug": "siliguri-to-jaldapara", "from": "siliguri", "to": "jaldapara", "distance_km": 125,
+   "summary": "Siliguri to Madarihat, the Jaldapara gateway, is about 120–130 km and three and a half to four hours by road through the tea gardens of the Dooars, or around four to five hours by train to Madarihat or Hasimara on the Dooars line.",
+   "options": [
+     {"mode": "Reserved car", "time": "3.5–4 h", "fare": "₹4,000–5,000 a car", "text": "The road runs through Sevoke, Malbazar, Chalsa, Nagrakata, Banarhat and Birpara to Madarihat, a long line of tea gardens with short forest stretches. A car lets you stop at Gorumara or a garden on the way. Fix the price at the prepaid counter at NJP or Bagdogra."},
+     {"mode": "Train", "time": "4–5 h", "fare": "₹60–400", "text": "Express and local trains on the Dooars line between Siliguri and Alipurduar stop at Madarihat or Hasimara, depending on the service. The line runs through tea gardens and forest edges. Check the current timetable and book a reserved seat on longer services, then take an auto or car to your lodge."},
+     {"mode": "Bus", "time": "4.5–5.5 h", "fare": "₹150–250", "text": "State and private buses for Alipurduar or Falakata pass Birpara and Madarihat. They leave from the Siliguri bus terminus through the morning. This is the cheapest option but the slowest, with frequent stops in each tea town."}
+   ],
+   "stops_on_way": ["Coronation Bridge at Sevoke", "Chalsa and the tea slopes below Samsing", "Tea gardens around Banarhat and Birpara"],
+   "tip": "If you want a dawn safari on your first full day, arrive in Madarihat by mid-afternoon to confirm your slot at the counter.",
+   "faqs": [
+     {"q": "How far is Jaldapara from NJP?", "a": "Madarihat, the main Jaldapara gateway, is about 125–135 km from NJP station, roughly four hours by car. A reserved car costs ₹4,000–5,000. Trains on the Dooars line take a similar time and cost far less, but services are limited, so check the timetable first."},
+     {"q": "Which station is nearest to Jaldapara National Park?", "a": "Madarihat and Hasimara are the usual stations, depending on your lodge. Madarihat is closest to the main safari counters and the WBTDC lodge; Hasimara suits Chilapata and Mendabari. Alipurduar Junction, about 45–50 km away, has more trains but needs a longer drive."},
+     {"q": "Can we see Gorumara on the way to Jaldapara?", "a": "Yes, with a car. Lataguri is a detour of about 20 km from the Malbazar–Chalsa road. An afternoon watchtower slot in Gorumara and an evening drive on to Madarihat makes a long day; it is easier to spend a night in Lataguri and continue the next morning."},
+     {"q": "Is there a direct bus from Siliguri to Madarihat?", "a": "Buses heading to Alipurduar, Falakata or Cooch Behar via the Dooars route pass through Birpara and Madarihat. Tell the conductor where you want to get off. Morning departures are the most reliable; after about 2 pm you risk arriving after dark."}
+   ]},
+  {"slug": "lataguri-to-jaldapara", "from": "lataguri", "to": "jaldapara", "distance_km": 85,
+   "summary": "Lataguri to Madarihat is about 80–90 km and two to two and a half hours by car through Chalsa, Nagrakata, Banarhat and Birpara. It links the two rhino parks of the Dooars and is the core of most first trips.",
+   "options": [
+     {"mode": "Reserved car", "time": "2–2.5 h", "fare": "₹3,000–3,500 a car", "text": "Most visitors hire a car for the transfer, often the same driver from NJP. The road runs north to Chalsa and then east along the foot of the hills through tea gardens. Leaving after a morning safari in Gorumara puts you in Madarihat for a late lunch."},
+     {"mode": "Bus and train", "time": "3–4 h", "fare": "₹100–250", "text": "Take a local bus or shared auto from Lataguri to Malbazar, then a Dooars line train or a bus towards Birpara and Madarihat. Cheap and workable in the morning, but changes add time. Check the train timetable before you commit."}
+   ],
+   "stops_on_way": ["Chalsa and the road up towards Samsing", "Murti river bridge", "Tea gardens around Nagrakata and Banarhat"],
+   "tip": "Book both parks' safari slots before you leave home; same-day seats on weekends are rare.",
+   "faqs": [
+     {"q": "How many days do we need for Gorumara and Jaldapara?", "a": "Four nights is comfortable: two in Lataguri or Murti for Gorumara and Chapramari, and two in Madarihat for Jaldapara and a visit to Chilapata or Totopara. Three nights works if you accept only one safari in each park and a long transfer day."},
+     {"q": "Is Jaldapara better than Gorumara for rhinos?", "a": "Jaldapara has the larger population, estimated at around 330 in the 2025 count, against about 60 in Gorumara. Gorumara is smaller and its watchtowers sometimes give closer, calmer views. Sightings are never guaranteed in either; doing both raises your chances."},
+     {"q": "Can we do the transfer by train?", "a": "Partly. Trains on the Dooars line stop at New Mal Junction near Lataguri and at Madarihat or Hasimara near Jaldapara, but you still need local transport at each end. It saves money and is a pleasant ride through gardens if the timings suit."},
+     {"q": "What is the best time of day to travel between the parks?", "a": "Late morning, after a dawn safari at Gorumara. You reach Madarihat by about 2 pm, check in and rest before an evening walk. Avoid driving after dark, when elephants cross this road regularly between the forest patches."}
+   ]},
+  {"slug": "jaldapara-to-buxa", "from": "jaldapara", "to": "buxa", "distance_km": 60,
+   "summary": "Madarihat to Santalabari, the road head for Buxa Fort, is about 55–65 km and one and a half to two hours by car via Hasimara and Rajabhatkhawa. From Santalabari you walk about 5 km uphill to Buxa.",
+   "options": [
+     {"mode": "Reserved car", "time": "1.5–2 h", "fare": "₹2,000–2,800 a car", "text": "The road runs east from Madarihat to Hasimara, then through the Chilapata and Buxa forest belt to Rajabhatkhawa and Santalabari. Forest entry rules apply beyond Rajabhatkhawa; your driver will stop at the check gate. A car can also take you on to Jayanti afterwards."},
+     {"mode": "Train and local car", "time": "2.5–3 h", "fare": "₹50–200 plus car", "text": "Dooars line trains run from Madarihat or Hasimara to Rajabhatkhawa. From there take a local car to Santalabari, roughly 15 km. Check the current timetable; services are sparse and a missed connection costs half a day."},
+     {"mode": "On foot from Santalabari", "time": "2–3 h up", "fare": "Porter about ₹500–800", "text": "The path from Santalabari to Buxa Fort climbs about 5 km through forest on a stone trail. It is steady rather than steep. Local porters and guides wait at Santalabari. Start by noon so you reach the village and homestays well before dark."}
+   ],
+   "stops_on_way": ["Hasimara and the Chilapata forest edge", "Rajabhatkhawa Nature Interpretation Centre", "Santalabari, the road head for the Buxa walk"],
+   "tip": "Leave big bags in the car or a Rajabhatkhawa lodge and walk up to Buxa with one daypack.",
+   "faqs": [
+     {"q": "Can a car drive to Buxa Fort?", "a": "Cars stop at Santalabari. A rough track goes some way further and four-wheel-drive jeeps sometimes use it, but the usual and best approach is the 5 km walk on the old stone path. Check current status before you travel, because forest rules on vehicles change."},
+     {"q": "Do I need a permit to enter Buxa Tiger Reserve?", "a": "You pay forest entry and vehicle fees at the Rajabhatkhawa or Santalabari check point; foreigners may be asked for passport details. Rules and fees are revised often, so check current status before you travel. Guides are recommended for forest walks beyond the village paths."},
+     {"q": "How long does the Buxa Fort walk take?", "a": "About two to three hours up for most walkers and an hour and a half down, on a 5 km stone trail with a steady climb to about 850 m. Add an hour to see the fort ruins and the memorial, and three more hours if you continue to Lepchakha and back."},
+     {"q": "Can we combine Buxa and Jayanti in one day?", "a": "Only if you skip the fort. Jayanti is about 30 km from Santalabari by road. A rushed day of a morning walk to Buxa, lunch and an evening at the Jayanti riverbed is possible by car, but a night at each is far better."}
+   ]},
+  {"slug": "siliguri-to-samsing", "from": "siliguri", "to": "samsing", "distance_km": 88,
+   "summary": "Siliguri to Samsing is about 85–95 km and two and a half to three hours by road via Sevoke, Malbazar, Chalsa and Metali, the last 15 km climbing through tea gardens to about 900 m.",
+   "options": [
+     {"mode": "Reserved car", "time": "2.5–3 h", "fare": "₹3,500–4,500 a car", "text": "The easiest way, especially with luggage. Past Chalsa the road narrows and climbs from the plains through Metali into the Samsing tea garden. Drivers often combine Samsing with Suntalekhola, Rocky Island and the Murti, so agree stops and price before you leave."},
+     {"mode": "Bus and shared jeep", "time": "3.5–5 h", "fare": "₹150–250", "text": "Take a bus from Siliguri to Malbazar or Chalsa, then a shared jeep or local service to Metali and Samsing. Jeeps up to Samsing run on no fixed timetable and fill slowly after midday. Start early from Siliguri."}
+   ],
+   "stops_on_way": ["Coronation Bridge at Sevoke", "Chalsa crossroads", "Metali bazaar and the first tea slopes"],
+   "tip": "Carry cash from Siliguri or Malbazar; Samsing has very limited ATM and card options.",
+   "faqs": [
+     {"q": "How far is Samsing from NJP?", "a": "About 90–95 km, roughly three hours by car via Sevoke, Malbazar and Chalsa. A reserved car costs ₹3,500–4,500 one way. Bagdogra is a little further. If you arrive on an afternoon train, plan to reach Samsing around dusk."},
+     {"q": "Is there public transport to Samsing?", "a": "Yes, but slow. Buses run from Siliguri to Malbazar and Chalsa, and shared jeeps or local buses go on from Chalsa or Metali to Samsing a few times a day. Expect a wait. It works for backpackers with time, not for families on a short trip."},
+     {"q": "Is the road to Samsing safe in the monsoon?", "a": "The climb from Metali is narrow and slides are common in heavy rain, and the Murti and Suntalekhola streams rise quickly. We avoid June to September. If you go, travel in daylight, keep a buffer day and check current status before you travel."},
+     {"q": "Can we combine Samsing with Gorumara?", "a": "Easily. Lataguri is about 35–40 km from Samsing, roughly an hour by car via Chalsa. A common plan is two nights in Samsing or Suntalekhola, then two nights in Lataguri or Murti for safaris, returning to NJP from there."}
+   ]}
+]

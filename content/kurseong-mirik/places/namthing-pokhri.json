@@ -1,0 +1,120 @@
+{
+  "slug": "namthing-pokhri", "name": "Namthing Pokhri", "name_local": "", "region": "kurseong-mirik",
+  "kind": "lake",
+  "wiki": "", "image_query": "Himalayan salamander Darjeeling lake",
+  "lat": 26.93, "lng": 88.35, "altitude_m": 1370,
+  "tagline": "The seasonal lake where Himalayan salamanders come to breed",
+  "meta_description": "Namthing Pokhri near Sittong: a seasonal forest lake where rare Himalayan salamanders breed in the monsoon. When to go, rules, costs and how to get there.",
+  "summary": "Namthing Pokhri is a small seasonal lake at about 1,370 m (4,500 ft) in the Shelpu hills near Sittong and Latpanchar. In the monsoon it fills and becomes a breeding ground for the Himalayan salamander, a rare crocodile newt. Entry is free or a small local fee; reach it by car from Sittong for ₹800–1,200 return.",
+  "local_story": {"title": "The little crocodiles of the Shelpu hills", "paras": [
+    "Pokhri means pond or small lake in Nepali, and for most of the year Namthing Pokhri is just that: a shallow, grassy hollow in the forest of the Shelpu hills, partly dry in winter. Then the monsoon arrives. The hollow fills, and from the leaf litter and burrows around it come Himalayan salamanders, dark brown newts about 16–18 cm long with rows of knobbly orange-brown warts down their backs, sometimes called crocodile newts for their rough skin.",
+    "They come to breed. Pairs court in the water in a slow dance that can last more than an hour, and the females fix their eggs to plants just below the surface. The Darjeeling hills are one of very few places in India where this salamander lives, and its ponds have been lost to roads, drainage and building. Scientists described the Himalayan population as its own species, Tylototriton himalayanus, in 2015, though many local sources still call it T. verrucosus. The forest department and the Darjeeling zoo now work to protect the ponds, and Namthing Pokhri is the best known of them."
+  ]},
+  "did_you_know": [
+    "Namthing Pokhri lies at about 1,370 m (4,500 ft) and is seasonal: it fills in the monsoon and partly dries in winter.",
+    "Himalayan salamanders grow to about 16–18 cm and fix their eggs to plants just under the water during the monsoon breeding season.",
+    "A proposed salamander conservation landscape centres on three wetlands: Namthing Pokhri, Pokhriatar and Panch Pokhri, all in the Darjeeling hills."
+  ],
+  "intro": [
+    "Namthing Pokhri is a quiet place with one big story. The lake itself is small, surrounded by forest and grass, and in the dry months it can look like little more than a marshy meadow. What makes it special is the animal that depends on it. In the monsoon the Himalayan salamander, one of the rarest amphibians in India, gathers here to breed.",
+    "Visit with care. This is a habitat, not a park: walk on the edge, never step into the water, never pick up or photograph salamanders with flash, and do not leave any food or plastic. The best time to see salamanders is the monsoon, roughly June to August, which is also when roads are wettest; the best time for a pleasant forest walk is October to April. Combine it with Sittong or Latpanchar."
+  ],
+  "facts": [["Best months", "Jun – Aug for salamanders · Oct – Apr for walks"], ["Nights we suggest", "Visit from Sittong or Latpanchar"], ["From Siliguri", "≈ 55–60 km · 2.5–3 h"], ["Altitude", "≈ 1,370 m"], ["Known for", "Himalayan salamander breeding"], ["Network", "Weak or none at the lake"]],
+  "best_months": [1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 2, 1],
+  "nights": "Day trip",
+  "costs": [["Car from Sittong, return", "₹800–1,200"], ["Car from Latpanchar, return", "₹1,000–1,500"], ["Car from Kurseong, return", "₹2,200–2,800"], ["Entry", "Free or a small local fee"], ["Local guide", "₹500–800"]],
+  "highlights": [
+    {"title": "Salamander season", "text": "From about June to August the lake fills and Himalayan salamanders gather to court and lay eggs. Look from the edge; adults often rest on submerged plants or come up for air."},
+    {"title": "A forest lake", "text": "Outside the monsoon Namthing Pokhri is a shallow, grassy hollow ringed by forest, quiet except for birds. A good half-hour stop on a Sittong or Latpanchar day."},
+    {"title": "Conservation in action", "text": "The forest department and the Padmaja Naidu Himalayan Zoological Park in Darjeeling have worked on wetland restoration and salamander breeding. Signs at the lake explain the rules."},
+    {"title": "Shelpu hill forest", "text": "The lake sits in the forested Shelpu hills between Sittong and the Kurseong ridges. Walk the road around it for birds and quiet."}
+  ],
+  "how_to_reach": [
+    {"mode": "Reserved car", "text": "From Sittong it is a short drive, about 30–45 minutes, ₹800–1,200 return with waiting. From Latpanchar, ₹1,000–1,500. From Kurseong, on the way to Sittong via Bagora, ₹2,200–2,800 return."},
+    {"mode": "On foot", "text": "From the upper parts of Sittong, local paths lead up towards the lake in 1.5–2 hours. Go with someone from your homestay; paths are not marked and are slippery in the monsoon."}
+  ],
+  "where_to_stay": "There are no stays at the lake. Stay in Sittong's family homestays, which are closest (₹1,200–1,800 per person with meals), or in Latpanchar. Both make Namthing Pokhri an easy morning trip. If you are visiting in the monsoon for the salamanders, choose a homestay whose host can drive you up on wet roads and confirm the road is open the day before.",
+  "stays": [],
+  "tips": [
+    "Never handle salamanders or their eggs; their skin is delicate and they are protected.",
+    "Stay on the edge of the lake and do not wade in.",
+    "Use no flash and keep a distance when photographing.",
+    "Carry leech socks and a raincoat in the monsoon.",
+    "Take every scrap of rubbish away with you."
+  ],
+  "themes": ["wildlife-birds", "off-season", "photography"],
+  "nearby": ["sittong", "latpanchar", "ahaldara"],
+  "experiences": [
+    {"slug": "namthing-pokhri-salamander-watch", "title": "Watch Himalayan salamanders breed",
+     "kind": "wildlife", "duration": "1.5 hours", "best_time": "Jun–Aug, morning after rain", "cost": "Free or small fee · guide ₹500–800",
+     "image_query": "Tylototriton Himalayan salamander pond", "wiki": "",
+     "summary": "In the monsoon, quietly watch rare Himalayan salamanders in the shallow water of Namthing Pokhri. Dark, knobbly newts about 16–18 cm long, courting and laying eggs on submerged plants.",
+     "body": [
+       "Salamanders spend much of the year hidden on land under logs, stones and leaf litter. When the monsoon fills Namthing Pokhri, roughly from June, they move to the water to breed. Look carefully at the shallows: adults rest on plants just under the surface and rise to breathe.",
+       "Courtship can last up to an hour and a half, and eggs are fixed one by one to vegetation in the water. Larvae develop through the wet months.",
+       "Watch from the edge and never handle the animals. Their skin is sensitive to soap, sunscreen and insect repellent on your hands. A local guide will know where they are most often seen and what the current rules are."
+     ],
+     "good_for": ["students", "photographers", "solo"],
+     "faqs": [
+       {"q": "When can I see salamanders at Namthing Pokhri?", "a": "Mainly in the monsoon, roughly June to August, when the lake fills and the salamanders come to breed. Mornings after rain are often best. Outside this season you are unlikely to see them, as they hide on land. Roads are wet in the monsoon, so plan extra time."},
+       {"q": "Is the Himalayan salamander endangered?", "a": "It is rare in India and its habitat has shrunk as ponds were drained or built over. It is legally protected, and conservationists are working to restore its wetlands in the Darjeeling hills. Do not disturb, handle or collect the animals or their eggs."},
+       {"q": "Can I photograph the salamanders?", "a": "Yes, from the edge, without flash and without touching or moving them. Use a zoom lens rather than leaning over the water. Do not move plants or stones to get a better view, as eggs may be attached to them."}
+     ]},
+    {"slug": "namthing-pokhri-dry-season-walk", "title": "A quiet walk round the lake",
+     "kind": "trek", "duration": "1 hour", "best_time": "Oct–Apr, morning", "cost": "Free",
+     "image_query": "Namthing Pokhri lake forest Sittong", "wiki": "",
+     "summary": "Walk the edge of Namthing Pokhri in the dry season, when the lake is low and grassy and the forest around it is full of birds. An easy, short stop on a Sittong or Latpanchar day.",
+     "body": [
+       "In the dry months Namthing Pokhri shrinks. Parts of the bed become a grassy meadow, and the surrounding forest of the Shelpu hills is the main attraction. It is a calm place for a short walk, a flask of tea and some birdwatching.",
+       "Keep to the path round the edge and avoid trampling the wet margins, which are where salamanders shelter and lay eggs when the water returns.",
+       "Combine it with Sittong's orchards in winter or Latpanchar's hornbills in spring."
+     ],
+     "good_for": ["families", "seniors", "couples"],
+     "faqs": [
+       {"q": "Is Namthing Pokhri worth visiting outside the monsoon?", "a": "As a short stop, yes. The lake is smaller and quieter, the forest is pleasant and there are birds. Do not expect salamanders, which hide on land outside the breeding season. Combine it with Sittong or Latpanchar rather than making a special trip."},
+       {"q": "How big is Namthing Pokhri?", "a": "It is a small, shallow seasonal lake, not a large body of water. In the monsoon it fills; in winter it partly dries to a grassy hollow. A walk round the edge takes well under an hour."},
+       {"q": "Are there facilities at Namthing Pokhri?", "a": "Very few. Expect no shops, cafés or toilets. Bring water and snacks from Sittong or Latpanchar and take all rubbish away with you."}
+     ]},
+    {"slug": "namthing-pokhri-shelpu-birds", "title": "Birds of the Shelpu forest",
+     "kind": "wildlife", "duration": "2 hours", "best_time": "6.30–9 am, Mar–May and Oct–Nov", "cost": "Guide ₹500–800",
+     "image_query": "Himalayan forest birds Darjeeling", "wiki": "",
+     "summary": "Walk the forest road around Namthing Pokhri at dawn for mid-hill birds: barbets, laughingthrushes, minivets, sunbirds and woodpeckers. A gentler, less known alternative to Latpanchar.",
+     "body": [
+       "The Shelpu hills around Namthing Pokhri carry broadleaf forest at about 1,300–1,500 m, the same belt that makes Latpanchar good for birds. Fewer people come here, which means quieter mornings.",
+       "Walk slowly along the road and the edge of the lake from sunrise. Listen for barbets calling from the canopy and look for flocks of minivets, tits and warblers moving through the trees.",
+       "A Sittong or Latpanchar guide can join you. Spring brings song and breeding; autumn brings clear light."
+     ],
+     "good_for": ["photographers", "solo", "seniors"],
+     "faqs": [
+       {"q": "What birds can I see near Namthing Pokhri?", "a": "Typical mid-hill forest birds: barbets, bulbuls, laughingthrushes, minivets, tits, warblers, sunbirds and woodpeckers, with raptors overhead. Hornbills are more reliably seen at nearby Latpanchar. Sightings vary with season and time of day."},
+       {"q": "Do I need a guide for birding at Namthing Pokhri?", "a": "Not strictly, but a local guide will find and identify much more. Expect about ₹500–800 for a morning, arranged through your Sittong or Latpanchar homestay. Bring binoculars."},
+       {"q": "What is the best season for birding in the Shelpu hills?", "a": "March to May for song and breeding, and October to November for clear weather. Winter is good for some visiting species. The monsoon is wet and leech-heavy, though the forest is lush."}
+     ]},
+    {"slug": "namthing-pokhri-conservation-story", "title": "How the salamander ponds are protected",
+     "kind": "culture", "duration": "1 hour", "best_time": "Any dry month", "cost": "Free",
+     "image_query": "Himalayan salamander conservation Darjeeling zoo", "wiki": "Padmaja Naidu Himalayan Zoological Park",
+     "summary": "Learn how a rare amphibian is being kept alive in the Darjeeling hills: wetland restoration, native grass planting, breeding at the Darjeeling zoo and a proposed landscape linking three ponds.",
+     "body": [
+       "The Himalayan salamander needs still, shaded water for breeding and damp forest for the rest of the year. Across the Darjeeling hills many such ponds have been drained, filled or polluted, and roads cut animals off from their water.",
+       "In recent years the forest department has restored wetlands, planted native grasses around them and created protected breeding zones, while the Padmaja Naidu Himalayan Zoological Park in Darjeeling has worked on breeding the species. A conservation landscape has been proposed around three wetlands: Namthing Pokhri, Pokhriatar and Panch Pokhri.",
+       "Read the signs at the lake and ask your guide or homestay host what has changed. The best thing a visitor can do is follow the rules and leave nothing behind."
+     ],
+     "good_for": ["students", "families", "seniors"],
+     "faqs": [
+       {"q": "Who protects Namthing Pokhri?", "a": "The West Bengal forest department and the district administration have both been involved, and reports say the land is being transferred to the forest department. The Padmaja Naidu Himalayan Zoological Park in Darjeeling also works on salamander conservation. Rules at the lake are posted on signs."},
+       {"q": "Why are Himalayan salamanders rare?", "a": "They need clean, still ponds in damp forest, and many such ponds in the Darjeeling hills have been drained, built on or cut off by roads. They breed slowly and do not travel far, so losing a pond can wipe out a local population."},
+       {"q": "How can visitors help the salamanders?", "a": "Keep out of the water, never handle the animals or eggs, leave no rubbish or food, keep noise down and follow the posted rules. Support local guides and homestays that respect the habitat, and avoid any operator offering to let you hold a salamander."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "Where is Namthing Pokhri?", "a": "Namthing Pokhri is a seasonal lake in the Shelpu hills of Kurseong subdivision, Darjeeling district, at about 1,370 m. It lies close to Sittong and Latpanchar, about 55–60 km from Siliguri."},
+    {"q": "Why is Namthing Pokhri famous?", "a": "Because it is a breeding ground of the Himalayan salamander, a rare crocodile newt found in only a few places in India. In the monsoon the lake fills and the salamanders gather to court and lay eggs on submerged plants."},
+    {"q": "What is the best time to visit Namthing Pokhri?", "a": "June to August if you want to see salamanders, which come to breed in the monsoon. October to April if you want a pleasant forest walk and dry roads. Combine either with a stay in Sittong or Latpanchar."},
+    {"q": "Is there an entry fee at Namthing Pokhri?", "a": "In recent years entry has been free or a small local fee. Rules and fees may change as conservation work develops and the site moves under the forest department. Check current status before you travel."},
+    {"q": "How do I get to Namthing Pokhri?", "a": "By car from Sittong (about 30–45 minutes, ₹800–1,200 return) or Latpanchar (₹1,000–1,500). There is no public transport to the lake. From the upper parts of Sittong, local paths lead up on foot in 1.5–2 hours with a guide."},
+    {"q": "Can I touch the salamanders?", "a": "No. They are protected and their skin is very sensitive to the oils, sunscreen and repellent on human hands. Watch from the edge, do not wade into the water and do not move plants or stones where eggs may be attached."},
+    {"q": "Is Namthing Pokhri worth a special trip?", "a": "For naturalists in the monsoon, yes. For most travellers, it is a short, quiet stop best combined with Sittong's orchards or Latpanchar's hornbills. The lake itself is small and simple; the salamander story is what makes it worth knowing about."},
+    {"q": "What does Namthing Pokhri mean?", "a": "Pokhri means pond or small lake in Nepali. We have not found a reliable source for the meaning of Namthing, so we leave it there rather than guess. Ask your Sittong host for the local explanation."},
+    {"q": "Is it safe to visit Namthing Pokhri in the monsoon?", "a": "Yes, with care. Roads are wet and slippery, leeches are out and landslides can block the way. Go with a local driver who knows the road, carry rain gear and leech socks, and confirm conditions the evening before."}
+  ]
+}

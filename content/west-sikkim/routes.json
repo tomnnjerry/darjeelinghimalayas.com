@@ -1,0 +1,99 @@
+[
+  {
+    "slug": "siliguri-to-pelling",
+    "from": "siliguri",
+    "to": "pelling",
+    "distance_km": 135,
+    "summary": "About 135 km and 5–6 hours from Siliguri or NJP to Pelling, down the Teesta to Melli, along the Rangeet to Jorethang, then up through Legship and Gyalshing. Direct shared jeeps are few; most budget travellers change at Jorethang.",
+    "options": [
+      {"mode": "Shared jeep", "time": "5.5–7 h with a change", "fare": "₹450–600 a seat direct, or about ₹250–350 to Jorethang plus ₹150–220 on to Pelling", "text": "A few direct jeeps to Pelling or Gyalshing leave Siliguri in the morning from the SNT bus stand area and nearby jeep stands; ask the day before. The more reliable way is a jeep to Jorethang, which leave through the morning, then a jeep to Pelling or to Gyalshing, from where local jeeps climb the last 10 km. Aim to leave Siliguri by 10 am."},
+      {"mode": "Reserved car", "time": "5–6 h", "fare": "₹5,000–6,500 a car (small car, indicative)", "text": "A reserved Alto, Wagon R or similar from NJP, Bagdogra or Siliguri takes four passengers with luggage on the roof. Larger SUVs cost more. Agree the fare, the drop point in Upper Pelling and any waiting charges before you leave, and stop for lunch at Melli or Jorethang."},
+      {"mode": "Bus and jeep", "time": "6–7 h", "fare": "Bus to Jorethang where available, then about ₹150–220 by jeep", "text": "Sikkim Nationalised Transport and private buses run some services towards Jorethang and Namchi, but timings change often and seats on the onward jeep matter more. This is the cheapest option only if a bus fits your timing; otherwise the shared jeep is quicker and costs little more."}
+    ],
+    "stops_on_way": ["Coronation Bridge and the Teesta at Sevoke", "Melli, the Sikkim border checkpost", "Jorethang bazaar and the Rangeet river", "Legship and the Rangeet bridge", "Gyalshing (Geyzing), the district town below Pelling"],
+    "tip": "If you miss the last jeep from Jorethang, Gyalshing still has later local jeeps up to Pelling than Jorethang does, so get as far as Gyalshing.",
+    "faqs": [
+      {"q": "How long does it take to reach Pelling from Siliguri?", "a": "About 5 to 6 hours by reserved car and 5.5 to 7 hours by shared jeep with a change at Jorethang. The road follows the Teesta and Rangeet rivers before climbing to about 2,150 m. Landslides in the monsoon can add hours, so check current status before you travel between June and September."},
+      {"q": "Is there a direct shared jeep from Siliguri to Pelling?", "a": "There are a few, usually leaving in the morning, but seats are limited and timings change. Ask at the SNT bus stand area or the Sikkim jeep stands in Siliguri the day before. If you miss them, take a jeep to Jorethang and change there for Pelling or Gyalshing."},
+      {"q": "Do Indians need a permit to travel from Siliguri to Pelling?", "a": "No. Indian citizens do not need a permit for Pelling, Yuksom or South Sikkim; carry photo ID for the Melli checkpost. Foreign nationals need a Sikkim Restricted Area Permit, available online and at entry points. Check current status before you travel, as procedures change."},
+      {"q": "Where should I break the journey to Pelling?", "a": "Melli and Jorethang both have food stalls and simple restaurants, and Jorethang is the natural lunch stop on the shared jeep route. If you start late, Jorethang has budget hotels for a night, and the morning jeeps to Pelling, Gyalshing, Rinchenpong and Yuksom leave from its stand."}
+    ]
+  },
+  {
+    "slug": "pelling-to-yuksom",
+    "from": "pelling",
+    "to": "yuksom",
+    "distance_km": 38,
+    "summary": "About 35–40 km and 1.5–2 hours from Pelling to Yuksom, past Rimbi and Kanchenjunga Falls and the turning for Khecheopalri Lake. Shared jeeps are few, so most people take a reserved car or combine the drive with sightseeing.",
+    "options": [
+      {"mode": "Shared jeep", "time": "1.5–2.5 h", "fare": "₹150–250 a seat", "text": "A small number of shared jeeps run between Gyalshing, Pelling and Yuksom, mainly in the morning and early afternoon. Ask at the Upper Pelling jeep stop the evening before and book a seat. If none suit, go down to Gyalshing, which has more vehicles to Yuksom."},
+      {"mode": "Reserved car", "time": "1.5–2 h", "fare": "₹2,000–3,000 a car one way (indicative)", "text": "A reserved car lets you stop at Rimbi Falls, Kanchenjunga Falls and Khecheopalri Lake on the way. Many Pelling drivers sell this as a sightseeing day ending in Yuksom. Agree which stops are included and how long the driver will wait at each."},
+      {"mode": "On foot (part)", "time": "Full day", "fare": "Free", "text": "Fit walkers sometimes go by jeep to Khecheopalri, spend the night at the lake and walk the old village trail down to Yuksom the next day, roughly 4 to 6 hours. Go with a local guide or clear directions, carry water and avoid the monsoon months."}
+    ],
+    "stops_on_way": ["Rimbi Falls and the Rimbi river", "Kanchenjunga Falls", "Turn-off for Khecheopalri Lake", "Darap village homestays (short detour)"],
+    "tip": "Ask your driver to stop at Kanchenjunga Falls on the way up, before the tour groups arrive in late morning.",
+    "faqs": [
+      {"q": "How far is Yuksom from Pelling?", "a": "About 35 to 40 km by road, which takes 1.5 to 2 hours without stops. The road drops to the Rimbi river and climbs again, passing Rimbi and Kanchenjunga Falls and the turn-off for Khecheopalri Lake. With sightseeing stops, plan on half a day."},
+      {"q": "Can I do Pelling to Yuksom by shared jeep?", "a": "Yes, but there are only a few jeeps a day, mostly in the morning. Book a seat at the Upper Pelling stop the evening before, or go to Gyalshing, which has more departures. Fares are indicative at ₹150–250 a seat; check current status before you travel."},
+      {"q": "Should I visit Khecheopalri Lake on the way to Yuksom?", "a": "If you are not staying at the lake, yes. The turning is on the Pelling to Yuksom road, and a reserved car can wait while you walk the short path to the lake, about 20 minutes each way. Allow an hour in all. Staying a night at Khecheopalri is even better."},
+      {"q": "Is the Pelling to Yuksom road open in the monsoon?", "a": "It usually stays open, but slips and fallen boulders are common from June to September and can hold traffic for hours. Travel in the morning, when rain is lighter, and keep a buffer day before any onward train or flight. Check current status before you travel."}
+    ]
+  },
+  {
+    "slug": "gangtok-to-ravangla",
+    "from": "gangtok",
+    "to": "ravangla",
+    "distance_km": 65,
+    "summary": "About 65 km and 2.5–3 hours from Gangtok to Ravangla, down to Singtam on the Teesta and up through Temi Tea Garden or Damthang. A good way to link East Sikkim with Buddha Park, Namchi and the west.",
+    "options": [
+      {"mode": "Shared jeep", "time": "3–3.5 h", "fare": "₹250–350 a seat", "text": "Shared jeeps for Ravangla leave Gangtok in the morning and early afternoon from the stand serving South and West Sikkim; ask locally, as stands have moved in recent years. If there is no direct jeep, go to Namchi or Singtam and change. Book a seat a day ahead in peak season."},
+      {"mode": "Reserved car", "time": "2.5–3 h", "fare": "₹3,500–4,500 a car (indicative)", "text": "A reserved car lets you stop at Temi Tea Garden for an hour and photograph the slopes of Tendong Hill. Agree the route, via Temi or via Damthang, before you start. Many drivers can continue on to Pelling the same day, which is a long but scenic 6 to 7 hours in all."}
+    ],
+    "stops_on_way": ["Ranipool and the Rumtek turn-off", "Singtam on the Teesta", "Temi Tea Garden", "Damthang, start of the Tendong Hill walk"],
+    "tip": "Take the Temi route on a clear morning and have tea at the garden before the clouds rise.",
+    "faqs": [
+      {"q": "How long is the drive from Gangtok to Ravangla?", "a": "About 65 km, usually 2.5 to 3 hours by car and slightly longer by shared jeep. The road drops to Singtam on the Teesta, then climbs through Temi or Damthang to about 2,000 m. Traffic around Gangtok and Ranipool can add time on weekday mornings."},
+      {"q": "Is there a shared jeep from Gangtok to Ravangla?", "a": "Yes, a few run each day, mostly in the morning and early afternoon, at about ₹250–350 a seat (indicative). Jeeps to Namchi are more frequent, and Namchi to Ravangla is an hour more. Ask at your hotel which stand they leave from, as it has changed over the years."},
+      {"q": "Can I visit Temi Tea Garden between Gangtok and Ravangla?", "a": "Yes, if you go by reserved car on the Temi route. The garden lies on the slopes of Tendong Hill, about 18 km before Ravangla. Stop for an hour to walk the tea rows and buy Temi tea. Factory visits depend on the season and the day; check current status before you travel."},
+      {"q": "Is the Gangtok to Ravangla road affected by the 2023 Teesta flood?", "a": "The flood of October 2023 badly damaged roads along the Teesta, especially NH10 between Rangpo and Singtam and the roads further north towards Chungthang and Lachen. Sections near Singtam have seen repairs and diversions since. Ask locally on the day and check current status before you travel."}
+    ]
+  },
+  {
+    "slug": "namchi-to-ravangla",
+    "from": "namchi",
+    "to": "ravangla",
+    "distance_km": 27,
+    "summary": "About 27 km and an hour between Namchi and Ravangla, through Damthang below Tendong Hill. Frequent shared jeeps make it easy to see Samdruptse, Char Dham and Buddha Park on one budget trip.",
+    "options": [
+      {"mode": "Shared jeep", "time": "1–1.5 h", "fare": "₹80–120 a seat", "text": "Shared jeeps run between Namchi and Ravangla through the day, more often in the morning. They leave from the Namchi jeep stand when full. Coming back, catch one from Ravangla bazaar before mid-afternoon, after which departures thin out."},
+      {"mode": "Reserved car", "time": "1 h", "fare": "₹1,500–2,000 a car one way (indicative)", "text": "A reserved car is worth it if you want to stop at Damthang or combine Samdruptse and Char Dham in the morning with Buddha Park in the afternoon. Local taxi unions fix the fares; ask your hotel for the current rate before you agree."}
+    ],
+    "stops_on_way": ["Samdruptse turn-off above Namchi", "Damthang and the Tendong Hill trail", "Kewzing turning near Ravangla"],
+    "tip": "See Samdruptse and Char Dham in the morning light from Namchi, then move to Ravangla for Buddha Park in the afternoon.",
+    "faqs": [
+      {"q": "How far is Ravangla from Namchi?", "a": "About 27 km by road, an hour by car and a little longer by shared jeep. The road climbs from about 1,675 m at Namchi through Damthang, at the foot of Tendong Hill, to about 2,000 m at Ravangla. It is one of the easiest drives in Sikkim."},
+      {"q": "Can I do Namchi and Ravangla as a day trip?", "a": "Yes, from either town. With a reserved car you can see Samdruptse, Char Dham and Buddha Park in one long day. By shared jeep, pick two of the three, because the sights sit away from the jeep stands and need local taxis. Staying a night in each is calmer."},
+      {"q": "What is the shared jeep fare from Namchi to Ravangla?", "a": "Expect about ₹80–120 a seat, indicative for 2025–26. Jeeps leave when full from the Namchi stand and Ravangla bazaar, with most departures before 3 pm. Fares change with fuel prices; check current status before you travel."},
+      {"q": "Where can I climb Tendong Hill on this route?", "a": "The Tendong Hill walk starts near Damthang, roughly halfway between Namchi and Ravangla. It climbs through forest to about 2,600 m in 3 to 4 hours one way, with a watchtower and views of Kanchenjunga on clear days. Go between October and April and start early."}
+    ]
+  },
+  {
+    "slug": "darjeeling-to-pelling",
+    "from": "darjeeling",
+    "to": "pelling",
+    "distance_km": 75,
+    "summary": "About 75 km and 4–4.5 hours from Darjeeling to Pelling, dropping through tea gardens to the Rangeet at Jorethang and climbing again via Legship and Gyalshing. The usual way to link the Darjeeling hills with West Sikkim.",
+    "options": [
+      {"mode": "Shared jeep", "time": "4.5–5.5 h with a change", "fare": "About ₹200–300 to Jorethang plus ₹150–220 on to Pelling", "text": "Shared jeeps for Jorethang leave Darjeeling's main jeep stand in the morning. At Jorethang change for Pelling or Gyalshing. Leave Darjeeling by 8 or 9 am so you are not chasing the last afternoon jeep out of Jorethang."},
+      {"mode": "Reserved car", "time": "4–4.5 h", "fare": "₹4,000–5,500 a car (indicative)", "text": "A reserved car from Darjeeling to Pelling is the easy way with luggage or children. Agree whether the fare includes a stop at a tea garden on the way down and drop at your hotel in Upper Pelling."}
+    ],
+    "stops_on_way": ["Tea gardens on the descent to the Rangeet", "Jorethang and the Rangeet bridge", "Legship", "Gyalshing (Geyzing)"],
+    "tip": "Foreign nationals should arrange the Sikkim Restricted Area Permit before this trip, since the route enters Sikkim at the Rangeet bridge near Jorethang.",
+    "faqs": [
+      {"q": "How long does Darjeeling to Pelling take?", "a": "About 4 to 4.5 hours by reserved car for roughly 75 km, and 4.5 to 5.5 hours by shared jeep with a change at Jorethang. The road drops about 1,800 m from Darjeeling to the Rangeet and climbs back to 2,150 m at Pelling, so carry motion-sickness tablets if you need them."},
+      {"q": "Is there a direct shared jeep from Darjeeling to Pelling?", "a": "Direct seats are rare. The reliable way is a shared jeep from Darjeeling to Jorethang, then another to Pelling or Gyalshing. Fares together come to about ₹350–520 a person (indicative). Ask at the Darjeeling jeep stand the day before about morning departures."},
+      {"q": "Do I need a permit to go from Darjeeling to Pelling?", "a": "Indian citizens need only photo ID. Foreign nationals need a Sikkim Restricted Area Permit, which can be applied for online and is checked when you enter Sikkim. Check current status before you travel, as the issuing points and process have changed in recent years."},
+      {"q": "Can I go from Darjeeling to Pelling and on to Yuksom in a day?", "a": "It is possible by reserved car but long, about 6 to 7 hours of driving. It is better to stop a night in Pelling, see Pemayangtse and Rabdentse, and go to Yuksom the next day. By shared jeep it is not realistic in one day."}
+    ]
+  }
+]

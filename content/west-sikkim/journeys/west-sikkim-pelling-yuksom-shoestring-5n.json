@@ -1,0 +1,68 @@
+{
+  "slug": "west-sikkim-pelling-yuksom-shoestring-5n",
+  "title": "Pelling and Yuksom by shared jeep",
+  "region": "west-sikkim",
+  "nights": 5,
+  "themes": ["solo-backpacking", "monasteries", "kanchenjunga-views", "homestays"],
+  "tier": "Shoestring",
+  "travel_mode": "Shared jeeps",
+  "stops": [{"place": "pelling", "nights": 2}, {"place": "yuksom", "nights": 3}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 12000,
+  "cost_split": [
+    {"item": "Shared jeeps and local taxis", "inr": 2000},
+    {"item": "Budget hotel in Pelling (2 nights) and Yuksom homestay with meals (3 nights)", "inr": 6000},
+    {"item": "Lunches, tea and snacks", "inr": 2800},
+    {"item": "Monastery entries, donations and park fees", "inr": 1200}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2150,
+  "meta_description": "5 nights in Pelling and Yuksom by shared jeep from ₹12,000: Pemayangtse, Rabdentse, Dubdi, the coronation throne and Kanchenjunga at dawn.",
+  "summary": "The story of Sikkim's first kings, told on foot and by shared jeep. Two nights in Pelling for Pemayangtse, Rabdentse and the Kanchenjunga dawn, then three slow nights in Yuksom for Dubdi, Norbugang and Khecheopalri Lake, from about ₹12,000 per person.",
+  "intro": [
+    "This is the trip we suggest to students and solo travellers who want West Sikkim without a reserved car. Everything on it can be reached by shared jeep, local taxi or your own feet. Pelling gives you the big monastery, the ruined second capital and the classic mountain view; Yuksom gives you the place where the kingdom of Sikkim began in 1642, and a village pace that suits a long stay.",
+    "Shared jeeps run on their own clock, which is mostly the morning. We build the days around that: travel early, walk in the afternoon, sleep early. Three nights in Yuksom leaves room for a day trip to Khecheopalri Lake or Tashiding and a lazy day reading on a homestay porch, which is half the point."
+  ],
+  "highlights": [
+    "Kanchenjunga at dawn from Upper Pelling on two mornings",
+    "Pemayangtse's seven-tiered wooden palace and the Rabdentse ruins walk",
+    "The Norbugang coronation throne where Sikkim's first Chogyal was crowned in 1642",
+    "The steep forest climb to Dubdi Monastery, built in 1701",
+    "A day at Khecheopalri Lake, sacred to Buddhists and Hindus"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Pelling by shared jeep", "place": "pelling", "overnight": "Pelling", "drive": "≈ 135 km · 6–7 h by shared jeep with a change at Jorethang", "text": "Take a morning shared jeep from Siliguri towards Jorethang, along the Teesta to Melli and then the Rangeet. At Jorethang, change for Pelling or Gyalshing; from Gyalshing a local jeep climbs the last 10 km. The road crosses the Rangeet at Legship and climbs through cardamom and terraced paddy. Check in to a budget hotel in Upper Pelling near the jeep stop, ask which rooms face north, and go to bed early: the mountains show best before 7 am.", "meals": "Dinner", "spend": "₹550–650 in jeep seats + ₹150 lunch at Jorethang"},
+    {"day": 2, "title": "Pemayangtse and the Rabdentse ruins", "place": "pelling", "overnight": "Pelling", "drive": "", "text": "Watch the Kanchenjunga range turn pink from the rooftop, then walk about 2 km down to Pemayangtse Monastery, founded around 1705 and the leading Nyingma gompa of Sikkim. Climb to the top floor for Zangdok Palri, a seven-tiered painted wooden model of Guru Rinpoche's palace. From near the monastery a forest path leads to the Rabdentse ruins, Sikkim's capital from 1670 until the early 1800s. Take a local jeep back up and, if your legs allow, climb to Sanga Choeling for sunset.", "meals": "Breakfast, dinner", "spend": "₹150–250 entries and donations + ₹60 local jeep"},
+    {"day": 3, "title": "Pelling to Yuksom", "place": "yuksom", "overnight": "Yuksom", "drive": "≈ 38 km · 2 h by shared jeep", "text": "Book a seat the evening before on one of the few morning jeeps to Yuksom; if none fit, go down to Gyalshing, which has more. The road drops to the Rimbi river and passes Rimbi and Kanchenjunga Falls before climbing to Yuksom at about 1,780 m. Check in to a family homestay and walk to Norbugang in the afternoon: a stone throne, a chorten and an old pine mark where three lamas consecrated Phuntsog Namgyal as the first Chogyal in 1642. Kathok Lake is a few minutes away.", "meals": "Breakfast, dinner", "spend": "₹150–250 jeep seat + ₹150 lunch"},
+    {"day": 4, "title": "Dubdi Monastery and Tashi Tenka", "place": "yuksom", "overnight": "Yuksom", "drive": "", "text": "Start early for Dubdi Monastery, built in 1701 and often called the oldest in Sikkim. The trail climbs steeply through forest for about 45 minutes above the village; carry water. The caretaker lama is not always in, so be patient or come back later. In the afternoon walk to Tashi Tenka, the site of the old palace, for the view over the valley, and look in at the trekkers gathering by the Khangchendzonga National Park office, where the Goecha La trail begins.", "meals": "Breakfast, dinner", "spend": "₹100 donation + ₹200 lunch and tea"},
+    {"day": 5, "title": "Khecheopalri Lake day trip", "place": "yuksom", "overnight": "Yuksom", "drive": "≈ 30 km · 1.5 h each way by shared or reserved jeep", "text": "Share a jeep with other travellers to Khecheopalri Lake, sacred to Buddhists and Hindus and known by its older name Sho Dzo Sho. Walk the short path to the prayer-flag jetty, and listen for the local story that birds lift away any leaf that falls on the water. Climb to the village gompa above for a view of the lake's footprint shape. Return to Yuksom for a last quiet evening. If you prefer, swap this day for Tashiding Monastery, 19 km away.", "meals": "Breakfast, dinner", "spend": "₹400–600 shared jeep share + ₹50 entry"},
+    {"day": 6, "title": "Yuksom to NJP", "place": "yuksom", "overnight": "", "drive": "≈ 150 km · 7 h by shared jeep with a change at Jorethang", "text": "Take the earliest jeep out of Yuksom towards Jorethang, usually around 6 or 7 am; ask your host to reserve a seat the day before. Change at Jorethang for Siliguri and allow plenty of time for an evening train or flight, because traffic around Sevoke and Siliguri can add an hour. If your train is the next morning, Jorethang or Siliguri both have budget hotels for a final night.", "meals": "Breakfast", "spend": "₹550–650 in jeep seats + ₹150 lunch"}
+  ],
+  "stays": ["pelling-hotel-garuda"],
+  "includes": ["Shared jeep seats on all main legs", "Budget room in Upper Pelling for 2 nights", "Homestay in Yuksom for 3 nights with dinner and breakfast", "Monastery entries and small donations"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Reserved cars", "Lunches beyond the estimate", "Goecha La or Dzongri trek permits and guide", "Tips and personal shopping"],
+  "save_money": [
+    "Travel on the first morning jeeps, which are full of locals and cheaper than any car you might be offered later in the day.",
+    "In Pelling, ask for a room without a mountain view on the lower floors and walk up to the rooftop for the dawn instead.",
+    "Share the Khecheopalri jeep with travellers you meet in Yuksom; four people in a reserved jeep pay little more than shared seats."
+  ],
+  "good_to_know": [
+    "Indian citizens need no permit; foreign nationals need a Sikkim Restricted Area Permit. Check current status before you travel.",
+    "Shared jeeps between Pelling and Yuksom are few and mostly leave before noon.",
+    "Clear views are likeliest from October to December and March to April; the monsoon brings landslides, so check current status before you travel.",
+    "ATMs exist in Gyalshing and sometimes Pelling, but carry enough cash for Yuksom."
+  ],
+  "faqs": [
+    {"q": "Can I do Pelling and Yuksom without a reserved car?", "a": "Yes. Shared jeeps link Siliguri, Jorethang, Gyalshing, Pelling and Yuksom, and the sights in each place are walkable or a short local jeep away. The catch is timing: most jeeps leave in the morning and the Pelling to Yuksom route has only a few. Plan to travel early and book seats the evening before."},
+    {"q": "How much does this 5-night trip cost?", "a": "About ₹12,000 per person, twin sharing, from NJP back to NJP (indicative for 2025–26). That covers jeep seats, a budget room in Pelling, a Yuksom homestay with dinner and breakfast, food and entry fees. Solo travellers pay more for rooms unless they use dorms or share."},
+    {"q": "Is this trip suitable for solo women travellers?", "a": "Generally, yes. West Sikkim is considered safe, shared jeeps carry local families, and Yuksom homestays are used to solo guests. Take normal care: travel in daylight, tell your host your plans for the day and avoid walking forest trails alone at dusk."},
+    {"q": "When is the best time for this trip?", "a": "October to December for the clearest Kanchenjunga views, and March to May for rhododendrons and warmer days. January and February are cold but often clear. From June to September rain, leeches and landslides make jeep travel slow and views rare, though prices drop."},
+    {"q": "Can I add Tashiding Monastery?", "a": "Yes. Tashiding is about 19 km from Yuksom and can replace the Khecheopalri day, or be added by staying one more night. Shared jeeps between Yuksom and Tashiding are irregular, so many travellers share a reserved jeep. Time it with Bumchu in February or March if you can."},
+    {"q": "How cold does it get in Pelling and Yuksom?", "a": "In December and January nights drop to about 0–4 °C in Pelling and slightly warmer in Yuksom, with sunny days around 10–14 °C. Budget rooms have blankets but rarely heating. Bring a down jacket, a woollen cap and warm socks."},
+    {"q": "Do I need a guide for the monasteries?", "a": "No. Pemayangtse, Rabdentse, Norbugang and Dubdi can all be visited on your own. A local guide adds stories and context, especially at Pemayangtse, but monks and caretakers are often happy to explain if you ask politely. Dress modestly and walk clockwise around chortens."},
+    {"q": "Can I use this trip to start a Goecha La or Dzongri trek?", "a": "Yes. Yuksom is the trailhead. Arrange a registered trek agency and guide before you arrive, then add 6 to 9 nights. Park permits are issued in Yuksom. Foreign nationals must trek through a registered agency. Check current status before you travel."},
+    {"q": "Is mobile network available in Yuksom?", "a": "Jio, Airtel and BSNL work in Pelling and usually in Yuksom village, though signal can drop with weather and power cuts. Data is slow at peak times. Download maps and offline notes before you leave Pelling, and carry a power bank."}
+  ]
+}

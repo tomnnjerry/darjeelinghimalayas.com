@@ -1,0 +1,181 @@
+{
+ "slug": "kurseong-heritage-comfort-3n",
+ "title": "Kurseong heritage stay with tea tastings",
+ "region": "kurseong-mirik",
+ "nights": 3,
+ "themes": [
+  "tea-country",
+  "toy-train",
+  "budget-honeymoons",
+  "photography"
+ ],
+ "tier": "Comfort",
+ "travel_mode": "Reserved car",
+ "stops": [
+  {
+   "place": "kurseong",
+   "nights": 3
+  }
+ ],
+ "start": "NJP railway station or Bagdogra airport",
+ "end": "NJP railway station or Bagdogra airport",
+ "price_from_inr": 21000,
+ "cost_split": [
+  {
+   "item": "Private car for transfers and two days of sightseeing",
+   "inr": 4500
+  },
+  {
+   "item": "Rooms, 3 nights including one heritage night, with breakfast",
+   "inr": 9000
+  },
+  {
+   "item": "Dinners, lunches and cafés",
+   "inr": 3500
+  },
+  {
+   "item": "Tastings, toy train ride and entries",
+   "inr": 2000
+  },
+  {
+   "item": "Local guide for Dow Hill and Chimney",
+   "inr": 2000
+  }
+ ],
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  2,
+  1,
+  0,
+  0,
+  1,
+  2,
+  2,
+  2
+ ],
+ "pace": "Easy",
+ "max_altitude_m": 2200,
+ "meta_description": "Kurseong in comfort, 3 nights from ₹21,000: a heritage hotel night, Makaibari tastings, the toy train, Netaji's house and Dow Hill with a private car.",
+ "summary": "A comfortable three nights in Kurseong with a private car, one night at the heritage Cochrane Place and two at the WBTDC Tourist Lodge by the toy train. Tea tastings at Makaibari, Netaji's house, Eagle's Crag and a guided Dow Hill and Chimney drive. From about ₹21,000 per person.",
+ "intro": [
+  "This is Kurseong for travellers who want comfort without Darjeeling's grand-hotel prices. You stay one night in a restored colonial-era house among the tea gardens and two nights in the government lodge where the toy train passes the restaurant, with a private car to take the effort out of the hills.",
+  "The days are gentle: a tea morning at Makaibari, the history of Netaji's house and the Jesuit hill, a guided drive through the Dow Hill forest to the old chimney, and a toy train ride if the line is running. It works well for honeymooners and older couples."
+ ],
+ "highlights": [
+  "A night at heritage Cochrane Place",
+  "Makaibari factory and flush tasting",
+  "Netaji's house at Giddapahar",
+  "Dow Hill forest and the 1839 chimney",
+  "Toy train passing the Tourist Lodge"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "NJP to a heritage house among tea",
+   "place": "kurseong",
+   "overnight": "Kurseong (Cochrane Place)",
+   "drive": "≈ 45 km · 1.5–2 h by private car",
+   "text": "Your car meets you at NJP or Bagdogra and climbs to Kurseong by the Pankhabari road, steep but short, through tea gardens. Check in at Cochrane Place, a restored hill house below the town, and spend the afternoon on its terraces with a pot of tea and the view down the valley. Ask the hotel about dinner and the next day's tasting.",
+   "meals": "Dinner",
+   "spend": "₹400 lunch"
+  },
+  {
+   "day": 2,
+   "title": "Makaibari morning and Kurseong town",
+   "place": "kurseong",
+   "overnight": "Kurseong (Tourist Lodge)",
+   "drive": "Private car, ≈ 15 km",
+   "text": "Drive the short way to Makaibari for a factory visit if it is working, and a tasting of first, second and autumn flush. Walk a stretch of garden road. After lunch, move up to the WBTDC Kurseong Tourist Lodge on Hill Cart Road. In the late afternoon, climb Eagle's Crag, then watch the toy train from the lodge's momo corner if one is due.",
+   "meals": "Breakfast, Dinner",
+   "spend": "₹500 tasting + ₹400 lunch"
+  },
+  {
+   "day": 3,
+   "title": "Giddapahar, Dow Hill and Chimney",
+   "place": "kurseong",
+   "overnight": "Kurseong (Tourist Lodge)",
+   "drive": "Private car, ≈ 30 km loop",
+   "text": "Visit Netaji's house at Giddapahar in the morning. Then drive with a local guide up through the Dow Hill forest, past Victoria Boys' School, founded in 1879, to Chimney, where a lone brick chimney is all that remains of an old dak bungalow. Have lunch at a Chimney homestay and hear the Dow Hill ghost lore on the way back down. If the toy train is running, ride a short stretch towards Darjeeling in the afternoon.",
+   "meals": "Breakfast, Dinner",
+   "spend": "₹400 lunch + toy train fare"
+  },
+  {
+   "day": 4,
+   "title": "Down to NJP",
+   "place": "kurseong",
+   "overnight": "",
+   "drive": "≈ 35–50 km · 1.5–2.5 h by private car",
+   "text": "After breakfast, drive down by the old Hill Cart Road, following the railway past Tindharia and its loops and through the Pagla Jhora stretch, to reach NJP or Bagdogra by early afternoon.",
+   "meals": "Breakfast",
+   "spend": "₹400 lunch"
+  }
+ ],
+ "stays": [
+  "kurseong-cochrane-place",
+  "kurseong-tourist-lodge"
+ ],
+ "includes": [
+  "Private car with driver for transfers and sightseeing",
+  "Better rooms on twin sharing, including one heritage night where listed",
+  "Breakfast and dinner on most nights",
+  "Local guides and tastings where listed"
+ ],
+ "excludes": [
+  "Flights and trains to NJP or Bagdogra",
+  "Lunches unless stated",
+  "Toy train tickets unless stated",
+  "Tips, porters and personal shopping",
+  "Anything not listed under includes"
+ ],
+ "save_money": [
+  "Book Cochrane Place for one night only and use the Tourist Lodge for the rest.",
+  "Buy tea directly at Makaibari after tasting instead of in town shops.",
+  "Skip the second car day and walk Eagle's Crag and the bazaar."
+ ],
+ "good_to_know": [
+  "Cochrane Place rates vary widely; confirm before booking.",
+  "Factory visits depend on the season and the day's work.",
+  "The Hill Cart Road down can be closed by landslides; your driver will choose the open road."
+ ],
+ "faqs": [
+  {
+   "q": "Is the price per person?",
+   "a": "Yes. ₹21,000 is per person on twin sharing for Indian nationals, from NJP or Bagdogra and back, as an indicative 2025–26 figure. Solo travellers pay more for rooms and cars; groups of four sharing a car pay less. We round to the nearest ₹500."
+  },
+  {
+   "q": "Can we start from Bagdogra airport instead of NJP?",
+   "a": "Yes. Bagdogra is about 30 minutes from Siliguri and a little further from NJP. Shared autos and taxis link the airport to the Siliguri jeep stands. With a reserved car, the fare from Bagdogra is about the same as from NJP."
+  },
+  {
+   "q": "Can we change the number of nights?",
+   "a": "Yes. Add a night where you want more time, usually in the village stops, or drop one on a tight schedule. Keep at least two nights in any place where you want a clear dawn view, since weather can spoil one morning."
+  },
+  {
+   "q": "Why only one night at Cochrane Place?",
+   "a": "It is a heritage hotel priced well above the rest of Kurseong. One night gives you the experience; the Tourist Lodge for the other two keeps the trip affordable and puts you beside the toy train. You can of course stay longer if you prefer."
+  },
+  {
+   "q": "Is this trip good for a honeymoon?",
+   "a": "Yes. It has one special night in a heritage house, a slow pace, a private car and quiet tea-garden settings, at a fraction of Darjeeling's luxury prices. Ask for a valley-view room at the Tourist Lodge."
+  },
+  {
+   "q": "Will we definitely ride the toy train?",
+   "a": "Only if services are running and you can get seats. Services through Kurseong change with the season and with landslide repairs. Book on IRCTC early and check current status before you travel; the trip still works without it."
+  },
+  {
+   "q": "Can older travellers manage this trip?",
+   "a": "Yes. Most sights are reached by car, and walks are short and optional. The climb to Eagle's Crag can be replaced by a drive up most of the way. Ask hotels for ground-floor rooms if stairs are a problem."
+  },
+  {
+   "q": "Do we need a guide for Dow Hill and Chimney?",
+   "a": "It is optional, but a local guide brings the history, the forest and the ghost lore to life and knows where to stop. We budget about ₹2,000 per person for a half day with transport shared."
+  },
+  {
+   "q": "What is the best time for this trip?",
+   "a": "March to May for tea and spring, and October to December for clear skies. Winter nights are cold; the heritage hotel and the lodge both have heating options, but confirm when booking."
+  }
+ ]
+}

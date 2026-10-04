@@ -1,0 +1,68 @@
+{
+  "slug": "gangtok-capital-and-tsomgo-shoestring-3n",
+  "title": "Gangtok and Tsomgo Lake on a shoestring",
+  "region": "gangtok",
+  "nights": 3,
+  "themes": ["solo-backpacking", "monasteries", "snow-and-passes", "food-trails"],
+  "tier": "Shoestring",
+  "travel_mode": "Shared jeeps",
+  "stops": [{"place": "gangtok", "nights": 3}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 8000,
+  "cost_split": [
+    {"item": "Shared jeep seats NJP–Gangtok and back", "inr": 1000},
+    {"item": "Shared seat to Tsomgo Lake and Baba Mandir, with permit", "inr": 1100},
+    {"item": "Dorm bed or budget room share in Gangtok, 3 nights", "inr": 2700},
+    {"item": "Meals, momos and tea for 4 days", "inr": 2400},
+    {"item": "Entry fees, ropeway, taxi hops and boot hire", "inr": 800}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 4000,
+  "meta_description": "3 nights in Gangtok from ₹8,000: shared jeeps from NJP, a shared seat to Tsomgo Lake at 3,753 m, Enchey and Do-drul on foot, momos on MG Marg.",
+  "summary": "Three nights in Sikkim's capital for travellers with more time than money. Shared jeeps up from the plains, one shared seat to Tsomgo Lake and Baba Mandir, and two days on foot between Enchey Monastery, the Do-drul Chorten, the Namgyal Institute of Tibetology and MG Marg. About ₹8,000 per person, from NJP back to NJP.",
+  "intro": [
+    "Gangtok was a small hamlet until 1894, when Chogyal Thutob Namgyal, the 9th Chogyal, moved Sikkim's capital here from Tumlong in North Sikkim, under British influence, and built a new palace. The name is usually translated as hill top. The town then grew down the slopes: Enchey Monastery's present building went up in 1909, Trulshik Rinpoche raised the Do-drul Chorten in 1945–46, and Jawaharlal Nehru opened the Namgyal Institute of Tibetology on 1 October 1958. Today about 100,000 people live along this ridge at roughly 1,650 m.",
+    "This trip keeps spending to the essentials. You ride shared jeeps up and down NH10, sleep in a dorm or a plain room near MG Marg, and buy a single shared seat for the day to Tsomgo Lake at 3,753 m and Baba Mandir, the one excursion here you cannot do on your own because of the permit. Everything else is walking. The town is steep, but its monasteries, viewpoints and markets sit within a few kilometres of each other, and a plate of momos costs ₹80–150."
+  ],
+  "highlights": [
+    "Tsomgo Lake at 3,753 m, frozen in winter and ringed by rhododendrons in spring",
+    "Enchey Monastery, rebuilt in 1909 on a site linked in local story to the lama Drupthob Karpo",
+    "The 108 prayer wheels of the Do-drul Chorten, raised in 1945–46",
+    "Thangkas and old manuscripts at the Namgyal Institute of Tibetology",
+    "Evenings on MG Marg, the car-free, no-smoking mall"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Gangtok by shared jeep", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 114 km · 4–5 h by shared jeep", "text": "From NJP take an auto to the SNT stand in Siliguri or the Panitanki More area and buy a shared jeep or taxi seat to Gangtok for ₹350–500; the SNT bus costs about ₹250–350 but is slower. NH10 follows the Teesta to Rangpo, the first town in Sikkim, where the Rangpo river joins it. Since the October 2023 Teesta flood stretches of NH10 have closed for days at a time, and jeeps then go round via Kalimpong and Rhenock, which adds hours: check current status before you travel. In Gangtok, check in to a dorm or plain room near MG Marg and walk the mall at dusk.", "meals": "On your own", "spend": "₹350–500 jeep seat + ₹200 dinner"},
+    {"day": 2, "title": "A shared seat to Tsomgo Lake", "place": "tsomgo-lake", "overnight": "Gangtok", "drive": "≈ 38–40 km each way · 1.5–2 h by shared tour jeep", "text": "Hand a photo ID and passport photos to a registered tour desk the evening before; they fold your permit into a shared seat on a Tsomgo and Baba Mandir jeep for about ₹800–1,200. Permit rules change, so check current status before you travel. The road climbs through Kyongnosla Alpine Sanctuary, all rhododendron, juniper and silver fir, to the oval lake at 3,753 m, about 836 m long. Tsomgo means source of the lake, and monks once read omens in its changing colours. Walk slowly at this height. Baba Mandir, the shrine to Sepoy Harbhajan Singh, comes next, then the long drive back.", "meals": "On your own", "spend": "₹800–1,200 shared seat + ₹100–200 boot hire if snowy"},
+    {"day": 3, "title": "Enchey, Do-drul and MG Marg on foot", "place": "gangtok", "overnight": "Gangtok", "drive": "On foot, with ₹100–300 taxi hops", "text": "Start uphill at Enchey Monastery, a Nyingma house whose name means solitary monastery. The local story says the tantric master Lama Drupthob Karpo flew here from Maenam Hill in South Sikkim and blessed the spot. Take a taxi hop down to Deorali for the Namgyal Institute of Tibetology, whose museum holds thangkas, manuscripts and statues; it charges a small fee and closes on some days. A short walk up brings you to the Do-drul Chorten: turn its 108 prayer wheels clockwise. After lunch ride the short ropeway from Deorali, then walk through Lal Bazaar, the town's local market, and back to MG Marg.", "meals": "On your own", "spend": "₹100–200 ropeway + small entry fees + ₹350 food"},
+    {"day": 4, "title": "Breakfast in town and the jeep down", "place": "gangtok", "overnight": "", "drive": "≈ 114 km · 4–5 h by shared jeep", "text": "Eat early: a bowl of thukpa or a plate of momos with tea costs about ₹150–200 in the small places off MG Marg. Buy your Siliguri jeep seat or SNT bus ticket the evening before so you are not hunting for one at eight in the morning. Allow five to six hours from Gangtok to your train or flight at NJP or Bagdogra; on landslide days NH10 can shut at short notice and the Kalimpong detour adds hours, so check current status before you travel. If your train is late in the day, spend the spare morning on the benches of MG Marg with a last cup of tea.", "meals": "On your own", "spend": "₹350–500 jeep seat + ₹150 breakfast"}
+  ],
+  "stays": [],
+  "includes": ["Shared jeep seats NJP–Gangtok and back", "Shared Tsomgo Lake and Baba Mandir seat with permit", "Dorm bed or budget room share for 3 nights", "Simple meals, momos and tea", "Ropeway, entry fees and local taxi hops"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Nathu La permit and vehicle", "Yak rides at Tsomgo (₹300–600)", "Reserved cars", "Shopping and souvenirs"],
+  "save_money": [
+    "Book the Tsomgo seat yourself at a registered tour desk near MG Marg rather than through a hotel, and compare two or three quotes before you hand over your ID.",
+    "Walk between Enchey, the Namgyal Institute and the Do-drul Chorten instead of booking a half-day point tour that charges ₹1,500–2,500 a car.",
+    "Eat thukpa, momos and thalis in the small places around Lal Bazaar, where a full meal costs ₹150–300."
+  ],
+  "good_to_know": [
+    "MG Marg is car-free and no-smoking, and littering and spitting carry fines.",
+    "Tsomgo permits for Indians are arranged through registered operators with a photo ID and passport photos; check current status before you travel.",
+    "Tsomgo Lake often freezes in winter and sometimes stays frozen into May; carry gloves and a warm hat at any time of year.",
+    "Gangtok is in seismic zone IV and landslides are a real risk in the June–September monsoon.",
+    "The Namgyal Institute of Tibetology closes on some days and holidays, so check before you walk down."
+  ],
+  "faqs": [
+    {"q": "How much does a budget Gangtok and Tsomgo trip cost?", "a": "About ₹8,000 per person for three nights, twin sharing, from NJP back to NJP, indicative for 2025–26. That covers shared jeep seats both ways, a shared Tsomgo and Baba Mandir seat with permit, a dorm bed or budget room share, simple meals and small entry fees. Solo travellers in a dorm at ₹500–800 a night can stay close to it."},
+    {"q": "Do I need a permit for Tsomgo Lake?", "a": "Yes. Indian nationals need a permit arranged through a registered Gangtok tour operator or driver, usually with a photo ID and passport photos handed over the day before. If you buy a shared seat, the desk includes the permit in the fare. Rules and documents change from season to season, so check current status before you travel."},
+    {"q": "Can foreign travellers do this trip?", "a": "Mostly. Foreigners need a free Restricted Area Permit to enter Sikkim, available at the Rangpo check post, Sikkim Tourism offices or online. For Tsomgo they also need a Protected Area Permit through a registered agent, usually in a group of two or more, day visit only. Shared seats with Indian travellers may not work for that. Check current status before you travel."},
+    {"q": "How do I get from NJP to Gangtok by shared jeep?", "a": "Take an auto from NJP to the SNT stand in Siliguri or the Panitanki More area, where shared jeeps and taxis to Gangtok leave through the morning for ₹350–500 a seat. The SNT bus is cheaper at about ₹250–350. The 114 km takes 4–5 hours on NH10, longer in the monsoon. Aim to leave by early afternoon so you arrive in daylight."},
+    {"q": "Is NH10 to Gangtok open?", "a": "Usually, but not always. Since the Teesta flood of 4 October 2023, stretches of NH10 have closed repeatedly after landslides and road damage, sometimes for days. When it shuts, jeeps go round via Kalimpong, Pedong, Rhenock and Rorathang, which adds several hours and some fare. Check current status before you travel and leave a buffer day before your train home."},
+    {"q": "Is the altitude at Tsomgo a problem?", "a": "For most healthy travellers, no, because you only spend an hour or two at 3,753 m before driving back down to Gangtok at about 1,650 m. Walk slowly, do not run up to the lakeside viewpoints, drink water and skip alcohol the night before. People with heart or lung conditions should ask a doctor first, and infants are better left out."},
+    {"q": "When does Tsomgo Lake freeze?", "a": "Tsomgo usually freezes in the winter months and sometimes stays frozen into May. Snow can close the road for a day or two in January and February. March to May brings rhododendrons in Kyongnosla and a mix of ice and open water, while October and November give the clearest skies. In the June–September monsoon the lake is often in cloud."},
+    {"q": "Can I add Nathu La on a shoestring?", "a": "You can, but it costs more. Nathu La is open to Indian nationals only, needs a permit applied about a day ahead, and is commonly closed to tourists on Mondays and Tuesdays. Shared seats are harder to find, and a reserved vehicle for Tsomgo with Nathu La runs about ₹5,500–7,500. Check current status before you travel."},
+    {"q": "Where can I stay cheaply in Gangtok?", "a": "Hostel dorm beds cost about ₹500–800 a night, and plain budget rooms ₹1,500–3,000, mostly around MG Marg, Tibet Road and the lanes below them. Staying central saves taxi money, because the mall, the jeep stands and the tour desks are all within walking distance. Ask whether the room has hot water and a heater before you pay."}
+  ]
+}

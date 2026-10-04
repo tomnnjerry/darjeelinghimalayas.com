@@ -1,0 +1,114 @@
+{
+  "slug": "chapramari", "name": "Chapramari Wildlife Sanctuary", "name_local": "", "region": "dooars",
+  "kind": "national park",
+  "wiki": "Chapramari Wildlife Sanctuary", "image_query": "Chapramari Wildlife Sanctuary gaur",
+  "lat": 26.88, "lng": 88.84, "altitude_m": 150,
+  "tagline": "Gaur herds at a forest waterhole",
+  "meta_description": "Chapramari Wildlife Sanctuary guide: gaur and elephants from the watchtower, the forest railway, tea gardens near Chalsa, safari costs and closure dates.",
+  "summary": "Chapramari is a small sanctuary of sal forest between the Murti and Jaldhaka rivers, next door to Gorumara and known for the largest gaur herds in West Bengal. A short safari leads to a watchtower over a waterhole where gaur and elephants come in to drink.",
+  "local_story": {"title": "A forest the British meant to show off", "paras": [
+    "Chapramari was declared a reserved forest in 1895, at the same time as Gorumara, as the British laid claim to the timber of the newly won Duars. Within a year, in 1896, a forest officer named D. H. E. Sander was already proposing it as a place for visitors, which makes it one of the earliest forests in the region to be thought of in terms of tourism.",
+    "The name Chapramari Wildlife Reserve came into use from 1939, and the forest became a wildlife sanctuary in 1998. Its claim today is the gaur, the massive wild cattle of Indian forests, which gather here in some of the largest herds in West Bengal, alongside elephants that move along the corridor between Chapramari, Gorumara and the Bhutan hills.",
+    "That corridor is crossed by the Dooars railway line, and the forest's modern history includes its darkest moment: in November 2013 a passenger train killed seven elephants from a herd crossing the tracks near Chapramari. The accident led to speed limits on the forest stretch and warning systems that railways and the forest department have kept improving."]},
+  "did_you_know": [
+    "Chapramari has been a reserved forest since 1895, but it became a wildlife sanctuary only in 1998, more than a century later.",
+    "Gaur bulls in the Dooars can stand close to 2 m at the shoulder and weigh around a tonne, making them the largest wild cattle on Earth.",
+    "In November 2013 a train killed seven elephants crossing the line through Chapramari, one of India's worst elephant–train collisions, which led to speed limits there."
+  ],
+  "intro": [
+    "Chapramari is Gorumara's quieter neighbour. The sanctuary is small, with a single main watchtower overlooking a pond and a salt lick in the sal, and that simplicity is its charm. You come for gaur: in winter, herds of a dozen or more step out of the forest to drink, the bulls dark and heavy with white socks, the calves ginger-brown.",
+    "Visits run as short safaris from the counter on the Chalsa–Khunia road, booked through the forest department like Gorumara's slots. Most people stay in Lataguri or Murti and add Chapramari as one slot. The forest railway, the tea gardens around Chalsa and the road up to Jhalong make good additions."
+  ],
+  "facts": [["Best months", "Nov – Mar"], ["Nights we suggest", "0–1 (stay in Murti or Lataguri)"], ["From Siliguri", "≈ 80–90 km · 2.5 h"], ["Altitude", "≈ 150 m"], ["Known for", "Gaur herds, elephants, watchtower"], ["Network", "Weak inside, fair at Chalsa"]],
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 0, 1, 2, 2],
+  "nights": "0–1",
+  "costs": [["Watchtower safari, jeep for up to 6 with fees", "₹2,500–3,500 (indicative 2025–26)"], ["Shared seat in a safari jeep", "About ₹450–600"], ["Car from Lataguri for the slot", "₹800–1,200"], ["Resort near Chapramari", "₹2,500–5,000 a room"], ["Tea and pakoras at Chalsa", "₹40–80"]],
+  "highlights": [
+    {"title": "The Chapramari watchtower", "text": "One tower, one pond, one salt lick: gaur come to drink and lick minerals, with elephants on many evenings. Fewer visitors than Gorumara means a calmer wait."},
+    {"title": "Gaur at close range", "text": "Chapramari holds some of the largest gaur herds in West Bengal. Watch the bulls test the air and the herd move in single file towards the water."},
+    {"title": "Elephants on the move", "text": "The forest is part of an elephant corridor running towards Gorumara and the Bhutan foothills. Herds pass at dusk, which is why the road and the railway carry warning signs."},
+    {"title": "Chalsa tea slopes", "text": "Above Chapramari, the land rises into tea gardens around Chalsa with views back over the forest and the plains. Stop for tea at the crossroads on the way to Samsing or Jhalong."},
+    {"title": "The forest railway", "text": "The Dooars line runs through the forest belt between Malbazar and Chalsa. A short train ride is a cheap way to see the canopy and understand the elephant corridor."}
+  ],
+  "how_to_reach": [
+    {"mode": "Reserved car", "text": "From NJP about 80–90 km and two and a half hours via Malbazar and Chalsa, ₹3,500–4,000. From Lataguri or Murti it is 20–30 minutes."},
+    {"mode": "Train", "text": "Chalsa station on the Dooars line is the nearest stop, a short drive from the sanctuary counter. Check the current timetable and arrange a car from Chalsa."},
+    {"mode": "Bus", "text": "Buses from Siliguri towards Chalsa and Nagrakata pass nearby; ₹120–180. You still need a car from Chalsa to the counter and to your lodge."}
+  ],
+  "where_to_stay": "There is no tourist lodge inside the sanctuary. Most visitors stay in Lataguri or at Murti, 15–30 minutes away, and add Chapramari as one safari. A few private resorts sit along the Chalsa–Khunia road and around Murti, generally ₹2,500–5,000 a room. The forest corporation's Murti Banani cottages by the river are the nearest government option.",
+  "stays": [],
+  "tips": [
+    "Book the Chapramari slot online with your Gorumara slots; they use the same forest department system.",
+    "Take the last slot of the afternoon for the best chance of gaur at the water.",
+    "Keep completely silent on the tower; gaur are wary and turn back at the first noise.",
+    "Never stop on the road through the forest to photograph elephants or gaur.",
+    "The sanctuary closes from about 16 June to 15 September; check current status before you travel."
+  ],
+  "themes": ["wildlife-birds", "photography", "family-trips"],
+  "nearby": ["murti", "gorumara", "lataguri", "jhalong"],
+  "experiences": [
+    {"slug": "chapramari-watchtower-gaur-safari", "title": "Gaur at the Chapramari watchtower",
+     "kind": "wildlife", "duration": "1.5–2 hours", "best_time": "Last slot, Nov–Mar", "cost": "₹2,500–3,500 a jeep for up to 6 (indicative)",
+     "image_query": "Chapramari watchtower gaur waterhole", "wiki": "Chapramari Wildlife Sanctuary",
+     "summary": "Chapramari's single watchtower overlooks a forest pond and salt lick where gaur herds and elephants come in to drink, most often in the late afternoon. A short jeep ride, a long quiet wait and, usually, a herd.",
+     "body": ["The sanctuary runs fixed safari slots through the day, much like Gorumara, booked through the forest department. A forest-registered jeep with a guide takes you from the counter a short way into the sal forest to the watchtower. The tower stands over a pond fed by a stream, with a salt lick at its edge, which draws animals especially in the dry months.",
+              "Gaur are the stars. Herds of a dozen or more step out of the trees, often led by cows and calves, with the big bulls at the back. They lick the mineral-rich soil, drink and move off again. Elephants come on many evenings, sometimes with small calves, and the tower gives you a safe and close view. Barking deer, peafowl and hornbills add to the scene.",
+              "The last slot of the afternoon is the most reliable. Keep silent and still; gaur are nervous and leave at the first loud voice. Check current status before you travel, as slots and routes change after floods and in the monsoon closure."],
+     "good_for": ["photographers", "families", "couples", "first-timers"],
+     "faqs": [
+       {"q": "Will we see gaur at Chapramari?", "a": "Very often in winter and spring, especially on the last afternoon slot, because Chapramari has some of the largest gaur herds in West Bengal. Nothing is guaranteed. Elephants are seen on many evenings, rhinos only occasionally. Silence on the tower makes a real difference."},
+       {"q": "How long is the Chapramari safari?", "a": "About one and a half to two hours, most of it on the watchtower. The drive in is short. Report at the counter about 30 minutes before your slot with ID and the booking. In winter, bring a warm layer for late afternoon."},
+       {"q": "Is Chapramari worth it if we have seen Gorumara?", "a": "Yes, for the gaur and the calmer atmosphere. Chapramari has fewer visitors and a single tower focused on one waterhole, which often gives closer, longer views. Doing one slot in each park on the same trip is the usual plan."}
+     ]},
+    {"slug": "chapramari-dooars-forest-train-ride", "title": "The Dooars train through the forest",
+     "kind": "rail", "duration": "1–2 hours", "best_time": "Morning, Oct–May", "cost": "₹30–150 a ticket",
+     "image_query": "Dooars railway forest train", "wiki": "",
+     "summary": "The broad-gauge line from Siliguri to Alipurduar runs through tea gardens and the forest belt around Chapramari. A short ride between Malbazar and Chalsa or further east is one of the cheapest and gentlest ways to see the Dooars.",
+     "body": ["The Dooars railway was built to carry tea and timber out of the gardens and forests, and its route along the foothills cuts straight through the elephant corridors of Mahananda, Gorumara, Chapramari and Jaldapara. Today local and express trains run between NJP or Siliguri Junction and Alipurduar, with stops at Malbazar (New Mal Junction), Chalsa, Nagrakata, Banarhat, Madarihat and Hasimara.",
+              "From the window you see tea sections, betel-nut groves, rivers wide and stony in the dry season, and stretches of tall sal forest. On the forest stretches trains slow down under speed limits introduced after the 2013 accident that killed seven elephants near Chapramari, and track-side warning systems now try to detect elephants near the line.",
+              "Pick a short hop such as New Mal to Chalsa or a longer one towards Madarihat, check the current timetable, and have a car meet you at the far end. Sit on the left (north) side heading east for views towards the hills."],
+     "good_for": ["students", "solo", "families", "photographers"],
+     "faqs": [
+       {"q": "Which trains run through the Dooars forest?", "a": "Local DEMU and express trains on the Siliguri–Alipurduar line via Malbazar, Chalsa, Nagrakata, Banarhat, Madarihat and Hasimara. Services and timings change, so check the current railway timetable or app before planning. Some express services from NJP also take this route."},
+       {"q": "Can we see elephants from the train?", "a": "Occasionally, but do not count on it. Trains run at reduced speed through forest stretches because elephants cross the line, and sightings from the window do happen, especially early and late. The ride is better for forest, rivers and tea gardens."},
+       {"q": "How much is a Dooars train ticket?", "a": "Short hops in unreserved class cost about ₹30–60; longer journeys or reserved seats on express trains cost more, up to about ₹150–400. Buy at the station counter or through the railway app. Trains can be crowded on market days."}
+     ]},
+    {"slug": "chapramari-chalsa-tea-slopes", "title": "Tea slopes and views around Chalsa",
+     "kind": "tea", "duration": "2–3 hours", "best_time": "Morning, Mar–Nov for plucking; clear views Oct–Feb", "cost": "Free; car ₹800–1,500",
+     "image_query": "Chalsa tea garden Dooars", "wiki": "",
+     "summary": "Chalsa sits where the Dooars plains meet the first hills, with tea gardens rolling up towards Samsing and views back over the Chapramari forest. A morning drive and short walk show you how the land changes in a few kilometres.",
+     "body": ["Chalsa is a crossroads town above Chapramari, where roads branch to Samsing, to Jhalong and Bindu, and east to Nagrakata. Around it, tea gardens climb the first slopes of the hills, and on clear days you look down over the green block of Chapramari forest and the Murti and Jaldhaka valleys towards the plains.",
+              "In the plucking season, from about March to November, the gardens are busy in the mornings with pluckers moving through the sections. In winter the bushes are pruned and quiet, but the air is clearer for views. Stop at a tea stall in Chalsa for a glass of strong CTC tea with milk, the kind these gardens grow.",
+              "Use Chalsa as a short stop on your way to Samsing or Jhalong, or as a morning outing from Murti or Lataguri. Walk only on estate roads, ask before photographing workers and do not enter factories without permission."],
+     "good_for": ["photographers", "couples", "families"],
+     "faqs": [
+       {"q": "How far is Chalsa from Lataguri?", "a": "About 20–25 km, 30–40 minutes by car. Chalsa is also a station on the Dooars railway line. From Chalsa, Samsing is about 20 km uphill and Jhalong about 45 km along the Jaldhaka valley road."},
+       {"q": "Is there a viewpoint at Chalsa?", "a": "There is no single famous viewpoint, but several bends on the roads above Chalsa towards Samsing and Jhalong look over the forest and the plains. Ask your driver to stop safely at a wide shoulder. Mornings from October to February are clearest."},
+       {"q": "Can we buy tea directly from gardens near Chalsa?", "a": "Some gardens sell packets at the office or a small shop, and town shops sell local CTC tea. It is not a formal tea-tourism circuit like Darjeeling, so ask locally. Garden-direct tea is usually cheaper and fresher than branded packets."}
+     ]},
+    {"slug": "chapramari-murti-jaldhaka-river-drive", "title": "Rivers of the Chapramari forest",
+     "kind": "viewpoint", "duration": "2 hours", "best_time": "Late afternoon, Nov–Apr", "cost": "Car ₹800–1,500",
+     "image_query": "Jaldhaka river Dooars", "wiki": "",
+     "summary": "Chapramari sits between two rivers, the Murti and the Jaldhaka, both wide and stony in the dry season. An afternoon drive along the forest edge to their banks shows the country that made this a wildlife corridor.",
+     "body": ["The Murti comes down from Neora Valley and the Jaldhaka from the hills of East Sikkim and Bhutan, and between them lies the sal forest of Chapramari. In the dry months their beds spread wide and pale, with braided channels, and elephants, gaur and deer use them to move between forest patches. In the monsoon they become fast, brown and dangerous, as the October 2025 floods showed.",
+              "A late-afternoon drive along the roads that skirt the sanctuary brings you to the riverbanks at Murti bridge and on the Jaldhaka near Khunia. Stop where it is safe and legal, outside the sanctuary boundary, and watch birds working the water: wagtails, lapwings, kingfishers and, in winter, ruddy shelduck.",
+              "Do not walk into the riverbeds towards the forest edge in the evening, when animals come out. Leave the banks before dusk and keep to the road. Your driver will know where stopping is allowed."],
+     "good_for": ["photographers", "couples", "seniors"],
+     "faqs": [
+       {"q": "Where does the Jaldhaka river come from?", "a": "The Jaldhaka rises in the high country of East Sikkim, generally traced to the lake area around Kupup, and flows through Bhutan's border hills and past Bindu and Jhalong before crossing the Dooars plains to join the Brahmaputra system in Bangladesh."},
+       {"q": "Can we bathe in the Murti or Jaldhaka?", "a": "We advise against it. Water levels can rise suddenly after rain upstream, currents are strong in the main channels, and the banks are used by elephants. Paddle at the edge in winter if locals say it is safe, and keep children close."},
+       {"q": "Is the river drive safe in the evening?", "a": "Before dusk, with a local driver, yes. After dark, elephants and gaur move through the forest and onto the riverbanks. Stay in the car near the forest, do not shine lights at animals, and get back to your lodge by nightfall."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "What is Chapramari famous for?", "a": "Gaur, the Indian bison, which gather here in some of the largest herds in West Bengal, plus elephants and a single watchtower over a forest waterhole. It is next to Gorumara and is usually visited as one safari slot from Lataguri or Murti."},
+    {"q": "How do I book a Chapramari safari?", "a": "Through the West Bengal forest department's online system, the same one used for Gorumara's watchtowers, or at the counter if seats remain. A six-seat jeep with entry, guide and vehicle fees costs roughly ₹2,500–3,500 (indicative 2025–26). Bring ID."},
+    {"q": "When is Chapramari closed?", "a": "From about 16 June to 15 September every year for the monsoon, and occasionally at other times for floods, census work or repairs. Check current status before you travel, especially in the months after a heavy monsoon."},
+    {"q": "Can we stay inside Chapramari?", "a": "There is no regular tourist accommodation inside the sanctuary. Stay at Murti, Lataguri or a resort on the Chalsa road, all within 30 minutes. The forest corporation's Murti Banani cottages are the closest government option."},
+    {"q": "Is Chapramari better than Gorumara?", "a": "They are different. Gorumara has rhinos and several towers; Chapramari is smaller and quieter, with the best gaur viewing. Most visitors do both, since they are 20–30 minutes apart and use the same booking system."},
+    {"q": "Are rhinos found in Chapramari?", "a": "Rhinos are occasionally reported, but Chapramari is not a rhino park. For rhinos go to Gorumara's Jatraprasad and Medla towers or to Jaldapara. Come to Chapramari for gaur and elephants."},
+    {"q": "How far is Chapramari from Siliguri?", "a": "About 80–90 km, roughly two and a half hours by car via Malbazar and Chalsa. A reserved car costs ₹3,500–4,000. From Lataguri it is about 20–25 km and from Murti about 10 km."},
+    {"q": "What happened to the elephants at Chapramari in 2013?", "a": "In November 2013 a passenger train struck a herd crossing the Dooars line near Chapramari and killed seven elephants. The accident led to lower speed limits on forest stretches and to warning and detection systems that the railways and forest department continue to work on."},
+    {"q": "What is the best time to see gaur at Chapramari?", "a": "From November to April, on the last afternoon slot, when herds come to the waterhole and salt lick. March and April, when water elsewhere dries up, can be especially good, though days are warmer. Keep silent on the tower."}
+  ]
+}

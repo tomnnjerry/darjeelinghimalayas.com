@@ -1,0 +1,172 @@
+{
+  "slug": "gairibas",
+  "name": "Gairibas",
+  "name_local": "",
+  "region": "singalila",
+  "kind": "forest village",
+  "wiki": "",
+  "image_query": "Gairibas Singalila National Park forest",
+  "lat": 27.06,
+  "lng": 88.05,
+  "altitude_m": 2621,
+  "tagline": "A forest hollow on the ridge where red pandas live",
+  "meta_description": "Gairibas on the Sandakphu trek: a forest hollow at 2,621 m in red panda country, the Jaubari descent through Nepal, trekkers' hut, birds and costs.",
+  "summary": "Gairibas is a small clearing at 2,621 m in the deepest dip of the Singalila Ridge, between Tumling and Kalipokhri. Surrounded by oak, rhododendron and bamboo forest inside Singalila National Park, it is the best stretch of the trek for red pandas and birds, with a trekkers' hut, an SSB camp and tea shops.",
+  "local_story": {
+    "title": "The low camp in the hollow",
+    "paras": [
+      "The name is usually read as Nepali: gairi for a low, sunken place and bas for a dwelling or halt, a fair description of a clearing that sits about 350 m below Tumling and 550 m below Kalipokhri. For herders driving animals along the ridge, it was the sheltered stop between two high, windy stretches. Today the clearing holds a government trekkers' hut, a small SSB camp guarding the border and a few tea shops, and almost nothing else.",
+      "What surrounds it is the reason the national park exists. The forests between Jaubari and Kaiyakatta, mixed oak, rhododendron, magnolia and thick ringal bamboo, are prime red panda habitat. Singalila was declared a wildlife sanctuary in 1986 and a national park in 1992, and the Darjeeling zoo's red panda breeding programme has released captive-bred animals into these forests. Guides from Maneybhanjan know the trees where pandas have been seen."
+    ]
+  },
+  "did_you_know": [
+    "Gairibas at about 2,621 m is the lowest point on the ridge trail between Tumling and Sandakphu, so you descend about 350 m before the big climb to Kalipokhri.",
+    "The trail from Tumling to Gairibas passes through Jaubari, a Nepali village at about 2,750 m in Ilam district.",
+    "The Padmaja Naidu Himalayan Zoological Park in Darjeeling runs a red panda breeding programme and has released captive-bred red pandas into Singalila National Park."
+  ],
+  "intro": [
+    "Gairibas feels different from the rest of the ridge. After the open grass and wide views of Tumling, the trail drops through Jaubari into thick forest, and the clearing at the bottom is quiet, damp and enclosed by trees. Most trekkers stop only for tea and noodles before the steep climb to Kaiyakatta and Kalipokhri. That is a missed chance.",
+    "Spend a night here, or at least an early morning, and Gairibas becomes the wildlife stop of the trek. Red pandas feed on bamboo shoots and leaves in these forests; Himalayan black bears, barking deer and pheasants also live here. The birding is excellent in April and May. The trekkers' hut is basic, but you are in the middle of the national park with few people around."
+  ],
+  "facts": [
+    ["Best months", "Oct – Dec · Mar – May"],
+    ["Nights we suggest", "0–1"],
+    ["From Tumling", "≈ 7 km · 2.5–3 h on foot"],
+    ["Altitude", "≈ 2,621 m"],
+    ["Known for", "Red panda forest, birds, trekkers' hut"],
+    ["Network", "Little or none"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "0–1",
+  "costs": [
+    ["Trekkers' hut bed", "≈ ₹300–800 pp (indicative)"],
+    ["Noodle soup or chowmein", "₹120–180"],
+    ["Dal-bhat", "₹200–300"],
+    ["Tea", "₹30–50"],
+    ["Guide share for a pair", "≈ ₹750–1,000 pp a day"]
+  ],
+  "highlights": [
+    {"title": "Red panda forest", "text": "The oak, rhododendron and bamboo forest around Gairibas is one of the best places in Singalila National Park for red pandas. Sightings are never guaranteed, but early mornings in quiet months, with a guide who knows the trees, give you a real chance."},
+    {"title": "The Jaubari descent", "text": "From Tumling the trail crosses into Nepal and drops through Jaubari village, with lodges and fields, before plunging into forest down to Gairibas. It is a pleasant 2.5–3 hours, mostly downhill, with good views of the ridge ahead."},
+    {"title": "Birds of the mid forest", "text": "Gairibas lies in the band of forest where many of Singalila's birds overlap: laughingthrushes, minivets, sunbirds, flycatchers and pheasants. In April and May dawn chorus here is loud enough to wake you before your alarm."},
+    {"title": "The climb to Kaiyakatta", "text": "Leaving Gairibas, the trail climbs steeply through forest to Kaiyakatta, a hamlet with a tea shop, and on to Kalipokhri. It gains about 550 m in 6 km. Take it steadily; it is the second-hardest climb of the trek."},
+    {"title": "A quiet night inside the park", "text": "Few trekkers sleep at Gairibas, so a night in the trekkers' hut puts you in the national park when the day traffic has gone. Evenings are still; mornings bring birds, mist and, sometimes, a panda."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot from Tumling", "text": "Walk west into Nepal through Jaubari and down through forest: about 7 km and 2.5–3 hours, mostly descending. This is the main trekking route. A licensed guide is required throughout the park."},
+    {"mode": "On foot via Tonglu", "text": "A route on the Indian side runs from Tonglu along the ridge to Gairibas, a little longer and quieter. Ask your guide whether it is in use and in good condition."},
+    {"mode": "Land Rover", "text": "The Sandakphu track passes through Gairibas, about 2.5–3 hours from Maneybhanjan. Land Rovers stop for tea, and a drop here can be arranged with the owners' association."}
+  ],
+  "where_to_stay": "Gairibas has a GTA trekkers' hut with dorm beds and blankets, very basic toilets and simple meals cooked on request, and one or two small tea-shop lodges. It is the most basic overnight on the trek, and you should check that the hut is open before planning to sleep here. Most trekkers sleep at Tumling the night before and Kalipokhri the night after, passing Gairibas around midday.",
+  "stays": ["singalila-gta-trekkers-hut-gairibas"],
+  "tips": [
+    "For red pandas, sleep at Gairibas or start from Tumling at first light and walk the forest slowly.",
+    "Keep voices low in the forest; pandas and pheasants move off at the first noise.",
+    "Fill water bottles at Gairibas before the long climb to Kaiyakatta and Kalipokhri.",
+    "Carry ID; there is an SSB camp at Gairibas and you have just walked through Nepal.",
+    "In April and May watch for leeches if it has rained; tuck trousers into socks."
+  ],
+  "themes": ["wildlife-birds", "treks", "photography"],
+  "nearby": ["tumling", "kalipokhri", "tonglu"],
+  "experiences": [
+    {
+      "slug": "gairibas-red-panda-forest-walk",
+      "title": "Look for red pandas in the Gairibas forest",
+      "kind": "wildlife",
+      "duration": "2–3 hours",
+      "best_time": "6–9 am, Oct–Apr",
+      "cost": "Included in your guide fee · tip a spotter if one helps",
+      "image_query": "red panda Singalila National Park",
+      "wiki": "Red panda",
+      "summary": "Walk the forest trails around Gairibas at first light with a guide who knows where red pandas feed. You are searching a bamboo and fir canopy for a cat-sized russet animal curled on a branch, so patience matters more than distance.",
+      "body": [
+        "The red panda lives in temperate forest with a thick bamboo understorey, eating mostly bamboo leaves and shoots, and spends much of its day resting high in trees. Singalila National Park, with its bamboo and fir forests between about 2,500 and 3,600 m, is one of its strongholds in India. The stretch around Gairibas and up toward Kaiyakatta is among the most reliable.",
+        "Go early, when pandas are active and the trail is empty. Walk slowly and look up, scanning forks and mossy branches for a reddish ball with a ringed tail hanging down. Your guide may know particular trees used recently; some guides keep in touch with each other about sightings. Winter months, when trees are thinner and trekkers fewer, often give the best chances.",
+        "If you see one, keep your distance, stay quiet and do not use flash. Pandas are easily disturbed and the park depends on them staying. Many trekkers walk the whole route without a sighting; treat a panda as a bonus, and enjoy the forest either way."
+      ],
+      "good_for": ["photographers", "solo", "couples", "students"],
+      "faqs": [
+        {"q": "What are the chances of seeing a red panda in Singalila?", "a": "Modest. Many trekkers see none; some see one on a lucky morning. Chances improve with early walks, a quiet small group, an experienced guide and time spent in the forest around Gairibas and Kalipokhri. Winter and early spring are often best."},
+        {"q": "When are red pandas most active?", "a": "Mostly at dawn and dusk, resting in trees for much of the day. Early mornings from 6 to 9 am are the best time to look. They are easier to spot when trees have fewer leaves, from December to March."},
+        {"q": "Can I hire a special guide for red pandas?", "a": "Ask at the Maneybhanjan guide office or a Darjeeling operator for a guide with wildlife experience, and plan extra time around Gairibas. There is no official panda tour; you are walking the park trails with your licensed guide."}
+      ]
+    },
+    {
+      "slug": "gairibas-jaubari-descent-through-nepal",
+      "title": "Descend through Jaubari in Nepal",
+      "kind": "trek",
+      "duration": "2.5–3 hours",
+      "best_time": "Morning, Oct–May",
+      "cost": "Included in your guide fee",
+      "image_query": "Jaubari village Singalila Nepal",
+      "wiki": "",
+      "summary": "The main trail from Tumling to Gairibas runs through Jaubari, a farming and lodge village in Nepal's Ilam district, and then drops through forest to the Indian clearing. It is the stretch where the border crossing feels most real.",
+      "body": [
+        "From Tumling the trail follows the ridge west and gently down into Nepal. After about an hour you reach Jaubari, at around 2,750 m, a spread of houses, lodges and potato fields with prayer flags and a small gompa. Shops sell Nepali biscuits and noodles, prices are in Indian rupees, and the views back to Kanchenjunga are good.",
+        "Beyond Jaubari the path enters forest and descends steeply on stone and earth steps to Gairibas, crossing back into India on the way. Moss hangs from the oaks, bamboo crowds the path and the air turns cool and damp. In spring the rhododendrons here bloom in reds and pinks.",
+        "There is no formal border post, but SSB patrols and Nepal police may ask for ID. Keep yours handy and stay on the trekking trail; do not take side paths deeper into Nepal. Downhill knees appreciate poles on the last stretch."
+      ],
+      "good_for": ["solo", "students", "couples", "first-timers"],
+      "faqs": [
+        {"q": "Is Jaubari in Nepal?", "a": "Yes. Jaubari is a village in Ilam district, Nepal, on the main trekking route between Tumling and Gairibas. You walk through without formalities on the established trail, carrying ID. Check current status before you travel."},
+        {"q": "Can I stay overnight in Jaubari?", "a": "Jaubari has a few lodges and some trekkers sleep there, especially in busy season when Tumling is full. Rooms and meals are similar to Tumling. Your guide can arrange it if needed."},
+        {"q": "Is the descent to Gairibas steep?", "a": "The last part below Jaubari is steep on stone steps and roots, losing a few hundred metres. It can be slippery after rain or frost. Poles help, and good boots with grip are important."}
+      ]
+    },
+    {
+      "slug": "gairibas-dawn-chorus-birding",
+      "title": "Dawn chorus birding in the Gairibas clearing",
+      "kind": "wildlife",
+      "duration": "1.5–2 hours",
+      "best_time": "5.30–7.30 am, Apr–May best",
+      "cost": "Included in your guide fee",
+      "image_query": "satyr tragopan Singalila",
+      "wiki": "Satyr tragopan",
+      "summary": "Stay a night at Gairibas and step out at dawn into one of the richest bird zones on the ridge, where forest edge, bamboo and clearing meet. Spring brings song, colour and the outside chance of a satyr tragopan.",
+      "body": [
+        "Gairibas sits in the middle of the ridge's temperate forest belt, and the clearing gives you an open view of the forest edge. At dawn in April and May, laughingthrushes, minivets, yuhinas, sunbirds and flycatchers are active and noisy. Woodpeckers drum in the oaks and flocks of tits move through.",
+        "The shy pheasants are the prize. The satyr tragopan, a crimson bird with blue facial skin, lives in these forests, along with the kalij pheasant lower down and the blood pheasant higher up. They are most often seen early on quiet trails, crossing or feeding at the edge. Listen for the tragopan's wailing call in spring.",
+        "Bring binoculars and stand still at the clearing edge for twenty minutes before walking. Then walk slowly up the trail toward Kaiyakatta before the first trekkers arrive from Tumling around 9 am."
+      ],
+      "good_for": ["photographers", "seniors", "solo"],
+      "faqs": [
+        {"q": "Can I see a satyr tragopan at Gairibas?", "a": "It is possible but not common. Satyr tragopans live in the forests of Singalila and are most often seen in spring, early in the morning on quiet trails. Listen for their call and walk slowly with your guide."},
+        {"q": "Is a night at Gairibas worth it for birding?", "a": "Yes, if birds matter to you. Sleeping at Gairibas puts you in the forest at dawn before trekker traffic. The trekkers' hut is basic, so bring a warm sleeping bag and check it is open."},
+        {"q": "What should I bring for birding in Singalila?", "a": "Binoculars, a field guide or bird app with offline data, dull-coloured clothes, and patience. A camera with a zoom lens helps. Bring a warm layer for standing still in the cold dawn."}
+      ]
+    },
+    {
+      "slug": "gairibas-climb-to-kaiyakatta",
+      "title": "The forest climb to Kaiyakatta",
+      "kind": "trek",
+      "duration": "2–2.5 hours",
+      "best_time": "Late morning, Oct–May",
+      "cost": "Included in your guide fee",
+      "image_query": "Kaiyakatta Sandakphu trek",
+      "wiki": "",
+      "summary": "From Gairibas the trail climbs steeply through forest to the small hamlet of Kaiyakatta, then eases on to Kalipokhri. It is one of the hardest climbs of the trek, and one of the most beautiful in rhododendron season.",
+      "body": [
+        "The climb starts right out of the Gairibas clearing, on the cobbled Land Rover track and shortcut paths. It gains height quickly through oak and rhododendron forest, with views opening back over Gairibas and toward Tumling as you rise. Take it at a slow, steady pace with short stops.",
+        "Kaiyakatta, about 2 km and 1–1.5 hours up, is a small hamlet with a tea shop where most trekkers stop for a hot drink and noodles. From here the gradient eases and the trail continues through higher forest to Kalipokhri, the black pond, another 1–1.5 hours.",
+        "In April the forest on this stretch is often the best rhododendron show of the trek, with deep reds and pinks. In autumn, look north as you climb; Kanchenjunga appears again over the trees. Step aside for Land Rovers, which share parts of the track."
+      ],
+      "good_for": ["students", "solo", "couples"],
+      "faqs": [
+        {"q": "How hard is the climb from Gairibas to Kalipokhri?", "a": "It is one of the toughest stretches: about 6 km with roughly 550 m of climbing, taking 3–4 hours. Most of the height is gained in the first part to Kaiyakatta. Fit trekkers manage it with stops; go slowly and drink water."},
+        {"q": "Is there food at Kaiyakatta?", "a": "Yes, usually a tea shop serving tea, noodles and eggs. It is a natural stop halfway up the climb. Do not rely on full meals there outside the main season; carry snacks."},
+        {"q": "Do Land Rovers use the Gairibas to Kalipokhri track?", "a": "Yes, the Sandakphu track runs this way. Land Rovers grind up slowly, but come down fast. Step off to the side when you hear one and let it pass. Use the footpath shortcuts where your guide suggests."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Gairibas on the Sandakphu trek?", "a": "Gairibas lies between Tumling and Kalipokhri, in a forest dip at about 2,621 m. Coming from Tumling via Jaubari you descend to it; leaving, you climb steeply to Kaiyakatta and Kalipokhri. It is usually a lunch stop on day two."},
+    {"q": "Can I stay overnight at Gairibas?", "a": "Yes, at the basic GTA trekkers' hut or a small tea-shop lodge. It is the plainest night on the trek but the best for wildlife. Confirm the hut is open in Darjeeling or Maneybhanjan before planning to sleep there."},
+    {"q": "Is Gairibas in India?", "a": "Yes, Gairibas is on the Indian side inside Singalila National Park, with an SSB camp. You reach it after walking through Jaubari in Nepal. Carry ID for checks."},
+    {"q": "Are there red pandas at Gairibas?", "a": "Yes, the forests around Gairibas are among the best red panda habitat in Singalila National Park. Sightings are not guaranteed. Walk early and quietly with a guide who knows the area for the best chance."},
+    {"q": "How far is Gairibas from Sandakphu?", "a": "About 12–13 km via Kaiyakatta and Kalipokhri, usually 6–7 hours on foot with roughly 1,000 m of climbing. Most trekkers break it with a night at Kalipokhri."},
+    {"q": "Is there network at Gairibas?", "a": "Usually not, or only a faint Nepali signal. Tell family before you leave Tumling that you may be out of reach until Kalipokhri or Sandakphu."},
+    {"q": "Can Land Rovers reach Gairibas?", "a": "Yes, the Sandakphu track passes through Gairibas, about 2.5–3 hours from Maneybhanjan. Land Rovers often stop for tea here. A drop at Gairibas can be arranged with the owners' association."},
+    {"q": "What wildlife lives around Gairibas?", "a": "Red pandas, Himalayan black bears, barking deer, yellow-throated martens and many birds, including pheasants. Most mammals are shy and rarely seen; signs such as droppings and scratched trees are more common than sightings."},
+    {"q": "Is Gairibas good in rhododendron season?", "a": "Yes. The forest on the climb from Gairibas to Kaiyakatta is one of the best rhododendron stretches of the trek, usually flowering through April. The damp forest also has orchids and mosses in spring."}
+  ]
+}

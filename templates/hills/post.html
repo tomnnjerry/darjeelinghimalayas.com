@@ -1,0 +1,33 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}{{ d.title }} · Darjeeling Himalayas{% endblock %}
+{% block description %}{{ d.meta_description|default:d.summary|truncatechars:156 }}{% endblock %}
+{% block og_image %}{% with img=d|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block body_attrs %}{% if d.land %} data-land="{{ d.land }}"{% endif %}{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:28px"><div class="phead__body" style="margin-top:0">
+  <p class="eyebrow">{{ d.category }} · {{ d.read_min }} min read{% if d.date_obj %} · {{ d.date_obj|date:"j F Y" }}{% endif %}</p>
+  <h1 class="h-1">{{ d.title }}</h1><p class="lede">{{ d.summary }}</p><p class="small muted" style="margin-top:14px">By {{ SITE.byline }}</p>
+</div></div></header>
+<section class="sec--tight"><div class="wrap article">
+  <nav class="toc-side" aria-label="Contents"><b>Contents</b>{% for s in d.sections %}<a href="#{{ s.anchor }}">{{ s.heading }}</a>{% endfor %}</nav>
+  <article class="prose">
+    {% with img=d|first_img %}{% if img %}{% photo img alt=d.title sizes="(max-width: 860px) 100vw, 60vw" cls="photo--ridge" ratio="ratio-169" eager=True %}{% endif %}{% endwith %}
+    {% if d.takeaways %}<div class="takeaways" style="margin-top:24px"><b>Key points</b><ul>{% for t in d.takeaways %}<li>{{ t }}</li>{% endfor %}</ul></div>{% endif %}
+    {% for s in d.sections %}
+      <h2 id="{{ s.anchor }}">{{ s.heading }}</h2>
+      {% for x in s.paras %}<p>{{ x }}</p>{% endfor %}
+      {% if s.list %}<ul>{% for x in s.list %}<li>{{ x }}</li>{% endfor %}</ul>{% endif %}
+      {% if s.table %}<div class="scroll-x"><table class="tbl"><thead><tr>{% for h in s.table.head %}<th scope="col">{{ h }}</th>{% endfor %}</tr></thead><tbody>{% for row in s.table.rows %}<tr>{% for c in row %}<td>{{ c }}</td>{% endfor %}</tr>{% endfor %}</tbody></table></div>{% endif %}
+      {% if s.link_objs %}<div class="inline-links">{% for o in s.link_objs %}<a class="inline-link" href="{{ o.url }}">{% if o.img %}<img src="{{ o.img|src:500 }}" alt="" loading="lazy">{% else %}<span></span>{% endif %}<span><small>{{ o.type }}</small><b>{{ o.title }}</b></span>{% icon "arrow" %}</a>{% endfor %}</div>{% endif %}
+      {% if forloop.counter == 3 %}<div class="midcta"><div><b class="h-3">Want a priced plan for this?</b><p>A local planner replies within one working day.</p></div><a class="btn btn--foil btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}{% if d.land %}&land={{ d.land }}{% endif %}" data-cta="post-mid">Get my quote</a></div>{% endif %}
+    {% endfor %}
+    {% if d.faqs %}<div style="margin-top:50px">{% include "hills/partials/faq.html" with faqs=d.faqs faq_id="post" %}</div>{% endif %}
+  </article>
+  <aside style="position:sticky;top:96px;display:grid;gap:18px">
+    {% if d.journey_objs %}<div><p class="eyebrow">Trips for this story</p><div class="inline-links">{% for j in d.journey_objs|slice:":3" %}<a class="inline-link" href="{{ j.url }}">{% with img=j|first_img %}{% if img %}<img src="{{ img|src:500 }}" alt="" loading="lazy">{% else %}<span></span>{% endif %}{% endwith %}<span><small>{{ j.price_from_inr|inr }} · {{ j.nights }}N</small><b>{{ j.title }}</b></span>{% icon "arrow" %}</a>{% endfor %}</div></div>{% endif %}
+    {% include "hills/partials/quick_form.html" with qf_id="post" qf_land=d.land %}
+  </aside>
+</div></section>
+{% if more %}<section class="sec sec--paper2"><div class="wrap"><div class="sec__head"><div><p class="eyebrow">Keep reading</p><h2 class="h-2">More stories</h2></div></div><div class="grid grid--3">{% for d in more %}{% include "hills/partials/card_post.html" %}{% endfor %}</div></div></section>{% endif %}
+{% include "hills/partials/nudge.html" with nudge_slug=d.land %}
+{% endblock %}

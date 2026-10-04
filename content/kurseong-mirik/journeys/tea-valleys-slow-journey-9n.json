@@ -1,0 +1,254 @@
+{
+ "slug": "tea-valleys-slow-journey-9n",
+ "title": "Nine slow nights in the tea valleys",
+ "region": "kurseong-mirik",
+ "nights": 9,
+ "themes": [
+  "tea-country",
+  "homestays",
+  "wildlife-birds",
+  "food-trails",
+  "off-season"
+ ],
+ "tier": "Value",
+ "travel_mode": "Mixed",
+ "stops": [
+  {
+   "place": "kurseong",
+   "nights": 2
+  },
+  {
+   "place": "makaibari",
+   "nights": 2
+  },
+  {
+   "place": "sittong",
+   "nights": 2
+  },
+  {
+   "place": "latpanchar",
+   "nights": 1
+  },
+  {
+   "place": "mirik",
+   "nights": 2
+  }
+ ],
+ "start": "NJP railway station or Bagdogra airport",
+ "end": "NJP railway station or Bagdogra airport",
+ "price_from_inr": 31000,
+ "cost_split": [
+  {
+   "item": "Shared jeeps, local jeeps and four reserved car transfers",
+   "inr": 7500
+  },
+  {
+   "item": "Homestays and hotels, 9 nights, mostly with dinner and breakfast",
+   "inr": 15500
+  },
+  {
+   "item": "Lunches, tea and snacks",
+   "inr": 4500
+  },
+  {
+   "item": "Guides, tastings, entries and donations",
+   "inr": 3500
+  }
+ ],
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  2,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  2
+ ],
+ "pace": "Balanced",
+ "max_altitude_m": 2000,
+ "meta_description": "9 slow nights in the tea valleys from ₹31,000: Kurseong, two nights at Makaibari, Sittong, Latpanchar hornbills and Mirik, on jeeps and homestays.",
+ "summary": "Our longest trip in the land, at a walking pace. Two nights each in Kurseong, a Makaibari tea family, Sittong and Mirik, and one at Latpanchar for hornbills. Mostly homestays and shared jeeps, with cars only where there is no other way. From about ₹31,000 per person.",
+ "intro": [
+  "This trip is for people with time who want to know a place rather than tick it off. Nine nights let you settle into each stop: a town, a tea garden, an orange village, a forest village and a lake. You eat with families most nights and learn more from them than from any sight.",
+  "We keep costs down with shared jeeps where they run and village homestays with meals, and use a reserved car only for the cross-country legs that have no regular transport. The pace is relaxed; most days have one main activity and plenty of time to rest."
+ ],
+ "highlights": [
+  "Two nights with a Makaibari tea family",
+  "Netaji's house and the toy train bazaar",
+  "Sittong's orchards and the Riyang river",
+  "Hornbills and Ahaldara at Latpanchar",
+  "Mirik lake, Bokar and Tingling"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Siliguri to Kurseong",
+   "place": "kurseong",
+   "overnight": "Kurseong",
+   "drive": "≈ 35–50 km · 1.5–2 h by shared jeep",
+   "text": "Take a shared jeep up to Kurseong and settle into a homestay. Walk the bazaar in the afternoon, watch for the toy train, and eat momos by the station.",
+   "meals": "Dinner",
+   "spend": "₹200 jeep + ₹150 lunch"
+  },
+  {
+   "day": 2,
+   "title": "Netaji's house and Dow Hill",
+   "place": "kurseong",
+   "overnight": "Kurseong",
+   "drive": "Local car or on foot",
+   "text": "Climb Eagle's Crag at dawn, then visit Netaji's house at Giddapahar. In the afternoon, walk up the Dow Hill forest road to the old schools and back, about 3 hours.",
+   "meals": "Breakfast, Dinner",
+   "spend": "₹300 car share + ₹150 lunch"
+  },
+  {
+   "day": 3,
+   "title": "Down to Makaibari",
+   "place": "makaibari",
+   "overnight": "Makaibari",
+   "drive": "Local jeep, ≈ 15 min",
+   "text": "Take a local jeep down the Pankhabari road to Makaibari and move in with your host family. Spend the afternoon walking the village and the edge of the garden, and help in the kitchen if you are invited.",
+   "meals": "Breakfast, Dinner",
+   "spend": "₹50 jeep + ₹150 lunch"
+  },
+  {
+   "day": 4,
+   "title": "Plucking, factory and tasting",
+   "place": "makaibari",
+   "overnight": "Makaibari",
+   "drive": "",
+   "text": "Walk out with the pluckers at dawn. Later, visit the factory if it is working and taste first, second and autumn flush side by side. In the afternoon, walk the forest paths between the estate villages with a young guide.",
+   "meals": "Breakfast, Dinner",
+   "spend": "₹300 tasting + ₹300 guide tip"
+  },
+  {
+   "day": 5,
+   "title": "Over the ridge to Sittong",
+   "place": "sittong",
+   "overnight": "Sittong",
+   "drive": "≈ 30 km · 1.5–2 h by reserved car",
+   "text": "Drive up through Kurseong and over the Bagora ridge, stopping at Chimney, then down into the Riyang valley to Sittong. Walk the orchards in the afternoon.",
+   "meals": "Breakfast, Dinner",
+   "spend": "₹1,200 car share + ₹150 lunch"
+  },
+  {
+   "day": 6,
+   "title": "The Riyang river and the church",
+   "place": "sittong",
+   "overnight": "Sittong",
+   "drive": "",
+   "text": "Walk down to the Riyang river with a packed lunch and climb back by mid-afternoon. In the evening, visit the old church and buy oranges from a grower in season.",
+   "meals": "Breakfast, Dinner",
+   "spend": "₹500 guide + ₹200 oranges"
+  },
+  {
+   "day": 7,
+   "title": "Namthing Pokhri to Latpanchar",
+   "place": "latpanchar",
+   "overnight": "Latpanchar",
+   "drive": "Local car, ≈ 1.5 h with stops",
+   "text": "Drive to Namthing Pokhri, the salamander lake, and walk its edge quietly. Continue to Latpanchar, check in, and walk through the cinchona plantations in the afternoon with your host.",
+   "meals": "Breakfast, Dinner",
+   "spend": "₹600 car share + ₹150 lunch"
+  },
+  {
+   "day": 8,
+   "title": "Hornbill dawn, then Mirik",
+   "place": "mirik",
+   "overnight": "Mirik",
+   "drive": "≈ 4 h by reserved car",
+   "text": "Go out at dawn with a bird guide for hornbills, or drive up to Ahaldara for sunrise. After breakfast, take a reserved car down towards the plains and up the Dudhia road to Mirik, stopping at Tingling and Sourenee. Walk the lake in the evening.",
+   "meals": "Breakfast",
+   "spend": "₹650 guide share + ₹1,800 car share"
+  },
+  {
+   "day": 9,
+   "title": "Mirik lake and Bokar Monastery",
+   "place": "mirik",
+   "overnight": "Mirik",
+   "drive": "",
+   "text": "Walk round Sumendu Lake at dawn, then climb to Bokar Monastery for prayers and Rameetay Dara for the view. Spend the afternoon on the tea and orange slopes around town.",
+   "meals": "Breakfast",
+   "spend": "₹250 lunch + donation"
+  },
+  {
+   "day": 10,
+   "title": "Mirik to Siliguri",
+   "place": "mirik",
+   "overnight": "",
+   "drive": "≈ 52 km · 2–2.5 h by shared jeep",
+   "text": "Take a morning shared jeep from Mirik to Siliguri and continue to NJP or Bagdogra. Keep a buffer of three hours for traffic.",
+   "meals": "Breakfast",
+   "spend": "₹200 jeep + ₹200 lunch"
+  }
+ ],
+ "stays": [
+  "makaibari-village-homestays",
+  "mirik-gta-swiss-cottages"
+ ],
+ "includes": [
+  "Jeeps and reserved cars as listed",
+  "Homestays and mid-range rooms on twin sharing",
+  "Dinner and breakfast at homestays; breakfast at hotels",
+  "Local guides where listed"
+ ],
+ "excludes": [
+  "Flights and trains to NJP or Bagdogra",
+  "Lunches unless stated",
+  "Toy train tickets unless stated",
+  "Tips, porters and personal shopping",
+  "Anything not listed under includes"
+ ],
+ "save_money": [
+  "Pool reserved cars with other travellers at your homestay for the cross-country legs.",
+  "Stay in homestays with meals included; restaurant dinners double the food budget.",
+  "Travel in the shoulder months of late September or February for lower rates."
+ ],
+ "good_to_know": [
+  "Latpanchar to Mirik is the longest drive; start right after breakfast.",
+  "Mahananda sanctuary closes in the monsoon; forest trails at Latpanchar then shut.",
+  "Carry enough cash for village stops; ATMs are only in Kurseong and Mirik."
+ ],
+ "faqs": [
+  {
+   "q": "Is the price per person?",
+   "a": "Yes. ₹31,000 is per person on twin sharing for Indian nationals, from NJP or Bagdogra and back, as an indicative 2025–26 figure. Solo travellers pay more for rooms and cars; groups of four sharing a car pay less. We round to the nearest ₹500."
+  },
+  {
+   "q": "Can we start from Bagdogra airport instead of NJP?",
+   "a": "Yes. Bagdogra is about 30 minutes from Siliguri and a little further from NJP. Shared autos and taxis link the airport to the Siliguri jeep stands. With a reserved car, the fare from Bagdogra is about the same as from NJP."
+  },
+  {
+   "q": "Can we change the number of nights?",
+   "a": "Yes. Add a night where you want more time, usually in the village stops, or drop one on a tight schedule. Keep at least two nights in any place where you want a clear dawn view, since weather can spoil one morning."
+  },
+  {
+   "q": "Who is this nine-night trip for?",
+   "a": "Travellers with time who prefer depth to distance: retired couples, students on a break, writers, photographers and anyone who wants to live briefly in a tea garden and a farming village. If you want many sights, a shorter trip suits you better."
+  },
+  {
+   "q": "Can I do this trip without any reserved cars?",
+   "a": "Mostly, but not completely. Shared jeeps cover Siliguri, Kurseong and Mirik well, but Makaibari to Sittong and Latpanchar to Mirik have no practical shared transport. Pooling a car with other guests is the cheapest solution."
+  },
+  {
+   "q": "Will I get bored in the villages?",
+   "a": "Probably not, if you enjoy walking, reading, food and conversation. Each village stop has one main activity per day and lots of free time. Bring a book, binoculars and curiosity."
+  },
+  {
+   "q": "Is this trip possible in the monsoon?",
+   "a": "Parts of it are, at lower prices, but Mahananda sanctuary closes, village roads become slippery and landslides can cut routes. If you come between June and September, keep flexible days and skip Latpanchar."
+  },
+  {
+   "q": "How much cash should I carry?",
+   "a": "Enough for at least four or five days of village stays, homestay payments, guides and jeeps, since ATMs are only in Kurseong and Mirik. UPI works in many places but not all; carry cash as a back-up."
+  },
+  {
+   "q": "Can we shorten it to six nights?",
+   "a": "Yes. Drop one night each at Kurseong, Makaibari and Sittong. You keep all the places but lose the slack days. Or follow our seven-night Comfort loop with homestays instead of hotels."
+  }
+ ]
+}

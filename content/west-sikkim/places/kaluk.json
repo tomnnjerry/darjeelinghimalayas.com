@@ -1,0 +1,174 @@
+{
+  "slug": "kaluk",
+  "name": "Kaluk",
+  "name_local": "",
+  "region": "west-sikkim",
+  "kind": "village",
+  "wiki": "Kaluk",
+  "image_query": "Kaluk West Sikkim Kanchenjunga",
+  "lat": 27.226,
+  "lng": 88.272,
+  "altitude_m": 1650,
+  "tagline": "Homestays, orange orchards and the Kanchenjunga range at dawn",
+  "meta_description": "Kaluk, West Sikkim: homestay village with orange orchards and Kanchenjunga dawns. Shared jeeps via Jorethang, homestay costs and when to go.",
+  "summary": "Kaluk is a farming village at about 1,650 m in Sikkim's Soreng district and the main homestay base for this ridge, a few kilometres below Rinchenpong. Stay for clear Kanchenjunga dawns from October to April, winter orange orchards, cardamom plots and quiet walks. Budget roughly ₹1,500–2,500 per person a night with meals.",
+  "local_story": {
+    "title": "Oranges, cardamom and a Lepcha past",
+    "paras": [
+      "The first farmers on these slopes were Lepcha and Limboo families, who grew millet, maize and dry rice in forest clearings long before the Namgyal kings. After 1642 the land came under the Chogyals ruling from Yuksom and later Rabdentse. The late eighteenth century was hard on the west: Gorkha armies from Nepal overran large parts of it, and Nepal held lands west of the Teesta until it lost its war with the British East India Company. The Treaty of Titalia in 1817 returned to Sikkim the lands between the Mechi and Teesta rivers that Nepal had occupied.",
+      "The Kaluk you see today was shaped in the late nineteenth century. From the 1870s, and more so after John Claude White became the first British Political Officer in Sikkim in 1889, Nepali-speaking farmers were settled across southern and western Sikkim, opening the hillsides into the terraces that still step down from the road. They brought new crops and skills, and over the twentieth century two cash crops took root here: large cardamom, grown in the shade of alder trees, and the small, sweet mandarin oranges these villages still sell each winter.",
+      "Homestays came much later, as families began hosting travellers who wanted a quieter base than Pelling. The village now sits in Soreng district, created out of West Sikkim in 2021, and since 2016 its farms have worked under Sikkim's statewide organic rule. Lepcha heritage is still visible: a traditional Lepcha-style house kept as a small heritage display is one of the stops locals point visitors to. We could not confirm who runs it or when it opens, so ask in the village rather than relying on online details."
+    ]
+  },
+  "did_you_know": [
+    "Kanchenjunga's summit, 8,586 m and the world's third-highest, lies roughly 50–55 km north of Kaluk in a straight line, which is why the whole range fills the skyline on clear mornings.",
+    "Sikkim was declared India's first fully organic state in January 2016, so Kaluk's oranges and cardamom are grown without chemical fertilisers or pesticides.",
+    "The Treaty of Titalia in 1817 returned to Sikkim the lands between the Mechi and Teesta rivers that Nepal's Gorkha armies had occupied."
+  ],
+  "intro": [
+    "Kaluk is where most people actually sleep when they say they are going to Rinchenpong. It is a working farm village spread along the road at about 1,650 m, with a small market, a jeep stop and a good spread of family homestays, several with rooms that face north to the Kanchenjunga range. Days are slow: tea on the balcony at dawn while the snow turns pink, a walk through orange and cardamom plots, lunch at home, an afternoon stroll up to the Rinchenpong monastery, and an early night under a clear sky.",
+    "We like Kaluk for families and couples on a budget because it gives you Pelling's mountain without Pelling's hotel prices or traffic. A homestay with dinner and breakfast costs roughly ₹1,500–2,500 per person, and the walking is gentle. Come between mid-October and December for the clearest views, or in winter when the orange trees are full. It sits about 40 km and two hours from Pelling and is reached from Siliguri or Darjeeling through Jorethang. Indians need no permit; foreign nationals need the Sikkim Restricted Area Permit."
+  ],
+  "facts": [
+    ["Best months", "Oct – Jan · Mar – Apr"],
+    ["Nights we suggest", "2"],
+    ["From Siliguri", "≈ 125 km · 5 h via Jorethang"],
+    ["Altitude", "about 1,650 m"],
+    ["Known for", "Homestays, Kanchenjunga dawns, winter oranges"],
+    ["Network", "Patchy; ask your host which network works best"]
+  ],
+  "best_months": [2, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "2",
+  "costs": [
+    ["Shared jeep Siliguri–Jorethang", "₹250–350 a seat"],
+    ["Shared jeep Jorethang–Kaluk", "about ₹150–200 a seat (check)"],
+    ["Reserved car NJP/Bagdogra–Kaluk", "₹5,000–6,500 a car (indicative)"],
+    ["Homestay with dinner and breakfast", "₹1,500–2,500 pp"],
+    ["Lunch thali", "₹150–250"],
+    ["Tea / momos", "₹20–30 / ₹80–150"]
+  ],
+  "highlights": [
+    {"title": "Kanchenjunga from your balcony", "text": "Several Kaluk homestays face north across the valleys to the Kanchenjunga range, roughly 50–55 km away. From mid-October to December most dawns are clear, and the snow turns pink then white before cloud rises by mid-morning. Ask for a north-facing room when you book."},
+    {"title": "Winter orange orchards", "text": "From November to January the small mandarin trees around Kaluk are heavy with fruit. Walk the village paths, ask a farmer before you pick anything, and buy a bag straight from the tree. They are sweeter and sharper than the plains oranges you know."},
+    {"title": "Cardamom under the alders", "text": "Large cardamom grows here in damp shade beneath Himalayan alder trees. The red pods are harvested from about August to November and dried over wood fires in kilns called bhatti, which gives Sikkim cardamom its smoky taste. Ask your host to show you a plot."},
+    {"title": "Lepcha heritage house", "text": "A traditional Lepcha-style house kept as a small heritage display is one of the stops locals send visitors to. It shows the raised timber and bamboo building style of Sikkim's oldest people. Opening times and any fee vary, so ask in the village before you walk over."},
+    {"title": "Walk up to Rinchenpong", "text": "Rinchenpong's 1730 monastery, its Adi Buddha statue and the poison-lake story are a few kilometres up the ridge. Walk up in the morning on village paths and the road, and take a jeep or car back down if your legs complain."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "From the Siliguri jeep stands take a shared jeep to Jorethang (about 3 h, ₹250–350 a seat), then a local jeep to Kaluk (about 1.5–2 h, roughly ₹150–200). Onward jeeps are fewer and leave mostly in the morning and early afternoon, so leave Siliguri by 8 am."},
+    {"mode": "Reserved car", "text": "A small car from NJP or Bagdogra costs about ₹5,000–6,500 and takes 5–6 hours via Melli and Jorethang. From Pelling it is about 40 km and two hours, roughly ₹2,500–3,500 one way. Fares are indicative; agree the price before you leave."},
+    {"mode": "From Darjeeling", "text": "Take a shared jeep from Darjeeling to Jorethang (about 2.5 h; check the fare at the stand) and change for Kaluk. A reserved car takes 4–5 hours. Monsoon landslides can close these roads, so check current status before you travel."}
+  ],
+  "where_to_stay": "Kaluk has the widest choice of homestays on this ridge: family houses along and just off the main road, most with a few rooms, shared meals and dinner and breakfast included at roughly ₹1,500–2,500 per person. Ask for a north-facing room for the Kanchenjunga view, and check whether hot water comes from a geyser or by bucket. For a more rooted stay, Yangsum Heritage Farm is a short drive up at Rinchenpong. Book ahead for October, November and the Durga Puja and Diwali weeks, when families from Kolkata and Siliguri fill the rooms.",
+  "stays": [],
+  "tips": [
+    "Ask for a north-facing room when booking, because the Kanchenjunga view is the main reason to stay in Kaluk.",
+    "Draw cash in Siliguri or Jorethang, since ATMs here are few and many homestays prefer cash or UPI.",
+    "Ask before picking fruit or walking through a cardamom plot; the orchards are private farmland.",
+    "Pack a warm layer for dawn, when December mornings can sit close to freezing.",
+    "Book the return jeep through your host the evening before, as seats to Jorethang fill early."
+  ],
+  "themes": ["homestays", "kanchenjunga-views", "family-trips", "budget-honeymoons", "photography"],
+  "nearby": ["rinchenpong", "pelling", "barsey"],
+  "experiences": [
+    {
+      "slug": "kaluk-kanchenjunga-dawn",
+      "title": "Kanchenjunga dawn from Kaluk",
+      "kind": "viewpoint",
+      "duration": "1 hour",
+      "best_time": "5.15–6.30 am, mid-Oct–Dec",
+      "cost": "Free",
+      "image_query": "Kanchenjunga sunrise West Sikkim",
+      "wiki": "Kangchenjunga",
+      "summary": "Wake before sunrise, step onto your homestay balcony or walk to a north-facing bend in the road, and watch the Kanchenjunga range catch the first light. It costs nothing, takes an hour, and on a clear November morning it is the best hour of the trip.",
+      "body": [
+        "Kanchenjunga, at 8,586 m the third-highest mountain on earth, stands roughly 50–55 km north of Kaluk in a straight line. Its name is usually read in Tibetan as the five treasures of the great snow, for its five summits, and in Sikkim it is honoured as a guardian deity at the Pang Lhabsol festival each late summer. From Kaluk you see it as the centre of a long white wall, with the lower ranges of West Sikkim folding away in front.",
+        "The show is short. About 15–20 minutes before sunrise the highest summits turn pink, then orange, then a hard white as the sun clears the eastern hills. Within an hour the valleys warm, mist climbs, and by 9 or 10 am the peaks are often in cloud. So be in place early. A north-facing balcony is enough; many homestays have one. If yours does not, ask your host for the nearest open bend in the road.",
+        "The clearest season runs from mid-October to December, with a second, hazier window in March and early April. January and February can be crisp and clear but cold, close to freezing at dawn. From June to September the range may stay hidden for weeks. Bring a warm layer and a flask of tea, and if you photograph it, a short telephoto lens helps pull the peaks closer above the foothills."
+      ],
+      "good_for": ["couples", "families", "photographers", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "What time is sunrise in Kaluk?", "a": "Sunrise in West Sikkim is roughly 4.45 am in June and about 6.15 am in December and January. Aim to be on your balcony or viewpoint 20–30 minutes before that, when the highest summits first catch the light. Check the exact time on your phone the evening before, since it shifts through the year."},
+        {"q": "Which months give the clearest Kanchenjunga view from Kaluk?", "a": "Mid-October to December is the most reliable stretch, with most dawns clear. March and early April are good but hazier. January and February are often clear but cold. From June to September the monsoon usually hides the range, so plan a mountain-view trip outside those months."},
+        {"q": "Do we need to go to a special viewpoint?", "a": "Usually not. Many Kaluk homestays face north and give you the full range from the balcony or yard. If your room faces the other way, your host can point you to an open bend in the road a few minutes' walk away. Take a torch for the walk in the dark."}
+      ]
+    },
+    {
+      "slug": "kaluk-orange-orchard-walk",
+      "title": "Winter walk through Kaluk's orange orchards",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "10 am–1 pm, Nov–Jan",
+      "cost": "Free · fruit bought from farmers",
+      "image_query": "Sikkim mandarin orange orchard",
+      "wiki": "",
+      "summary": "A slow two-hour walk on village paths through mandarin orchards and cardamom plots in the orange season, buying fruit straight from the trees and stopping for tea in a farmhouse. Best from November to January, when the trees are full and the sky is clear.",
+      "body": [
+        "The small mandarin oranges of the Sikkim and Darjeeling hills ripen from November into January, and in a good year the terraces around Kaluk glow with them. These are not plantation rows but family trees scattered among maize stubble, kitchen gardens and cardamom plots, with fruit left to ripen on the branch. Ask your host which families sell, and they will usually walk you to a neighbour's orchard. Buy by the dozen or the bag, at whatever the farmer asks; it will be fair.",
+        "The walk itself is easy and follows village paths and the road. On the way you will pass large cardamom growing in damp shade under alder trees, maize hung to dry from the eaves, and in some houses churpi cheese drying in strips. Sikkim has been an organic state since 2016, so nothing here is sprayed with chemical pesticides. Some years the oranges are hit by disease or a poor flowering season, so harvests vary; ask your host how the crop looks before you build a trip around it.",
+        "Go mid-morning, after the dawn view, when the frost has gone and the light is warm on the terraces. Allow two hours with stops. Wear shoes with grip, since terrace paths can be steep and dusty. Never pick fruit without asking; every tree belongs to someone. If you are lucky, a farmhouse will offer tea or a glass of homemade orange squash, and a seat in the sun is the best part of the morning."
+      ],
+      "good_for": ["families", "couples", "seniors", "students", "photographers"],
+      "faqs": [
+        {"q": "When is orange season in Kaluk?", "a": "The mandarins usually ripen from November and are picked through December into January. Late November and December are the most reliable weeks, and they coincide with the clearest Kanchenjunga views. Harvests vary with weather and tree disease, so ask your homestay host how the crop looks before you plan a trip around it."},
+        {"q": "Can we buy oranges directly from the farms?", "a": "Yes, most families with trees will sell a bag or a dozen if you ask politely. Your host can introduce you to a neighbour. Pay what the farmer asks; prices are modest. Never pick fruit yourself without permission, and do not walk through cardamom plots uninvited, since they are delicate and private."},
+        {"q": "Is the orchard walk suitable for older travellers?", "a": "Mostly yes. The route follows village paths and the road with gentle slopes, though some terrace paths are steep and uneven. Go slowly, wear shoes with grip and take a stick if you use one. You can keep to the road and still see plenty of orchards from it."}
+      ]
+    },
+    {
+      "slug": "kaluk-lepcha-heritage-house",
+      "title": "Kaluk's Lepcha heritage house",
+      "kind": "culture",
+      "duration": "1 hour",
+      "best_time": "10 am–3 pm, Oct–May",
+      "cost": "Small fee or donation (check locally)",
+      "image_query": "traditional Lepcha house Sikkim",
+      "wiki": "Lepcha people",
+      "summary": "Visit the traditional Lepcha-style house that locals point visitors to in the Kaluk and Rinchenpong area, and learn how Sikkim's oldest people built, farmed and worshipped. Details change, so ask in the village for opening times and any fee before you walk over.",
+      "body": [
+        "The Lepcha, who call themselves Rongkup, are counted as the first people of Sikkim. Their homeland, Mayel Lyang in their own tradition, ran across these hills long before the Bhutia arrived with the Namgyal dynasty in the seventeenth century. They had their own script, a deep knowledge of forest plants, and a faith centred on nature spirits and on Kanchenjunga as a guardian, with ritual specialists known as bongthing and mun. Many Lepcha families later became Buddhist, and some Christian, while keeping much of the old lore.",
+        "Traditional Lepcha houses were raised off the ground on stone or timber posts, built of wood and bamboo, with the living floor above and space below for storage and animals. The heritage house near Kaluk is kept in that style as a small display. We have not been able to confirm who runs it or exactly what is shown, so treat our description as a guide and let the caretaker tell you the rest. Expect household objects, bamboo craft and farming tools rather than a formal museum.",
+        "Ask your homestay host whether it is open on the day you plan to go, and whether there is a fee; it may be a small ticket or simply a donation. Allow an hour, and longer if someone is there to talk. Remove shoes if asked, and ask before photographing people. If it happens to be closed, the visit is still a good excuse for a walk, and your host may know Lepcha families nearby who are happy to talk about their history."
+      ],
+      "good_for": ["families", "students", "solo", "first-timers"],
+      "faqs": [
+        {"q": "Who are the Lepcha people?", "a": "The Lepcha, who call themselves Rongkup, are considered the original inhabitants of Sikkim and parts of the Darjeeling hills. They have their own language and script, a tradition centred on nature spirits and on Kanchenjunga as a guardian, and long-held knowledge of forest plants. Many families are now Buddhist or Christian but keep much of the older lore."},
+        {"q": "Is the Lepcha heritage house open every day?", "a": "We could not confirm fixed opening hours or a fee. It is a small local display rather than a government museum, so it may open only when a caretaker is present. Ask your homestay host the evening before, and plan the visit for late morning or early afternoon, when someone is most likely to be about."},
+        {"q": "Is it worth visiting with children?", "a": "Yes, especially if they are curious about how people lived before concrete houses and roads. The raised timber and bamboo building, the tools and the household objects make the past easy to picture. Keep the visit short, about an hour, and pair it with the orange orchard walk for a full, gentle morning."}
+      ]
+    },
+    {
+      "slug": "kaluk-village-trail-to-rinchenpong",
+      "title": "Village trail from Kaluk up to Rinchenpong",
+      "kind": "trek",
+      "duration": "Half day, 3–4 hours with stops",
+      "best_time": "7–11 am, Oct–Apr",
+      "cost": "Free · donation at the monastery",
+      "image_query": "Rinchenpong Kaluk village road Sikkim",
+      "wiki": "",
+      "summary": "Walk from your Kaluk homestay up the ridge to Rinchenpong on village paths and quiet road, visiting the 1730 monastery and the poison lake, then ride a jeep back down. A gentle half day that ties the two neighbouring villages together and shows you how the farms work.",
+      "body": [
+        "Kaluk and Rinchenpong sit on the same ridge, a few kilometres apart, and the best way to understand them is on foot. Leave after breakfast, once the dawn view has faded, and follow your host's directions onto the farm paths and the road climbing towards Rinchenpong. The route passes houses with marigolds and drying maize, terraces of ginger and vegetables, and dark, damp plots of large cardamom under alder trees. Expect a steady uphill of an hour or more, depending on the path and your pace.",
+        "At the top, visit Rinchenpong Monastery, built in 1730, and ask the caretaker to show you its statue of Adi Buddha in yab-yum, a rare image in Sikkim. Then find Bishey Pokhari, the poison lake, tied to the local story that Lepcha fighters poisoned the water during the British campaign of 1860–61. The campaign is recorded history; the poisoning is folklore. Rinchenpong has a few shops and tea stalls where you can rest before heading back.",
+        "Most people take a jeep or car back down to Kaluk rather than retracing their steps, so ask your host for a driver's number before you set out. Carry water, a light snack and a warm layer. Paths can be muddy and full of leeches from June to September, so this is a dry-season walk. If you have more time, stay a night at Yangsum Heritage Farm in Rinchenpong and walk back the next morning."
+      ],
+      "good_for": ["couples", "solo", "students", "families"],
+      "faqs": [
+        {"q": "How long is the walk from Kaluk to Rinchenpong?", "a": "The villages are a few kilometres apart on the same ridge. Most walkers take an hour or more uphill, depending on which paths they use and how often they stop. Allow three to four hours for the whole outing, including the monastery, the poison lake and a tea break, and take a jeep back down."},
+        {"q": "Do we need a guide for the Kaluk to Rinchenpong walk?", "a": "No. It is a village walk on farm paths and road, not a mountain trek. Ask your homestay host to explain the route or send someone with you for the first stretch, since paths branch between farms. Carry a phone with your host's number in case you take a wrong turn."},
+        {"q": "Can we do the walk during the monsoon?", "a": "We do not recommend it. From June to September the paths turn muddy and slippery, leeches are common, and views are usually hidden. Landslides can also affect the road. If you are here in the monsoon, take a jeep up to Rinchenpong instead and check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Kaluk worth visiting?", "a": "Yes, if you want a quiet homestay village with a clear Kanchenjunga view and no crowds. Kaluk is a working farm village rather than a sightseeing town, with orange orchards, cardamom plots and easy walks, and Rinchenpong's 1730 monastery a few kilometres up the ridge. Two nights between mid-October and April is the right length for most people."},
+    {"q": "What is the difference between Kaluk and Rinchenpong?", "a": "They are neighbouring villages on the same ridge, a few kilometres apart. Kaluk is the homestay base, with more rooms to choose from, orchards and good mountain views. Rinchenpong, higher up, has the 1730 monastery, the poison-lake story and Yangsum Heritage Farm. Stay in one and walk or drive to the other; both fit into two nights."},
+    {"q": "How do we get to Kaluk from NJP?", "a": "By shared jeep, go from NJP to the Siliguri stands, ride to Jorethang (about 3 h, ₹250–350 a seat) and change for Kaluk (about 1.5–2 h, roughly ₹150–200). Start by 8 am, as onward jeeps thin out after early afternoon. A reserved car from NJP costs about ₹5,000–6,500 and takes 5–6 hours. Fares are indicative."},
+    {"q": "How far is Kaluk from Pelling?", "a": "Roughly 40 km by road, about two hours by car. There are few direct shared jeeps, so most people hire a car for about ₹2,500–3,500 one way, or change jeeps at Gyalshing or Jorethang. Pelling and Kaluk combine well: two nights in each gives you Pemayangtse and Rabdentse, then a quieter village with the same mountain view."},
+    {"q": "When is the best time to visit Kaluk?", "a": "Mid-October to December is best, with clear Kanchenjunga dawns and dry days. Late November to January adds the orange harvest, though nights get cold. March and April bring spring flowers and some haze. Avoid June to September, when heavy rain, leeches and landslides on the Jorethang road make travel slow and the mountain is usually hidden."},
+    {"q": "Do we need a permit for Kaluk?", "a": "Indian citizens do not need a permit. Foreign nationals need the Sikkim Restricted Area Permit, available online or at entry points such as Rangpo and Melli, which covers Kaluk and Rinchenpong. Rules change from time to time, so check current status before you travel and carry copies of your passport and visa."},
+    {"q": "Is Kaluk good for a budget honeymoon?", "a": "Yes. A homestay with a north-facing room, dinner and breakfast costs roughly ₹1,500–2,500 per person a night, and the days are quiet: mountain dawns, orchard walks and long lunches. It is simple rather than luxurious, so ask about hot water, heating and attached bathrooms when you book. Couples wanting more comfort can add Yangsum Heritage Farm nearby."},
+    {"q": "How many days should we spend in Kaluk?", "a": "Two nights suits most people: one dawn for the mountain, one full day for the orchards, the Lepcha heritage house and the walk up to Rinchenpong, and a second dawn in case the first is cloudy. Add a night if you want a rest day or are travelling with young children or older parents."},
+    {"q": "How much does a trip to Kaluk cost?", "a": "From Siliguri on shared jeeps, two nights in Kaluk costs roughly ₹5,000–7,000 per person: about ₹800–1,100 in jeep fares each way, ₹3,000–5,000 for a homestay with dinner and breakfast, and a few hundred rupees for lunches, tea and fruit. A reserved car from NJP adds about ₹2,500–3,500 per person each way for two people sharing."}
+  ]
+}

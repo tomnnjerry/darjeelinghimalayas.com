@@ -1,0 +1,70 @@
+{
+  "slug": "kalimpong-lolegaon-charkhole-backpack-5n",
+  "title": "Lolegaon and Charkhole backpack loop",
+  "region": "kalimpong",
+  "nights": 5,
+  "themes": ["homestays", "solo-backpacking", "kanchenjunga-views", "photography"],
+  "tier": "Shoestring",
+  "travel_mode": "Mixed",
+  "stops": [{"place": "kalimpong", "nights": 1}, {"place": "lolegaon", "nights": 2}, {"place": "charkhole", "nights": 2}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 13000,
+  "cost_split": [
+    {"item": "Shared jeeps Siliguri to Kalimpong and on to Lava", "inr": 500},
+    {"item": "Car shares Lava–Lolegaon, Lolegaon–Charkhole and Charkhole–NJP", "inr": 3800},
+    {"item": "Budget room in Kalimpong, 1 night, half a double", "inr": 900},
+    {"item": "Forest lodge and Lepcha village homestays, 4 nights with dinner and breakfast", "inr": 6400},
+    {"item": "Lunches, tea, snacks and small fees", "inr": 1400}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2195,
+  "meta_description": "5 nights from ₹13,000 by jeep and car share: Kalimpong, the Lolegaon canopy walk and Jhandi Dara dawn, then two quiet nights facing Kanchenjunga in Charkhole",
+  "summary": "Five nights through two Lepcha villages for about ₹13,000 per person. A night in Kalimpong, a shared jeep to Lava and a car share to Lolegaon for its canopy walk and Jhandi Dara sunrise, then a short hop to Charkhole at about 1,680 m for two slow days facing Kanchenjunga before a car down via Panbu.",
+  "intro": [
+    "Lolegaon and Charkhole are Lepcha villages on the forested spur east of Kalimpong, both around 1,680 m. Lolegaon, 55 km from Kalimpong and 24 km beyond Lava, became known to travellers in the 1990s when the West Bengal forest corporation opened a lodge there. Its Heritage forest canopy walk, a hanging bridge of about 180 m, runs through old oak and cypress. Charkhole, 12–15 km further on, is smaller and quieter, with a direct view of Kanchenjunga from the village. Lepcha families have their own calendar here too: Namsoong, the Lepcha New Year, falls in December or January by the lunar calendar.",
+    "We built this for backpackers who want to stop moving for a while. The first two legs run on shared jeeps; beyond Lava, public transport thins out, so the later legs are car shares that homestays can arrange, split with other travellers where possible. Five nights leave two unhurried days in each village. The drive up from Siliguri on day 1 normally uses NH10, which has had repeated closures since October 2023; diversions run via Gajoldoba and Odlabari, the Gorubathan–Lava road or Darjeeling and Peshok, so check current status before you travel."
+  ],
+  "highlights": [
+    "The Heritage forest canopy walk at Lolegaon, about 180 m through old oak and cypress",
+    "Sunrise from Jhandi Dara, 4–5 km above Lolegaon",
+    "Kanchenjunga straight across the valley from Charkhole",
+    "Kagyu Thekchen Ling Monastery at Lava on the way through",
+    "The house where Tagore stayed in Kalimpong in 1938–40"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Kalimpong by shared jeep", "place": "kalimpong", "overnight": "Kalimpong", "drive": "≈ 3–3.5 h by shared jeep from Siliguri", "text": "From the SNT or Panitanki jeep stands in Siliguri, a seat to Kalimpong costs ₹200–300 and jeeps leave when full. The usual road follows NH10 up the Teesta to Teesta Bazar. NH10 has had repeated landslide and flood closures since October 2023; when it shuts, jeeps divert via Gajoldoba and Odlabari, the Gorubathan–Lava road or round by Darjeeling and Peshok, so check current status before you travel. In the evening walk past Gauripur House, where Rabindranath Tagore stayed between 1938 and 1940; his poem Janmadin was broadcast from Kalimpong on his birthday in 1938. Book a seat on the next morning's Lava jeep at the motor stand.", "meals": "On your own", "spend": "₹200–300 jeep seat + ₹250 dinner"},
+    {"day": 2, "title": "Kalimpong to Lolegaon via Lava", "place": "lolegaon", "overnight": "Lolegaon", "drive": "≈ 32 km by shared jeep + 24 km by car share", "text": "Take the morning shared jeep to Lava, ₹120–180 a seat, climbing through Algarah to about 2,195 m, the highest point of this trip. Walk up to Kagyu Thekchen Ling Monastery, opened in 1990 beside the Neora reservoir, while your car share is arranged. A car from Lava to Lolegaon costs ₹1,800–2,500 for the 24 km, so find other travellers at the jeep stand or ask your Lolegaon homestay to send one. Lolegaon, at 1,675 m, is a Lepcha village that the forest corporation made known in the 1990s. Check in at the WBFDC Lolegaon Eco Tourism Centre or a village homestay and walk 1 km to Kafer viewpoint for sunset.", "meals": "Dinner", "spend": "₹120–180 jeep seat + ₹500–900 car share + ₹200 lunch"},
+    {"day": 3, "title": "Jhandi Dara dawn and the canopy walk", "place": "lolegaon", "overnight": "Lolegaon", "drive": "≈ 4–5 km to Jhandi Dara, on foot or by car share", "text": "Leave before dawn for Jhandi Dara, the sunrise point 4–5 km from the village; walk it if you have a torch and a local to show the way, or share a car. On a clear morning Kanchenjunga lights up across the ridges. After breakfast, walk the Heritage forest canopy walk, a hanging bridge of about 180 m slung between old oak and cypress trees; go early, before the day-trippers. The afternoon is free. Ask your hosts about Lepcha food and the Namsoong New Year in December or January, and take your camera along the forest edge in the low afternoon light.", "meals": "Breakfast, dinner", "spend": "₹200 lunch + any canopy walk fee"},
+    {"day": 4, "title": "A short hop to Charkhole", "place": "charkhole", "overnight": "Charkhole", "drive": "≈ 12–15 km · under 1 h by car share", "text": "Charkhole is only 12–15 km from Lolegaon, so there is no rush: have a slow breakfast and ask your homestay to arrange a car, shared if possible. The village sits at about 1,680 m and is smaller than Lolegaon, a few Lepcha homes and homestays on a slope with Kanchenjunga straight across the valley. Spend the afternoon on the forest walk to the viewpoint above the village, which your hosts will point out. Cloud usually rises by late morning, so the clearest views come at dawn and sometimes just before dusk. Dinner is whatever the family cooks that day.", "meals": "Breakfast, dinner", "spend": "₹300–600 car share + ₹200 lunch"},
+    {"day": 5, "title": "A quiet day under Kanchenjunga", "place": "charkhole", "overnight": "Charkhole", "drive": "", "text": "Watch the light come onto Kanchenjunga from the homestay before breakfast; from October to December you have the best odds. This is a rest day by design. Walk the forest tracks, read, and talk with your hosts. Ask your hosts for the Lepcha story of the two great rivers of these hills: Rongnyu, the Teesta, followed Parilbu the snake, while the Rangeet followed Tutfo the bird, who dawdled, and the two lovers met at Pozok, today's Peshok. It is folklore, and it is why the confluence near Peshok is called Lovers' Meet. Pack in the evening for the drive down.", "meals": "Breakfast, dinner", "spend": "₹200 lunch and tea"},
+    {"day": 6, "title": "Charkhole to NJP via Panbu", "place": "charkhole", "overnight": "", "drive": "≈ 3 h by car share via Panbu", "text": "Charkhole is about 3 hours from Siliguri by the road through Panbu, the quickest way down from this side of the hills. Shared jeeps do not reliably run from the village, so book a car through your homestay a day ahead and fill it with other guests if you can; this is the largest single transport cost of the trip. Leave by mid-morning to reach NJP or Bagdogra by mid-afternoon, with time in hand for an evening train or flight. Roads on these slopes close after heavy rain and landslides, and NH10 has had repeated closures since October 2023, so check current status before you travel.", "meals": "Breakfast", "spend": "₹1,500–2,500 car share"}
+  ],
+  "stays": ["lolegaon-wbfdc-eco-tourism-centre"],
+  "includes": ["Shared jeep seats Siliguri–Kalimpong–Lava", "Car shares Lava–Lolegaon, Lolegaon–Charkhole and Charkhole–NJP", "1 night in a Kalimpong budget room, twin sharing", "4 nights at Lolegaon and Charkhole with dinner and breakfast", "Lunches, tea and small fees"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Reserved cars used alone", "Neora Valley National Park entry and guide", "Tips for hosts"],
+  "save_money": [
+    "Fill every car share: ask your homestay which other guests are arriving or leaving the same day, and split the fare four or five ways.",
+    "Walk to Kafer viewpoint and, with a local, to Jhandi Dara instead of booking a car for each sunrise.",
+    "Travel in late November or early December, after the Dashain and Tihar holiday weeks, when rooms are easier and rates sit lower in the ₹1,300–2,200 band."
+  ],
+  "good_to_know": [
+    "NH10 has had repeated closures since October 2023; diversions run via Gajoldoba and Odlabari, the Gorubathan–Lava road or Darjeeling–Peshok, so check current status before you travel.",
+    "Kalimpong–Lava shared jeeps are few and leave mostly in the morning, so book the seat the evening before.",
+    "Beyond Lava, plan on car shares arranged by homestays; public transport is thin.",
+    "Carry enough cash from Kalimpong for five days of homestay bills and car shares.",
+    "Pack a torch for the pre-dawn walk to Jhandi Dara and warm layers for nights in December and January."
+  ],
+  "faqs": [
+    {"q": "How do I get to Lolegaon from NJP?", "a": "Lolegaon is about 124 km and 4 hours from Siliguri by road. On a budget, take a shared jeep to Kalimpong for ₹200–300, the morning jeep to Lava for ₹120–180, and a car share for the last 24 km; a car for that leg costs ₹1,800–2,500. NH10 closures since October 2023 change routes, so check current status before you travel."},
+    {"q": "How much does this Lolegaon and Charkhole trip cost?", "a": "About ₹13,000 per person, twin sharing, from NJP or Bagdogra back again, indicative for 2025–26. Homestays and the forest lodge with dinner and breakfast take about half of it; car shares beyond Lava take most of the rest. Travelling with three or four friends cuts car costs sharply, while a solo traveller pays more."},
+    {"q": "What is the Lolegaon canopy walk?", "a": "It is the Heritage forest canopy walk, a hanging bridge of about 180 m that runs between old oak and cypress trees near Lolegaon village. It gives a view into the upper branches rather than of the mountains. Go early in the morning, when it is quiet and the light comes through the trees. Ask locally about any entry fee and opening hours, and check current status before you travel."},
+    {"q": "Where is Jhandi Dara?", "a": "Jhandi Dara is the sunrise point 4–5 km from Lolegaon, on a ridge above the village. On clear mornings from October to April it shows Kanchenjunga catching the first light. Walk up with a torch and someone who knows the way, or share a car with other guests. Leave about an hour before sunrise and carry a warm layer."},
+    {"q": "What is Charkhole like?", "a": "Charkhole is a small Lepcha village at about 1,680 m, 12–15 km from Lolegaon and 27 km from Lava. It has a few homestays, a forest walk to a viewpoint and a direct view of Kanchenjunga across the valley. There are no sights to tick off, which is the point: it suits people who want to read, walk and watch the light."},
+    {"q": "Where should I stay in Lolegaon and Charkhole?", "a": "In Lolegaon, the WBFDC Lolegaon Eco Tourism Centre has rooms for about ₹2,000–3,000, and village homestays charge about ₹1,300–2,200 per person with dinner and breakfast. Charkhole has a handful of Lepcha family homestays in the same range. Book ahead for October, November and late December, when Bengal holidaymakers fill both villages."},
+    {"q": "Is there public transport beyond Lava?", "a": "Very little. Shared jeeps run from Siliguri to Kalimpong all day and from Kalimpong to Lava mostly in the morning, but between Lava, Lolegaon and Charkhole travellers rely on cars arranged by homestays. That is why this trip is Mixed: shared jeeps where they run, car shares where they do not. Ask hosts a day ahead to group guests."},
+    {"q": "When is the best time to visit Lolegaon and Charkhole?", "a": "October to December gives the clearest views of Kanchenjunga, dry trails and cold nights. March to May is milder, with good early mornings and flowering trees. January and February are cold but often clear. June to September brings heavy rain, leeches and landslides on the roads, and mountain views are rare, so we do not plan trips then."},
+    {"q": "Is NH10 open for the drive up?", "a": "NH10, from Sevoke up the Teesta to Teesta Bazar, has had repeated landslide and flood closures since the October 2023 Teesta flood. When it shuts, traffic goes via Gajoldoba and Odlabari, the Gorubathan–Lava road (NH717A), or round through Darjeeling and Peshok. The return via Panbu uses different roads, but they also close after heavy rain. Check current status before you travel."}
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "slug": "dzongu",
+  "name": "Dzongu",
+  "name_local": "",
+  "region": "north-sikkim",
+  "kind": "forest village",
+  "wiki": "",
+  "image_query": "Dzongu Lepcha village North Sikkim",
+  "lat": 27.58,
+  "lng": 88.48,
+  "altitude_m": 1200,
+  "tagline": "The Lepcha reserve across the Teesta, on its own permit",
+  "meta_description": "Dzongu on a budget: the Lepcha reserve, Dzongu permit from Mangan, Lepcha homestays in Lingthem and Passingdang, Tholung Monastery, costs and access.",
+  "summary": "Dzongu is a reserved Lepcha homeland across the Teesta from Mangan, a valley of villages, cardamom and forest running up to Khangchendzonga National Park. Outsiders need a separate Dzongu permit. Stay in a Lepcha homestay for about ₹1,800–2,500 per person with all meals. Check current status before you travel.",
+  "local_story": {
+    "title": "Mayel Lyang: a homeland set aside for the Lepchas",
+    "paras": [
+      "Lepchas, who call themselves Mutanchi Rongkup, are regarded as Sikkim's first people, and their name for this land is Mayel Lyang. Dzongu, the wedge of valleys between the Teesta and the slopes of Kanchenjunga, was set aside for the Lepchas in the time of the Chogyals, and it remains a protected reserve: outsiders need a permit to enter, and land is held by Dzongu Lepchas. That protection is why villages such as Lingthem, Passingdang and Hee Gyathang still speak Lepcha at home and keep their own rituals.",
+      "Lepcha elders tell that Itbu-moo, the creator mother, shaped the first man, Fudongthing, and the first woman, Nazaong Nyu, from the snows of Kongchen Konglo, Kanchenjunga, which is why the mountain is their guardian. In upper Dzongu stands Tholung Monastery, revealed as a sacred site in 1760 and built in 1789, where relics from other monasteries were hidden during the Gorkha invasions. In 2007–08, Lepcha activists held a long hunger strike in Gangtok against hydropower projects in Dzongu, drawing national attention to the reserve and its rivers."
+    ]
+  },
+  "did_you_know": [
+    "Tholung Monastery's relics are aired and shown to the public only once every three years, at the Kamsel ceremony in April.",
+    "Upper Dzongu lies in the buffer zone of Khangchendzonga National Park, a UNESCO World Heritage Site since 2016.",
+    "Dzongu has its own assembly constituency in the Sikkim legislature, one of three in Mangan district."
+  ],
+  "intro": [
+    "Dzongu is greener, wetter and quieter than the rest of North Sikkim: steep forested slopes, waterfalls, terraces of cardamom and maize, and small Lepcha villages connected by narrow roads. There are no hotels, only family homestays. You come here to slow down, eat Lepcha food, walk village paths and listen.",
+    "Access is the hard part. You need a separate Dzongu permit, usually issued at Mangan, and the bridges and roads across the Teesta have been hit by landslides and by the 2023 flood. Some upper villages are cut off for long spells. Ask your homestay how to reach them that week. Once there, two or three nights cost less than one night in Lachung. Check current status before you travel."
+  ],
+  "facts": [
+    ["Best months", "Oct – Apr"],
+    ["Nights we suggest", "2–3"],
+    ["From Mangan", "≈ 10–25 km · 0.5–1.5 h to the villages"],
+    ["Altitude", "≈ 700–2,000 m across the villages"],
+    ["Known for", "Lepcha homestays, Tholung Monastery, cardamom, waterfalls"],
+    ["Network", "Patchy; BSNL and Jio in some villages"]
+  ],
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "2–3",
+  "costs": [
+    ["Shared jeep Gangtok to Mangan", "₹200–300 a seat"],
+    ["Taxi Mangan to a Dzongu village", "₹800–1,500 a car"],
+    ["Lepcha homestay with all meals", "₹1,800–2,500 pp (indicative)"],
+    ["Local guide for a village or waterfall walk", "₹500–1,000 a day"],
+    ["Dzongu permit", "Small fee or free; ask at Mangan"],
+    ["Chi (millet beer) at a homestay", "₹100–200"]
+  ],
+  "highlights": [
+    {"title": "A Lepcha homestay", "text": "Stay with a family in Lingthem, Passingdang or another village, eat rice, nettle soup, ferns and millet, and hear Lepcha spoken around the kitchen fire. Two nights is the minimum to settle in."},
+    {"title": "Tholung Monastery", "text": "A sacred gompa in upper Dzongu, built in 1789, holding relics hidden here during the Gorkha invasions. Its Kamsel ceremony shows them once every three years in April."},
+    {"title": "Kongchen Konglo", "text": "On clear days Kanchenjunga rises above the upper valley. Ask your host to tell the Lepcha story of the first people made from its snows."},
+    {"title": "Waterfalls and forest paths", "text": "Dzongu's steep side valleys are full of waterfalls and streams. Walk with a local guide; paths are slippery and some cross landslide zones."},
+    {"title": "Cardamom and millet", "text": "Large cardamom grows under the trees, millet on the terraces, and chi, the Lepcha millet beer, is served in bamboo vessels. Visit in September to November for the harvest."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep and taxi", "text": "Shared jeep from Gangtok's Vajra stand to Mangan, ₹200–300, 2.5–3 hours. Get your Dzongu permit in Mangan, then take a taxi across the Teesta to your village, about ₹800–1,500 depending on distance and road. Your homestay can often send a car."},
+    {"mode": "Reserved car from Gangtok", "text": "A reserved car to a Dzongu village costs about ₹3,500–5,000 one way. Arrange the permit in advance through your homestay or a Gangtok agent so you do not lose a day."},
+    {"mode": "Homestay pickup", "text": "Many Dzongu homestays arrange pickups from Mangan or Gangtok and help with the permit. Ask when booking, and ask how the bridges and roads are that week."}
+  ],
+  "where_to_stay": "Dzongu has no hotels, only family homestays, most of them in Lingthem, Passingdang, Hee Gyathang, Tingvong and nearby villages. Expect a simple room, shared or attached bathroom, and three home-cooked meals, at roughly ₹1,800–2,500 per person per day. Mayal Lyang Homestay in Lingthem is one of the longest-running. Book directly or through your Gangtok contact, and confirm permit help and road access when you book.",
+  "stays": ["dzongu-mayal-lyang-homestay"],
+  "tips": [
+    "Arrive in Mangan before noon on a working day to get your Dzongu permit the same day.",
+    "Carry cash from Mangan; there are no ATMs in Dzongu.",
+    "Ask before photographing people, rituals or shrines.",
+    "Wear leech socks or tuck trousers into socks from April to October.",
+    "Do not bring plastic water bottles; ask your host for boiled water."
+  ],
+  "themes": ["homestays", "food-trails", "monasteries", "solo-backpacking", "festivals"],
+  "nearby": ["mangan", "singhik", "chungthang"],
+  "experiences": [
+    {
+      "slug": "dzongu-lepcha-kitchen-dinner",
+      "title": "Dinner in a Lepcha kitchen",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "6–8 pm, Oct–Apr",
+      "cost": "Included in homestay rate",
+      "image_query": "Lepcha food Dzongu homestay",
+      "wiki": "Lepcha people",
+      "summary": "Lepcha home food is simple and seasonal: rice or millet, nettle soup, fern shoots, squash, wild greens, sometimes pork or chicken, and chi, the millet beer drunk from bamboo. Eat by the fire in your homestay kitchen and ask what each dish is.",
+      "body": [
+        "Lepcha cooking draws on what the forest and terraces give. Nettle leaves become a green soup; fiddlehead ferns and squash shoots are fried with garlic; wild yam, taro and bamboo shoots appear in season. Rice is the staple now, but millet and maize were the old grains. Meals in a Dzongu homestay are served from the family kitchen, often by the hearth.",
+        "Chi is the Lepcha millet beer. Fermented millet is packed into a bamboo vessel, hot water is poured over it, and you sip through a bamboo straw, topping up with water as you go. It is mild and warming. Ask your host whether they make it; many families brew for guests and rituals, and it costs about ₹100–200.",
+        "Dinner is usually at 7–8 pm. Tell your host in advance about vegetarian or other diets; they will adapt. Ask the names of dishes in Lepcha. Help clear plates if the family seems happy with that. If you want to learn a dish, ask to watch earlier in the afternoon rather than during the dinner rush."
+      ],
+      "good_for": ["couples", "solo", "students", "families"],
+      "faqs": [
+        {"q": "What is Lepcha food like?", "a": "Simple, seasonal and mild. Expect rice or millet, dal, nettle soup, fried fern shoots and squash, wild greens, potatoes and sometimes pork or chicken. Chi, a millet beer sipped through bamboo, is the traditional drink. Food is served in homestays as part of the daily rate."},
+        {"q": "What is chi?", "a": "Chi is the traditional Lepcha millet beer. Fermented millet is packed into a bamboo vessel, hot water is added, and it is sipped through a bamboo straw, with more water added as you drink. It is mild and is also used in rituals. Homestays may serve it for about ₹100–200."},
+        {"q": "Can vegetarians eat well in Dzongu?", "a": "Yes. Most Lepcha dishes are vegetable-based: greens, ferns, squash, potatoes, dal and rice. Meat is added for guests or festivals. Tell your homestay when you book, and they will cook without meat. Strict Jain diets need more notice."}
+      ]
+    },
+    {
+      "slug": "dzongu-tholung-monastery-visit",
+      "title": "Tholung Monastery in upper Dzongu",
+      "kind": "monastery",
+      "duration": "Full day",
+      "best_time": "Oct–Nov, Mar–Apr",
+      "cost": "Free · taxi and guide ₹2,500–4,000 (indicative)",
+      "image_query": "Tholung Monastery Dzongu Sikkim",
+      "wiki": "Tholung Monastery",
+      "summary": "Tholung Monastery stands at about 2,400 m in remote upper Dzongu, within the Khangchendzonga National Park buffer zone. It was built in 1789 and holds relics hidden here during the Gorkha invasions, shown publicly once every three years. Access is a long drive and walk.",
+      "body": [
+        "Tholung was revealed as a sacred place by the 4th Lhatsun, Kunzang Jigmed Gyatso, in 1760, and a monastery was built here in 1789 by Pema Dechhen Gyatso. When Gorkha armies from Nepal invaded Sikkim in the late 18th century, precious manuscripts, images and relics from other monasteries were carried to Tholung for safety. They have stayed in sealed boxes ever since.",
+        "Because of the damp climate, the relics are taken out every three years to be aired, in a ceremony called Kamsel, held in April and overseen by the state's Ecclesiastical Department. On other days you see the monastery, rebuilt in 1980, its setting in deep forest and the quiet of the upper valley.",
+        "Reaching Tholung means a long drive on the upper Dzongu road and a walk; landslides often change the route. Ask your homestay to arrange a car and a local guide, roughly ₹2,500–4,000 for the day, and confirm that access is open. The area is inside the national park buffer and may need extra permission."
+      ],
+      "good_for": ["solo", "students", "photographers", "seniors"],
+      "faqs": [
+        {"q": "Why is Tholung Monastery important?", "a": "Tholung is one of the most sacred monasteries in Sikkim. It holds manuscripts, images and relics brought here for safety during the Gorkha invasions of the late 18th century, including a metal chorten with the ashes of an incarnation of Lhatsun Chenpo. The relics are shown publicly every three years."},
+        {"q": "How do I get to Tholung Monastery?", "a": "From a Dzongu homestay, take a car up the upper Dzongu road and then walk the last stretch with a local guide. The route depends on landslides and road repairs, so ask your host for current access. It is a full-day trip; start early."},
+        {"q": "When is the Tholung Kamsel?", "a": "Kamsel, the airing and public display of Tholung's relics, is held every three years in April. The exact dates follow the Tibetan calendar and are announced by the monastery and the state's Ecclesiastical Department. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "dzongu-village-and-waterfall-walk",
+      "title": "Village paths and waterfalls around Lingthem",
+      "kind": "trek",
+      "duration": "3–5 hours",
+      "best_time": "8 am–1 pm, Oct–Apr",
+      "cost": "Guide ₹500–1,000",
+      "image_query": "Lingthem Dzongu waterfall",
+      "wiki": "",
+      "summary": "Walk with a local guide from your homestay along village paths, through cardamom groves and terraces, to a waterfall or a viewpoint over the Teesta. Dzongu's paths are steep and slippery, and the reward is a day with almost no other visitors.",
+      "body": [
+        "Dzongu's villages are linked by footpaths older than the roads. From Lingthem, Passingdang or Hee Gyathang, a local guide can lead you on a half-day loop: down through cardamom groves under alder trees, across streams on log bridges, past terraces of maize and millet, and up to a waterfall or ridge with a view of the Teesta or, on clear days, Kanchenjunga.",
+        "Along the way, ask about plants. Lepchas have a deep knowledge of the forest: which leaves heal, which shoots can be eaten, which trees are sacred. Your guide may point out a family shrine, a sacred grove or a rock with a story; listen, and do not touch or climb on such places.",
+        "Paths are steep and often muddy. Wear shoes with real grip and carry a stick. From April to October, leeches are everywhere; wear leech socks or tuck trousers in. Landslides can cut paths after rain, so follow your guide's choice of route. A guide costs about ₹500–1,000 for the day."
+      ],
+      "good_for": ["solo", "couples", "students", "photographers"],
+      "faqs": [
+        {"q": "Do I need a guide to walk in Dzongu?", "a": "Yes, we strongly advise one. Paths are unmarked, steep and change after landslides, and some places are sacred or private. A local guide from your homestay costs about ₹500–1,000 a day and makes the walk safer and far more interesting."},
+        {"q": "Are there waterfalls in Dzongu?", "a": "Yes, many. The steep side valleys feeding the Teesta are full of waterfalls, especially after the monsoon in September and October. Your homestay will know which are reachable that season. Some are short walks from the road; others need half a day."},
+        {"q": "Are there leeches in Dzongu?", "a": "Yes, from about April to October, especially in forest and cardamom groves. Wear closed shoes, tuck trousers into socks or wear leech socks, and check your legs often. In the dry winter months leeches are rare."}
+      ]
+    },
+    {
+      "slug": "dzongu-lepcha-crafts-and-language",
+      "title": "Lepcha weaving, bamboo and a few words",
+      "kind": "craft",
+      "duration": "2 hours",
+      "best_time": "Afternoon, any month",
+      "cost": "Free · buy crafts at fair prices",
+      "image_query": "Lepcha traditional dress weaving Sikkim",
+      "wiki": "Lepcha script",
+      "summary": "Ask your homestay to introduce you to someone who weaves, works bamboo or teaches the Lepcha script. In an afternoon you see how cloth and baskets are made, learn a few Lepcha words, and leave with something made in the valley.",
+      "body": [
+        "Lepchas are known for fine bamboo and cane work: baskets, containers, chi vessels and the broad-brimmed traditional hat. Weaving on back-strap and small looms produces the striped cloth used in Lepcha dress. In many Dzongu families an older member still does one or the other, though less than before.",
+        "Lepcha also has its own script, one of the few indigenous scripts of the Himalaya, and many families teach it to children. Ask your host to write your name, or to teach you a greeting. Learning a word or two of Lepcha is the easiest way to show respect for a language that has far fewer speakers than Nepali or Hindi.",
+        "Nothing here is a staged workshop. Ask your homestay a day ahead whether someone is willing to show you their work. If you buy, pay the price asked or close to it; these are slow, skilled crafts. Do not photograph people at work without permission."
+      ],
+      "good_for": ["students", "solo", "couples", "families"],
+      "faqs": [
+        {"q": "Does Lepcha have its own script?", "a": "Yes. Lepcha has its own script, called Róng, used for religious texts, books and teaching. It is one of the few indigenous scripts of the Himalaya. Many Lepcha families and schools in Sikkim teach it to children, and you may see it on signboards in Dzongu."},
+        {"q": "Can I buy Lepcha handicrafts in Dzongu?", "a": "Sometimes, directly from families who weave or work bamboo. Supplies are small and informal. Ask your homestay a day ahead. Prices reflect hours of skilled work, so do not bargain hard. Gangtok's handicraft shops also sell Lepcha-style goods."},
+        {"q": "What is traditional Lepcha dress?", "a": "Men traditionally wear a striped woven cloth called the dumpra, pinned at the shoulder, often with a bamboo-and-cane hat; women wear a long dress called the dumvum with a blouse and a jacket. You see them mainly at festivals, weddings and community events."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Do I need a permit for Dzongu?", "a": "Yes. Dzongu is a protected Lepcha reserve, and non-residents, including Indian citizens from outside Sikkim, need a special Dzongu permit. It is usually issued by the district administration in Mangan with photo ID and photographs. Homestays often help. Foreign nationals' rules differ. Check current status before you travel."},
+    {"q": "How do I reach Dzongu from Gangtok?", "a": "Take a shared jeep from Gangtok's Vajra stand to Mangan, about ₹200–300 and 2.5–3 hours. Get your permit in Mangan, then take a taxi across the Teesta to your village for about ₹800–1,500. A reserved car from Gangtok costs about ₹3,500–5,000 one way."},
+    {"q": "What is special about Dzongu?", "a": "Dzongu is a reserved homeland for the Lepchas, Sikkim's earliest people. The protection has kept villages, language and rituals strong. You stay in family homestays, eat Lepcha food, walk forest paths to waterfalls and, in a Kamsel year, see Tholung Monastery's relics. It feels very different from the high valleys."},
+    {"q": "How much does a Dzongu homestay cost?", "a": "About ₹1,800–2,500 per person per day with three meals in 2025–26, varying by village and season. Local guides cost ₹500–1,000 a day. Transport from Mangan is ₹800–1,500 per car. A three-night stay can cost less than a single night's package in Lachung."},
+    {"q": "Was Dzongu affected by the 2023 flood?", "a": "Yes, in places. The 2023 Teesta flood and landslides damaged bridges and roads linking Dzongu to Mangan and cut off some upper villages for long periods. Repairs have continued since. Ask your homestay about the route that week and check current status before you travel."},
+    {"q": "When is the best time to visit Dzongu?", "a": "October to April, when it is dry, mild and clear. October and November bring the cardamom harvest and Kanchenjunga views; December and January bring the Lepcha new year, Namsoong. March and April are warm with flowers. Avoid June to September, when rain, leeches and landslides make travel hard."},
+    {"q": "Can foreigners visit Dzongu?", "a": "Foreign nationals have at times been allowed into parts of Dzongu with permits, but rules are stricter than for Indian citizens and have changed. Ask a registered Gangtok agent or your homestay well in advance, and check current status before you travel."},
+    {"q": "What should I pack for Dzongu?", "a": "Walking shoes with grip, leech socks from April to October, a rain jacket, a torch for power cuts, a warm layer for evenings, cash for the whole stay, any medicines you need and a reusable water bottle. Keep clothing modest, especially when visiting monasteries and village homes."},
+    {"q": "Is Dzongu good for a solo traveller?", "a": "Yes. Homestays welcome solo guests, food is included, and hosts usually help with guides and transport. It is quiet and generally safe. The main challenges are the permit and road access, so plan your day in Mangan carefully and keep your homestay informed of your timing."}
+  ]
+}

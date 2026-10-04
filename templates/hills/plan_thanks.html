@@ -1,0 +1,16 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Thank you · Darjeeling Himalayas{% endblock %}
+{% block cta %}{% endblock %}
+{% block content %}
+<section class="sec"><div class="wrap wrap--narrow">
+  <p class="eyebrow">Request received</p>
+  <h1 class="h-1">Thank you. Your ticket is in the queue</h1>
+  <p class="lede" style="margin-top:16px">A planner will reply within one working day with a route and a line-by-line cost.</p>
+  <h2 class="h-3" style="margin:30px 0 12px">What happens next</h2>
+  <ul class="ticks"><li>We read your request and may ask one or two questions.</li><li>We send a route with every jeep, bed, meal and permit priced.</li><li>You change anything you like. Pay a deposit only when you are happy.</li></ul>
+  <h2 class="h-3" style="margin:30px 0 12px">While you wait</h2>
+  <ul class="ticks"><li>Check the ID you will carry: Indian travellers need photo ID for Sikkim permits; foreign travellers need a passport and visa.</li><li>Read the <a href="{% url 'tool_permits' %}">permit page</a> and the <a href="{% url 'fares' %}">jeep fare board</a>.</li></ul>
+  {% if wa_base %}<a class="btn btn--foil" href="{{ wa_base }}?text={{ wa_text }}" data-cta="thanks-whatsapp" style="margin-top:24px">Message us on WhatsApp</a>{% endif %}
+</div></section>
+<script>window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:"generate_lead"});</script>
+{% endblock %}

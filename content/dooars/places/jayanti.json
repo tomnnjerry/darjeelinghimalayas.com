@@ -1,0 +1,114 @@
+{
+  "slug": "jayanti", "name": "Jayanti", "name_local": "जयन्ती", "region": "dooars",
+  "kind": "forest village",
+  "wiki": "", "image_query": "Jayanti river Buxa Tiger Reserve",
+  "lat": 26.70, "lng": 89.60, "altitude_m": 200,
+  "tagline": "A wide white riverbed under the Bhutan hills",
+  "meta_description": "Jayanti guide: the Jayanti riverbed in Buxa Tiger Reserve, the Mahakal cave walk, Pokhri lake, birding, homestays, safari costs and how to reach.",
+  "summary": "Jayanti is a forest village in Buxa Tiger Reserve on the bank of the Jayanti river, which spreads into a huge pale bed of stones below the Bhutan hills. It is the base for the walk to the Mahakal cave, a climb to Pokhri lake and quiet riverbank evenings.",
+  "local_story": {"title": "A river, a cave and a lake of sacred fish", "paras": [
+    "The Jayanti river comes out of the Bhutan hills just above the village and, in the dry season, spreads into a riverbed of white and grey stones that can be several hundred metres wide, with only thin channels of clear water. In the monsoon the same bed fills from bank to bank. The village grew on its edge as a forest settlement inside what became, in 1983, the Buxa Tiger Reserve.",
+    "Two places in the hills above give Jayanti its pilgrims. Mahakal is a limestone cave where dripping water has built stalactites and stalagmites, worshipped as forms of Shiva; at Maha Shivaratri thousands walk up the riverbed to it. Pokhri, a small lake on a hilltop, is revered by local communities; the local story is that its fish and turtles are sacred and must never be caught, and visitors are asked to leave them in peace.",
+    "Jayanti's people include Bengali and Nepali-speaking families, and in the hills nearby are Dukpa villages with roots in Bhutan. Life here still follows the forest's rules: early nights, elephants on the riverbed at dusk, and the river's moods."]},
+  "did_you_know": [
+    "In the dry season the Jayanti riverbed can be several hundred metres wide, though the water itself may be only a few narrow channels you can step across.",
+    "The Mahakal cave formations are limestone stalactites and stalagmites, built by mineral-rich water dripping through the rock over a very long time.",
+    "Jayanti lies about 30 km from Alipurduar Junction, one of the main railway hubs of north Bengal and the headquarters of Alipurduar district, created in 2014."
+  ],
+  "intro": [
+    "Arrive at Jayanti in the afternoon and walk straight down to the river. The bed is enormous, a plain of pale stones running towards the hills of Bhutan, with forest on both banks and a few thin streams of water glittering in the middle. As the sun drops, people from the village come out to sit on the stones, and on many evenings elephants are seen crossing in the distance.",
+    "Jayanti is a place for walking. The Mahakal cave walk follows the riverbed into the hills; the climb to Pokhri lake is shorter and steeper; and the riverbank itself is a fine morning stroll for birds. Add a jeep safari in Buxa Tiger Reserve, a night here and a night at Buxa Fort, and you have the best of the eastern Dooars."
+  ],
+  "facts": [["Best months", "Oct – Apr"], ["Nights we suggest", "1–2"], ["From Siliguri", "≈ 190 km · 5 h"], ["Altitude", "≈ 200 m"], ["Known for", "Riverbed, Mahakal cave, Pokhri lake"], ["Network", "Fair near the village, weak upstream"]],
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 0, 2, 2, 2],
+  "nights": "1–2",
+  "costs": [["Homestay with dinner and breakfast", "₹1,200–2,000 pp"], ["Local guide for Mahakal or Pokhri", "₹600–1,000 a day"], ["Buxa safari from Jayanti, six-seat jeep", "₹2,500–3,500 (indicative)"], ["Car Alipurduar–Jayanti", "₹1,200–1,800"], ["Forest entry fee", "About ₹100–200 (indicative)"], ["Thali at a village eatery", "₹120–200"]],
+  "highlights": [
+    {"title": "Evenings on the riverbed", "text": "Walk out onto the wide stony bed of the Jayanti before sunset, with the Bhutan hills ahead and forest on both banks. Leave before dark, when elephants cross."},
+    {"title": "Mahakal cave walk", "text": "A long walk up the riverbed and a climb to a limestone cave revered as Shiva's shrine, busiest at Maha Shivaratri. Go with a local guide."},
+    {"title": "Pokhri lake", "text": "A steep climb to a small hilltop lake revered by local people, where fish and turtles are left undisturbed. Quiet, shaded and good for birds."},
+    {"title": "Buxa safaris from the village", "text": "Jeep safaris in Buxa Tiger Reserve start from Jayanti, through forest and riverbeds with elephants, gaur and deer."},
+    {"title": "Buxa Fort next door", "text": "Santalabari, the road head for the walk to Buxa Fort, is about 30 km away. A night in each place makes a fine two-day loop."}
+  ],
+  "how_to_reach": [
+    {"mode": "Train and car", "text": "Take a train to Alipurduar Junction or New Alipurduar, then a car to Jayanti, about 30 km and one hour, ₹1,200–1,800. Local buses run at fixed times; ask at Alipurduar."},
+    {"mode": "Reserved car", "text": "From NJP or Bagdogra about 190 km via Birpara, Hasimara and Rajabhatkhawa, five hours, ₹5,500–6,500. From Madarihat about 70 km, two hours."},
+    {"mode": "Bus", "text": "Buses from Siliguri to Alipurduar take about five to six hours, ₹200–300, then a local bus or car to Jayanti."}
+  ],
+  "where_to_stay": "Jayanti has a number of family homestays and small lodges near the river, usually ₹1,200–2,000 per person with dinner and breakfast, and some private cottages charging more. Ask for a room facing the river; the view is the point. Rajabhatkhawa, about 15 km away, has more homestays and a forest office; Alipurduar town has hotels for late arrivals. Book ahead for Shivaratri and winter weekends.",
+  "stays": [],
+  "tips": [
+    "Leave the riverbed before dusk; elephants use it as a crossing.",
+    "For Mahakal and Pokhri, go with a local guide and check forest rules first.",
+    "Wear shoes that can get wet for riverbed walks; you cross channels.",
+    "Carry cash; Jayanti has no reliable ATM.",
+    "Buxa's tourism zones close in the monsoon and the riverbed floods; check current status before you travel."
+  ],
+  "themes": ["treks", "homestays", "wildlife-birds", "festivals", "photography"],
+  "nearby": ["buxa", "chilapata", "jaldapara"],
+  "experiences": [
+    {"slug": "jayanti-mahakal-cave-walk", "title": "The Mahakal cave walk up the riverbed",
+     "kind": "trek", "duration": "6–8 hours return", "best_time": "Early start, Nov–Mar", "cost": "Guide ₹600–1,000; forest fees if applicable",
+     "image_query": "Mahakal cave Jayanti", "wiki": "",
+     "summary": "From Jayanti a long walk follows the Jayanti riverbed into the hills and then climbs to Mahakal, a limestone cave whose stalactites are worshipped as Shiva. It is a full day, best in the dry months with a local guide.",
+     "body": ["The walk begins at the village and heads upstream along the wide riverbed, crossing channels of clear water on stones. The hills close in, forest rises on both sides and the bed narrows. Distances given locally vary, commonly about 5–6 km each way, because the riverbed shifts after every monsoon. The last part leaves the river and climbs steeply to the cave.",
+              "Inside, water dripping through limestone has built stalactites and stalagmites, which pilgrims revere as forms of Mahakal, Shiva. There may be priests, offerings and bells; remove shoes where asked, keep your voice low and follow local practice. At Maha Shivaratri in February or March the path is crowded with pilgrims and stalls appear in the village.",
+              "The route is inside Buxa Tiger Reserve and near the Bhutan border. Rules on entry and guides change, so ask at the Jayanti or Rajabhatkhawa forest office and check current status before you travel. Start by 7 am, carry water and food, and be back before dusk."],
+     "good_for": ["students", "solo", "couples"],
+     "faqs": [
+       {"q": "How long is the Mahakal cave trek from Jayanti?", "a": "It is commonly given as about 5–6 km each way, mostly along the riverbed with a steep final climb, taking six to eight hours return with time at the cave. Distances vary because the riverbed shifts each year. Ask a local guide before you set out."},
+       {"q": "Is the Mahakal walk difficult?", "a": "It is long rather than technical: uneven stones, several river crossings and a steep climb at the end. Fit walkers manage it fine. People with knee problems should consider only the riverbed part. Avoid it in the monsoon, when the river is high."},
+       {"q": "When is the Mahakal Mela?", "a": "Around Maha Shivaratri, in February or March by the lunar calendar, when thousands of pilgrims walk to the cave and a fair runs at Jayanti. Dates change each year. Expect crowds; if you want quiet, go on another day."}
+     ]},
+    {"slug": "jayanti-riverbed-sunset", "title": "Sunset on the Jayanti riverbed",
+     "kind": "viewpoint", "duration": "1.5 hours", "best_time": "4–5:30 pm, Oct–Apr", "cost": "Free",
+     "image_query": "Jayanti riverbed sunset hills", "wiki": "",
+     "summary": "The Jayanti's dry-season bed is a vast plain of pale stones with the Bhutan hills rising behind. Walking out onto it in the late afternoon, as the light turns gold, is the simplest and best thing to do in Jayanti.",
+     "body": ["From October to May the river shrinks to a few clear channels, and the bed becomes a wide open space between forested banks. Walk out from the village side, cross a channel or two on stones and find a boulder to sit on. The hills to the north are the first ridges of Bhutan, turning blue and then purple as the sun drops.",
+              "Village children play cricket on the flats, families walk, and cattle graze along the edges. Birds such as river lapwings, wagtails and plovers feed in the shallows. In the distance, elephants are sometimes seen crossing the bed from one forest bank to the other, which is why everyone heads back as the light goes.",
+              "Leave the bed before dark. Never approach elephants, even if they seem far away; they move fast and the open bed gives no cover. In the monsoon the bed fills with fast water and is off-limits."],
+     "good_for": ["couples", "families", "photographers", "seniors"],
+     "faqs": [
+       {"q": "Is it safe to walk on the Jayanti riverbed?", "a": "In the dry season and in daylight, yes, near the village. Cross only shallow channels, keep children close, and leave before dusk when elephants cross. After heavy rain in the hills the river can rise quickly; if the water turns brown or rises, move to the bank at once."},
+       {"q": "Can we see elephants on the Jayanti riverbed?", "a": "Sometimes, usually at dusk or early morning, crossing between the forests on either bank. Watch from a distance and move away calmly. Do not follow them for photos or shine lights at them. Your homestay will tell you if herds have been around."},
+       {"q": "When is the Jayanti riverbed dry?", "a": "Roughly from October or November to May, when the river shrinks to a few channels. From June to September the bed fills and the forest zones close. Early October may still have high water after late rains."}
+     ]},
+    {"slug": "jayanti-pokhri-lake-climb", "title": "The climb to Pokhri lake",
+     "kind": "trek", "duration": "3–4 hours return", "best_time": "Morning, Oct–Apr", "cost": "Guide ₹600–1,000",
+     "image_query": "Pokhri lake Buxa hills", "wiki": "",
+     "summary": "Pokhri is a small hilltop lake above the Jayanti side of Buxa, revered by local people, whose fish and turtles are left undisturbed. The climb is short and steep through forest, and the lake is a shaded, quiet place to sit.",
+     "body": ["The path to Pokhri climbs from the Jayanti area through forest, gaining height quickly; most walkers take an hour and a half to two hours up. The lake is small and dark, ringed by trees. The local story holds that its fish and turtles are sacred, and nobody fishes here.",
+              "Sit quietly and watch the water: fish rise, turtles surface, and forest birds move through the trees around the lake. It is a calm place, used by local worshippers, so keep your voice down, do not throw anything into the water other than what locals offer, and leave nothing behind.",
+              "The path is inside Buxa Tiger Reserve. Go with a local guide, ask the forest office about current rules, and start early to be back before afternoon heat. The path is slippery and leechy after rain."],
+     "good_for": ["students", "couples", "solo", "families"],
+     "faqs": [
+       {"q": "How hard is the Pokhri lake walk?", "a": "Short but steep: about an hour and a half to two hours up through forest and a little less down. Fit children and adults manage it fine with breaks. Good shoes help; the path is loose in places and slippery after rain."},
+       {"q": "Why are the fish at Pokhri lake sacred?", "a": "Local communities revere the lake, and by local belief its fish and turtles are sacred and must not be harmed or caught. Visitors are asked to respect this. Do not feed them anything unless local worshippers show you what is customary."},
+       {"q": "Do I need a guide for Pokhri lake?", "a": "We recommend one. The route is inside Buxa Tiger Reserve, paths branch, and forest rules can change. A local guide costs about ₹600–1,000 and knows the way, the lake's customs and where elephants have been seen recently."}
+     ]},
+    {"slug": "jayanti-riverbank-birding", "title": "Morning birding on the Jayanti bank",
+     "kind": "wildlife", "duration": "2 hours", "best_time": "6–8:30 am, Nov–Apr", "cost": "Free; guide ₹500–800",
+     "image_query": "river lapwing stony river India", "wiki": "",
+     "summary": "Where the Jayanti leaves the hills, its stony bed and forested banks bring together river birds, grassland birds and forest birds. A slow dawn walk along the village side, with a local guide, is the best free outing in Jayanti.",
+     "body": ["At first light the riverbed is cool and quiet. River lapwings and little ringed plovers run on the stones, wagtails flick along the channels, and kingfishers hunt from boulders. Along the banks, bulbuls, barbets, drongos and orioles call from the forest edge, and hornbills cross the open bed between trees.",
+              "Winter brings migrants down from the hills and the north: water redstarts on rocks, ruddy shelduck on wider pools, and flycatchers and warblers in the bushes. Raptors circle once the air warms. A local guide can help with calls and will know where elephants have crossed recently.",
+              "Keep to the village side and open areas, away from the forest edge where visibility is poor. Bring binoculars, a field guide or app, and shoes that can get wet."],
+     "good_for": ["photographers", "seniors", "students", "solo"],
+     "faqs": [
+       {"q": "What birds can be seen at Jayanti?", "a": "River birds such as lapwings, plovers, wagtails and kingfishers, forest-edge birds such as barbets, bulbuls, drongos and hornbills, and in winter migrants such as water redstarts and ruddy shelduck. Variety is best from November to April in the early morning."},
+       {"q": "Is birding at Jayanti safe without a guide?", "a": "On the open riverbed near the village in daylight, yes. Near the forest edge and upstream, a guide is wiser, since elephants and gaur use these areas. Stay in the open, keep your distance from any large animal and head back if you are unsure."},
+       {"q": "Is Jayanti good for bird photography?", "a": "Yes, especially in soft morning light on the open bed, where birds are not hidden by leaves. A 300–500 mm lens is useful. Approach slowly and stop often; river birds tolerate a quiet person far better than a group."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "Where is Jayanti?", "a": "Jayanti is a forest village inside Buxa Tiger Reserve in Alipurduar district, on the Jayanti river below the Bhutan hills. It is about 30 km from Alipurduar Junction, about 15 km from Rajabhatkhawa and about 190 km from Siliguri."},
+    {"q": "What is there to do in Jayanti?", "a": "Walk the riverbed at sunset, take the long walk to the Mahakal cave or the shorter climb to Pokhri lake, go on a Buxa Tiger Reserve jeep safari and watch birds along the river. Buxa Fort is a short drive and a 5 km walk away."},
+    {"q": "How do I reach Jayanti?", "a": "The easiest way is by train to Alipurduar Junction or New Alipurduar, then a car for about 30 km, roughly ₹1,200–1,800. By road from NJP it is about 190 km and five hours, ₹5,500–6,500 for a reserved car."},
+    {"q": "Where to stay in Jayanti?", "a": "Family homestays and small lodges near the river charge about ₹1,200–2,000 per person with dinner and breakfast. Ask for a river-facing room. Rajabhatkhawa nearby has more homestays, and Alipurduar has hotels for late arrivals."},
+    {"q": "Is Jayanti safe?", "a": "Yes, with forest-village sense. Elephants cross the riverbed and village edges at dusk and at night, so stay in after dark, keep off the bed at dusk and follow your hosts' advice. The river can rise quickly after rain; move away if it changes."},
+    {"q": "What is the best time to visit Jayanti?", "a": "October to April, when the riverbed is dry and walks are possible. November to February is clearest and coolest. Maha Shivaratri, in February or March, brings pilgrims to Mahakal. Avoid the monsoon, when the river floods and forest zones close."},
+    {"q": "How many days do we need for Jayanti?", "a": "One night for a riverbed evening and a safari or Pokhri walk; two nights to add the full Mahakal walk. Combine with a night at Buxa Fort for a three-night eastern Dooars trip."},
+    {"q": "Can we see Bhutan from Jayanti?", "a": "Yes. The hills rising beyond the riverbed to the north are Bhutan's first ridges. There is no border crossing here for travellers. Indian visitors enter Bhutan at Phuentsholing via Jaigaon with the documents Bhutan currently requires."},
+    {"q": "Is there network and ATM in Jayanti?", "a": "Mobile signal is fair near the village and weak upstream. There is no reliable ATM; draw cash in Alipurduar or Hasimara. UPI works when the signal does, but carry cash for guides, homestays and jeeps."}
+  ]
+}

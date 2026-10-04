@@ -1,0 +1,6 @@
+{% load hills %}<a class="scard rv" href="{{ d.url }}" data-item data-land="{{ d.land|default:'darjeeling' }}" data-kind="{{ d.cat_slug }}">
+  {% photo d|first_img alt=d.title sizes="(max-width: 700px) 100vw, 33vw" credit=False cls="photo--ridge" %}
+  <span class="pcard__meta"><span>{{ d.category }}</span><span class="pcard__alt">{{ d.read_min }} min</span></span>
+  <b>{{ d.title }}</b>
+  <span class="small muted">{{ d.summary|truncatewords:22 }}</span>
+</a>

@@ -1,0 +1,113 @@
+{
+  "slug": "bindu", "name": "Bindu", "name_local": "बिन्दु", "region": "dooars",
+  "kind": "village",
+  "wiki": "", "image_query": "Bindu barrage Jaldhaka river Bhutan",
+  "lat": 27.10, "lng": 88.87, "altitude_m": 650,
+  "tagline": "The last Indian village on the Jaldhaka",
+  "meta_description": "Bindu guide: the end of the road at the Jaldhaka barrage on the Bhutan border, river walks, cardamom farms, homestays, costs and how to reach.",
+  "summary": "Bindu is the last Indian village up the Jaldhaka valley, where the hydel barrage holds the river and Bhutan's forest rises across the water. Most people visit for an hour from Jhalong; a night in a homestay gives you the valley to yourself.",
+  "local_story": {"title": "Where India runs out of road", "paras": [
+    "Bindu sits at the head of the motorable Jaldhaka valley, with Bhutan on the far bank. The barrage across the river, built for the Jaldhaka hydel project from the 1960s, diverts water down a channel towards the power station at Jhalong. For most visitors it is simply where the road ends: beyond it, there is no way forward except into another country.",
+    "The village is home to Nepali-speaking families who farm the slopes with large cardamom, ginger, maize and vegetables, and to people who work for the project and the border services. Large cardamom, grown under the shade of forest trees, was for decades the main cash crop of these hills, and the red pods are still dried in smoke houses after the autumn harvest.",
+    "History here is quiet. The valley was Bhutanese until 1865, and the border still shapes daily life, with security posts on the road and a close watch on the river. Be curious, be polite and do not try to wander where you are told not to."]},
+  "did_you_know": [
+    "There is no official border crossing for travellers at Bindu; Indian visitors enter Bhutan through Phuentsholing, opposite Jaigaon, roughly 150 km away by road.",
+    "The barrage at Bindu diverts Jaldhaka water to the power station at Jhalong, about 10–15 km downstream, rather than generating power on site.",
+    "Large cardamom, grown under forest shade in Sikkim, Darjeeling and Kalimpong's hills, is a different spice from the small green cardamom of south India."
+  ],
+  "intro": [
+    "The road from Jhalong follows the Jaldhaka upstream between forested walls, past small farms and a few houses, until it stops at Bindu. The river spreads below the barrage in channels of blue-grey water and white boulders. Across it, the slopes belong to Bhutan, and on still mornings you hear its birds as clearly as India's.",
+    "Bindu is a short stop for most people: photographs at the barrage, tea at a stall and back to Jhalong. Stay longer if you can. A night in a homestay means a quiet riverbank at dawn, walks to the farms and a kitchen meal of local greens and cardamom-scented rice."
+  ],
+  "facts": [["Best months", "Oct – Apr"], ["Nights we suggest", "0–1"], ["From Siliguri", "≈ 110–120 km · 3.5–4 h"], ["Altitude", "≈ 650 m"], ["Known for", "Jaldhaka barrage, Bhutan border, cardamom farms"], ["Network", "Weak; varies by network"]],
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0–1",
+  "costs": [["Homestay with dinner and breakfast", "₹1,200–1,800 pp"], ["Car from Jhalong and back", "₹800–1,200"], ["Shared jeep from Jhalong", "₹30–60 a seat"], ["Tea and snacks", "₹30–80"], ["Reserved car from NJP", "₹4,500–5,500"]],
+  "highlights": [
+    {"title": "The barrage and the river", "text": "The barrage spans the Jaldhaka where the valley opens, with the river braiding below. Look, but follow the signs on photography and do not climb onto the structure."},
+    {"title": "Bhutan across the water", "text": "The forested slopes opposite are Bhutanese. On clear mornings you can see paths and houses on the far side, a reminder of how close the two countries are."},
+    {"title": "Cardamom and ginger farms", "text": "Large cardamom grows in the shade of trees on the slopes. In autumn the pods are harvested and smoke-dried; ask a farmer to show you how."},
+    {"title": "A night at the end of the road", "text": "When day visitors leave, Bindu goes quiet. A homestay night gives you the river at dawn and the stars over the valley."},
+    {"title": "River birds without the crowds", "text": "Redstarts, forktails and wagtails work the channels below the barrage. Bring binoculars and sit on the bank early."}
+  ],
+  "how_to_reach": [
+    {"mode": "From Jhalong", "text": "About 10–15 km up the valley, 30–40 minutes by car, ₹800–1,200 return with waiting. Shared jeeps run between Jhalong and Bindu a few times a day."},
+    {"mode": "Reserved car from NJP", "text": "About 110–120 km via Malbazar, Chalsa and Jhalong, three and a half to four hours, ₹4,500–5,500. Start early to arrive in daylight."}
+  ],
+  "where_to_stay": "Bindu has only a few family homestays, usually ₹1,200–1,800 per person with dinner and breakfast, offering simple rooms with home cooking. Most visitors stay at Jhalong, at the forest corporation's Jholung River Camp or a homestay, and come up for a few hours. For a cooler hill night, Paren's forest corporation centre is nearby. Ask your host about hot water and power backup.",
+  "stays": [],
+  "tips": [
+    "Do not attempt to cross the river or walk into Bhutan; there is no official crossing here.",
+    "Respect photography restrictions at the barrage and around security posts.",
+    "Carry your ID card; you may be asked for it near the border.",
+    "Arrive early in the day; the road is narrow and shared jeeps are few after noon.",
+    "Avoid the monsoon; slides block the valley road and the river runs dangerously high. Check current status before you travel."
+  ],
+  "themes": ["photography", "homestays", "wildlife-birds"],
+  "nearby": ["jhalong", "chapramari", "samsing"],
+  "experiences": [
+    {"slug": "bindu-barrage-and-bhutan-view", "title": "The Bindu barrage and the Bhutan bank",
+     "kind": "viewpoint", "duration": "1 hour", "best_time": "Morning, Oct–Apr", "cost": "Free",
+     "image_query": "Bindu dam Jaldhaka", "wiki": "",
+     "summary": "At Bindu the Jaldhaka barrage stretches across the river, the water spreading in channels below and Bhutan's forested slopes rising on the far side. It is the end of the road and a strong last image of the valley.",
+     "body": ["The barrage was built as the head of the Jaldhaka hydel project, holding back the river and diverting part of it towards the power station at Jhalong. Below it, the Jaldhaka spreads out over a wide bed of stones and channels, clear and blue in winter. The village houses climb the slopes above.",
+              "Stand at the public viewpoints near the road and look across. The hills on the other side are Bhutan, and the river is the border. Morning is the best time, when light falls on the Bhutanese slopes and the valley is quiet. You may see families from both sides working fields within sight of each other.",
+              "The barrage is a working installation in a border area. Follow signs about photography, do not walk onto the structure and keep away from the water near the gates, which can be opened without warning. Security staff are generally helpful if you ask politely what is allowed."],
+     "good_for": ["first-timers", "families", "photographers"],
+     "faqs": [
+       {"q": "Can we photograph the Bindu barrage?", "a": "Rules vary and are shown on signs; general views of the valley and river are usually fine, but close-up photographs of the barrage, gates and security posts may be restricted. Ask the staff on duty if unsure, and delete images if asked. Drones are not allowed."},
+       {"q": "Is Bindu right on the Bhutan border?", "a": "Yes. The Jaldhaka forms the India–Bhutan border here, and the forested slopes across the river are Bhutanese. There is no official crossing for visitors at Bindu, and crossing the river is illegal and dangerous."},
+       {"q": "Is it safe to go near the river at Bindu?", "a": "Stay on the banks and well away from the barrage gates, which can release water suddenly. The current is strong in the main channels. Keep children close and leave the riverbed if a siren sounds or the water rises."}
+     ]},
+    {"slug": "bindu-riverbed-walk", "title": "A morning walk on the Jaldhaka riverbed",
+     "kind": "trek", "duration": "2 hours", "best_time": "7–9 am, Nov–Mar", "cost": "Free; local guide ₹300–500",
+     "image_query": "Jaldhaka riverbed Bindu", "wiki": "",
+     "summary": "Below the barrage, the Jaldhaka spreads over a wide bed of stones in the dry season. A slow morning walk along the Indian bank, with a local companion, gives river birds, mountain views and a feel for life on the border.",
+     "body": ["In winter, much of the river's water is diverted at the barrage, and the bed downstream opens out into shingle, pools and narrow channels. Walking along the Indian side, you pass fields, village paths and small shrines, with the Bhutan slopes rising across the water and the valley narrowing upstream.",
+              "Birds are the main wildlife: water redstarts on wet rocks, wagtails and plovers on the gravel, and forest birds calling from both banks. Look for butterflies in the warmer hours. A villager who walks with you will know which paths are open and where people cross streams safely.",
+              "The barrage can release water without warning. Stay close to the bank, avoid low islands in the river and leave the bed if a siren sounds or the water changes. Do not walk towards or across the main channel, which is the border."],
+     "good_for": ["solo", "students", "photographers", "couples"],
+     "faqs": [
+       {"q": "Is walking on the Bindu riverbed allowed?", "a": "Local people use paths along the Indian bank, and short walks there are generally fine in the dry season. Avoid the main channel and islands, which can flood when the barrage releases water, and never cross towards Bhutan. A local companion is the best way to know what is safe."},
+       {"q": "When is the best time for the riverbed walk?", "a": "November to March, in the morning, when the river is low, clear and quiet. After the monsoon in October the river may still be high. From June to September it is dangerous and you should keep away."},
+       {"q": "What should I wear for the riverbed walk?", "a": "Shoes with good grip that can get wet, a hat, and layers for a cool start. Carry water, a snack and binoculars. Leave large bags in the car or homestay."}
+     ]},
+    {"slug": "bindu-cardamom-farm-visit", "title": "Large cardamom on the Bindu slopes",
+     "kind": "culture", "duration": "1.5 hours", "best_time": "Sep–Nov for harvest and drying", "cost": "Free; tip or buy a packet",
+     "image_query": "large cardamom drying Sikkim", "wiki": "Black cardamom",
+     "summary": "Large cardamom, the big smoky pod used in Indian and Nepali kitchens, grows under forest shade on the slopes around Bindu. Ask your homestay host to introduce you to a farming family and see how it is grown, harvested and dried.",
+     "body": ["Large cardamom, also called black cardamom, is a plant of the eastern Himalaya, grown under the shade of tall trees in moist ravines. Its pods are much bigger than green cardamom and are dried over fire, which gives them their smoky taste. For generations it was the main cash crop of Sikkim and the Darjeeling and Kalimpong hills, and families around Bindu still grow it.",
+              "In the harvest season, roughly September to November, farmers cut the clusters at the base of the plants, separate the pods and dry them in a bhatti, a smoke house with a wood fire beneath a rack. The smell fills the air. Outside the harvest, you can still walk through a plot and see the tall leafy plants under the trees.",
+              "This is private land and work. Go with your host, ask before entering and photographing, and buy a packet of pods if offered; it is the best souvenir of the valley. Diseases and changing rainfall have cut yields in many areas, so ask farmers how the crop is faring."],
+     "good_for": ["students", "solo", "couples", "families"],
+     "faqs": [
+       {"q": "What is large cardamom?", "a": "Large cardamom, or black cardamom, is a spice from the eastern Himalaya with big, dark pods that are smoke-dried, giving a strong, smoky flavour. It is used in curries, biryanis and garam masala. It is a different plant from the small green cardamom of south India."},
+       {"q": "When is the cardamom harvest at Bindu?", "a": "Roughly from September to November, depending on altitude and the year's weather. Drying in smoke houses follows harvest. Outside this period you can still see the plants and buy dried pods from farmers and shops."},
+       {"q": "Can we buy cardamom from farmers at Bindu?", "a": "Often, yes, especially after the harvest. Prices follow the market and change from year to year. Buy from your homestay host or a family they introduce you to, and ask them to pack it well; the smell is strong."}
+     ]},
+    {"slug": "bindu-homestay-night", "title": "A homestay night at the end of the road",
+     "kind": "food", "duration": "Overnight", "best_time": "Oct–Apr", "cost": "₹1,200–1,800 pp with meals",
+     "image_query": "Bindu village homestay Jaldhaka valley", "wiki": "",
+     "summary": "After the day visitors leave, Bindu belongs to its families and the river. A homestay night brings a hill kitchen dinner, a dark sky and a dawn walk to the riverbank before anyone else arrives.",
+     "body": ["Bindu's homestays are family houses with a room or two for guests. Dinner comes from the kitchen and the garden: rice, dal, squash, mustard greens, maybe local chicken, and a fierce chilli pickle. Ask if they make anything with cardamom, ginger or fermented greens; many households have their own recipes.",
+              "Evenings are short and quiet. The river is louder than the village, and on clear nights the stars over the valley are bright. Sit with your hosts if they invite you; families here have watched the border, the barrage and the road change over decades and many are happy to talk.",
+              "Expect simple rooms, limited hot water and patchy power and signal. Bring a torch and warm clothes for winter nights. Pay in cash, and confirm the rate with meals before you arrive."],
+     "good_for": ["couples", "solo", "students"],
+     "faqs": [
+       {"q": "Are there homestays in Bindu?", "a": "Yes, a few family-run homestays, usually charging about ₹1,200–1,800 per person with dinner and breakfast. They are simple and fill on winter weekends. Ask around in Jhalong or through your driver if you cannot find one online."},
+       {"q": "Is it safe to stay overnight in Bindu?", "a": "Yes. It is a small village with a security presence near the border. Stay indoors after dark, carry ID and follow any instructions from security staff. Take normal care with valuables, as you would anywhere."},
+       {"q": "What food is served in Bindu homestays?", "a": "Home-style Nepali hill food: rice, dal, seasonal vegetables such as squash and greens, sometimes chicken or eggs, pickles and tea. Tell your hosts in advance if you are vegetarian or avoid chilli, and they will adjust."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "Where is Bindu?", "a": "Bindu is the last Indian village up the Jaldhaka valley, on the Bhutan border in Kalimpong district's Gorubathan area. It is about 10–15 km beyond Jhalong and about 110–120 km from Siliguri, reached through the Dooars via Malbazar and Chalsa."},
+    {"q": "Can we cross into Bhutan from Bindu?", "a": "No. There is no official border crossing for travellers at Bindu. Indian and other visitors enter Bhutan at Phuentsholing, opposite Jaigaon, with the documents and fees Bhutan currently requires. Do not cross the river."},
+    {"q": "What is there to see in Bindu?", "a": "The barrage across the Jaldhaka, the river and the Bhutan slopes opposite, cardamom and ginger farms, river birds and village life. It is a place for a quiet hour or a quiet night rather than sightseeing."},
+    {"q": "Is Bindu worth visiting?", "a": "As a short trip from Jhalong, yes: it is the end of the road and a strong view. As an overnight, it suits people who want silence and a homestay with no other tourists. Do not travel from Siliguri just for Bindu."},
+    {"q": "How do I reach Bindu?", "a": "Via Jhalong, about 30–40 minutes up the valley road. A car from Jhalong costs about ₹800–1,200 return with waiting, and shared jeeps run a few times a day. From NJP, allow three and a half to four hours by car."},
+    {"q": "Do I need a permit for Bindu?", "a": "No special permit is required for Indian citizens as of our last check, but carry ID, as security staff near the border may ask for it. Foreign nationals should carry passports. Rules can change near borders; check current status before you travel."},
+    {"q": "What is the best time to visit Bindu?", "a": "October to April, when the road is reliable and the river low and clear. The cardamom harvest and drying fall around September to November. Avoid June to September, when slides and high water make the valley risky."},
+    {"q": "Is the Bindu barrage open to visitors?", "a": "You can view it from public areas near the road, but the structure itself is a restricted installation. Do not walk onto it or approach the gates. Follow photography signs and instructions from staff."},
+    {"q": "Is there food and water in Bindu?", "a": "A few tea stalls and small shops sell tea, snacks, instant noodles and bottled water. Homestays serve meals to guests. Carry water and snacks from Jhalong if you are only visiting for a few hours."}
+  ]
+}

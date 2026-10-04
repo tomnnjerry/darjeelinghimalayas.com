@@ -1,0 +1,16 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Trip tools: fare board, budget builder, season finder, permits · Darjeeling Himalayas{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:20px"><div class="phead__body" style="margin-top:0">
+  <p class="eyebrow">Trip tools</p><h1 class="h-1">Plan it yourself, properly</h1>
+  <p class="lede">Free tools built from our own route and price notes. Use them, then ask us if you want it booked.</p>
+</div></div></header>
+<section class="sec--tight"><div class="wrap grid grid--3">
+  <a class="gcard" href="{% url 'fares' %}"><span class="gcard__cat">{% icon "jeep" %}Fares</span><b>Jeep fare board</b><p>Shared and reserved fares and times between Siliguri and the hills.</p></a>
+  <a class="gcard" href="{% url 'tool_budget' %}"><span class="gcard__cat">{% icon "rupee" %}Money</span><b>Budget builder</b><p>Pick a hill, a budget and the nights. See what the trip costs, line by line.</p></a>
+  <a class="gcard" href="{% url 'tool_season' %}"><span class="gcard__cat">{% icon "calendar" %}Season</span><b>Season finder</b><p>Choose a month and see which places are at their best.</p></a>
+  <a class="gcard" href="{% url 'tool_permits' %}"><span class="gcard__cat">{% icon "shield" %}Permits</span><b>Permit checker</b><p>Which permits each hill needs, for Indian and foreign travellers.</p></a>
+  <a class="gcard" href="{% url 'glossary' %}"><span class="gcard__cat">{% icon "chat" %}Words</span><b>Hill words</b><p>Bhanjyang, pokhari, gompa, chhurpi: the words on every signboard.</p></a>
+  <a class="gcard" href="{% url 'seasons' %}"><span class="gcard__cat">{% icon "calendar" %}Almanac</span><b>Season almanac</b><p>Every hill, every month, in one table.</p></a>
+</div></section>
+{% endblock %}

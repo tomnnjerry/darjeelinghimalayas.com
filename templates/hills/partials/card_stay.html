@@ -1,0 +1,6 @@
+{% load hills %}<a class="scard rv" href="{{ s.url }}" data-item data-land="{{ s.region }}" data-region="{{ s.region }}" data-kind="{{ s.kind|slugify }}">
+  {% photo s|first_img alt=s.name sizes="(max-width: 700px) 100vw, 33vw" credit=False cls="photo--ridge" %}
+  <span class="pcard__meta"><span>{{ s.kind }}</span><span class="pcard__alt">{{ s.place_obj.name }}</span></span>
+  <b>{{ s.name }}</b>
+  {% if s.price_band %}<span class="scard__band">{{ s.price_band }}</span>{% endif %}
+</a>

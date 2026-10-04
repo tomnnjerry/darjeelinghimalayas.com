@@ -1,0 +1,68 @@
+{
+  "slug": "darjeeling-family-hills-4n",
+  "title": "Darjeeling with children",
+  "region": "darjeeling",
+  "nights": 4,
+  "themes": ["family-trips", "toy-train", "kanchenjunga-views", "monasteries"],
+  "tier": "Comfort",
+  "travel_mode": "Reserved car",
+  "stops": [{"place": "darjeeling", "nights": 4}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 25000,
+  "cost_split": [
+    {"item": "Reserved SUV for transfers, Tiger Hill and a sightseeing day", "inr": 7000},
+    {"item": "Hotel near the Mall, 4 nights in a better room with breakfast", "inr": 9000},
+    {"item": "Steam joyride to Ghoom", "inr": 1800},
+    {"item": "Lunches, dinners and snacks", "inr": 5700},
+    {"item": "Entry fees, ropeway and a tea tasting", "inr": 1500}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2567,
+  "meta_description": "4 nights in Darjeeling with children from ₹25,000: a steam toy train, red pandas at the zoo, the ropeway, Tiger Hill at dawn and one hotel for the whole stay.",
+  "summary": "One hotel for four nights, a reserved car, and days built around what children enjoy: a steam engine round the Batasia Loop, red pandas and snow leopards at the zoo, the ropeway, carpets woven by hand and a dawn on Tiger Hill if they can wake up. About ₹25,000 per person, twin sharing.",
+  "intro": [
+    "Children travel better with fewer moves, so we keep this to one base in Darjeeling and short outings from it. The town has more for families than its postcards show. The Padmaja Naidu Himalayan Zoological Park, opened in 1958 at about 2,100 m, runs breeding programmes for red pandas and snow leopards. The toy train, a UNESCO World Heritage Site since 1999, runs a steam joyride to Ghoom. The passenger ropeway, opened in 1968, swings down towards the tea gardens of the Rangeet valley.",
+    "And there are stories children remember. Tenzing Norgay, who reached the top of Everest in 1953, trained climbers at the institute next to the zoo, and his memorial stands there. At the Tibetan Refugee Self Help Centre, set up in October 1959, they can watch carpets woven knot by knot. We use a reserved car for the long climb from the plains and the dawn trip, choose a hotel with heaters and warm water, and leave afternoons free for naps."
+  ],
+  "highlights": [
+    "A steam joyride round the Batasia Loop to Ghoom",
+    "Red pandas and snow leopards at the Himalayan zoo",
+    "The Rangeet Valley ropeway towards the tea gardens",
+    "Kanchenjunga at dawn from Tiger Hill",
+    "Watching Tibetan carpets being woven by hand"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Darjeeling by SUV", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 70 km · 3–3.5 h by reserved SUV", "text": "Your SUV meets you at NJP or Bagdogra; a reserved SUV costs about ₹3,500–5,000 each way. The Hill Cart Road climbs through Kurseong and over the saddle at Ghoom, and children love spotting the toy train track crossing the road. Stop for a break at Kurseong if anyone feels car-sick. Check in to a hotel near the Mall with heaters and hot water, rest, and walk to Chowrasta for the evening, when families from across India gather around the square.", "meals": "Dinner", "spend": "₹2,250 SUV share + ₹600 dinner"},
+    {"day": 2, "title": "Tiger Hill dawn and the zoo", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 30 km round trip by reserved car · leaves about 4 am", "text": "If the children can face a 4 am start, take the car to Tiger Hill, 2,567 m, for the dawn over Kanchenjunga, and come back through Ghoom monastery and the Batasia Loop. Wrap everyone up: it is near freezing before sunrise. After breakfast and a rest, visit the zoo, where red pandas and snow leopards are the stars, and the Himalayan Mountaineering Institute next door, with Tenzing Norgay's memorial and the Everest Museum. A joint ticket covers both.", "meals": "Breakfast, dinner", "spend": "₹1,000 car share + ₹200 fees + ₹100–150 HMI and zoo"},
+    {"day": 3, "title": "Steam train and the ropeway", "place": "darjeeling", "overnight": "Darjeeling", "drive": "", "text": "Take the steam joyride in the morning, booked on IRCTC for roughly ₹1,500–1,800. The engine puffs round the Batasia Loop, built in 1919, where the train stops and you can walk round the war memorial garden, then climbs to Ghoom station and its small railway museum. After lunch ride the ropeway, opened in 1968, which runs down towards Singla when weather allows; it closed after an accident in 2003 and reopened in 2012. Check current status before you travel.", "meals": "Breakfast, dinner", "spend": "₹1,500–1,800 joyride + ₹200–300 ropeway"},
+    {"day": 4, "title": "Tea, carpets and the garden", "place": "darjeeling", "overnight": "Darjeeling", "drive": "Short hops by reserved car", "text": "Start with breakfast on the terrace at Keventer's, a long-running institution at Clubside. Drive down Lebong Cart Road to Happy Valley Tea Estate to see the bushes and, in season, the factory at work. Then visit the Tibetan Refugee Self Help Centre, set up in 1959, where children can watch carpets woven on the looms. After lunch walk in Lloyd Botanic Garden, laid out in 1878, below the market. Finish with cake at Glenary's on Nehru Road.", "meals": "Breakfast, dinner", "spend": "₹1,500 car share + ₹400 cafe breakfast + tea tasting"},
+    {"day": 5, "title": "Down to NJP", "place": "darjeeling", "overnight": "", "drive": "≈ 70 km · 3–3.5 h by reserved SUV", "text": "Pack after a slow breakfast and leave by late morning. Ask the driver to stop at Ghoom if you missed the monastery, or at a tea garden lay-by below Kurseong for a last family photograph among the bushes. Carry snacks and water for the car, and motion-sickness tablets if anyone needs them: the hairpins between Kurseong and Rongtong are the worst. Reach NJP or Bagdogra with time to spare; traffic around Siliguri can add an hour in the afternoon.", "meals": "Breakfast", "spend": "₹2,250 SUV share + ₹300 lunch"}
+  ],
+  "stays": ["darjeeling-dekeling-hotel", "darjeeling-lowis-jubilee-complex"],
+  "includes": ["Reserved SUV for NJP or Bagdogra transfers both ways", "Reserved car for Tiger Hill and a local sightseeing day", "Hotel near the Mall, 4 nights in a better room with breakfast, twin sharing", "Steam joyride", "Entry fees, ropeway and a tea tasting"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Extra beds for children (ask the hotel)", "Lunches beyond the estimate", "Pony rides on the Mall", "Shopping"],
+  "save_money": [
+    "Children under the hotel's age limit usually stay free on an extra mattress; ask for a family room instead of two doubles.",
+    "Book the steam joyride for the whole family together on IRCTC early; last-minute agents add a mark-up.",
+    "Skip Tiger Hill if the children are tired: from the Mall on a clear morning the same mountain fills the sky for free."
+  ],
+  "good_to_know": [
+    "Ask the hotel for heaters and confirm hot water hours; nights in December and January drop to about 2 °C.",
+    "The zoo and HMI have a weekly closing day; check current status before you travel.",
+    "Toy train joyrides and the ropeway stop for weather and maintenance: check current status before you travel.",
+    "The roads are steep; a light child carrier is easier than a pushchair in Darjeeling's lanes."
+  ],
+  "faqs": [
+    {"q": "Is Darjeeling good for a family holiday?", "a": "Yes, especially from October to December and March to May. The steam toy train, the zoo with red pandas and snow leopards, the mountaineering museum, the ropeway and the Mall all suit children. One base and short drives keep everyone rested. The town is steep, so plan short walks and rests between sights."},
+    {"q": "How much does this family trip cost?", "a": "About ₹25,000 per person, twin sharing, from NJP back to NJP, indicative for 2025–26. That covers a reserved SUV for transfers and outings, four nights in a better hotel room with breakfast, a steam joyride, entry fees, the ropeway and meals. Children sharing a room usually cost far less; ask the hotel about extra beds."},
+    {"q": "Is the toy train suitable for small children?", "a": "The two-hour joyride from Darjeeling to Ghoom and back suits most children: it stops at the Batasia Loop and Ghoom, so nobody sits for too long. The full ride from NJP takes seven to eight hours and is hard on small children. Book on IRCTC and check current status before you travel."},
+    {"q": "Should we take children to Tiger Hill?", "a": "Only if they are good early risers. Cars leave around 4 am, the top is near freezing before sunrise and crowds are heavy in October and the summer holidays. If the children are tired, sleep in: on a clear morning Kanchenjunga is visible from the Mall and Chowrasta too. Older children usually love the dawn."},
+    {"q": "What animals are at the Darjeeling zoo?", "a": "The Padmaja Naidu Himalayan Zoological Park, opened in 1958 at about 2,100 m, keeps high-altitude animals and runs breeding programmes for red pandas and snow leopards. Other Himalayan species are on show too. The ticket also covers the Himalayan Mountaineering Institute next door. The zoo has a weekly closing day, so check current status before you travel."},
+    {"q": "Will children get altitude sickness in Darjeeling?", "a": "It is unlikely. Darjeeling sits at about 2,042 m and Tiger Hill at about 2,567 m, below the heights where altitude sickness usually starts. Car-sickness on the hairpin roads is far more common: stop often, keep windows open and carry tablets if your child needs them. Keep everyone warm and well fed."},
+    {"q": "What should a family pack for Darjeeling?", "a": "Warm layers for everyone even in April, as mornings are cold: down or fleece jackets, caps, gloves and thermal tops in winter. Comfortable shoes with grip for the steep lanes, rain jackets from May, snacks and water for the drives, a small torch, and any regular medicines. A light child carrier beats a pushchair on the slopes."},
+    {"q": "Which hotels suit families?", "a": "Choose a hotel near the Mall with heaters, reliable hot water and family rooms. Dekeling Hotel, a Tibetan family-run hotel on Gandhi Road below Chowrasta, and the GTA's Lowis Jubilee Complex on Dr S.K. Pal Road are two options we reference. Ask about lifts and steps if you have elderly relatives or small children."},
+    {"q": "Can we add a village to this trip?", "a": "Yes. Lamahatta, about 23 km away on the Peshok road, makes an easy family day trip or an extra night, with a terraced eco-park, tall dhupi trees and a short trail. Lepchajagat on the Mirik road suits families who like forest walks. Add one night and keep the drive under two hours."}
+  ]
+}

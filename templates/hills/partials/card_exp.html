@@ -1,0 +1,4 @@
+{% load hills %}<a class="ecard rv" href="{{ e.url }}" data-item data-land="{{ e.region }}" data-region="{{ e.region }}" data-kind="{{ e.kind }}">
+  {% with img=e|first_img %}{% if img %}<img src="{{ img|src:500 }}" alt="" loading="lazy">{% else %}<span></span>{% endif %}{% endwith %}
+  <span><span class="ecard__kind">{% icon e.kind %}{{ e.kind|kind_name }} · {{ e.duration }}</span><b>{{ e.title }}</b><span class="small">{{ e.place_obj.name }}{% if e.cost %} · {{ e.cost|truncatechars:40 }}{% endif %}</span></span>
+</a>

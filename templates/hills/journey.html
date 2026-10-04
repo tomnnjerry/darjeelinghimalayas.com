@@ -1,0 +1,100 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}{{ j.title }} · {{ j.nights }} nights from {{ j.price_from_inr|inr }} · Darjeeling Himalayas{% endblock %}
+{% block description %}{{ j.meta_description }}{% endblock %}
+{% block og_title %}{{ j.title }} · Darjeeling Himalayas{% endblock %}
+{% block og_image %}{% with img=j|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block body_attrs %} data-land="{{ r.slug }}"{% endblock %}
+{% block fab_label %}Ask about this trip{% endblock %}{% block fab_land %}&land={{ r.slug }}&journey={{ j.title|urlencode }}{% endblock %}
+{% block crumbs %}{% endblock %}
+{% block content %}
+<header class="phead">
+  {% with img=j|first_img %}<div class="phead__img">{% if img %}<img src="{{ img|src:1920 }}" srcset="{{ img|srcset }}" sizes="100vw" alt="{{ j.title }}" fetchpriority="high">{% endif %}</div>
+  <div class="wrap phead__in">
+    {% include "hills/partials/crumbs.html" with crumbs_inline=1 %}
+    <div class="phead__body">
+      <p class="eyebrow">{{ r.name }} · {{ j.tier }} trip</p>
+      <h1 class="h-1">{{ j.title }}</h1>
+      <p class="lede">{{ j.summary }}</p>
+      <div class="milestones">
+        <span class="milestone"><span class="milestone__cap">Fare</span><span class="milestone__val">{{ j.price_from_inr|inr }}</span></span>
+        <span class="milestone"><span class="milestone__cap">Nights</span><span class="milestone__val">{{ j.nights }}</span></span>
+        <span class="milestone"><span class="milestone__cap">Per day</span><span class="milestone__val">{{ j.per_day|inr }}</span></span>
+        {% if j.max_altitude_m %}<span class="milestone"><span class="milestone__cap">Highest</span><span class="milestone__val">{{ j.max_altitude_m|intcomma_plain }}<small>m</small></span></span>{% endif %}
+        <span class="milestone"><span class="milestone__cap">Pace</span><span class="milestone__val" style="font-size:1.05rem">{{ j.pace }}</span></span>
+      </div>
+    </div>
+  </div>
+  {% if img %}<p class="phead__credit">Photo: <a href="{{ img.source }}" rel="noopener" target="_blank">{{ img|short_credit }}</a>, Wikimedia Commons</p>{% endif %}{% endwith %}
+</header>
+
+<section class="sec">
+  <div class="wrap prail">
+    <div>
+      <div class="stops" style="margin-bottom:26px">{% for s in j.stop_objs %}<a class="chip" href="{{ s.obj.url }}">{% icon "pin" %}{{ s.obj.name }} · {{ s.nights }}N</a>{% if not forloop.last %}<span class="stops__arrow">→</span>{% endif %}{% endfor %}</div>
+      {% for x in j.intro %}<p>{{ x }}</p>{% endfor %}
+      {% if j.highlights %}<h2 class="h-2" style="margin:34px 0 16px">Why this trip</h2><ul class="ticks">{% for h in j.highlights %}<li>{{ h }}</li>{% endfor %}</ul>{% endif %}
+
+      <h2 class="h-2" style="margin:44px 0 6px">Day by day</h2>
+      <p class="muted small">{{ j.start }} to {{ j.end }} · {{ j.travel_mode }}</p>
+      <div class="days">{% for d in j.days %}<article class="day rv">
+        <div class="day__no"><small>Day</small><b>{{ d.day|pad2 }}</b></div>
+        <div>
+          <h3>{{ d.title }}</h3>
+          <p class="day__meta">{% if d.overnight %}<span>{% icon "bed" %}{{ d.overnight }}</span>{% endif %}{% if d.drive %}<span>{% icon "jeep" %}{{ d.drive }}</span>{% endif %}{% if d.meals %}<span>{% icon "food" %}{{ d.meals }}</span>{% endif %}</p>
+          <p>{{ d.text }}</p>
+          {% if d.spend %}<p class="day__spend">Spend today: {{ d.spend }}</p>{% endif %}
+        </div>
+      </article>{% endfor %}</div>
+
+      <div class="grid grid--2" style="margin-top:44px">
+        {% if j.includes %}<div><h2 class="h-3" style="margin-bottom:14px">Included</h2><ul class="ticks">{% for x in j.includes %}<li>{{ x }}</li>{% endfor %}</ul></div>{% endif %}
+        {% if j.excludes %}<div><h2 class="h-3" style="margin-bottom:14px">Not included</h2><ul class="ticks ticks--x">{% for x in j.excludes %}<li>{{ x }}</li>{% endfor %}</ul></div>{% endif %}
+      </div>
+      {% if j.save_money %}<h2 class="h-2" style="margin:44px 0 16px">Three ways to spend less</h2><ul class="ticks ticks--save">{% for x in j.save_money %}<li>{{ x }}</li>{% endfor %}</ul>{% endif %}
+      {% if j.good_to_know %}<h2 class="h-2" style="margin:44px 0 16px">Good to know</h2><ul class="ticks">{% for x in j.good_to_know %}<li>{{ x }}</li>{% endfor %}</ul>{% endif %}
+    </div>
+    <aside class="prail__side">
+      {% include "hills/partials/ledger.html" %}
+      <a class="btn btn--foil btn--block" href="{% url 'plan' %}?from={{ request.path|urlencode }}&land={{ r.slug }}&journey={{ j.title|urlencode }}" data-cta="trip-side-plan">Check dates and the real cost</a>
+      <div>{% include "hills/partials/mbar.html" with bar=j.bar label=j.best_label %}</div>
+      {% if j.themes %}<div class="chips">{% for t in j.themes %}<a class="chip" href="{{ t|theme_url }}">{% icon "leaf" %}{{ t|theme_name }}</a>{% endfor %}</div>{% endif %}
+    </aside>
+  </div>
+</section>
+
+<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">The route</p><h2 class="h-2">Where the trip goes</h2></div></div>
+    {% atlas map_points region=r.slug route=True %}
+  </div>
+</section>
+
+{% if j.stay_objs %}
+<section class="sec">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">Where you sleep</p><h2 class="h-2">Stays on this trip</h2></div></div>
+    <div class="grid grid--3">{% for s in j.stay_objs %}{% include "hills/partials/card_stay.html" %}{% endfor %}</div>
+  </div>
+</section>
+{% endif %}
+
+<section class="sec"><div class="wrap wrap--narrow">{% include "hills/partials/faq.html" with faqs=j.faqs faq_title="Questions about this trip" %}</div></section>
+
+{% if related %}
+<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">Other tickets</p><h2 class="h-1">More {{ r.short }} trips</h2></div></div>
+    <div class="tickets">{% for j in related %}{% include "hills/partials/ticket.html" %}{% endfor %}</div>
+  </div>
+</section>
+{% endif %}
+
+<div class="buybar" data-buybar hidden>
+  <div class="wrap buybar__in">
+    <div class="buybar__t"><b>{{ j.title }}</b><small>{{ j.nights }} nights · {{ j.tier }} · per person</small></div>
+    <span class="buybar__fare">{{ j.price_from_inr|inr }}</span>
+    <a class="btn btn--foil btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}&land={{ r.slug }}&journey={{ j.title|urlencode }}" data-cta="buybar-plan">Check dates</a>
+  </div>
+</div>
+{% endblock %}
+{% block cta %}{% include "hills/partials/cta.html" with cta_land=r.slug %}{% endblock %}

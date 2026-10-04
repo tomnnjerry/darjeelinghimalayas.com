@@ -1,0 +1,69 @@
+{
+  "slug": "kalimpong-neora-valley-birding-5n",
+  "title": "Neora Valley birding from Lava and Kolakham",
+  "region": "kalimpong",
+  "nights": 5,
+  "themes": ["wildlife-birds", "homestays", "kanchenjunga-views", "photography"],
+  "tier": "Value",
+  "travel_mode": "Mixed",
+  "stops": [{"place": "lava", "nights": 3}, {"place": "kolakham", "nights": 2}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 18500,
+  "cost_split": [
+    {"item": "Shared jeeps Siliguri–Kalimpong and back, plus car shares to Lava, Kolakham and down again", "inr": 4500},
+    {"item": "WBFDC lodge in Lava, 3 nights, and a Kolakham homestay, 2 nights, with dinner and breakfast", "inr": 9000},
+    {"item": "Lunches, tea and snacks", "inr": 2200},
+    {"item": "Neora Valley entry, guide and vehicle fee for one day, plus a shared birding guide for two mornings", "inr": 2800}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Balanced",
+  "max_altitude_m": 2195,
+  "meta_description": "5 nights from ₹18,500: dawn birding at Lava, a permitted day inside Neora Valley National Park, then Kolakham homestays on the park edge and Changey Falls.",
+  "summary": "Five nights for birders, about ₹18,500 per person. Three nights at Lava, about 2,195 m, with a guided day inside Neora Valley National Park on a forest permit, then two nights in the Kolakham homestays on the park's edge, where dawn walks along the forest line and Changey Falls fill the last days.",
+  "intro": [
+    "Neora Valley National Park was set up in 1986 and climbs from 183 m to about 3,200 m; its high point, Rachela Danda at roughly 3,150 m, lies on the Sikkim and Bhutan side. The park borders Sikkim and the Samtse district of Bhutan, and the Neora river that drains it is Kalimpong town's main source of water. That spread of altitude is why birders come. Satyr tragopan lives in the upper forest, alongside red panda, clouded leopard and Himalayan black bear, though few day visitors see any of the four. Flycatchers, sunbirds and woodpeckers are the everyday reward.",
+    "We plan this as a slow birding trip, not a sightseeing run. Lava is the gateway: the forest permit and the compulsory local guide come from the Lava range office, and the park closes in the monsoon, roughly mid-June to mid-September, so check current status before you travel. Kolakham, 8 km on at about 1,981 m, sits on the park boundary. The drive up from Siliguri normally takes NH10, closed again and again since October 2023; the other roads are the Gorubathan–Lava road (NH717A), Gajoldoba and Odlabari, or Darjeeling and Peshok, so check current status before you travel."
+  ],
+  "highlights": [
+    "A full guided day inside Neora Valley National Park, on permit",
+    "First-light birding on the forest edge at Lava, about 2,195 m",
+    "Kagyu Thekchen Ling Monastery, opened beside the Neora reservoir in 1990",
+    "Two nights in Kolakham, 1,981 m, right on the park boundary",
+    "Changey Falls, a 900 m walk from the roadhead near Kolakham"
+  ],
+  "days": [
+    {"day": 1, "title": "Siliguri to Lava by jeep and car", "place": "lava", "overnight": "Lava", "drive": "≈ 3–3.5 h by shared jeep to Kalimpong, then ≈ 32 km · 1.5–2 h by car", "text": "From NJP or Bagdogra, take an auto to the SNT or Panitanki jeep stands in Siliguri and buy a seat to Kalimpong for ₹200–300. The usual road runs up NH10 beside the Teesta. NH10 has closed many times since October 2023; on those days jeeps go round by Gajoldoba and Odlabari or via Darjeeling and Peshok, and some cars take the Gorubathan–Lava road, NH717A, straight to Lava. Check current status before you travel. Afternoon jeeps from Kalimpong to Lava are rare, so we hire a car for the last 30–34 km via Algarah, ₹2,500–3,000 for the vehicle. Check in at the WBFDC Lava Eco Tourism Centre and order dinner from the canteen.", "meals": "Dinner", "spend": "₹200–300 jeep seat + half of a ₹2,500–3,000 car"},
+    {"day": 2, "title": "Forest-edge birding and the Lava monastery", "place": "lava", "overnight": "Lava", "drive": "", "text": "Be outside at first light, when the forest around the eco centre is at its busiest; flycatchers, sunbirds and woodpeckers are the usual company. A local birding guide for the morning helps with calls and with paths that are safe to walk. After breakfast, go to the Lava range office to arrange tomorrow's permit, guide and vehicle, and carry photo ID. In the afternoon walk to Kagyu Thekchen Ling Monastery beside the Neora reservoir. It was founded by the 3rd Jamgon Kongtrul Rinpoche and opened on 6 June 1990. The Neora river, which supplies Kalimpong town, drains the park you enter tomorrow. If it is a Tuesday, look in on the weekly haat.", "meals": "Breakfast, dinner", "spend": "₹200 lunch + ₹400–600 guide share"},
+    {"day": 3, "title": "A permitted day inside Neora Valley", "place": "lava", "overnight": "Lava", "drive": "Forest vehicle, set by the Lava range office", "text": "This is the day the trip is built around. With the permit, the compulsory local guide and the forest vehicle arranged at the Lava range office, we spend the morning and early afternoon inside Neora Valley National Park. Expect about ₹150–300 entry per person, ₹600–1,000 a day for the guide and a vehicle fee; the route depends on what the range office allows that day. Walk quietly, in a small group, and stop often. Satyr tragopan, red panda and clouded leopard live here but keep to the higher forest; birds, fresh tracks and very old trees are the realistic haul. The park shuts roughly mid-June to mid-September, so check current status before you travel.", "meals": "Breakfast, dinner", "spend": "₹150–300 entry + guide and vehicle share + ₹200 lunch"},
+    {"day": 4, "title": "Changey Falls and on to Kolakham", "place": "kolakham", "overnight": "Kolakham", "drive": "≈ 8 km · 30 min by car, plus ≈ 4 km to the falls roadhead", "text": "Take a last dawn walk at Lava, then a car share for the 8 km to Kolakham, about 1,981 m. After lunch, drive about 4 km from Kolakham to the roadhead for Changey Falls and walk the last 900 m down; the climb back up is the harder half, so take it slowly and watch the trees on the way. Kolakham's families run homestays along the park boundary. Local accounts say the village was founded by Ujir Man Rai Samsuhang, and some people still call it Rai Gaon; ask your host, who may tell the story with details of their own. Dinner is with the family.", "meals": "Breakfast, dinner", "spend": "₹600–900 car share + ₹200 lunch"},
+    {"day": 5, "title": "A slow birding day on the park boundary", "place": "kolakham", "overnight": "Kolakham", "drive": "", "text": "Kolakham looks towards Kanchenjunga, so start with tea outside at sunrise; October to December gives the clearest mornings. Then walk the village lanes and forest edges with your host or a local guide, keeping to roads and paths outside the park boundary, since entry needs the Lava permit. Birds are most active for the first three hours of light. Keep the middle of the day for rest, notes and photos, and go out again from about 3 pm, when the forest stirs a second time. Pack the evening before: tomorrow is a long day of roads, and an early start gives you more room if a diversion is needed.", "meals": "Breakfast, dinner", "spend": "₹200 lunch + ₹400–600 guide share"},
+    {"day": 6, "title": "Kolakham down to NJP or Bagdogra", "place": "kolakham", "overnight": "", "drive": "≈ 38 km by car to Kalimpong, then ≈ 3–3.5 h by shared jeep", "text": "Leave after an early breakfast. A car share takes you the 38 km back to Kalimpong through Lava and Algarah; if a shared jeep is running from Lava that morning, you can switch to it there, so ask your host the night before. From the Kalimpong motor stand, shared jeeps run to Siliguri for ₹200–300 a seat. If NH10 is closed, as it has been repeatedly since October 2023, jeeps take the Gajoldoba and Odlabari or the Darjeeling and Peshok diversions, or a car can come down the Gorubathan–Lava road instead. Check current status before you travel and book an evening train or flight.", "meals": "Breakfast", "spend": "₹1,000–1,500 car share + ₹200–300 jeep seat"}
+  ],
+  "stays": ["lava-wbfdc-eco-tourism-centre"],
+  "includes": ["Shared jeep seats Siliguri–Kalimpong and back", "Car shares Kalimpong–Lava, Lava–Kolakham and Kolakham–Kalimpong", "3 nights at the WBFDC Lava Eco Tourism Centre with dinner and breakfast", "2 nights in a Kolakham homestay with dinner and breakfast", "One day of Neora Valley entry, guide and vehicle fee", "Two mornings with a shared local birding guide", "Lunches and tea"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Binoculars, camera gear and field guides", "Camera fees inside the national park, if charged", "Tips for guides and hosts"],
+  "save_money": [
+    "Split the Neora Valley guide fee of ₹600–1,000 a day and the vehicle fee with other birders you meet at the Lava range office.",
+    "Ride a shared jeep as far as Kalimpong for ₹200–300 and hire a car only for the last 30–34 km to Lava.",
+    "Bird the village lanes of Kolakham with your host rather than paying for a second park day."
+  ],
+  "good_to_know": [
+    "NH10 has had repeated closures since October 2023; the other roads run via the Gorubathan–Lava road (NH717A), Gajoldoba and Odlabari, or Darjeeling and Peshok, so check current status before you travel.",
+    "Neora Valley National Park closes roughly mid-June to mid-September; permits and the compulsory guide come from the Lava range office, so check current status before you travel.",
+    "Bring your own binoculars and a field guide to Himalayan birds.",
+    "Nights at Lava and Kolakham drop close to freezing from December to February, and Lava sometimes sees snow.",
+    "Lava's weekly haat is held on Tuesdays; confirm locally, as days can shift."
+  ],
+  "faqs": [
+    {"q": "When is the best time for birding in Neora Valley?", "a": "March to May and October to December are our choice. Spring is when birds call most and move most; autumn brings clear air and steady weather. The park closes in the monsoon, roughly mid-June to mid-September, and January and February are cold at Lava's 2,195 m, though the forest is open. Closure dates are set each year by the forest department, so check current status before you travel."},
+    {"q": "How do I get a permit for Neora Valley National Park?", "a": "Go to the Lava range office with photo ID. It issues the forest permit and assigns the compulsory local guide, and a vehicle fee applies. Expect about ₹150–300 entry per person and ₹600–1,000 a day for the guide. We arrange it the day before so the morning is not lost. Rules, fees and open dates change, so check current status before you travel."},
+    {"q": "Which birds can we expect around Lava and Kolakham?", "a": "Flycatchers, sunbirds and woodpeckers are the birds you will see most along the forest edge at both villages. Satyr tragopan, a pheasant of the upper forest, lives in the park but is shy and hard to find on a single day. We do not promise any one species. Early mornings, quiet walking and a local guide who knows the calls make the biggest difference."},
+    {"q": "Is there a real chance of seeing a red panda?", "a": "A small one, and we would rather be plain about it. Red panda lives in Neora Valley National Park, but in the higher, thicker forest that day routes rarely reach. Most visitors see birds, tracks and old trees instead. If a red panda is your goal, go in a small, quiet group with a good guide, and treat a sighting as luck rather than a plan."},
+    {"q": "How much does this birding trip cost?", "a": "About ₹18,500 per person, twin sharing, from NJP or Bagdogra back again, indicative for 2025–26. That covers shared jeeps and car shares, three nights at the Lava forest lodge and two in a Kolakham homestay with dinner and breakfast, lunches, one day of Neora Valley entry with guide and vehicle, and two shared birding mornings. Solo travellers pay more for rooms and guides."},
+    {"q": "Where do we stay in Lava and Kolakham?", "a": "In Lava, the WBFDC Lava Eco Tourism Centre has cottages and tents in a forest compound for about ₹2,000–3,000 a room, with meals ordered ahead from its canteen; for birders, waking inside the forest compound is the main draw. In Kolakham, family homestays charge about ₹1,300–2,200 per person with dinner and breakfast. Book both ahead for October and November."},
+    {"q": "How far is Kolakham from Lava?", "a": "About 8 km by road, roughly 30 minutes by car, and 38 km from Kalimpong. Kolakham sits at about 1,981 m on the edge of Neora Valley National Park, a little lower than Lava. Changey Falls is about 4 km from Kolakham by road, then a 900 m walk from the roadhead. Shared jeeps rarely run this stretch, so a car share is usual."},
+    {"q": "Is NH10 open for the drive up to Lava?", "a": "NH10, from Sevoke up the Teesta, has had repeated landslide and flood closures since the October 2023 Teesta flood. For Lava, the Gorubathan–Lava road (NH717A) is often the best way round; jeeps also use Gajoldoba and Odlabari, or Darjeeling and Peshok. Ask at the Siliguri jeep stand the day before, and check current status before you travel."},
+    {"q": "What should we pack for birding at Lava?", "a": "Binoculars, a field guide or app for Himalayan birds, and clothes in dull greens and browns. Add a rain shell, since mist and showers come in fast, and warm layers for dawn, when it is coldest. Good walking shoes with grip matter on wet forest paths. Carry a torch, a small notebook and cash: shops are few and card machines rare."}
+  ]
+}

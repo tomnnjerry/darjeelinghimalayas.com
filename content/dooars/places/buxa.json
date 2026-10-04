@@ -1,0 +1,115 @@
+{
+  "slug": "buxa", "name": "Buxa", "name_local": "बक्सा", "region": "dooars",
+  "kind": "trek stop",
+  "wiki": "Buxa Fort", "image_query": "Buxa Fort ruins Alipurduar",
+  "lat": 26.77, "lng": 89.58, "altitude_m": 867,
+  "tagline": "A Bhutanese fort, a British prison, a Tibetan refuge",
+  "meta_description": "Buxa guide: the 5 km walk to Buxa Fort, its history as a 1930s detention camp and 1959 Tibetan refuge, Lepchakha, Buxa Tiger Reserve, homestays and costs.",
+  "summary": "Buxa Fort stands at 867 m in the Buxa Tiger Reserve, a 5 km forest walk above Santalabari. It guarded a Bhutanese pass, held Indian revolutionaries in the 1930s and sheltered Tibetan monks after 1959. Homestays in the village and at Lepchakha make it the best short trek in the Dooars.",
+  "local_story": {"title": "Three lives of a fort in the forest", "paras": [
+    "Buxa began as a Bhutanese frontier fort guarding the Buxa Duar, one of the passes from the Bengal plains into Bhutan. East India Company troops took it briefly in 1772–73 during a quarrel over Cooch Behar, and gave it back under the 1774 peace. In the Duar War of 1864–65 the British occupied it again, and the Treaty of Sinchula, signed on 11 November 1865, made it British for good.",
+    "The British rebuilt it in stone and turned it into a prison. From 1930 to 1937 Buxa was a detention camp under the Bengal Criminal Law Amendment Act, holding revolutionaries of the Anushilan Samiti and Jugantar groups without trial in this remote forest. In 1931 the detainees sent greetings to Rabindranath Tagore for his 70th birthday, and he replied with a poem for them. Buxa was a special jail again in 1942–47 and 1949–51.",
+    "In 1959, after the Tibetan uprising, monks who had escaped through Bhutan, many from Drepung and the other great Lhasa monasteries, were settled here at Buxa Chogar, using the old camp. Conditions were harsh and many fell ill. By 1971 they had moved to Bylakuppe and Mundgod in Karnataka, where those monasteries were re-founded. Today the fort is a ruin with a memorial, inside the Buxa Tiger Reserve."]},
+  "did_you_know": [
+    "Tibetan monks lived at Buxa from 1959 to about 1971, keeping their monastic studies alive in the old prison camp before moving to Karnataka.",
+    "In December 2021 a camera trap in Buxa's East Damanpur range recorded an adult male tiger, the first direct evidence of a tiger in the reserve since 1998.",
+    "Buxa was declared India's 15th tiger reserve in 1983; the reserve covers roughly 760 km² of forest, hills and river beds along the Bhutan border."
+  ],
+  "intro": [
+    "The walk to Buxa starts at Santalabari, where the road ends, and climbs about 5 km on an old stone path through forest. It is steady rather than steep, and in two or three hours you come out at a ridge village with tea shops, homestays and, a few minutes away, the stone ruins of the fort and a memorial to the freedom fighters held there.",
+    "Stay the night. Buxa's homestays, many run by Dukpa families whose roots lie in Bhutan, are simple and warm, and the evening view over the plains is wide. Next morning walk on to Lepchakha for the sunrise and the long view over the Dooars, then go down to Rajabhatkhawa or on to Jayanti."
+  ],
+  "facts": [["Best months", "Oct – Apr"], ["Nights we suggest", "1–2"], ["From Siliguri", "≈ 180 km to Santalabari · 5 h, then 5 km walk"], ["Altitude", "867 m (fort)"], ["Known for", "Buxa Fort, Lepchakha, forest walks"], ["Network", "Weak; Jio and BSNL in places"]],
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 0, 2, 2, 2],
+  "nights": "1–2",
+  "costs": [["Homestay with dinner and breakfast", "₹1,200–1,800 pp"], ["Porter or guide from Santalabari", "₹500–800 a day"], ["Forest entry and vehicle fees", "About ₹100–300 (indicative)"], ["Car Alipurduar–Santalabari", "₹1,500–2,000"], ["Tea and Maggi at the fort village", "₹50–120"], ["Buxa jeep safari, six-seat jeep", "₹2,500–3,500 (indicative)"]],
+  "highlights": [
+    {"title": "The stone path to Buxa", "text": "Five kilometres up from Santalabari through forest, on a path laid long before cars. Birds, butterflies and the sound of streams all the way."},
+    {"title": "The fort and its memorial", "text": "Stone ruins of the old fort and prison, with a memorial to the revolutionaries detained in the 1930s and a plaque recalling Tagore's poem for them."},
+    {"title": "Lepchakha at sunrise", "text": "About an hour and a half above Buxa, Lepchakha's ridge looks south over the Dooars plains and its rivers. Go early for the light."},
+    {"title": "Dukpa homestays", "text": "Families of the Dukpa community, of Bhutanese origin, run many homestays in the Buxa hills. Simple rooms, home food and evening stories."},
+    {"title": "Buxa Tiger Reserve safaris", "text": "Jeep safaris from Rajabhatkhawa and Jayanti run through forest and river beds, with elephants, gaur and deer, and the slim chance of the reserve's returning tigers."},
+    {"title": "Rajabhatkhawa", "text": "The gateway village where, by local story, a Cooch Behar king finally ate rice after making peace with Bhutan. Its interpretation centre introduces the reserve."}
+  ],
+  "how_to_reach": [
+    {"mode": "Car to Santalabari", "text": "From Alipurduar about 30 km via Rajabhatkhawa, one hour, ₹1,500–2,000. From Madarihat about 55–65 km, one and a half to two hours. From NJP about 180 km, five hours."},
+    {"mode": "Train", "text": "Dooars line trains reach Rajabhatkhawa and Alipurduar Junction. From Rajabhatkhawa, Santalabari is about 15 km by local car. Check the current timetable."},
+    {"mode": "On foot from Santalabari", "text": "The 5 km stone path to Buxa takes two to three hours up. Porters and guides wait at Santalabari; ₹500–800 a day."}
+  ],
+  "where_to_stay": "Buxa village, around the fort, has a cluster of family homestays charging about ₹1,200–1,800 per person with dinner and breakfast; Lepchakha above has a few more with a wider view. Facilities are simple: shared or basic attached bathrooms, limited hot water, power that may cut. At the bottom, Santalabari and Rajabhatkhawa have homestays and small lodges for travellers who arrive late, and Jayanti is 30 km away.",
+  "stays": [],
+  "tips": [
+    "Start the walk from Santalabari by noon so you reach Buxa well before dark.",
+    "Carry one daypack and leave heavy bags in the car or a Rajabhatkhawa lodge.",
+    "Pay forest entry fees at the Rajabhatkhawa or Santalabari check gate; carry ID.",
+    "Wear long socks after rain; leeches are common on the path from May to October.",
+    "The reserve's tourism zones close in the monsoon; check current status before you travel."
+  ],
+  "themes": ["treks", "homestays", "solo-backpacking", "wildlife-birds", "photography"],
+  "nearby": ["jayanti", "chilapata", "jaldapara"],
+  "experiences": [
+    {"slug": "buxa-fort-walk-from-santalabari", "title": "Walk up to Buxa Fort from Santalabari",
+     "kind": "trek", "duration": "2–3 hours up, 1.5 hours down", "best_time": "Morning, Oct–Apr", "cost": "Forest fees about ₹100–300; porter ₹500–800 (indicative)",
+     "image_query": "Buxa Fort trek path", "wiki": "Buxa Fort",
+     "summary": "A 5 km stone path climbs from Santalabari through the forest of Buxa Tiger Reserve to Buxa Fort at 867 m. The walk is steady, shaded and full of birds, and ends among the ruins of a fort with a remarkable history.",
+     "body": ["Santalabari is the end of the road, with a forest check gate, a few shops and porters waiting for walkers. From there the old path rises through mixed forest, paved in places with stones laid long ago, and crosses small streams. It gains a few hundred metres over 5 km, so the pace is easy; most people take two to three hours with stops.",
+              "At the top you reach Buxa village, a spread of homes, tea shops and homestays on a ridge, and a short walk on are the fort's stone ruins and the memorial. Plaques recall the detention camp of the 1930s and the revolutionaries held here, and Tagore's 1931 poem for them. Little of the Tibetan years remains visible, but ask in the village; older residents may remember stories.",
+              "Carry water, a snack and a rain layer. In the dry season the path is easy underfoot; after rain it is slippery, with leeches. Forest rules apply: stay on the path, do not leave litter and keep noise down."],
+     "good_for": ["students", "solo", "couples", "families"],
+     "faqs": [
+       {"q": "How difficult is the Buxa Fort walk?", "a": "Easy to moderate. It is about 5 km on a stone path with a steady climb to around 850 m, two to three hours up for most walkers. Children used to walking and fit older people manage it slowly. Good shoes and water are enough; no technical skill is needed."},
+       {"q": "Do I need a guide for the Buxa walk?", "a": "The path is clear and many walk it without a guide, but a local guide or porter adds safety, stories and help with bags for about ₹500–800. Forest rules sometimes require guides for routes beyond the village; check at the gate."},
+       {"q": "Can we do the Buxa Fort walk as a day trip?", "a": "Yes, from Rajabhatkhawa, Jayanti or Alipurduar with an early start: drive to Santalabari, walk up in the morning, see the fort and walk down in the afternoon. A night at the top is much better, with sunset, dawn and Lepchakha."}
+     ]},
+    {"slug": "buxa-lepchakha-sunrise", "title": "Sunrise over the Dooars from Lepchakha",
+     "kind": "viewpoint", "duration": "3–4 hours return from Buxa", "best_time": "Dawn, Oct–Mar", "cost": "Free; guide ₹500–800",
+     "image_query": "Lepchakha Buxa view Dooars", "wiki": "",
+     "summary": "Above Buxa, a steeper path climbs to Lepchakha, a small ridge village with one of the widest views in north Bengal: the Dooars plain, the forests and the silver threads of its rivers spread out to the south.",
+     "body": ["Lepchakha sits higher on the ridge above Buxa Fort, reached by a path that climbs through forest and small fields. Most walkers take about an hour and a half up. The village is small, with a few homes and homestays, and its open slope faces south over the plains.",
+              "On a clear morning the view is huge: the green of Buxa's forest dropping away below, then the patchwork of tea gardens and fields, and the rivers of the Dooars shining as they braid towards the Brahmaputra. Clouds sometimes fill the plain below like a sea.",
+              "Leave Buxa before dawn with a torch, or stay a night at Lepchakha itself to be there at first light. Carry a warm layer; the ridge is windy. Haze often builds by mid-morning, especially from March, so early is everything."],
+     "good_for": ["photographers", "couples", "solo", "students"],
+     "faqs": [
+       {"q": "How far is Lepchakha from Buxa Fort?", "a": "About 4–5 km of steeper path above Buxa, roughly an hour and a half up and an hour down for most walkers. From Santalabari, the total to Lepchakha is about 9–10 km. Many people sleep at Buxa and walk up to Lepchakha before dawn."},
+       {"q": "Can we stay overnight at Lepchakha?", "a": "Yes, a few family homestays offer simple rooms with meals at about ₹1,200–1,800 per person. Book ahead or ask in Buxa village. Facilities are basic, nights are cool and power can be unreliable, but sunrise from the doorstep makes up for it."},
+       {"q": "When is the view from Lepchakha clearest?", "a": "October to February, at dawn, after rain has cleared the air. From March, haze over the plains builds and views shorten. Monsoon months are cloudy and the paths slippery, and parts of the reserve are closed."}
+     ]},
+    {"slug": "buxa-tiger-reserve-jeep-safari", "title": "Jeep safari in Buxa Tiger Reserve",
+     "kind": "wildlife", "duration": "2 hours", "best_time": "Morning or afternoon slot, Nov–Mar", "cost": "₹2,500–3,500 a jeep for up to 6 (indicative)",
+     "image_query": "Buxa Tiger Reserve forest jeep", "wiki": "Buxa Tiger Reserve",
+     "summary": "Buxa Tiger Reserve's jeep safaris run from Rajabhatkhawa and Jayanti through forest, grassland and river beds. Elephants, gaur, deer and birds are the usual rewards; the reserve's tiger, recorded again in 2021, is the dream.",
+     "body": ["Buxa Tiger Reserve was created in 1983 and covers roughly 760 km² along the Bhutan border, from the plains to the Sinchula hills. For years it was a tiger reserve with no confirmed tigers: none were directly recorded from 1998 until December 2021, when a camera trap in the East Damanpur range photographed an adult male. Grassland restoration and prey recovery have since become the focus.",
+              "Safaris are booked through the forest department and start from points such as Rajabhatkhawa and Jayanti, with registered jeeps and guides. Routes cross sal forest, river beds and open grass. Elephants and gaur are common, with sambar, barking deer, wild boar and many birds. Leopards are present but seldom seen; tigers almost never.",
+              "Treat it as a forest drive rather than a tiger hunt and you will enjoy it. Morning and late afternoon are best. Check current status before you travel; routes and slots change, and parts of the reserve were affected by the October 2025 floods."],
+     "good_for": ["families", "photographers", "first-timers"],
+     "faqs": [
+       {"q": "Are there tigers in Buxa Tiger Reserve?", "a": "Very few. No tiger was directly recorded from 1998 until December 2021, when a camera trap photographed an adult male. Since then there have been occasional records and plans to strengthen the population. Visitors should not expect to see one."},
+       {"q": "Where do Buxa safaris start?", "a": "From forest department points such as Rajabhatkhawa and Jayanti; your booking names the reporting place. Rajabhatkhawa is about 15–17 km from Alipurduar. Arrive 30 minutes early with ID. Routes change with season and repairs."},
+       {"q": "What animals are seen on a Buxa safari?", "a": "Elephants and gaur are the most common large animals, with sambar, barking deer, wild boar and many birds, including hornbills. Leopards are present but rarely seen. Rhinos are not part of Buxa's usual fauna."}
+     ]},
+    {"slug": "buxa-rajabhatkhawa-story-stop", "title": "Rajabhatkhawa: where the king ate rice",
+     "kind": "culture", "duration": "1 hour", "best_time": "Daytime, Oct–May", "cost": "Small entry fee at the centre (indicative)",
+     "image_query": "Rajabhatkhawa nature interpretation centre", "wiki": "Rajabhatkhawa",
+     "summary": "Rajabhatkhawa, the gateway village to Buxa, carries one of the Dooars' best place-name stories. Stop at its nature interpretation centre to understand the tiger reserve before you walk or drive in.",
+     "body": ["The name means, in Bengali and Rajbanshi, the place where the king ate rice: raja (king), bhat (rice), khawa (eating). The local story, told as an anecdote rather than recorded history, is that around 1800 a king of Cooch Behar vowed not to eat rice until the Bhutanese left this land. When the Bhutan ruler agreed to withdraw, the two met in the forest and the king broke his vow with a meal of rice. Whatever its truth, it captures the long contest between Cooch Behar and Bhutan over the Duars.",
+              "The forest department's nature interpretation centre at Rajabhatkhawa introduces the reserve's forests, rivers, animals and people, with displays that help make sense of what you will see on the trail. Opening hours and fees change, so ask locally.",
+              "Rajabhatkhawa also has the forest office, a railway station on the Dooars line and a few homestays and lodges, which makes it a practical base for early safaris and for the Buxa walk."],
+     "good_for": ["families", "students", "first-timers"],
+     "faqs": [
+       {"q": "What does Rajabhatkhawa mean?", "a": "It means the place where the king ate rice, from raja (king), bhat (rice) and khawa (eating) in Bengali and Rajbanshi. Local tradition says a Cooch Behar king vowed not to eat rice until the Bhutanese left, and ended his fast here after they agreed to withdraw, around 1800."},
+       {"q": "Is the Rajabhatkhawa interpretation centre worth visiting?", "a": "Yes, for a short visit before a safari or the Buxa walk, especially with children. It explains the reserve's habitats, animals and conservation work. Hours and fees vary, so ask locally. It takes about 30–45 minutes."},
+       {"q": "Can we stay in Rajabhatkhawa?", "a": "Yes. There are a few homestays and small lodges, useful if you arrive late or want an early safari. It is about 15–17 km from Alipurduar and about 15 km from Santalabari, the road head for the Buxa walk."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "What is the history of Buxa Fort?", "a": "Buxa was a Bhutanese frontier fort guarding a pass into Bhutan. The British took it in the Duar War of 1864–65, rebuilt it and used it as a detention camp for revolutionaries from 1930 to 1937 and as a jail in the 1940s. From 1959 to about 1971 Tibetan monks lived there as refugees."},
+    {"q": "How do I reach Buxa Fort?", "a": "Drive to Santalabari, about 30 km from Alipurduar via Rajabhatkhawa, and walk about 5 km up a stone path, two to three hours. From NJP, Santalabari is about 180 km and five hours by car; trains on the Dooars line reach Rajabhatkhawa and Alipurduar."},
+    {"q": "Can a car go to Buxa Fort?", "a": "Cars stop at Santalabari. A rough track goes some way further and some jeeps use it, but forest rules on vehicles change, and the classic way is the walk. Check current status at the Santalabari gate."},
+    {"q": "Where to stay at Buxa?", "a": "Family homestays in Buxa village and at Lepchakha above, about ₹1,200–1,800 per person with dinner and breakfast. Rajabhatkhawa and Santalabari have homestays and lodges at the bottom. Facilities are basic; carry a torch and a power bank."},
+    {"q": "Is Buxa Fort worth visiting?", "a": "Yes, for its history and the walk. The fort is a ruin, not a restored monument, but the forest path, the memorial to the revolutionaries, the Tibetan story and the view from Lepchakha make Buxa one of the most rewarding places in the Dooars."},
+    {"q": "What is the best time to visit Buxa?", "a": "October to April, when paths are dry and views clear, especially from November to February. The monsoon brings leeches, slippery paths and closed safari zones. March and April are warmer but still good for walking."},
+    {"q": "Did Tibetan refugees live at Buxa?", "a": "Yes. After 1959, monks who escaped Tibet through Bhutan, including many from Drepung, were settled at Buxa Chogar in the old camp. They kept up their studies in hard conditions until about 1971, when they moved to Bylakuppe and Mundgod in Karnataka."},
+    {"q": "Do I need a permit for Buxa?", "a": "You pay forest entry and vehicle fees at the Rajabhatkhawa or Santalabari check gate, and carry ID; foreigners should carry passports. Rules and fees change. Check current status before you travel, especially for safaris and routes beyond the village."},
+    {"q": "How much does a Buxa trip cost?", "a": "On a budget, about ₹1,800–2,500 per person a day: homestay with meals, forest fees, a shared car share to Santalabari and a porter split between friends. Add ₹2,500–3,500 per jeep for a safari. Getting to Alipurduar by train keeps costs low."}
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "kalimpong-sillery-gaon-pedong-homestays-3n",
+  "title": "Sillery Gaon and Pedong homestays",
+  "region": "kalimpong",
+  "nights": 3,
+  "themes": ["homestays", "kanchenjunga-views", "solo-backpacking"],
+  "tier": "Shoestring",
+  "travel_mode": "Shared jeeps",
+  "stops": [{"place": "sillery-gaon", "nights": 2}, {"place": "pedong", "nights": 1}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 8000,
+  "cost_split": [
+    {"item": "Shared jeeps via Kalimpong to Pedong and back, plus the hops up to Sillery Gaon", "inr": 1700},
+    {"item": "Village homestays, 3 nights with dinner and breakfast", "inr": 5100},
+    {"item": "Lunches, tea and snacks", "inr": 900},
+    {"item": "Monastery donations and small fees", "inr": 300}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 1830,
+  "meta_description": "3 nights in Sillery Gaon and Pedong from ₹8,000 by shared jeep: Ramitey Dara above the Teesta, the Damsang fort ruins, Cross Hill and village homestays.",
+  "summary": "Three nights on the old wool road east of Kalimpong for about ₹8,000 per person. Shared jeeps to Pedong, a short hop up to Sillery Gaon at about 1,830 m for two nights of homestay meals and a chance of Kanchenjunga at dawn, then a night in Pedong for the Lepcha fort of Damsang and Cross Hill.",
+  "intro": [
+    "Pedong, 20 km east of Kalimpong at 1,240 m, was a stage on the road to Tibet. Mule caravans loaded with wool came down from Lhasa, Gyantse and Phari, through the Chumbi valley and over the Jelep La, and passed Rhenock and Pedong on their way to the Kalimpong market. The 1962 war closed the pass and the trade collapsed. Older layers remain: Sangchen Dorjee Monastery, built in the early 1700s under Bhutanese rule, and the ruins of Damsang Gadi, the fort of the Lepcha chief Gaeboo Achyok. Sillery Gaon, 5–6 km above Pedong, is a small village of homestays at about 1,830 m.",
+    "We put the two village nights first, so you wake twice in Sillery Gaon with a chance of Kanchenjunga, and the Pedong night last, closer to the jeeps home. The trip runs on shared jeeps from Siliguri to Kalimpong and on to Pedong, plus one short hop up the hill, shared or reserved, which homestays usually arrange. Expect simple rooms and home-cooked dinners and breakfasts. The drive up from Siliguri normally uses NH10, which has had repeated closures since October 2023; the newer Bagrakote–Lava–Pedong road is one of the diversions, so check current status before you travel."
+  ],
+  "highlights": [
+    "Ramitey Dara, where the Teesta is often said to make 14 turns below you",
+    "Kanchenjunga at first light from a Sillery Gaon homestay",
+    "Damsang Gadi, the Lepcha fort of Gaeboo Achyok, often dated to 1690",
+    "Cross Hill, raised in 1882 by Fr. Auguste Desgodins",
+    "Sangchen Dorjee Monastery, built in the early 1700s"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Sillery Gaon via Pedong", "place": "sillery-gaon", "overnight": "Sillery Gaon", "drive": "≈ 5–6 h by shared jeeps and a short hop", "text": "From the SNT or Panitanki stands in Siliguri, take a shared jeep to Kalimpong for ₹200–300 a seat, about 3–3.5 hours. NH10 up the Teesta has had repeated closures since October 2023; when it shuts, jeeps divert via Gajoldoba and Odlabari, the Bagrakote–Lava–Pedong road or round by Darjeeling and Peshok, so check current status before you travel. At the Kalimpong motor stand, change to a Pedong jeep, ₹80–120 for the 20 km east. Your homestay can arrange the last 5–6 km up to Sillery Gaon, shared if other guests are arriving, reserved if not. Arrive by dusk and eat dinner with the family.", "meals": "Dinner", "spend": "₹200–300 + ₹80–120 jeep seats + share of the hop up"},
+    {"day": 2, "title": "Ramitey Dara and the Teesta's turns", "place": "sillery-gaon", "overnight": "Sillery Gaon", "drive": "", "text": "Look out at first light: on clear mornings from October to April, Kanchenjunga shows across the ridges to the north-west. After breakfast walk about 3 km to Ramitey Dara, the viewpoint above the Teesta valley. The river below is often said to make 14 turns, though some count 11, and the bends are clearest before the midday cloud. Carry water and a snack. On the slopes around the village the British once planted cinchona, the tree that gives quinine. Spend the afternoon slowly. The local story is that Sillery Gaon takes its name from the sillery plant, so ask your hosts to show you one.", "meals": "Breakfast, dinner", "spend": "₹150–250 lunch and tea"},
+    {"day": 3, "title": "Down to Pedong, Damsang and Cross Hill", "place": "pedong", "overnight": "Pedong", "drive": "≈ 6 km down by shared or reserved hop", "text": "Drop down to Pedong after breakfast and leave your bag at your homestay. Walk or take a local vehicle 2–3 km to Damsang Gadi, the ruins of the fort the Lepcha chief Gaeboo Achyok built in the late 17th century, often dated to 1690, to hold off the Bhutanese Drukpas. It fell to ruin after 1864. Lepcha folklore says spirits carried smooth round stones up from the Reshi river to build it. Every 20 December, Lepchas gather here for Gaeboo Achyok's birth anniversary. In the afternoon visit Sangchen Dorjee Monastery and Cross Hill, raised in 1882 by Fr. Auguste Desgodins for missionaries lost on the way to Tibet.", "meals": "Breakfast, dinner", "spend": "₹150–250 lunch + ₹100 donations"},
+    {"day": 4, "title": "Pedong to NJP by shared jeeps", "place": "pedong", "overnight": "", "drive": "≈ 4.5–5.5 h by shared jeeps via Kalimpong", "text": "Take an early Pedong jeep back to Kalimpong, ₹80–120, and change at the motor stand for Siliguri, ₹200–300 and about 3–3.5 hours. This is the road the wool caravans used until 1962, from the Jelep La down through Pedong to the Kalimpong market, so the first hour follows their line. If you have an hour in Kalimpong, buy Kalimpong cheese or milk lollipops in the market. Leave Kalimpong by noon if you have an evening train. NH10 closures can force diversions via Gajoldoba or Peshok, so check current status before you travel and keep a few hours spare.", "meals": "Breakfast", "spend": "₹80–120 + ₹200–300 jeep seats"}
+  ],
+  "stays": [],
+  "includes": ["Shared jeep seats Siliguri–Kalimpong–Pedong and back", "Shared or reserved hops between Pedong and Sillery Gaon", "3 nights in village homestays with dinner and breakfast", "Lunches and tea", "Monastery donations"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Reserved cars from Siliguri", "Sikkim permits and trips to the Silk Route on the Sikkim side", "Tips for hosts and guides"],
+  "save_money": [
+    "Ask your homestay to put you in a shared hop with other arriving guests; a reserved car up the last 5–6 km is the single biggest extra on this trip.",
+    "Homestay rates of ₹1,300–2,200 per person include dinner and breakfast, so pack a light lunch on walking days instead of paying for a second hot meal.",
+    "Travel outside the Dashain and Tihar weeks of October–November, when Bengal holidaymakers fill rooms and rates sit at the top of the band."
+  ],
+  "good_to_know": [
+    "NH10 has had repeated closures since October 2023; the Bagrakote–Lava–Pedong road, Gajoldoba and Odlabari, and Darjeeling–Peshok are the diversions, so check current status before you travel.",
+    "Gaeboo Achyok Day falls on 20 December, when Lepchas gather at the Damsang fort ruins near Pedong.",
+    "Carry cash: village homestays rarely take cards, and Kalimpong is the nearest town with a choice of ATMs.",
+    "Mornings are clearest from October to December; mist often rises from the Teesta by late morning.",
+    "The old Silk Route through Rhenock and Zuluk lies on the Sikkim side nearby and is a separate trip with its own rules."
+  ],
+  "faqs": [
+    {"q": "Where is Sillery Gaon?", "a": "Sillery Gaon is a small homestay village at about 1,830 m, 5–6 km above Pedong in Kalimpong district, West Bengal. Pedong lies 20 km east of Kalimpong town on the old road to the Jelep La. The local story is that the village is named after the sillery plant. It looks over the Teesta valley, with Kanchenjunga visible on clear mornings."},
+    {"q": "How do I reach Sillery Gaon from NJP?", "a": "Take a shared jeep from the SNT or Panitanki stands in Siliguri to Kalimpong for ₹200–300, change to a Pedong jeep for ₹80–120, then cover the last 5–6 km in a shared or reserved hop your homestay can arrange. Allow 5–6 hours in all. NH10 has had closures since October 2023, so check current status before you travel."},
+    {"q": "How much does this Sillery Gaon and Pedong trip cost?", "a": "About ₹8,000 per person, twin sharing, from NJP or Bagdogra back again, indicative for 2025–26. Village homestays with dinner and breakfast take the largest share at ₹1,300–2,200 per person a night, and shared jeeps cost about ₹600–850 for the whole round trip. The hop up to Sillery Gaon costs more if you travel alone and reserve the car."},
+    {"q": "Does the Teesta really make 14 turns at Ramitey Dara?", "a": "Fourteen is the number usually quoted, though some people count 11, depending on light, haze and where you stand. Ramitey Dara is about 3 km on foot from Sillery Gaon. Go in the morning: the bends show most clearly before cloud builds over the valley, usually from late morning, and October to December gives the sharpest air."},
+    {"q": "Can I see Kanchenjunga from Sillery Gaon?", "a": "Yes, on clear mornings. From October to December the view is likeliest just after sunrise, and March and April can also be clear early in the day. Cloud often covers the range by late morning. From June to September you will rarely see it. Two nights in the village give you two chances, which is why we put them first."},
+    {"q": "What is Damsang Gadi?", "a": "Damsang Gadi is the ruin of a Lepcha fort about 2–3 km from Pedong, built in the late 17th century, often dated to 1690, by the Lepcha chief Gaeboo Achyok to resist the Bhutanese Drukpas. It fell to ruin after 1864. Lepcha folklore says spirits carried its round stones from the Reshi river. Lepchas gather there every 20 December."},
+    {"q": "What is Cross Hill in Pedong?", "a": "Cross Hill is a cross raised in 1882 by the French missionary Fr. Auguste Desgodins as a memorial to missionaries who died or disappeared while trying to reach Tibet. Pedong sat on the trade road to the Jelep La, the route into the Chumbi valley, which is why missionaries waited and worked here. It makes a short walk from Pedong."},
+    {"q": "Is NH10 open for the drive to Pedong?", "a": "NH10, from Sevoke up the Teesta to Teesta Bazar, has had repeated landslide and flood closures since the October 2023 Teesta flood. When it shuts, the newer Bagrakote–Lava–Pedong road, the Gajoldoba and Odlabari route, or a longer loop via Darjeeling and Peshok are used. Ask at the Siliguri jeep stand the day before, and check current status before you travel."},
+    {"q": "When is the best time to visit Sillery Gaon?", "a": "October to December brings the clearest mountain views and dry trails; nights are cold, so bring a warm layer. March to May is milder, with clear early mornings. January and February are cold but often clear, and 20 December brings Gaeboo Achyok Day at Damsang. From June to September rain, leeches and landslides make walks and roads hard."}
+  ]
+}

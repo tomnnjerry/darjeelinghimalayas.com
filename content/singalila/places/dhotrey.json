@@ -1,0 +1,173 @@
+{
+  "slug": "dhotrey",
+  "name": "Dhotrey",
+  "name_local": "",
+  "region": "singalila",
+  "kind": "forest village",
+  "wiki": "",
+  "image_query": "Dhotrey village Darjeeling forest",
+  "lat": 27.05,
+  "lng": 88.11,
+  "altitude_m": 2500,
+  "tagline": "A forest village and the short way up to Tonglu",
+  "meta_description": "Dhotrey, the forest village below Tonglu: homestays, the 6 km trail to the Singalila Ridge, jeeps from Maneybhanjan, short treks and costs.",
+  "summary": "Dhotrey is a small forest village at about 2,500 m on the eastern slope of the Singalila Ridge, about an hour by jeep from Maneybhanjan. Homestays, quiet forest and a 6 km trail up to Tonglu make it the best start for a short Singalila trek, and a peaceful night in its own right.",
+  "local_story": {
+    "title": "A village on the forest's edge",
+    "paras": [
+      "Dhotrey grew up as a forest village on the eastern flank of the Singalila Ridge, where the reserve forest that the British bought from the Sikkim Durbar in 1882 meets a strip of farmland. Families here have long lived between the two: growing potatoes, maize and vegetables on the cleared slopes, and gathering fodder and firewood from the forest under rules that tightened once Singalila became a sanctuary in 1986 and a national park in 1992.",
+      "For trekkers, Dhotrey was for years a quiet back door to the ridge. Instead of the long walk from Maneybhanjan via Chitrey and Meghma, a steep forest trail climbs from the village straight to Tonglu. As the Sandakphu trek grew busier, families opened homestays, and Dhotrey became a destination for people who want the forest, the birds and a short climb without the crowds of the main route."
+    ]
+  },
+  "did_you_know": [
+    "From Dhotrey, a forest trail of about 6 km climbs roughly 500 m to Tonglu at 3,070 m, the shortest walking route onto the Singalila Ridge.",
+    "Dhotrey lies on the eastern, Indian side of the ridge, so unlike Tumling and Jaubari it never crosses into Nepal.",
+    "The forests above Dhotrey are part of Singalila National Park, declared a wildlife sanctuary in 1986 and upgraded to a national park in 1992."
+  ],
+  "intro": [
+    "Dhotrey is what many people imagine the Darjeeling hills to be: a scatter of wooden and tin-roofed houses on a forested slope, cows in the lanes, cabbages and potatoes in small fields, and the forest rising behind it all the way to the ridge. It is quiet, a little cold and very green, and it sees far fewer visitors than Tumling or Sandakphu.",
+    "Come here for a short trek, up through the forest to Tonglu and Tumling and back down via Chitrey to Maneybhanjan, or simply for a night or two in a homestay with forest walks and birds. The jeep ride from Maneybhanjan is about an hour, and the village makes a good first night if you arrive late from Darjeeling or NJP."
+  ],
+  "facts": [
+    ["Best months", "Oct – Dec · Mar – May"],
+    ["Nights we suggest", "1–2"],
+    ["From Maneybhanjan", "≈ 1 h by jeep"],
+    ["Altitude", "≈ 2,500 m"],
+    ["Known for", "Forest homestays, Tonglu trail, birds"],
+    ["Network", "Patchy Indian signal"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1–2",
+  "costs": [
+    ["Homestay with dinner and breakfast", "₹1,200–2,000 pp"],
+    ["Shared jeep from Maneybhanjan", "≈ ₹80–150 a seat"],
+    ["Reserved jeep from Maneybhanjan", "≈ ₹1,200–1,800"],
+    ["Reserved car from Darjeeling", "≈ ₹2,500–3,500"],
+    ["Guide for the Tonglu trail", "₹1,500–2,000 a day per group"],
+    ["Tea and snacks", "₹50–120"]
+  ],
+  "highlights": [
+    {"title": "The short way onto the ridge", "text": "The forest trail from Dhotrey climbs about 500 m in 6 km to Tonglu, joining the main ridge route. It is shady, quiet and shorter than the Maneybhanjan start, ideal for a weekend trek or for families."},
+    {"title": "Forest homestays", "text": "Families in Dhotrey run simple homestays with home-cooked meals, wooden rooms and quilts. A night here is cheaper and quieter than the ridge lodges, with forest right behind the house."},
+    {"title": "Birds at the village edge", "text": "The meeting of farmland and forest makes Dhotrey good for birds: laughingthrushes, minivets, tits and, with luck, pheasants on the forest trails at dawn. Bring binoculars."},
+    {"title": "A gentle base for families", "text": "Children and older travellers can enjoy forest walks and the village without tackling the high ridge. Those who want can climb part way toward Tonglu and turn back."},
+    {"title": "Red panda forest above", "text": "The forest between Dhotrey and Tonglu is part of Singalila National Park, home to red pandas. Sightings are rare, but early walks with a local guide give a small chance."}
+  ],
+  "how_to_reach": [
+    {"mode": "Jeep from Maneybhanjan", "text": "Shared jeeps run from Maneybhanjan toward Dhotrey and Rimbik, mostly in the morning, for about ₹80–150 a seat; a reserved jeep costs about ₹1,200–1,800. The drive takes about an hour. Check current status before you travel."},
+    {"mode": "Reserved car from Darjeeling", "text": "A reserved car from Darjeeling via Maneybhanjan takes about 2 hours and costs roughly ₹2,500–3,500."},
+    {"mode": "On foot from Tonglu", "text": "Walk down the forest trail from Tonglu: about 6 km and 2.5–3 hours. A licensed guide is required inside the park."}
+  ],
+  "where_to_stay": "Dhotrey has a number of family homestays spread through the village, offering simple rooms with quilts, shared or attached bathrooms and home-cooked dinner and breakfast, typically ₹1,200–2,000 per person with meals. Some have views over the valley and forest. Book through a Darjeeling operator, your guide or by phone a day or two ahead. We do not name individual homestays here, as ownership and standards change.",
+  "stays": [],
+  "tips": [
+    "Arrange your guide at Maneybhanjan before driving to Dhotrey if you plan to walk up to Tonglu.",
+    "Start the climb to Tonglu by 8 am to reach the ridge before cloud rises.",
+    "Carry leech socks or salt in April, May and late September for the forest trail.",
+    "Book homestays ahead on October weekends, when Kolkata groups fill the village.",
+    "Bring a warm layer; Dhotrey nights in December and January drop near freezing."
+  ],
+  "themes": ["homestays", "treks", "wildlife-birds", "long-weekends", "family-trips"],
+  "nearby": ["tonglu", "maneybhanjan", "tumling", "rimbik"],
+  "experiences": [
+    {
+      "slug": "dhotrey-climb-to-tonglu",
+      "title": "Climb from Dhotrey to Tonglu through the forest",
+      "kind": "trek",
+      "duration": "3–4 hours",
+      "best_time": "8–11 am, Oct–May",
+      "cost": "Guide ₹1,500–2,000 a day per group · park entry",
+      "image_query": "Dhotrey Tonglu trek forest",
+      "wiki": "Singalila National Park",
+      "summary": "The classic short route onto the Singalila Ridge: about 6 km and 500 m of climbing from Dhotrey through oak, rhododendron and bamboo to the open summit of Tonglu, with Kanchenjunga waiting at the top on clear days.",
+      "body": [
+        "Leave Dhotrey after breakfast with your licensed guide and park papers. The trail climbs from the top of the village into the forest almost at once. Lower down there are tall oaks and chestnuts, ferns and mossy boulders; higher up, rhododendrons, then dense ringal bamboo close to the ridge.",
+        "The path is steady and steep in places, with switchbacks and roots. Take regular breaks. In April the rhododendrons flower along the way; in autumn the forest is cool and quiet, with mushrooms and berries. Listen for laughingthrushes and look out for pheasants on the path.",
+        "After 3–4 hours you leave the trees and walk out onto Tonglu's grassy top at about 3,070 m. If the weather is clear, Kanchenjunga stands in the north and Darjeeling's ridge in the east. From here, continue to Tumling for the night or along the ridge toward Sandakphu."
+      ],
+      "good_for": ["students", "couples", "families", "first-timers"],
+      "faqs": [
+        {"q": "How long does it take from Dhotrey to Tonglu?", "a": "About 3–4 hours uphill for roughly 6 km, gaining around 500 m. Coming down takes 2.5–3 hours. A licensed guide and park entry are required, as on the main route."},
+        {"q": "Is the Dhotrey trail suitable for beginners?", "a": "Yes, for reasonably fit beginners. It is steep in parts but short and shaded. Go slowly, carry water and snacks, and wear shoes with grip. Children who walk regularly usually manage it."},
+        {"q": "Can I continue from Tonglu to Sandakphu?", "a": "Yes. From Tonglu, the ridge route continues via Tumling, Gairibas and Kalipokhri to Sandakphu over two more days. Many trekkers use Dhotrey as an alternative start to the full trek."}
+      ]
+    },
+    {
+      "slug": "dhotrey-homestay-and-village-life",
+      "title": "A night in a Dhotrey forest homestay",
+      "kind": "culture",
+      "duration": "Overnight",
+      "best_time": "Oct–Dec, Mar–May",
+      "cost": "₹1,200–2,000 pp with meals",
+      "image_query": "Darjeeling homestay wooden house forest",
+      "wiki": "",
+      "summary": "Stay with a family in Dhotrey, eat their home cooking and spend an evening in a forest village where the loudest sounds are cowbells and wind in the trees. A gentle, affordable alternative to the busy ridge lodges.",
+      "body": [
+        "Homestays in Dhotrey are usually rooms in family houses or small cottages in the garden, simple and clean, with thick quilts and views over the fields or forest. Bathrooms may be shared, and hot water comes by bucket or a small geyser. Power can go off; carry a torch.",
+        "Dinner is home food: rice, dal, a vegetable curry, greens from the garden, pickle, and often an egg or chicken if you ask in advance. Breakfast is roti or bread, eggs and tea. Hosts are usually happy to talk about the village, farming and the trek.",
+        "Spend the late afternoon walking the village lanes and the forest edge. In the evening, the sky is dark and, on clear nights, full of stars. It is the kind of night that makes the trek feel less like a challenge and more like a visit."
+      ],
+      "good_for": ["families", "couples", "seniors", "solo"],
+      "faqs": [
+        {"q": "How much does a homestay in Dhotrey cost?", "a": "Roughly ₹1,200–2,000 per person per night with dinner and breakfast, depending on the room and season. Prices are indicative. Book through a Darjeeling operator or your guide."},
+        {"q": "Are Dhotrey homestays good for families?", "a": "Yes. They are quiet, safe and simple, with forest walks nearby. Children enjoy the village and animals. Bring warm clothes, as nights are cold from November to February."},
+        {"q": "Do Dhotrey homestays have Wi-Fi?", "a": "Some do, but it depends on the network, which is patchy. Do not count on working online. Enjoy the break."}
+      ]
+    },
+    {
+      "slug": "dhotrey-forest-edge-birding",
+      "title": "Dawn birding on Dhotrey's forest edge",
+      "kind": "wildlife",
+      "duration": "1.5–2 hours",
+      "best_time": "6–8 am, Mar–May and Oct–Dec",
+      "cost": "Free in the village · guide fee inside the park",
+      "image_query": "laughingthrush Himalaya forest",
+      "wiki": "",
+      "summary": "Walk the lanes and forest edge of Dhotrey at first light for birds of the temperate forest: laughingthrushes, minivets, tits, warblers and the occasional pheasant. The village is a good base for unhurried birding.",
+      "body": [
+        "Dhotrey's mix of fields, gardens and forest edge is ideal for birds. Step out at dawn and walk slowly along the village lanes. Look for flocks of tits and warblers moving through the trees, minivets in the treetops and sunbirds at flowering shrubs.",
+        "Laughingthrushes forage noisily in the undergrowth, often in groups. Along the lower forest trail toward Tonglu, kalij pheasants are sometimes seen at the edge in the early morning, and in spring the satyr tragopan calls from higher up.",
+        "Inside the national park you need your licensed guide; in the village lanes you can wander freely. Two hours before breakfast is ideal. Bring binoculars and dull-coloured clothing."
+      ],
+      "good_for": ["photographers", "seniors", "solo", "couples"],
+      "faqs": [
+        {"q": "What birds can I see at Dhotrey?", "a": "Laughingthrushes, minivets, tits, warblers, sunbirds and flycatchers are common. With luck, kalij pheasants near the forest edge and satyr tragopans calling higher up in spring."},
+        {"q": "Do I need a guide for birding at Dhotrey?", "a": "Not in the village lanes. Inside Singalila National Park, on the trail toward Tonglu, a licensed guide is required. Ask for one with birding knowledge if possible."},
+        {"q": "When is the best season for birding at Dhotrey?", "a": "March to May for song and breeding activity, and October to December for clear weather and good light. Early mornings are always best."}
+      ]
+    },
+    {
+      "slug": "dhotrey-short-loop-via-tumling-and-chitrey",
+      "title": "Two-day loop via Tonglu, Tumling and Chitrey",
+      "kind": "trek",
+      "duration": "2 days, 1 night",
+      "best_time": "Oct–Dec, Mar–May",
+      "cost": "≈ ₹4,000–6,000 pp all in from Maneybhanjan",
+      "image_query": "Tumling Kanchenjunga lodge sunrise",
+      "wiki": "",
+      "summary": "A short, complete taste of the Singalila Ridge: climb from Dhotrey to Tonglu through forest, sleep at Tumling with the Kanchenjunga sunrise, then walk down via Meghma and Chitrey to Maneybhanjan. Ideal for a long weekend.",
+      "body": [
+        "Day one: take a morning jeep from Maneybhanjan to Dhotrey with your guide, then climb the forest trail to Tonglu in 3–4 hours. Walk over to Tumling for the night, a short ridge stroll, and spend the afternoon watching the light change on the mountains.",
+        "Day two: wake for the Kanchenjunga sunrise, eat breakfast and walk back down along the main trail via Meghma, with its monastery, and Chitrey, with its chorten, to Maneybhanjan. It is about 10.5 km and 3.5–4 hours, mostly downhill. Take a jeep from Maneybhanjan back to Darjeeling in the afternoon.",
+        "The loop gives you forest, a summit, a border village, a monastery and a big mountain view in two days, with only one night at altitude. You need park entry and a licensed guide for both days."
+      ],
+      "good_for": ["first-timers", "couples", "students", "families"],
+      "faqs": [
+        {"q": "Can I do a Singalila trek in two days?", "a": "Yes. The Dhotrey–Tonglu–Tumling–Maneybhanjan loop takes two days with one night at Tumling. It gives forest, ridge and a Kanchenjunga sunrise. You still need a licensed guide and park entry."},
+        {"q": "How much does the two-day Dhotrey loop cost?", "a": "Roughly ₹4,000–6,000 per person from Maneybhanjan for a pair, covering jeep to Dhotrey, guide share, park entry, a lodge night at Tumling and meals. Getting to Maneybhanjan from Darjeeling is extra. All indicative."},
+        {"q": "Is the two-day loop good for families?", "a": "Yes, for families with children who walk regularly. The climbs are moderate and the altitude, under 3,100 m, is manageable. Pack warm clothes for the night at Tumling."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Dhotrey?", "a": "Dhotrey is a forest village at about 2,500 m on the eastern side of the Singalila Ridge in Darjeeling district, about an hour by jeep from Maneybhanjan. A forest trail links it to Tonglu."},
+    {"q": "How do I get to Dhotrey?", "a": "By jeep from Maneybhanjan, about an hour, or by reserved car from Darjeeling, about 2 hours. Shared jeeps are few and mostly in the morning. Check current status before you travel."},
+    {"q": "Can I start the Sandakphu trek from Dhotrey?", "a": "Yes. Walk up to Tonglu (3–4 hours), then continue along the ridge via Tumling, Gairibas and Kalipokhri to Sandakphu. It is a popular alternative start. Arrange your guide and park entry at Maneybhanjan first."},
+    {"q": "Are there homestays in Dhotrey?", "a": "Yes, several family homestays with simple rooms and home-cooked meals, roughly ₹1,200–2,000 per person per night with dinner and breakfast. Book ahead for October weekends."},
+    {"q": "Is Dhotrey good for a weekend trip?", "a": "Yes. A two-night trip from Darjeeling, one night in Dhotrey and one at Tumling or Tonglu, gives forest, birds and a mountain sunrise without the full trek."},
+    {"q": "What is the altitude of Dhotrey?", "a": "About 2,500 m, though figures vary slightly by source. It is a little higher than Maneybhanjan and lower than Tonglu, so it is a gentle first night for acclimatisation."},
+    {"q": "Is there mobile network in Dhotrey?", "a": "Patchy Indian network. Some homestays have Wi-Fi. Do not plan to work online from Dhotrey."},
+    {"q": "Can I see Kanchenjunga from Dhotrey?", "a": "Dhotrey itself is largely surrounded by forest, and big mountain views come higher up at Tonglu and Tumling. Some homestays have partial valley views. For Kanchenjunga, walk up to Tonglu."},
+    {"q": "Is Dhotrey good in winter?", "a": "December is clear and cold, a good time for a quiet stay. January and February can bring frost and occasional snow, and the trail to Tonglu may be icy. Homestays stay open; bring warm clothing."}
+  ]
+}

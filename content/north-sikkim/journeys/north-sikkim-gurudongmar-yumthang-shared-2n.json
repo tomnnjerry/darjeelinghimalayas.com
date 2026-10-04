@@ -1,0 +1,76 @@
+{
+  "slug": "north-sikkim-gurudongmar-yumthang-shared-2n",
+  "title": "Gurudongmar and Yumthang on a shared tour",
+  "region": "north-sikkim",
+  "nights": 2,
+  "themes": ["snow-and-passes", "solo-backpacking", "photography"],
+  "tier": "Shoestring",
+  "travel_mode": "Shared jeeps",
+  "stops": [{"place": "lachen", "nights": 1}, {"place": "lachung", "nights": 1}],
+  "start": "Gangtok (agent's office or Vajra stand)",
+  "end": "Gangtok",
+  "price_from_inr": 7000,
+  "cost_split": [
+    {"item": "Shared tour seat, permits, 2 nights with dinner and breakfast", "inr": 5800},
+    {"item": "Lunches, tea and snacks on the road", "inr": 800},
+    {"item": "Boot and coat rental, toilets, small tips", "inr": 400}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Active",
+  "max_altitude_m": 5183,
+  "meta_description": "North Sikkim in 2 nights from Gangtok on a shared tour: Lachen, Gurudongmar Lake, Lachung and Yumthang from ₹7,000 per person. Permits, costs, road status.",
+  "summary": "The classic budget loop: two nights, one seat in a shared vehicle, and both of North Sikkim's big sights. Lachen and Gurudongmar Lake at dawn, then Lachung and Yumthang Valley. About ₹7,000 per person from Gangtok with permits, rooms and two meals a day. Fast, high and tiring; check current status before you travel.",
+  "intro": [
+    "This is the trip most Indian travellers mean when they say North Sikkim. A Gangtok agent sells you a seat in a jeep of 8–10 people, sorts your permit, and books simple rooms in Lachen and Lachung with dinner and breakfast. You do not choose your companions, your hotel or your stops, but you pay a fraction of a private vehicle and see Gurudongmar and Yumthang in three days.",
+    "Be honest with yourself about the pace. Day one is 6–8 hours of road. Day two starts at 3 am, climbs to about 5,180 m, then drives on to Lachung. Day three is Yumthang and the long ride back. It suits fit adults and students. Families with small children or older parents should choose a slower trip with a night at Singhik or two in Lachen."
+  ],
+  "highlights": [
+    "Gurudongmar Lake at about 5,180 m in the clear dawn light",
+    "Yumthang Valley and the Shingba rhododendron forest",
+    "Two Dzumsa villages, Lachen and Lachung, in one trip",
+    "The Teesta confluence at Chungthang",
+    "The lowest per-person price for North Sikkim"
+  ],
+  "days": [
+    {"day": 1, "title": "Gangtok to Lachen", "place": "lachen", "overnight": "Lachen", "drive": "≈ 129 km · 6–8 h by shared tour jeep", "text": "Hand over your ID copies and photos the evening before so your permit is ready. The jeep leaves Gangtok around 10–11 am, heading north past Kabi Lungchok and the Seven Sisters waterfall. Lunch is usually at Mangan or Singhik, paid separately. After Chungthang, where the Lachen and Lachung rivers meet, the road follows the Lachen Chu into the colder valley. You reach Lachen by evening, at about 2,750 m. Eat dinner early, drink plenty of water, lay out your warm clothes and sleep by 8.30 pm.", "meals": "Dinner", "spend": "₹200 lunch + ₹50 tea"},
+    {"day": 2, "title": "Gurudongmar at dawn, then Lachung", "place": "gurudongmar", "overnight": "Lachung", "drive": "≈ 130 km · 9–10 h including the lake", "text": "Leave Lachen at 3–4 am in convoy. Tea and toilets at Thangu, about 3,900 m, then the open plateau as the sky lightens. Reach Gurudongmar around 7 am and spend 20–40 minutes on the shore; walk slowly and stay awake on the way. Back in Lachen for breakfast by 10–11 am, then down to Chungthang and up the other valley to Lachung, arriving mid-afternoon. Rest. If you feel well, walk the village lanes before dinner and rent boots and a coat for tomorrow.", "meals": "Breakfast, Dinner", "spend": "₹150 tea at Thangu + ₹200 lunch + ₹200 boot rental"},
+    {"day": 3, "title": "Yumthang and back to Gangtok", "place": "yumthang", "overnight": "Gangtok (not included)", "drive": "≈ 48 km to Yumthang and back + 118 km · 9–10 h", "text": "Leave Lachung at 6 am for Yumthang Valley, 24 km up through the Shingba Rhododendron Sanctuary. In spring the forest is in flower; in March there may be snow on the valley floor. Stop at the hot spring. Zero Point costs ₹3,000–4,500 extra per vehicle and only goes if everyone in the jeep agrees to share it. Return to Lachung for breakfast, then make the long drive back to Gangtok, arriving in the evening. Book your Gangtok room in advance.", "meals": "Breakfast", "spend": "₹200 lunch + ₹100 snacks"}
+  ],
+  "stays": [],
+  "includes": [
+    "Seat in a shared vehicle from Gangtok and back",
+    "North Sikkim permit processing",
+    "One night in Lachen and one in Lachung, twin sharing",
+    "Dinner and breakfast on both nights",
+    "Gurudongmar and Yumthang visits"
+  ],
+  "excludes": [
+    "Transport between NJP/Bagdogra and Gangtok",
+    "Gangtok hotel nights",
+    "Lunches and snacks on the road",
+    "Zero Point add-on (₹3,000–4,500 per vehicle)",
+    "Boot and coat rental"
+  ],
+  "save_money": [
+    "Book directly with a registered agent in Gangtok rather than an online reseller, and compare two or three quotes.",
+    "Rent snow boots and coats in Lachen and Lachung instead of buying them in Gangtok.",
+    "Skip Zero Point unless the whole jeep is sharing the cost; Yumthang alone is a full morning."
+  ],
+  "good_to_know": [
+    "Shared tours run only when the agent fills the vehicle; in quiet months you may wait a day.",
+    "The order may be reversed (Lachung first) depending on permits and road conditions.",
+    "Foreign nationals cannot join this exact trip because Gurudongmar is closed to them.",
+    "Since the 2023 flood the Lachen road has had long closures; check current status before you travel."
+  ],
+  "faqs": [
+    {"q": "How much does a shared North Sikkim tour cost?", "a": "About ₹5,500–6,500 per person for the 3-day, 2-night Lachen and Lachung loop from Gangtok in 2025–26, including permits, a seat, rooms and dinner and breakfast. With lunches, snacks and rentals, budget about ₹7,000. Prices rise in May, October and the Christmas–New Year weeks."},
+    {"q": "Is 2 nights enough for Gurudongmar and Yumthang?", "a": "It is enough to see both, which is why it is the standard tour, but it is rushed and hard on the body. You climb to about 5,180 m on the morning after arriving. If anyone is older, very young or prone to altitude sickness, choose a 3- or 4-night version with two nights in Lachen."},
+    {"q": "How do I book a shared North Sikkim tour?", "a": "Visit registered travel agents around MG Marg in Gangtok, compare prices and book a day ahead. Give them a photocopy of a photo ID and two passport photos for the permit. Get the itinerary, hotel names and what is included in writing, and keep the agent's phone number."},
+    {"q": "Who will I share the vehicle with?", "a": "Other travellers who booked the same tour with the same or partner agents, usually 8–10 people in a Tata Sumo, Bolero or Mahindra Maxx. Groups are often families and friends from across India. Seats are usually assigned, so ask for a window seat if you get motion sickness."},
+    {"q": "What if the road to Lachen is closed?", "a": "Agents usually switch you to a Lachung-only trip, delay departure or offer a partial refund. Terms vary, so ask before paying. Since the 2023 flood, the Lachen road has had more closures than the Lachung side. Check current status before you travel."},
+    {"q": "Are the hotels on shared tours comfortable?", "a": "They are simple: a double or twin room with thick quilts, an attached bathroom and hot water by geyser or bucket. Heating is not guaranteed. Food is basic home-style. If comfort matters, ask the agent about upgrading to a named hotel for an extra fee."},
+    {"q": "What should I pack for this trip?", "a": "Thermal inners, a fleece, a down jacket, warm cap and gloves, woollen socks, sunglasses, sunscreen, lip balm, a torch, a water bottle, basic medicines including for headaches and motion sickness, cash for the whole trip and several ID copies. Leave big suitcases in Gangtok."},
+    {"q": "Can I do this trip in winter?", "a": "Yes, from December to February, but snow can close the roads to Gurudongmar and above Lachung for days, and nights fall to −10 °C. Shared tours run with fewer people, so you may wait for a full vehicle. Keep flexible dates and check current status before you travel."},
+    {"q": "Is there an age limit for Gurudongmar?", "a": "There is no formal age limit, but children under five, pregnant women and people with heart or lung disease are generally advised not to go to the lake. People over 60 should consult a doctor. Anyone can stay in Lachen that morning; the vehicle returns for breakfast."}
+  ]
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "slug": "singalila-shikhar-lodge-tumling",
+    "name": "Shikhar Lodge",
+    "place": "tumling",
+    "kind": "guesthouse",
+    "price_band": "₹1,500–3,000 a room; shared beds less (indicative)",
+    "wiki": "",
+    "image_query": "Shikhar Lodge Tumling",
+    "summary": "A long-running family lodge at Tumling, on the Nepal side of the Singalila Ridge, and the best-known first-night stop on the Sandakphu trek. Simple rooms, a warm dining room with a stove and home-cooked meals, with Kanchenjunga visible from the terrace on clear mornings.",
+    "body": [
+      "Shikhar Lodge is the name most Sandakphu trekkers hear first. It sits in the small hamlet of Tumling, about 10.5 km above Maneybhanjan, and has served trekkers and Land Rover groups for years. Rooms range from shared rooms with several beds to private twins, with thick quilts, wooden floors and shared toilets. The dining room, with a stove in the centre and the family kitchen beside it, is where everyone ends up in the evening.",
+      "Expect dal-bhat, noodle soup, eggs, Tibetan bread and tea, cooked to order and paid for separately from the room. Power and hot water are available but can be limited; carry a head torch and a power bank. The real draw is the location: a north-facing terrace from which the Kanchenjunga range lights up at sunrise. In October and April it fills early, so ask your guide to book ahead."
+    ],
+    "why": [
+      "The best-known lodge at Tumling, the usual first night on the trek",
+      "North-facing terrace for the Kanchenjunga sunrise",
+      "Warm dining room and home-cooked meals"
+    ],
+    "best_for": ["couples", "families", "first-timers", "photographers"],
+    "website": "",
+    "faqs": [
+      {"q": "How do I book Shikhar Lodge at Tumling?", "a": "Most trekkers book through their guide or a Darjeeling operator, usually by phone a few days ahead. In October, the Puja holidays and April weekends, book a week or more in advance. At other times you can often get a bed on arrival, though it is best to call."},
+      {"q": "Does Shikhar Lodge have attached bathrooms?", "a": "Facilities are simple and mostly shared. Some rooms may have attached toilets, but do not count on it. Hot water is provided by bucket for a small charge. Ask when booking if an attached room matters to you."},
+      {"q": "Is Shikhar Lodge in India or Nepal?", "a": "Tumling, and the lodge, are on the Nepal side of the border in Ilam district, reached on the Indian trail from Maneybhanjan without a checkpoint. Carry your ID: passport or voter ID for Indians, passport and Indian visa for foreigners."}
+    ]
+  },
+  {
+    "slug": "singalila-gta-trekkers-hut-tonglu",
+    "name": "GTA Trekkers' Hut, Tonglu",
+    "place": "tonglu",
+    "kind": "trekkers' hut",
+    "price_band": "Low government dorm rates, about ₹300–800 a bed (indicative)",
+    "wiki": "",
+    "image_query": "Tonglu trekkers hut Singalila",
+    "summary": "A government trekkers' hut on the open summit of Tonglu at about 3,070 m, run under the Gorkhaland Territorial Administration. Basic dorm beds, blankets and simple meals from a caretaker, with a 360-degree view from Kanchenjunga to Darjeeling outside the door.",
+    "body": [
+      "The trekkers' huts of the Singalila Ridge were built to give walkers cheap, basic shelter at the main stops, and Tonglu's sits right on the summit. Inside you will find dormitory rooms with simple beds and blankets, a small dining area and very basic toilets. A caretaker cooks plain meals, usually dal-bhat and noodles, when trekkers are expected.",
+      "It is cold, plain and cheap, and its position is excellent: sunrise over Kanchenjunga, sunset over Nepal and Darjeeling's lights at night. Condition varies from year to year, and booking channels have changed over time, so confirm through GTA tourism offices in Darjeeling or the guide office at Maneybhanjan before relying on it. If it is closed or full, the lodges at Tumling are 20–40 minutes away."
+    ],
+    "why": [
+      "The only bed on Tonglu's summit, with a full 360-degree view",
+      "Among the cheapest beds on the trek",
+      "Short walk to Tumling's lodges if you want more comfort"
+    ],
+    "best_for": ["students", "solo", "photographers"],
+    "website": "",
+    "faqs": [
+      {"q": "How do I book the Tonglu trekkers' hut?", "a": "Ask at GTA tourism offices in Darjeeling or the guide office in Maneybhanjan; booking channels have changed over the years. Your guide can often confirm availability by phone. Check current status before you travel."},
+      {"q": "What facilities does the Tonglu hut have?", "a": "Dorm beds with blankets, a basic dining area, simple toilets and meals cooked by the caretaker on request. There is no heating. Bring a warm sleeping bag or liner, a head torch and a power bank."},
+      {"q": "Is the Tonglu hut better than staying at Tumling?", "a": "It is cheaper and has a wider view, but is plainer and colder. Tumling's family lodges are more comfortable, with warm dining rooms. Many trekkers sleep at Tumling and walk up to Tonglu for sunset or sunrise."}
+    ]
+  },
+  {
+    "slug": "singalila-gta-trekkers-hut-gairibas",
+    "name": "GTA Trekkers' Hut, Gairibas",
+    "place": "gairibas",
+    "kind": "trekkers' hut",
+    "price_band": "Low government dorm rates, about ₹300–800 a bed (indicative)",
+    "wiki": "",
+    "image_query": "Gairibas trekkers hut Singalila",
+    "summary": "A basic government trekkers' hut in the forest clearing of Gairibas at about 2,621 m, inside Singalila National Park. Plain dorm beds and simple meals, but the best-placed bed on the trek for early-morning red panda and bird walks.",
+    "body": [
+      "Gairibas is a quiet clearing at the lowest point of the ridge between Tumling and Kalipokhri, surrounded by oak, rhododendron and bamboo. The trekkers' hut here offers dorm-style rooms with beds and blankets, very basic toilets and meals cooked by a caretaker when trekkers are expected. There is an SSB camp nearby and a few tea shops.",
+      "Most trekkers pass through Gairibas at lunchtime, so a night here puts you in the forest when it is empty. That is the reason to stay: dawn walks for red pandas and pheasants, and a loud spring dawn chorus. Condition and opening vary; confirm in Darjeeling or at Maneybhanjan before relying on it, and carry a warm sleeping bag."
+    ],
+    "why": [
+      "In the middle of the park's best red panda forest",
+      "Quiet nights away from the busier lodges",
+      "Very low cost"
+    ],
+    "best_for": ["photographers", "solo", "students"],
+    "website": "",
+    "faqs": [
+      {"q": "Is the Gairibas trekkers' hut open all season?", "a": "It is meant to operate in the trekking seasons, but opening and condition vary. Confirm with GTA tourism in Darjeeling or the Maneybhanjan guide office before planning a night there. Check current status before you travel."},
+      {"q": "Why stay at Gairibas instead of Kalipokhri?", "a": "For wildlife. Gairibas is surrounded by forest that red pandas, pheasants and many birds use, and a night there lets you walk at dawn before trekkers arrive. Kalipokhri has more comfortable lodges but less forest."},
+      {"q": "Is there food at the Gairibas hut?", "a": "The caretaker usually cooks simple meals, and tea shops nearby sell noodles and tea. Carry snacks as backup, especially outside peak season."}
+    ]
+  },
+  {
+    "slug": "singalila-gta-trekkers-hut-sandakphu",
+    "name": "GTA Trekkers' Hut, Sandakphu",
+    "place": "sandakphu",
+    "kind": "trekkers' hut",
+    "price_band": "Low government rates, about ₹300–1,000 a bed (indicative)",
+    "wiki": "",
+    "image_query": "Sandakphu trekkers hut",
+    "summary": "The government trekkers' hut on the summit of Sandakphu, at 3,636 m the highest bed in West Bengal. Plain dorm rooms and basic meals at low rates, steps from the viewpoint for the Sleeping Buddha and Everest at dawn.",
+    "body": [
+      "Sandakphu's trekkers' hut stands among the private lodges on the summit and offers the cheapest beds at the top. Rooms are dormitories or simple shared rooms with beds and heavy blankets; toilets are basic and cold, and meals, when available, are plain dal-bhat and noodles. It has hosted budget trekkers for decades.",
+      "The point is the location. You step out at 5 am and walk a few metres to the viewpoint where the Kanchenjunga massif and the Everest group appear. Booking has historically gone through the hill council's tourism department, now under the GTA, but channels change; ask in Darjeeling or at Maneybhanjan. In peak season it fills with groups, so do not arrive without confirmation."
+    ],
+    "why": [
+      "The cheapest bed on West Bengal's highest point",
+      "A few steps from the sunrise viewpoint",
+      "Government-run, with fixed rates"
+    ],
+    "best_for": ["students", "solo", "photographers"],
+    "website": "",
+    "faqs": [
+      {"q": "How do I book the Sandakphu trekkers' hut?", "a": "Through GTA tourism in Darjeeling or with help from the Maneybhanjan guide office; channels have changed over the years. Book well ahead for October, the Puja holidays and Christmas. Check current status before you travel."},
+      {"q": "How cold is the Sandakphu hut at night?", "a": "Very cold in winter: nights outside drop to about −8 to −10 °C in December and January, and rooms are unheated. Bring a sleeping bag rated well below freezing, or ask for extra blankets."},
+      {"q": "Is the trekkers' hut cheaper than Sandakphu lodges?", "a": "Yes, usually. Dorm beds in the hut cost less than private lodge rooms, which run about ₹2,000–3,500 for a twin. Lodges are more comfortable and have better dining rooms."}
+    ]
+  },
+  {
+    "slug": "singalila-sherpa-chalet-sandakphu",
+    "name": "Sherpa Chalet",
+    "place": "sandakphu",
+    "kind": "guesthouse",
+    "price_band": "₹2,000–4,000 a room; shared beds less (indicative)",
+    "wiki": "",
+    "image_query": "Sherpa Chalet Sandakphu",
+    "summary": "One of the longest-running private lodges on the summit of Sandakphu, popular with trekkers and Land Rover groups. Simple rooms with heavy quilts, a warm dining room and lodge meals, a short walk from the viewpoint.",
+    "body": [
+      "Sherpa Chalet is one of the names that comes up most often when people talk about Sandakphu's lodges. It offers a mix of shared rooms and private twins, plain but solid, with thick quilts for nights that fall well below freezing in winter. Bathrooms are basic, and hot water comes by bucket.",
+      "The dining room is the heart of the place, warm and busy, with dal-bhat, noodles, momos when ordered early, eggs and tea served through the evening. The viewpoint for sunrise is a short walk away. Rates rise in peak periods and with attached bathrooms; meals are paid separately. Book through your guide or a Darjeeling operator, well ahead for October, the Puja holidays and Christmas."
+    ],
+    "why": [
+      "A long-established private lodge on the summit",
+      "Warm dining room and fuller menu than the hut",
+      "Short walk to the Sleeping Buddha viewpoint"
+    ],
+    "best_for": ["couples", "families", "first-timers", "seniors"],
+    "website": "",
+    "faqs": [
+      {"q": "How do I book Sherpa Chalet in Sandakphu?", "a": "Usually through your guide or a Darjeeling trekking operator, by phone. Book a week or more ahead in October, the Puja holidays, Christmas and April. Rates are indicative and change by season."},
+      {"q": "Does Sherpa Chalet have heating?", "a": "Rooms are generally unheated; the dining room has a stove. Heavy quilts are provided. In December to February bring warm sleeping clothes, a cap and socks, or a sleeping bag."},
+      {"q": "Is Sherpa Chalet good for families?", "a": "Yes, for families arriving by Land Rover or on foot. Rooms are simple but private twins are available, and the dining room is warm. Watch children for altitude symptoms at 3,636 m."}
+    ]
+  }
+]

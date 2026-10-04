@@ -1,0 +1,70 @@
+{
+  "slug": "darjeeling-student-hill-week-6n",
+  "title": "A student week in Darjeeling, Bijanbari and Ghoom",
+  "region": "darjeeling",
+  "nights": 6,
+  "themes": ["solo-backpacking", "toy-train", "tea-country", "food-trails"],
+  "tier": "Shoestring",
+  "travel_mode": "Shared jeeps",
+  "stops": [{"place": "darjeeling", "nights": 4}, {"place": "bijanbari", "nights": 1}, {"place": "ghoom", "nights": 1}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 13500,
+  "cost_split": [
+    {"item": "Shared jeeps, including the Tiger Hill seat and Bijanbari", "inr": 2300},
+    {"item": "Hostel dorm in Darjeeling (4 nights), lodges in Bijanbari and Ghoom", "inr": 4600},
+    {"item": "Diesel toy train joyride and the ropeway", "inr": 1400},
+    {"item": "Entry fees and donations", "inr": 600},
+    {"item": "Meals, momos and tea for 7 days", "inr": 4600}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2567,
+  "meta_description": "6 nights from ₹13,500 for students: a dorm in Darjeeling, Tiger Hill, the toy train, tea gardens, a night down in Bijanbari's river valley and one in Ghoom.",
+  "summary": "A week built for students and gap-year travellers. Four nights in a Darjeeling dorm for Tiger Hill, the toy train, the ropeway and the history on every corner, a night down in the warm Chhota Rangeet valley at Bijanbari, and a last night in Ghoom by the monastery. About ₹13,500 per person, all by shared jeep.",
+  "intro": [
+    "Darjeeling is a history lesson you can walk. The British came because Captain George Lloyd recommended it as a sanatorium in 1828; the tea came because Dr Archibald Campbell planted China seeds at Beechwood around 1841; the railway arrived in 1881 on track just 610 mm wide. The town also keeps quieter stories: Sister Nivedita died here on 13 October 1911, and C. R. Das died at his house, Step Aside, on 16 June 1925. Four nights let you find those corners on foot instead of rushing past them.",
+    "Then we drop off the ridge. Bijanbari, about 35 km away by shared jeep through Pulbazar, the bridge market, sits low in the Chhota Rangeet valley, warm enough for oranges and cardamom when Darjeeling is cold. It shows you how most people in these hills actually live. The last night in Ghoom puts you beside Yiga Choeling for morning prayers and on the main road home. The whole week runs on shared jeeps, a hostel dorm and simple lodges."
+  ],
+  "highlights": [
+    "Kanchenjunga at dawn from Tiger Hill on a shared jeep seat",
+    "The diesel toy train joyride round the Batasia Loop",
+    "The Rangeet Valley ropeway down towards Singla",
+    "A night in the warm Chhota Rangeet valley at Bijanbari",
+    "Morning prayers at Yiga Choeling in Ghoom"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Darjeeling and the dorm", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 70 km · 3–3.5 h by shared jeep", "text": "Take a shared jeep from NJP station or the Siliguri stands, ₹250–350 a seat, up through Kurseong and Ghoom. Check in to the Tenzing Norgay Youth Hostel on Dr Zakir Hussain Road at the top of town, a GTA dorm that has long been the cheapest bed in Darjeeling. Walk down to Chowrasta at dusk, find the statue of Bhanubhakta Acharya, who rendered the Ramayana in Nepali, and book a shared Tiger Hill seat for the morning through the hostel.", "meals": "On your own", "spend": "₹250–350 jeep seat + ₹500 dorm + ₹150 momos"},
+    {"day": 2, "title": "Tiger Hill and the Everest men", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 22 km return · shared jeep seat at about 4 am", "text": "Up at 3.30 am for the shared jeep to Tiger Hill, 2,567 m, where Kanchenjunga turns from grey to pink and, on very clear days, Everest, Lhotse and Makalu show far to the west. Tiger Hill lies in Senchal Wildlife Sanctuary, declared in 1915, one of India's oldest. After breakfast walk to the Himalayan Mountaineering Institute, founded on 4 November 1954, and its Everest Museum, then the zoo next door, opened in 1958 and known for breeding red pandas and snow leopards.", "meals": "On your own", "spend": "₹250–400 Tiger Hill seat + ₹100–150 HMI and zoo + ₹350 food"},
+    {"day": 3, "title": "Toy train morning and the old town", "place": "darjeeling", "overnight": "Darjeeling", "drive": "", "text": "Take a morning diesel joyride, booked on IRCTC for roughly ₹1,000–1,300: round the Batasia Loop, built in 1919, to Ghoom station at 2,258 m and back. In the afternoon walk the old town. Lloyd Botanic Garden, laid out in 1878 on land given by the Lloyd family, sits below Chowk Bazaar. Sister Nivedita's memorial is at the cremation ground below the railway station. End with thukpa and a plate of momos in the lanes above the market, where students and drivers eat.", "meals": "On your own", "spend": "₹1,000–1,300 joyride + ₹350 food"},
+    {"day": 4, "title": "Tea garden, carpets and the ropeway", "place": "darjeeling", "overnight": "Darjeeling", "drive": "", "text": "Walk down Lebong Cart Road to Happy Valley Tea Estate, one of the older gardens, and ask whether the factory is working. Carry on to the Tibetan Refugee Self Help Centre at Hill Side, set up in October 1959 by refugees who followed the Dalai Lama into exile, where you can watch carpets woven on the looms. In the afternoon ride the passenger ropeway, opened in 1968, closed after an accident in 2003 and reopened in 2012. Check current status before you travel; the ropeway shuts in bad weather.", "meals": "On your own", "spend": "₹200–300 ropeway + ₹350 food"},
+    {"day": 5, "title": "Down to Bijanbari", "place": "bijanbari", "overnight": "Bijanbari", "drive": "≈ 35 km · 2 h by shared jeep via Pulbazar", "text": "Take a morning shared jeep from Darjeeling's motor stand to Bijanbari. The road drops past Ging tea estate to Pulbazar, the bridge market, and into the Chhota Rangeet valley, at about 760 m, roughly 1,300 m lower than Darjeeling. You feel the warmth by mid-morning. Bijanbari is a block headquarters and market town, not a resort: walk out to the river, the maize and orange fields and the villages above, and find a simple lodge or homestay in town. Winter here is mild; summer is hot and wet.", "meals": "Dinner", "spend": "₹100–150 jeep seat + ₹1,000–1,200 lodge share"},
+    {"day": 6, "title": "Back up the hill to Ghoom", "place": "ghoom", "overnight": "Ghoom", "drive": "≈ 43 km · 2.5–3 h by shared jeeps, changing at Darjeeling", "text": "Take an early jeep back to Darjeeling and a local jeep on to Ghoom, ₹30–50. Check in to a family guesthouse near the station. In the afternoon visit Yiga Choeling, founded in 1850 by Lama Sherab Gyatso, with its Maitreya statue about 4.6 m tall, then Samten Choling and the Sakya monastery. Ghoom station, at 2,258 m, is the highest on the line and has a small railway museum. Evenings here are cold and quiet; eat early at a station-side kitchen.", "meals": "Dinner", "spend": "₹200 in jeep seats + ₹1,200–1,400 guesthouse share"},
+    {"day": 7, "title": "Morning prayers and down to NJP", "place": "ghoom", "overnight": "", "drive": "≈ 62 km · 3 h by shared jeep", "text": "Go to Yiga Choeling early for the morning chanting, sit quietly at the back and walk clockwise round the prayer wheels. After breakfast flag a Siliguri-bound jeep with a spare seat at the Ghoom stand, or take a local jeep to Kurseong and change there, as jeeps from Kurseong to Siliguri leave often. Aim to be on the road by late morning so you reach NJP in good time for an evening train. Buy a last packet of tea in Ghoom if you forgot in town.", "meals": "Breakfast", "spend": "₹250–350 jeep seat + donation"}
+  ],
+  "stays": ["darjeeling-tenzing-norgay-youth-hostel"],
+  "includes": ["Shared jeep seats on all legs", "Tiger Hill shared seat", "Hostel dorm bed in Darjeeling, 4 nights", "Simple lodge in Bijanbari and guesthouse in Ghoom, 1 night each", "Diesel joyride and ropeway tickets", "Entry fees and donations"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Reserved cars", "Steam joyride upgrade", "Shopping and souvenirs", "Travel insurance"],
+  "save_money": [
+    "A bed in the GTA youth hostel dorm costs roughly ₹400–700 a night, far less than any hotel in October or May; book ahead in peak weeks.",
+    "Carry a student card: some sights and transport counters offer reduced rates, though it is never guaranteed.",
+    "Eat the set thali at lunch in Chowk Bazaar for ₹150–250; it fills you until dinner and costs less than snacking on the Mall."
+  ],
+  "good_to_know": [
+    "Toy train joyrides and the ropeway change with weather, season and maintenance: check current status before you travel.",
+    "Bijanbari is about 1,300 m lower than Darjeeling; pack a light layer as well as winter wear.",
+    "Shared jeeps to Bijanbari leave mostly in the morning; ask at the motor stand the day before.",
+    "Darjeeling's lanes are steep and slippery after rain; walking shoes with grip matter more than fashion here."
+  ],
+  "faqs": [
+    {"q": "Is Darjeeling affordable for students?", "a": "Yes, if you use shared jeeps, the youth hostel dorm and local food. A week like this costs about ₹13,500 per person from NJP, indicative for 2025–26, which works out near ₹2,000 a day. The big costs are joyrides and peak-season rooms; travel outside October and the May–June holidays and the same trip costs less."},
+    {"q": "Where is the cheapest place to sleep in Darjeeling?", "a": "The Tenzing Norgay Youth Hostel, run by the GTA at the top of town on Dr Zakir Hussain Road, has a large dormitory and a few rooms. Expect roughly ₹400–700 for a bed, but confirm current rates. Small lodges around Chowk Bazaar and Laden La Road are the next cheapest. Book ahead for October and the summer holidays."},
+    {"q": "Why go to Bijanbari?", "a": "Because it shows the other side of these hills. Bijanbari sits in the Chhota Rangeet valley at about 760 m, roughly 35 km from Darjeeling via Pulbazar, among orange, maize and cardamom fields. It is warm when the ridge is cold, cheap, and not touristy. The road continues to Rimbik on the Singalila side if you want to extend."},
+    {"q": "Is the ropeway open?", "a": "The Rangeet Valley passenger ropeway opened in 1968, closed after an accident in 2003 and reopened in 2012. It runs from North Point down towards Singla when the weather and maintenance allow, and the return ride costs roughly ₹200–300. It stops for wind, rain and repairs, so check current status before you travel and go early to avoid the queue."},
+    {"q": "Can I see Tenzing Norgay's memorial?", "a": "Yes. Tenzing Norgay, who reached the summit of Everest in 1953, was the first Director of Field Training at the Himalayan Mountaineering Institute, founded in 1954. He was cremated at the institute in 1986, and his memorial and statue stand there. The Everest Museum inside shows equipment from early expeditions. The HMI ticket also covers the zoo next door."},
+    {"q": "What food should I try in Darjeeling on a budget?", "a": "Momos at ₹80–150 a plate, thukpa at ₹100–180, and a set thali for ₹150–250 in Chowk Bazaar. Try sel roti, the ring-shaped rice bread, at breakfast stalls, and hard chhurpi, dried yak or cow cheese, sold as a chew. A pot of Darjeeling tea in a tea room costs ₹40–150, depending on the grade."},
+    {"q": "Is this trip safe for a solo student?", "a": "Generally, yes. Darjeeling sees many students and solo backpackers, shared jeeps carry local families, and the hostel is a good place to meet others for Tiger Hill. Use normal care: travel in daylight, keep your phone charged, tell someone your plans for the Bijanbari day and avoid lonely lanes late at night."},
+    {"q": "When should students plan this week?", "a": "October to early December and March to April give the best views. Winter breaks in late December and January are cold, often clear and cheaper, though Darjeeling drops to about 2 °C at night. Summer holidays in May and June are crowded and pricier. Avoid the monsoon from June to September if you want mountain views."},
+    {"q": "Can I swap Bijanbari for something else?", "a": "Yes. Swap the Bijanbari night for Lepchajagat, a forest village about 19 km away on the Ghoom–Mirik road, reached by Sukhia Pokhari or Mirik jeeps for ₹70–100. It is colder and higher, with Kanchenjunga at dawn and good birding. Or simply add a fifth night in Darjeeling and walk more of the town."}
+  ]
+}

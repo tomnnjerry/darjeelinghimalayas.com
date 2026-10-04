@@ -1,0 +1,171 @@
+{
+  "slug": "rammam",
+  "name": "Rammam",
+  "name_local": "",
+  "region": "singalila",
+  "kind": "village",
+  "wiki": "",
+  "image_query": "Rammam village Darjeeling trek",
+  "lat": 27.16,
+  "lng": 88.08,
+  "altitude_m": 2560,
+  "tagline": "The village above the river that waters Darjeeling's border",
+  "meta_description": "Rammam on the Phalut descent: a hill village near the source of the Rammam river, family lodges, walks, costs and the trail down to Srikhola.",
+  "summary": "Rammam is a hill village at about 2,560 m on the descent from Phalut, named for the Rammam river that rises in the Singalila range and flows east to the Rangeet. It is the largest settlement between Phalut and Srikhola, with family lodges, a school and fields, and makes a quiet last night before the jeep road.",
+  "local_story": {
+    "title": "A river that ends up in the Teesta",
+    "paras": [
+      "The village shares its name with the river below it. The Rammam rises in the Singalila range, gathers streams from Gorkhey, Samanden and the forests around, and flows east through Darjeeling district, taking in the Lodhama river on the way, before joining the Rangeet near Jorethang. For much of its course it separates Darjeeling district from Sikkim, and the Rangeet in turn feeds the Teesta. Downstream, the West Bengal state electricity board's Rammam hydel power station uses its water.",
+      "Up here, all of that is far away. Rammam village is a cluster of farmhouses, lodges, a school and prayer flags on a sunny slope, with terraced fields above the river valley. Like Gorkhey and Samanden it has long been connected to the outside only by footpaths, and it lives from farming and, in the trekking months, from the walkers who come down from Phalut."
+    ]
+  },
+  "did_you_know": [
+    "The Rammam river rises in the Singalila range and joins the Rangeet near Jorethang, which in turn joins the Teesta.",
+    "The Lodhama river is a tributary of the Rammam, and the Rammam hydel power station downstream is a West Bengal state electricity project.",
+    "For much of its course the Rammam forms part of the boundary between Darjeeling district and Sikkim."
+  ],
+  "intro": [
+    "After Samanden, Rammam feels almost like a town: more houses, a school, several lodges and paths heading in all directions. It sits on a sunny slope above the river, warmer than the ridge and greener, with views east toward Sikkim. Trekkers coming down from Phalut usually reach it by midday or early afternoon.",
+    "Sleep here if you want one more quiet village night before Srikhola and the jeep road. The lodges are simple and friendly, and the afternoon is free for a walk down toward the river or around the fields. Next morning, the trail drops through forest to Srikhola in about 2.5–3 hours."
+  ],
+  "facts": [
+    ["Best months", "Oct – Nov · Mar – May"],
+    ["Nights we suggest", "0–1"],
+    ["From Gorkhey", "≈ 3–4 h on foot via Samanden"],
+    ["Altitude", "≈ 2,560 m"],
+    ["Known for", "River valley, family lodges, last quiet night"],
+    ["Network", "Patchy"]
+  ],
+  "best_months": [1, 0, 1, 2, 2, 0, 0, 0, 0, 2, 2, 1],
+  "nights": "0–1",
+  "costs": [
+    ["Lodge bed or twin room", "₹500–1,200 pp"],
+    ["Dinner and breakfast", "₹400–700 pp"],
+    ["Tea", "₹30–50"],
+    ["Noodle soup", "₹100–150"],
+    ["Guide share for a pair", "≈ ₹750–1,000 pp a day"]
+  ],
+  "highlights": [
+    {"title": "Above the Rammam river", "text": "Rammam's fields drop toward the river that gives it its name, one of the headwaters of the Rangeet. A walk down toward the water shows how these Himalayan rivers begin, as fast cold streams in deep forested valleys."},
+    {"title": "A proper village", "text": "With a school, lodges, a small gompa and many houses, Rammam is the largest village between Phalut and Srikhola. It is a good place to see everyday hill life, from schoolchildren to farmers coming back from the fields."},
+    {"title": "The forest trail to Srikhola", "text": "The path down to Srikhola runs through oak, chestnut and rhododendron forest with occasional views of the valley. It is a pleasant last morning of walking, mostly downhill."},
+    {"title": "Sunny afternoons", "text": "Rammam's slope catches the afternoon sun, unlike the shadowed valleys of Gorkhey. After the cold ridge nights, sitting on a lodge terrace in warm light with tea is a small luxury."},
+    {"title": "Morning birds", "text": "The forest and field edges around the village are good for birds in the early morning, including minivets, barbets and laughingthrushes. Walk slowly before breakfast."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot from Gorkhey", "text": "Via Samanden: about 3–4 hours, with a steep start out of Gorkhey and an easier second half. A licensed guide is required."},
+    {"mode": "On foot from Srikhola", "text": "Climb through forest from Srikhola: about 3–4 hours uphill, gaining roughly 600 m. Srikhola is the nearest jeep point, connected to Rimbik."}
+  ],
+  "where_to_stay": "Rammam has several family lodges with basic rooms or dorm beds, quilts, shared toilets and home-cooked meals, at roughly ₹500–1,200 per person for the bed. Your guide will usually book a lodge by phone from Gorkhey or Phalut.",
+  "stays": [],
+  "tips": [
+    "Reach Rammam by early afternoon to enjoy the sun before the valley cools.",
+    "If you have time, sleep here rather than rushing to Srikhola; it is quieter.",
+    "Carry cash for the last two nights; there are no ATMs until Darjeeling.",
+    "Ask your guide to phone ahead to Srikhola about jeep times to Rimbik and Darjeeling.",
+    "Treat drinking water even here; streams pass through grazing land above."
+  ],
+  "themes": ["treks", "homestays", "wildlife-birds", "off-season"],
+  "nearby": ["samanden", "srikhola", "gorkhey", "rimbik"],
+  "experiences": [
+    {
+      "slug": "rammam-forest-trail-to-srikhola",
+      "title": "Walk the forest trail down to Srikhola",
+      "kind": "trek",
+      "duration": "2.5–3 hours",
+      "best_time": "Morning, Oct–Nov and Mar–May",
+      "cost": "Included in your guide fee",
+      "image_query": "forest trail Rammam Srikhola",
+      "wiki": "",
+      "summary": "The last long downhill of the Phalut trek runs from Rammam through oak, chestnut and rhododendron forest to the river village of Srikhola, losing about 600 m. A gentle, shady morning walk with birds and the sound of water below.",
+      "body": [
+        "Leave Rammam after breakfast and follow the path down through fields to the forest edge. The trail then drops steadily through mixed forest: oak, chestnut, rhododendron, magnolia and, in damp spots, ferns and moss. It is wider and better used than the high trails, with village walkers and mules on it.",
+        "Occasional gaps in the trees show the valley ahead and the river glinting far below. In spring, rhododendrons flower on this stretch earlier than higher up; in autumn the forest is quiet and cool. Listen for barbets and minivets in the canopy.",
+        "After 2.5–3 hours you reach the river and the iron bridge into Srikhola, with its lodges and the first jeeps since Maneybhanjan. If you are continuing the same day, have lunch here before walking or driving on to Rimbik."
+      ],
+      "good_for": ["students", "couples", "solo", "families"],
+      "faqs": [
+        {"q": "How long is the walk from Rammam to Srikhola?", "a": "About 2.5–3 hours downhill, losing roughly 600 m through forest. It is one of the easier days of the trek. In reverse, uphill, allow 3–4 hours."},
+        {"q": "Is the Rammam to Srikhola trail steep?", "a": "Moderately. It is a steady descent rather than a steep one, on a good path. Knees may still feel it after several days. Poles help on the lower section."},
+        {"q": "Can I reach Rimbik the same day from Rammam?", "a": "Yes. Rammam to Srikhola takes 2.5–3 hours, then Srikhola to Rimbik is about 2 hours on foot or a short jeep ride. Starting by 8 am, you can be in Rimbik by mid-afternoon."}
+      ]
+    },
+    {
+      "slug": "rammam-village-and-school-walk",
+      "title": "An afternoon wander through Rammam village",
+      "kind": "culture",
+      "duration": "1–1.5 hours",
+      "best_time": "3–5 pm, Oct–Nov and Mar–May",
+      "cost": "Free",
+      "image_query": "Darjeeling hill village children school",
+      "wiki": "",
+      "summary": "Walk Rammam's paths in the late afternoon when children come home from school, cattle come in from grazing and smoke rises from kitchens. A simple look at the everyday life of a roadless hill village.",
+      "body": [
+        "Rammam is big enough to have a school, a small gompa and many houses spread across the slope, connected by stone paths. In the afternoon, schoolchildren walk home in uniforms, some of them from farms an hour away. Farmers carry loads of fodder in bamboo baskets, and cattle come in from the forest.",
+        "Walk slowly, greet people with namaste and let your guide make introductions if you want to talk. Many families are of Nepali-speaking communities common across the Darjeeling hills, and some speak Hindi or a little English. Ask before photographing anyone, especially children.",
+        "If the gompa is open, step in quietly. Otherwise, find a spot above the fields to watch the light go off the valley toward Sikkim, then return to your lodge for tea before it gets cold."
+      ],
+      "good_for": ["families", "couples", "solo", "seniors"],
+      "faqs": [
+        {"q": "What is there to see in Rammam?", "a": "Village life rather than sights: terraced fields, the school, a small gompa and views over the valley. Rammam is a quiet place to rest and observe how hill families live away from roads."},
+        {"q": "Can I bring gifts for children in Rammam?", "a": "Avoid handing out sweets or money, which encourages begging and harms teeth. If you want to help, ask your guide whether the school would welcome notebooks or pencils given to a teacher, not directly to children."},
+        {"q": "Is Rammam on the main Sandakphu trek?", "a": "Only on the longer route via Phalut and Gorkhey. Trekkers who go down from Sandakphu directly to Srikhola via Gurdum do not pass Rammam."}
+      ]
+    },
+    {
+      "slug": "rammam-river-headwaters-walk",
+      "title": "Walk down to the Rammam river",
+      "kind": "viewpoint",
+      "duration": "2 hours return",
+      "best_time": "Morning or afternoon, Oct–Nov",
+      "cost": "Included in your guide fee",
+      "image_query": "Rammam River Darjeeling",
+      "wiki": "Rammam River",
+      "summary": "A short side walk from the village down to the Rammam river shows a Himalayan river close to its start: fast, cold and clear, cutting through forest, long before it joins the Rangeet and Teesta.",
+      "body": [
+        "Ask your guide for the path down from the village toward the river. It drops through fields and forest to the water, where the Rammam runs over boulders between steep wooded banks. This is a young river, fed by streams from Phalut, Gorkhey and Samanden.",
+        "Sit on the rocks and look downstream. From here the water flows east through Darjeeling district, forming much of the boundary with Sikkim, joins the Lodhama and other tributaries, passes the Rammam hydel power station and reaches the Rangeet near Jorethang, and eventually the Teesta and the plains.",
+        "Look for river birds: redstarts, forktails and wagtails. The climb back up to the village takes longer than the descent; allow two hours in total. Avoid this walk after heavy rain, when the path is slippery and the river high."
+      ],
+      "good_for": ["photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "Where does the Rammam river go?", "a": "It flows east from the Singalila range through Darjeeling district, forming part of the boundary with Sikkim, and joins the Rangeet near Jorethang. The Rangeet then joins the Teesta, which flows down to the plains of North Bengal."},
+        {"q": "Can I swim in the Rammam river?", "a": "Not advised. The water is cold, fast and rocky. Paddling at the edge in calm spots is fine with care. Avoid the river after rain, when levels rise quickly."},
+        {"q": "Is there a hydropower project on the Rammam?", "a": "Yes, downstream. The Rammam hydel power station is a West Bengal state electricity project. You will not see it from the village; it lies lower down the valley."}
+      ]
+    },
+    {
+      "slug": "rammam-dawn-birding",
+      "title": "Dawn birding on Rammam's forest edge",
+      "kind": "wildlife",
+      "duration": "1.5 hours",
+      "best_time": "6–7.30 am, Mar–May and Oct–Nov",
+      "cost": "Included in your guide fee",
+      "image_query": "scarlet minivet Himalaya",
+      "wiki": "",
+      "summary": "Walk the field and forest edges around Rammam at first light. The mid-altitude mix of farmland and broadleaf forest brings minivets, barbets, bulbuls, sunbirds and laughingthrushes into view before the trail traffic starts.",
+      "body": [
+        "Rammam lies lower and warmer than the ridge, in the zone of broadleaf forest where many of the Darjeeling hills' colourful birds live. At dawn, scarlet minivets move in flocks through the treetops, great barbets call loudly from high branches and bulbuls and sunbirds feed around flowering shrubs.",
+        "Walk along the upper edge of the village where fields meet forest, stopping every few minutes to listen. Laughingthrushes forage in the undergrowth, and in spring you may hear cuckoos. Your guide can point out the trail toward Srikhola, which is also productive.",
+        "Bring binoculars and a field guide. An hour and a half is plenty before breakfast, leaving time for the walk down to Srikhola later in the morning."
+      ],
+      "good_for": ["photographers", "seniors", "solo"],
+      "faqs": [
+        {"q": "What birds might I see around Rammam?", "a": "Scarlet minivets, great barbets, bulbuls, sunbirds, laughingthrushes, flycatchers and warblers are common. Spring brings cuckoos and more song. Pheasants are less likely here than on the higher ridge."},
+        {"q": "Is Rammam better for birds than the ridge?", "a": "Different, not better. Rammam's lower broadleaf forest has more colourful, common species; the ridge has specialists like the fire-tailed myzornis and blood pheasant. The whole trek crosses several bird zones."},
+        {"q": "Do I need special gear for birding at Rammam?", "a": "Binoculars are the essential item, with a field guide or app. Wear muted colours and walk slowly. A camera with a zoom lens helps for photos."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Rammam?", "a": "Rammam is a village at about 2,560 m on the descent from Phalut, between Samanden and Srikhola, in Darjeeling district near the Sikkim border. It is named after the Rammam river below."},
+    {"q": "Can I stay at Rammam?", "a": "Yes, in several family lodges with basic rooms and home-cooked meals, at roughly ₹500–1,200 per person for the bed. Your guide usually books ahead by phone."},
+    {"q": "How far is Rammam from Srikhola?", "a": "About 2.5–3 hours downhill on a forest trail, losing roughly 600 m. In reverse, uphill, allow 3–4 hours."},
+    {"q": "Is there a road to Rammam?", "a": "No motor road reaches the village; the nearest jeep point is Srikhola. Supplies come on foot or by mule."},
+    {"q": "Is Rammam on the Sandakphu trek?", "a": "On the longer route via Phalut and Gorkhey, yes. On the short route from Sandakphu straight down to Srikhola via Gurdum, no."},
+    {"q": "What is the Rammam river?", "a": "A river that rises in the Singalila range and flows east through Darjeeling district, forming much of the boundary with Sikkim, to join the Rangeet near Jorethang. The Lodhama is one of its tributaries."},
+    {"q": "Is there mobile network in Rammam?", "a": "Patchy; some Indian networks work in parts of the village. Signal improves at Srikhola and Rimbik. Do not count on it."},
+    {"q": "Should I stay at Rammam or Srikhola?", "a": "Rammam is quieter and more village-like; Srikhola is by the river with more lodges and a jeep road. If you have an extra night, sleep at Rammam and walk to Srikhola and Rimbik the next day."},
+    {"q": "What is the weather in Rammam?", "a": "Mild: about 6–16 °C in October and November, frosty nights in winter, warm days in spring. Afternoons can bring cloud, and the monsoon months are wet."}
+  ]
+}

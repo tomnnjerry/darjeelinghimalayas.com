@@ -1,0 +1,75 @@
+{
+  "slug": "north-sikkim-dzongu-lepcha-homestay-3n",
+  "title": "Three nights with a Lepcha family in Dzongu",
+  "region": "north-sikkim",
+  "nights": 3,
+  "themes": ["homestays", "food-trails", "solo-backpacking"],
+  "tier": "Shoestring",
+  "travel_mode": "Shared jeeps",
+  "stops": [{"place": "dzongu", "nights": 3}],
+  "start": "Gangtok (Vajra stand)",
+  "end": "Gangtok",
+  "price_from_inr": 8500,
+  "cost_split": [
+    {"item": "Shared jeeps Gangtok–Mangan return and taxis into Dzongu", "inr": 1800},
+    {"item": "Lepcha homestay, 3 nights with all meals", "inr": 5700},
+    {"item": "Dzongu permit and a guided village walk", "inr": 700},
+    {"item": "Chi, snacks and small tips", "inr": 300}
+  ],
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2000,
+  "meta_description": "Dzongu in 3 nights from Gangtok: Lepcha homestay, permit from Mangan, village and waterfall walks, chi and home food, from ₹8,500 per person.",
+  "summary": "Three nights in a Lepcha home in Dzongu, the reserve across the Teesta from Mangan. Shared jeep to Mangan, a permit, a taxi into the valley, then village walks, waterfalls, cardamom groves and Lepcha food by the fire. About ₹8,500 per person from Gangtok. Quiet, green and cheap; check current status before you travel.",
+  "intro": [
+    "Dzongu is the opposite of the North Sikkim package tour. There is no 3 am start, no snow and no checklist of sights. Instead you get a valley of Lepcha villages, waterfalls and forest, kept as a reserve since the Chogyals' time, where families still speak Lepcha at home. You stay in one homestay for three nights, eat what the family eats and walk with a local guide.",
+    "Everything runs on shared jeeps and local taxis, which keeps the cost under ₹3,000 a day. The hard part is the permit: you collect it in Mangan on the way in, so arrive early on a working day. Roads and bridges into Dzongu were damaged in 2023 and by later landslides; your homestay will tell you which route is open."
+  ],
+  "highlights": [
+    "Three nights in one Lepcha family home",
+    "Nettle soup, ferns, millet and chi from the family kitchen",
+    "Village and waterfall walks with a local guide",
+    "Cardamom groves and Lepcha crafts",
+    "The Lepcha story of Kanchenjunga as guardian"
+  ],
+  "days": [
+    {"day": 1, "title": "Gangtok to Mangan and into Dzongu", "place": "dzongu", "overnight": "Dzongu homestay", "drive": "≈ 65 km · 3 h by shared jeep + 0.5–1.5 h by taxi", "text": "Be at Gangtok's Vajra taxi stand by 7.30–8 am for a shared jeep to Mangan, about ₹200–300 a seat. The road passes Kabi Lungchok and Phodong. In Mangan, go straight to the district office for your Dzongu permit with photo ID and photographs; your homestay may have sent the paperwork ahead. Eat lunch in the bazaar, then take a taxi or your homestay's car across the Teesta into Dzongu. Arrive by late afternoon, have tea with the family and an early dinner.", "meals": "Dinner", "spend": "₹250 jeep + ₹600 taxi share + ₹150 lunch"},
+    {"day": 2, "title": "Village paths and cardamom groves", "place": "dzongu", "overnight": "Dzongu homestay", "drive": "", "text": "Spend the day on foot with a local guide arranged by your host, about ₹500–1,000 for the day, split if you are two. Walk down through cardamom groves under alder trees, across streams, past terraces of maize and millet, and up to a neighbouring village. Ask about plants, shrines and the Lepcha names of places. Lunch is packed or eaten at a relative's house. In the evening, sit in the kitchen while dinner is cooked and ask to try chi, the millet beer sipped through bamboo.", "meals": "Breakfast, Lunch, Dinner", "spend": "₹400 guide share + ₹150 chi"},
+    {"day": 3, "title": "Waterfall walk and Lepcha crafts", "place": "dzongu", "overnight": "Dzongu homestay", "drive": "", "text": "Walk to a waterfall in one of Dzongu's side valleys, a half-day trip depending on the season and the paths; your host will choose one that is open. In the afternoon, ask whether a neighbour weaves or works bamboo, and spend an hour watching. Learn a greeting in Lepcha and see the Lepcha script. If the sky clears at dusk, look for Kanchenjunga, Kongchen Konglo, and ask your host to tell the story of the first man and woman made from its snows.", "meals": "Breakfast, Lunch, Dinner", "spend": "₹100 snacks + small craft purchase"},
+    {"day": 4, "title": "Back to Mangan and Gangtok", "place": "dzongu", "overnight": "Gangtok (not included)", "drive": "≈ 0.5–1.5 h by taxi + 65 km · 3 h by shared jeep", "text": "After breakfast, take the homestay car or a taxi back to Mangan. Shared jeeps to Gangtok leave Mangan mainly in the morning, so aim to be in the bazaar by 9–10 am. If there is time, buy large cardamom from a shop that lets you smell the pods. Reach Gangtok by early afternoon, in time for an onward jeep to Siliguri if you started early, or a night in Gangtok.", "meals": "Breakfast", "spend": "₹600 taxi share + ₹250 jeep"}
+  ],
+  "stays": ["dzongu-mayal-lyang-homestay"],
+  "includes": [
+    "Three nights in a Lepcha homestay with all meals",
+    "Help with the Dzongu permit from your host",
+    "One day of guided village walking"
+  ],
+  "excludes": [
+    "Shared jeeps and taxis (paid locally)",
+    "Transport between NJP/Bagdogra and Gangtok",
+    "Extra guide days, crafts and chi",
+    "Gangtok hotel nights"
+  ],
+  "save_money": [
+    "Travel as two or three and split the Mangan–Dzongu taxi and the guide fee.",
+    "Use shared jeeps from Vajra stand instead of a reserved car from Gangtok.",
+    "Book the homestay directly and ask for its all-meals rate; there is nothing else to buy in the villages."
+  ],
+  "good_to_know": [
+    "Dzongu permits are usually issued in Mangan on working days; arrive before noon.",
+    "There are no ATMs in Dzongu; carry cash from Gangtok or Mangan.",
+    "Leeches are common from April to October; bring leech socks.",
+    "Check current status before you travel; bridges into Dzongu have been hit by floods and landslides."
+  ],
+  "faqs": [
+    {"q": "How much does a Dzongu homestay trip cost?", "a": "About ₹8,500 per person for three nights from Gangtok in 2025–26, including shared jeeps, taxis into Dzongu, a homestay with all meals, the permit and a guided walk. Homestays cost roughly ₹1,800–2,500 per person per day. Solo travellers pay more for taxis and guides."},
+    {"q": "Do I need a tour operator for Dzongu?", "a": "No. Unlike Lachung and Lachen, you can visit Dzongu independently with a Dzongu permit, which is usually issued in Mangan. Many homestays help with the paperwork. Foreign nationals face stricter rules and should ask a registered agent. Check current status before you travel."},
+    {"q": "Is Dzongu good for solo travellers?", "a": "Yes. Homestays welcome solo guests, all meals are included, and hosts arrange guides and transport. The valley is quiet and generally safe. Solo travellers pay the full taxi and guide cost, so the daily budget is about ₹500–800 higher than for two people."},
+    {"q": "What do I do in Dzongu for three days?", "a": "Walk village paths and forest trails with a local guide, visit a waterfall, see cardamom groves and Lepcha crafts, and spend evenings with your host family. In a Kamsel year you might visit Tholung Monastery. It is a slow trip; the point is to stay in one place."},
+    {"q": "Can I combine Dzongu with Lachung?", "a": "Yes. After Dzongu, return to Mangan and arrange with a Gangtok agent for a North Sikkim tour vehicle to collect you there for Lachung. You need the North Sikkim permit as well. Our 5-night Lepcha and Lachung journey is built this way."},
+    {"q": "Is the food in Dzongu vegetarian-friendly?", "a": "Yes. Lepcha home food is mostly rice, greens, ferns, squash, potatoes and dal, with meat added for guests or festivals. Tell your homestay you are vegetarian when booking. Chi, the millet beer, is optional; tea is always available."},
+    {"q": "What is the best season for Dzongu?", "a": "October to April. October and November are dry and clear with the cardamom harvest; December and January bring Namsoong, the Lepcha new year; March and April are warm and green. The monsoon, June to September, brings heavy rain, leeches and landslides."},
+    {"q": "Is there mobile network in Dzongu?", "a": "Patchy. BSNL and Jio work in some villages and not others, and power cuts are common. Tell family you may be out of reach, download maps offline and carry a torch and power bank. Your homestay host can usually reach Mangan by phone if needed."},
+    {"q": "How do I get back if the road is blocked?", "a": "Your homestay host will know alternative routes or when repairs are expected. Keep one spare day in your plans and do not book tight onward trains or flights. Ask the host to call Mangan for the latest, and check current status before you travel."}
+  ]
+}

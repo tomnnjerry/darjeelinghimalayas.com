@@ -1,0 +1,171 @@
+{
+  "slug": "yumesamdong",
+  "name": "Yumesamdong (Zero Point)",
+  "name_local": "",
+  "region": "north-sikkim",
+  "kind": "viewpoint",
+  "wiki": "",
+  "image_query": "Zero Point Yumesamdong Sikkim snow",
+  "lat": 27.93,
+  "lng": 88.69,
+  "altitude_m": 4700,
+  "tagline": "Where the civilian road ends, at about 4,700 m",
+  "meta_description": "Zero Point (Yumesamdong) from Lachung: snow months, the ₹3,000–4,500 vehicle add-on, altitude at about 4,700 m, rules for foreigners and safety tips.",
+  "summary": "Yumesamdong, sold as Zero Point, is the end of the civilian road in the Lachung valley, about 23 km beyond Yumthang at roughly 4,700 m. It is bare, high and usually snowy from November to May. It costs ₹3,000–4,500 extra per vehicle. Indians only; check current status before you travel.",
+  "local_story": {
+    "title": "The end of the road at the head of the valley",
+    "paras": [
+      "Tourists call it Zero Point because this is where the road stops for civilians. Beyond, the valley belongs to the Indian Army and the high passes toward Tibet. The name Yumesamdong is older, the herders' and traders' name for the high ground at the head of the Lachung Chu, where the river begins from glaciers and snowfields.",
+      "In 1849 the botanist Joseph Dalton Hooker crossed from the Lachen side of the range into the Lachung valley, and his Himalayan Journals describe a camping ground he called Momay Samdong at its head, with hot springs nearby. It is generally taken to be today's Yumesamdong. Hooker was looking for rhododendrons and the limit of plant life; up here he found mostly rock, moss and cold wind, which is what you will find too. The modern road arrived much later, built for the army, and was opened to Indian tourists with permits as North Sikkim tourism grew from the 1990s."
+    ]
+  },
+  "did_you_know": [
+    "Zero Point is about 23 km beyond Yumthang Valley and roughly 1,100 m higher, a climb most vehicles make in 60–90 minutes.",
+    "Foreign nationals on a Protected Area Permit have not been allowed to Zero Point; it has been open to Indian citizens only.",
+    "Joseph Hooker's 1849 journals describe a camp he called Momay Samdong at the head of the Lachung valley, generally identified with Yumesamdong."
+  ],
+  "intro": [
+    "Zero Point is the high, open end of the Lachung valley: snowfields, glacial streams, bare moraine and peaks on three sides, with a few tea stalls and army posts. There is no village. You come on the morning of your Yumthang day, stay 30–60 minutes and go back down. Most of the year there is snow, deep from December to April and patchy in October.",
+    "It is a big jump in height. You sleep in Lachung at about 2,700 m and climb to roughly 4,700 m in two hours. Headaches and breathlessness are common, and young children, older people and anyone with heart or lung disease should think twice. Weather and snow close the road often, so the add-on is confirmed only on the day. Check current status before you travel."
+  ],
+  "facts": [
+    ["Best months", "Mar – May · Oct – Nov"],
+    ["Nights we suggest", "0 (half-day from Lachung)"],
+    ["From Lachung", "≈ 47 km · 2–2.5 h via Yumthang"],
+    ["Altitude", "≈ 4,700 m"],
+    ["Known for", "Snow most of the year, end of the civilian road"],
+    ["Network", "None for tourists"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "0",
+  "costs": [
+    ["Zero Point add-on from Lachung", "₹3,000–4,500 per vehicle"],
+    ["Snow boots and long coat rental", "₹100–300 each"],
+    ["Maggi, tea or coffee at stalls", "₹60–150"],
+    ["Portable oxygen can", "₹500–900"],
+    ["Toilet at stalls, where available", "₹10–20"]
+  ],
+  "highlights": [
+    {"title": "Snow most of the year", "text": "From roughly November to May, Zero Point has snow, often deep enough for snowball fights and sliding. It is the most reliable snow you can reach by road in Sikkim, which is why families pay the extra."},
+    {"title": "The bare high valley", "text": "Above the treeline the valley opens into rock, moraine and snow, with glacial streams crossing the road. It is stark and quiet when the jeeps leave. Look for the river's first channels coming down from the snow."},
+    {"title": "Tea at 4,700 m", "text": "Seasonal stalls sell tea, coffee, butter tea and Maggi. A hot cup is the best thing to do here, and the prices are fair for the height: ₹60–150 for most items."},
+    {"title": "A study in altitude", "text": "Zero Point is roughly as high as the base of many Himalayan treks. You feel it in a few steps. Walk slowly and keep the visit to under an hour."},
+    {"title": "The drive above Yumthang", "text": "The 23 km above Yumthang climbs through the last rhododendron scrub, past the treeline and onto open moraine. Clear October mornings give the best views of the peaks around the valley head."}
+  ],
+  "how_to_reach": [
+    {"mode": "Add-on from Lachung", "text": "Ask your Gangtok agent or driver to add Zero Point to your Yumthang morning. It costs about ₹3,000–4,500 per vehicle, so the per-person cost drops if your shared vehicle is full. Confirmation depends on road and snow conditions that morning."},
+    {"mode": "Reserved vehicle", "text": "With a reserved car from Gangtok, include Zero Point in the price when you book and agree what happens if the road is closed. Leave Lachung at 5.30–6 am to be back by noon."}
+  ],
+  "where_to_stay": "There is nowhere to stay at Zero Point; it is a day visit only. Everyone sleeps in Lachung, about 47 km and 2–2.5 hours down the valley via Yumthang. Book a room with heating in Lachung for the night before, since you will start in the cold at 5.30–6 am. Family homestays cost about ₹1,500–2,500 per person with meals; Yarlam Resort is the comfortable option.",
+  "stays": [],
+  "tips": [
+    "Stay no more than 30–60 minutes and do not run or climb the slopes.",
+    "Wear sunglasses and sunscreen; snow glare at this height burns quickly.",
+    "Skip Zero Point with children under five, and if anyone has heart or lung problems.",
+    "Agree the add-on price with your driver before leaving Lachung, and whether it is refunded if the road is closed.",
+    "Carry back every wrapper and bottle; there is no rubbish collection up here."
+  ],
+  "themes": ["snow-and-passes", "family-trips", "photography"],
+  "nearby": ["yumthang", "lachung"],
+  "experiences": [
+    {
+      "slug": "yumesamdong-zero-point-snow-morning",
+      "title": "A snow morning at Zero Point",
+      "kind": "adventure",
+      "duration": "4–5 hours return from Lachung",
+      "best_time": "6 am–12 noon, Nov–May",
+      "cost": "₹3,000–4,500 per vehicle",
+      "image_query": "Zero Point Sikkim snow tourists",
+      "wiki": "",
+      "summary": "The classic add-on to Yumthang: drive to the end of the civilian road, play in the snow for half an hour, drink a hot tea and come back down. Rent boots and coats in Lachung, start by 6 am, and watch everyone for signs of altitude sickness.",
+      "body": [
+        "Most visitors come to Zero Point for one thing: snow. From roughly November to May the valley head is white, and even in October there are patches. The drive from Lachung goes through Yumthang, so you see the rhododendron valley on the way up and stop again on the way down.",
+        "At the top, vehicles park near a cluster of seasonal stalls. Walk a short way from the road for clean snow, but stay on the flatter ground and away from streams that may be running under the snow. Half an hour of snow play is plenty. At about 4,700 m, even throwing snowballs can leave you breathless.",
+        "The price is per vehicle, ₹3,000–4,500, and set by local rules. In a shared tour, the driver collects it from everyone who wants to go; if some passengers do not want to, they may have to wait at Yumthang. Agree this the evening before. If the road is closed by snow, ask whether the add-on will be refunded."
+      ],
+      "good_for": ["families", "students", "first-timers"],
+      "faqs": [
+        {"q": "How much is Zero Point extra from Lachung?", "a": "About ₹3,000–4,500 per vehicle in 2025–26, on top of the normal Lachung tour price. In a shared vehicle this is split between passengers who go. The rate is set locally and changes, so confirm with your agent before leaving Gangtok, and agree whether it is refunded if snow closes the road."},
+        {"q": "Is there always snow at Zero Point?", "a": "Usually from November to May, often deep from December to April. In October snow can be patchy, and in a warm year late May may be thin. Heavy snowfall can also close the road entirely. Check current status before you travel and ask your driver the evening before."},
+        {"q": "How long can we stay at Zero Point?", "a": "Plan 30–60 minutes. Drivers want to get back down before the weather changes, and the altitude of roughly 4,700 m makes longer stays uncomfortable for most visitors. If anyone develops a bad headache, nausea or confusion, leave immediately."}
+      ]
+    },
+    {
+      "slug": "yumesamdong-treeline-drive",
+      "title": "Above the treeline from Yumthang",
+      "kind": "viewpoint",
+      "duration": "1.5 hours each way",
+      "best_time": "6–9 am, Oct–Nov and Apr–May",
+      "cost": "Part of the Zero Point add-on",
+      "image_query": "Yumesamdong road North Sikkim",
+      "wiki": "",
+      "summary": "The 23 km road from Yumthang to Zero Point climbs about 1,100 m, from rhododendron forest through dwarf scrub to bare moraine. Ask for two short stops: one at the last of the trees and one where the valley opens out.",
+      "body": [
+        "This drive is a lesson in how fast the Himalaya changes with height. Leaving Yumthang at about 3,560 m, the road runs through the upper Shingba forest, with fir and rhododendron. Within half an hour the trees shrink to bushes, then give way to grass, moss and rock. By the time you reach Zero Point at about 4,700 m there is little but snow, stone and sky.",
+        "Ask the driver for two short stops, at the treeline and where the valley widens. In April and May you may see dwarf rhododendrons flowering low to the ground; in October and November the slopes are russet and the peaks around the valley head are clear in the early light.",
+        "The road crosses streams that can be icy in the morning, and some stretches are narrow. Do not push the driver to go faster. Stay seated with a seat belt where available. If you get motion sickness, take your medicine before leaving Lachung and sit in the front if you can."
+      ],
+      "good_for": ["photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "How long does it take from Yumthang to Zero Point?", "a": "About 60–90 minutes for the 23 km, depending on snow and road condition. The whole outing from Lachung, with stops at Yumthang and 30–60 minutes at the top, takes four to five hours. Leave by 6 am to be back for lunch."},
+        {"q": "Is the road to Zero Point dangerous?", "a": "It is a narrow mountain road with stream crossings and ice in cold months, driven every day by experienced local drivers. Accidents are rare, but conditions change with snow. Do not pressure your driver, and accept a decision to turn back if conditions are bad."},
+        {"q": "What will I see on the way to Zero Point?", "a": "The upper rhododendron forest of the Shingba sanctuary, the treeline, open moraine and glacial streams, then snowfields and peaks around the valley head. In April and May there are dwarf rhododendrons in flower. October and November mornings are the clearest."}
+      ]
+    },
+    {
+      "slug": "yumesamdong-tea-stall-maggi",
+      "title": "Maggi and butter tea at the top",
+      "kind": "food",
+      "duration": "30 minutes",
+      "best_time": "8–11 am, Nov–May",
+      "cost": "₹60–150",
+      "image_query": "tea stall Zero Point Sikkim",
+      "wiki": "",
+      "summary": "Seasonal stalls at Zero Point run by people from Lachung sell tea, coffee, butter tea, Maggi and sometimes momos. Sitting with a hot cup out of the wind is the best way to spend part of your time at 4,700 m, and it keeps money in the valley.",
+      "body": [
+        "The stalls at Zero Point are basic: a few benches, a stove and shelves of instant noodles, biscuits and tea. They are run in season by Lachung families, and they are where tour groups warm up. Prices are a little higher than in Lachung, which is fair given that every packet comes up by road.",
+        "A bowl of Maggi with an egg, a cup of milk tea or butter tea, and a few minutes out of the wind cost ₹60–150. Butter tea, salted and rich, is what herders drank to stay warm; try it here if you have not. Avoid alcohol at this height, whatever anyone offers; it worsens altitude sickness.",
+        "Some stalls rent boots or sell small oxygen cans at ₹500–900. The cans give a few minutes of relief, not a cure; the real treatment for altitude sickness is going down. Use a stall toilet where offered and pay the small fee. Take your cups and wrappers back to the stall bin, not into the snow."
+      ],
+      "good_for": ["families", "students", "solo"],
+      "faqs": [
+        {"q": "Is food available at Zero Point?", "a": "Yes, in season. Stalls near the parking area sell tea, coffee, butter tea, Maggi, biscuits and sometimes momos for about ₹60–150. They may not open in deep winter or very early in the morning, so carry water and a snack from Lachung."},
+        {"q": "Are there toilets at Zero Point?", "a": "Only very basic ones, usually attached to stalls, for ₹10–20 where available. There is nothing on the road between Yumthang and Zero Point. Use the toilet at your Lachung hotel before leaving and at Yumthang on the way up."},
+        {"q": "Should I buy an oxygen can for Zero Point?", "a": "An oxygen can, about ₹500–900, gives brief relief from breathlessness but does not treat altitude sickness. It can help someone feel calmer while you head down. If anyone is seriously unwell, the only real fix is to descend at once."}
+      ]
+    },
+    {
+      "slug": "yumesamdong-glacial-streams-photography",
+      "title": "Glacial streams and the valley head",
+      "kind": "viewpoint",
+      "duration": "45 minutes",
+      "best_time": "7–10 am, Oct–Nov",
+      "cost": "Part of the Zero Point add-on",
+      "image_query": "Yumesamdong glacial stream snow peaks",
+      "wiki": "",
+      "summary": "At Zero Point the Lachung Chu is just a set of streams running off snow and moraine. Walk 100–200 m from the parking area on level ground to photograph the channels, the moraine and the peaks around the valley head in morning light.",
+      "body": [
+        "The Lachung Chu, which you followed all the way up from Chungthang, begins here as small streams from snowfields and glaciers on the slopes around the valley head. In October and November, when the air is dry and clear, the water runs blue-grey between grey moraine and white snow, and the peaks stand sharp against the sky.",
+        "Walk only a short way, 100–200 m, from the parking area on level ground. Do not climb the slopes for a better angle: at about 4,700 m, a short scramble can bring on a fierce headache. Keep away from snow bridges over running water, which can collapse under your weight.",
+        "Morning is best; clouds often build after 10 am. Use a polarising filter or simply underexpose a little to hold the snow. Do not photograph army posts, vehicles or soldiers; this is a border area, and cameras pointed at installations can lead to trouble. Drones are not allowed."
+      ],
+      "good_for": ["photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "Can I fly a drone at Zero Point?", "a": "No. Zero Point is in a sensitive border area with army installations, and drones are not allowed. Carrying one can lead to it being seized at a checkpost. Leave drones in Gangtok and photograph from the ground."},
+        {"q": "Can I photograph army posts at Zero Point?", "a": "No. Do not photograph army camps, vehicles, soldiers or installations anywhere in North Sikkim. Point your camera at the landscape and people who agree. If a soldier asks you to delete a photo, do it without argument."},
+        {"q": "What is the best light for photography at Zero Point?", "a": "Early morning, from about 7 to 10 am, especially in October and November, when the air is clear and dry. Clouds often build by late morning. In April and May mornings are good too, with more snow on the ground."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is Zero Point in Sikkim?", "a": "Zero Point is the popular name for Yumesamdong, the end of the civilian road at the head of the Lachung valley in North Sikkim, at about 4,700 m. Beyond it the area is under army control. It is visited as a half-day add-on from Lachung, mainly for snow."},
+    {"q": "How far is Zero Point from Lachung?", "a": "About 47 km, via Yumthang Valley: 24 km to Yumthang and roughly 23 km more to Zero Point. The drive takes two to two and a half hours each way with stops. Tours leave Lachung around 6 am and are usually back by noon."},
+    {"q": "Can foreigners go to Zero Point?", "a": "No, not as of our last check. Foreign nationals with a Protected Area Permit have been allowed to Lachung and Yumthang, but Zero Point has been open only to Indian citizens. Rules change, so ask your registered agent and check current status before you travel."},
+    {"q": "Is Zero Point safe for children?", "a": "It is risky for small children. At about 4,700 m, children may not be able to say they feel unwell. We advise against taking children under five and suggest Yumthang, at 3,564 m, as the snow stop instead. Older children should stay under an hour and be watched closely."},
+    {"q": "What is the best time to visit Zero Point?", "a": "March to May for deep snow with milder days, and October to November for clear skies and fewer crowds. December to February is very cold and the road often closes with fresh snow. June to September brings monsoon landslides on the way. Check current status before you travel."},
+    {"q": "Is Zero Point worth the extra cost?", "a": "It is worth it if your group is healthy, wants snow and the vehicle is shared, which lowers the cost per head. If you have small children, older parents or anyone unwell, skip it; Yumthang alone is a full morning, and the money is better spent on an extra night in Lachung."},
+    {"q": "What should I wear to Zero Point?", "a": "Thermal inner layers, a fleece, a windproof down jacket or rented long coat, a woollen cap, gloves, waterproof boots and sunglasses. Rent boots and coats in Lachung for ₹100–300. Temperatures are well below freezing in winter mornings and windy year-round."},
+    {"q": "Is Zero Point the same as Katao?", "a": "No. Katao is a different high area reached from Lachung on a separate road, opened to visitors at some times and closed at others. Zero Point is at Yumesamdong beyond Yumthang. Ask your agent which is open; permissions for Katao in particular change often."},
+    {"q": "What are the signs of altitude sickness at Zero Point?", "a": "Headache, nausea, dizziness, unusual tiredness and breathlessness at rest are early signs. Confusion, loss of balance or a wet cough are serious. Anyone with these should go down at once. Do not sleep in the vehicle on the way up, and do not drink alcohol the night before."}
+  ]
+}

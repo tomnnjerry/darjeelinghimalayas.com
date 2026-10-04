@@ -1,0 +1,6 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Policies · Darjeeling Himalayas{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:20px"><div class="phead__body" style="margin-top:0"><p class="eyebrow">Policies</p><h1 class="h-1">The fine print, in plain words</h1></div></div></header>
+<section class="sec--tight"><div class="wrap grid grid--3">{% for p in policies %}<a class="gcard" href="{% url 'policy' p.slug %}"><span class="gcard__cat">{% icon "shield" %}Policy</span><b>{{ p.title }}</b><p>{{ p.summary }}</p></a>{% endfor %}</div></section>
+{% endblock %}

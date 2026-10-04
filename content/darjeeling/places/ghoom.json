@@ -1,0 +1,133 @@
+{
+  "slug": "ghoom", "name": "Ghoom", "name_local": "घुम", "region": "darjeeling",
+  "kind": "monastery town",
+  "wiki": "Ghum, India", "image_query": "Ghoom railway station Darjeeling",
+  "lat": 26.99, "lng": 88.25, "altitude_m": 2258,
+  "tagline": "The toy train's highest station and a monastery from 1850",
+  "meta_description": "Ghoom on a budget: Yiga Choeling monastery (1850), the toy train's highest station at 2,258 m, Batasia Loop, joyride fares and ₹30–50 shared jeeps.",
+  "summary": "Ghoom is the saddle town 7–8 km from Darjeeling where the toy train reaches its highest point, 2,258 m. Visit Yiga Choeling monastery, founded in 1850, the small railway museum and Batasia Loop on the way back. Most people come on the steam joyride (≈ ₹1,500–1,800) or a ₹30–50 shared jeep.",
+  "local_story": {"title": "Where the railway tops out and the roads divide", "paras": [
+    "Ghoom sits on a saddle of the ridge, and that is the whole reason for it. Here the roads split four ways: back to Darjeeling, down to Kurseong and Siliguri, east to Peshok and the Teesta, and west to Sukhia Pokhari and Mirik. Jorebunglow, the market town next door, runs into Ghoom so closely that most visitors cannot tell where one ends. When the Darjeeling Himalayan Railway reached Darjeeling in 1881, Ghum station, at 2,258 m, became the highest point on the line and one of the highest railway stations in India.",
+    "Three decades before the trains, in 1850, Lama Sherab Gyatso founded Yiga Choeling, a monastery of the Gelug school, the tradition most associated with the Dalai Lama, on the slope below the saddle. Its main image is Maitreya, the Buddha who is to come, about 4.6 m (15 ft) tall. Ghoom also has the Samten Choling monastery and a Sakya monastery, so on one short walk you can visit three Tibetan Buddhist houses of prayer. At Losar, the Tibetan New Year in February or March, the monasteries hold prayers and the town fills with families in their best clothes.",
+    "Between Ghoom and Darjeeling the line loses height around Batasia Loop, a spiral built in 1919 to ease the gradient. In the middle of the loop stands the Gorkha War Memorial, which honours Gorkha soldiers of the Indian Army who died in service after independence. On a clear day Kanchenjunga rises directly behind it, which is why the joyride trains pause here. Up at the station, a small railway museum keeps photographs and objects from the line's early years, a reminder of how much work it took to bring trains this high."
+  ]},
+  "did_you_know": [
+    "Ghum station, at 2,258 m, is the highest point on the Darjeeling Himalayan Railway; trains climb from about 100 m at NJP and then drop slightly into Darjeeling.",
+    "Yiga Choeling, Ghoom's best-known monastery, was founded in 1850 by Lama Sherab Gyatso and belongs to the Gelug school; its Maitreya statue stands about 4.6 m tall.",
+    "Ghoom is a road junction as much as a town: from its saddle, roads run to Darjeeling, to Kurseong and Siliguri, to Peshok and the Teesta, and to Sukhia Pokhari and Mirik."
+  ],
+  "intro": [
+    "Most visitors see Ghoom for half an hour, from the window of the toy train or a jeep on the Tiger Hill run. It deserves a little more. The town is colder and mistier than Darjeeling, about 200 m higher, with an old-fashioned station, a monastery whose prayer hall is quiet by mid-morning, and a market at Jorebunglow where the hill villages come to shop. It is also cheaper: tea, momos and rooms cost a little less than up the road, and nobody is selling you a package.",
+    "We suggest seeing Ghoom as a half day from Darjeeling, or as a stop on the way out to Lepchajagat, Sukhia Pokhari or Lamahatta. Ride the joyride up from Darjeeling, spend the halt at the railway museum, then walk down to Yiga Choeling and take a ₹30–50 shared jeep back. Early risers can combine it with the Tiger Hill dawn: most Tiger Hill cars stop at the monastery and at Batasia Loop on the way down, a package drivers call the three-point tour."
+  ],
+  "facts": [["Best months", "Oct – Dec · Mar – May"], ["Nights we suggest", "0–1 (half day from Darjeeling)"], ["From Siliguri", "≈ 60 km · 2.5–3 h"], ["Altitude", "2,258 m at the station"], ["Known for", "Highest DHR station, Yiga Choeling, Batasia Loop"], ["Network", "Jio and Airtel good"]],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0–1",
+  "costs": [
+    ["Shared jeep from Darjeeling", "₹30–50 a seat"],
+    ["Steam toy train joyride Darjeeling–Ghoom–Darjeeling", "≈ ₹1,500–1,800"],
+    ["Diesel toy train joyride", "≈ ₹1,000–1,300"],
+    ["Batasia Loop entry", "≈ ₹20–50"],
+    ["Yiga Choeling monastery", "Small fee or donation"],
+    ["Momos and tea", "₹80–150"],
+    ["Homestay with dinner and breakfast", "₹1,500–2,500 pp"]
+  ],
+  "highlights": [
+    {"title": "Yiga Choeling monastery", "text": "Founded in 1850 by Lama Sherab Gyatso, a Gelug monastery just below the main road, with a Maitreya statue about 4.6 m tall. Go early for the morning prayers, walk clockwise, and pay the small entry fee or leave a donation."},
+    {"title": "Ghum station and its museum", "text": "The highest station on the Darjeeling Himalayan Railway, at 2,258 m. The small museum at the station keeps photographs and railway objects from the line's early years. Joyride trains halt long enough to look around; check current status before you travel."},
+    {"title": "Batasia Loop and the Gorkha War Memorial", "text": "The 1919 spiral that lets the train lose height on the way to Darjeeling, laid out as a small garden. At its centre the Gorkha War Memorial honours Gorkha soldiers of the Indian Army who died in service after independence. Kanchenjunga stands behind it on clear days."},
+    {"title": "Steam on the saddle", "text": "The steam joyride from Darjeeling to Ghoom and back is the easiest way to ride behind one of the line's B-class tank engines, built more than a century ago. Seats sell out in season, so book on IRCTC and check current status before you travel."},
+    {"title": "Samten Choling and the Sakya monastery", "text": "Two more Tibetan Buddhist monasteries a short walk or jeep hop from the station, far less visited than Yiga Choeling. Their courtyards are good places to sit and listen to morning chanting, and you will often have them to yourself."},
+    {"title": "Jorebunglow market", "text": "The market town that runs into Ghoom, where people from Lepchajagat, Peshok and the Sukhia road come to shop. Cheap momos and tea, sel roti around the festivals, and warm socks and caps for anyone who forgot them before the Tiger Hill dawn."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps run from the Darjeeling motor stand to Ghoom and Jorebunglow through the day, ₹30–50 a seat, 20–30 minutes for 7–8 km. Jeeps between Siliguri and Darjeeling on Hill Cart Road also pass through Ghoom and will drop you."},
+    {"mode": "Toy train", "text": "The steam or diesel joyride from Darjeeling runs to Ghoom with halts at Batasia Loop and Ghum station, about two hours return. Through trains from NJP also stop here when the full line is running. Book on IRCTC and check current status before you travel."},
+    {"mode": "Reserved car", "text": "A Darjeeling taxi to Ghoom costs a few hundred rupees one way. The dawn three-point tour, Tiger Hill with Ghoom monastery and Batasia Loop on the way back, costs ₹1,500–2,200 a car."},
+    {"mode": "On foot", "text": "Walk the 7–8 km between Darjeeling and Ghoom along Hill Cart Road beside the tracks, passing Batasia Loop. Uphill it takes about 2.5 hours; we suggest a shared jeep up and the walk down, about 2 hours."}
+  ],
+  "where_to_stay": "Most travellers sleep in Darjeeling, 7–8 km away, and visit Ghoom for a half day. If you want quiet or an early start for Tiger Hill, Ghoom and Jorebunglow have small family lodges and homestays on the roads towards Tiger Hill and Lepchajagat, usually ₹1,500–2,500 a person with dinner and breakfast. Ghoom is about 200 m higher than Darjeeling and noticeably colder and mistier, so ask about blankets, hot water and heaters in winter. For a forest night, go on to Lepchajagat, about 12 km along the Sukhia road, or to the GTA lodge at Jorepokhri beyond Sukhia Pokhari.",
+  "stays": [],
+  "tips": [
+    "Visit Yiga Choeling before 9 am, when the prayer hall is quiet and the tour cars from Tiger Hill have not yet arrived.",
+    "Ghoom is colder and mistier than Darjeeling, so bring an extra layer even when the town below is sunny.",
+    "If the steam joyride is sold out, take the diesel joyride, or ride a ₹30–50 shared jeep up and walk back via Batasia.",
+    "Walk clockwise around monasteries and chortens, and ask before photographing monks or the inside of prayer halls.",
+    "Losar, in February or March, is a good time to visit, but the date follows the lunar calendar and moves each year."
+  ],
+  "themes": ["toy-train", "monasteries", "festivals", "photography"],
+  "nearby": ["darjeeling", "tiger-hill", "lepchajagat", "sukhia-pokhari"],
+  "experiences": [
+    {"slug": "ghoom-yiga-choeling-morning-prayers", "title": "Morning prayers at Yiga Choeling",
+     "kind": "monastery", "duration": "1–1.5 hours", "best_time": "6–8 am, Oct–May", "cost": "Small fee or donation",
+     "image_query": "Yiga Choeling monastery Ghoom", "wiki": "Ghoom Monastery",
+     "summary": "Be at Yiga Choeling, Ghoom's Gelug monastery founded in 1850, when the monks chant in the morning. Sit at the back, watch butter lamps lit before the 4.6 m Maitreya, and walk the prayer wheels outside before the tour cars arrive from Tiger Hill.",
+     "body": [
+       "Yiga Choeling was founded in 1850 by Lama Sherab Gyatso, three decades before the railway came up the hill. It belongs to the Gelug school, the youngest of the four main schools of Tibetan Buddhism and the one most associated with the Dalai Lama. The monastery sits a few minutes' walk below the main road at Ghoom, a compact building with prayer wheels set along its outer walls and a small courtyard that catches the morning sun when the mist allows.",
+       "Inside, the main image is Maitreya, the Buddha who is to come, about 4.6 m (15 ft) tall. Around him are smaller images, painted scrolls and shelves of scriptures wrapped in cloth. In the early morning the monks chant, and the hall smells of butter lamps and incense. Visitors may sit quietly at the back; there is no need to join in, and nobody minds being watched with respect. Many people find this half hour the most peaceful of their whole trip.",
+       "Go between about 6 and 8 am; timings vary with the season and the monastery calendar, so ask the evening before. Remove your shoes where others do, walk clockwise, and do not point your feet at the altar. Photography inside may be restricted or charged, so ask first. Tour cars from Tiger Hill arrive from about 6:30 am in season, which makes the earliest half hour the quietest. Pay the small entry fee or leave a donation."
+     ],
+     "good_for": ["solo", "couples", "seniors", "photographers"],
+     "faqs": [
+       {"q": "What time are prayers at Ghoom monastery?", "a": "Morning prayers are usually held early, roughly between 6 and 8 am, with further sessions later in the day, but timings change with the season and the monastery calendar. Ask at your hotel or at the monastery the day before. Arriving before the Tiger Hill tour cars, which reach Ghoom from about 6:30 am in season, gives you the quietest visit."},
+       {"q": "Is there an entry fee at Yiga Choeling?", "a": "There is either a small entry fee or a donation box, depending on the period; expect no more than a few tens of rupees, and sometimes a separate charge for photography inside. Fees change, so check current status before you travel. Keep small notes ready, and leave something even if no fee is being collected at the door."},
+       {"q": "Can I take photos inside the monastery?", "a": "Ask first. Some periods allow photography in the prayer hall for a small fee, others not at all, and prayers in progress should never be photographed with flash. The outer courtyard, the prayer wheels and the view from the steps are fine to photograph. Never pose with your back to the altar or climb on any part of the shrine for a picture."}
+     ]},
+    {"slug": "ghoom-steam-joyride-from-darjeeling", "title": "Steam joyride from Darjeeling to Ghoom",
+     "kind": "rail", "duration": "About 2 hours", "best_time": "Morning departures, Oct–May", "cost": "≈ ₹1,500–1,800 steam · ≈ ₹1,000–1,300 diesel",
+     "image_query": "Darjeeling Himalayan Railway steam Ghum", "wiki": "Darjeeling Himalayan Railway",
+     "summary": "A two-hour round trip behind a steam engine on the UNESCO-listed Darjeeling Himalayan Railway, from Darjeeling up to Ghum station at 2,258 m, with halts at Batasia Loop and the railway museum. Book on IRCTC early, because seats sell out in season.",
+     "body": [
+       "The Darjeeling Himalayan Railway reached Darjeeling in 1881 on track just 610 mm wide, and became a UNESCO World Heritage Site in 1999. The full line from NJP is 88 km and a long day; the joyride gives you the top section in about two hours. The train leaves Darjeeling station on Hill Cart Road, runs beside the road past houses and shopfronts, turns round Batasia Loop and climbs to Ghum, the highest station on the line, before coming back the same way.",
+       "The joyride usually halts about ten minutes at Batasia, enough to walk the garden and see the Gorkha War Memorial with Kanchenjunga behind it, and around half an hour at Ghum, time for the small railway museum in the station. Watch the crew at work: the fireman feeds the fire, the driver works the regulator, and the whistle sounds at every crossing. The steam service uses the line's B-class tank engines, small locomotives built more than a century ago.",
+       "Book on the IRCTC site or app as soon as you know your dates; steam seats in October, the puja holidays and May sell out weeks ahead. If steam is full, the diesel joyride covers the same route for less, roughly ₹1,000–1,300. Services are cut or changed for landslides, maintenance and the monsoon, so check current status before you travel. Keep children's hands and heads inside the windows: the train passes very close to walls and shops."
+     ],
+     "good_for": ["families", "first-timers", "photographers", "couples"],
+     "faqs": [
+       {"q": "How long is the Darjeeling toy train joyride?", "a": "About two hours return. The train climbs about 7 km from Darjeeling to Ghum station, usually halting around ten minutes at Batasia Loop and about half an hour at Ghum, where the railway museum is, before returning. Timings and the number of departures change with the season, so check current status before you travel."},
+       {"q": "Is the steam joyride worth the extra cost over diesel?", "a": "For most people, yes, once. The steam joyride costs roughly ₹1,500–1,800 against ₹1,000–1,300 for diesel, and the old B-class engine, the smoke, the whistle and the crew working the fire are the point of the trip. If you only want the view and the Batasia stop, the diesel ride is good value, and a shared jeep costs ₹30–50."},
+       {"q": "How do I book the toy train joyride?", "a": "Book on the IRCTC website or app, or at the Darjeeling station counter if seats remain. Book as early as you can for October, the puja holidays, Christmas and May–June, when seats go fast. Services are cancelled for landslides and maintenance, so check current status before you travel, and keep your ticket on your phone."}
+     ]},
+    {"slug": "ghoom-walk-down-to-darjeeling-via-batasia", "title": "Walk from Ghoom to Darjeeling by Batasia",
+     "kind": "trek", "duration": "2–2.5 hours", "best_time": "Morning, Oct–May", "cost": "Free · ≈ ₹20–50 Batasia entry",
+     "image_query": "Batasia Loop Darjeeling", "wiki": "Batasia Loop",
+     "summary": "Ride a ₹30–50 shared jeep to Ghoom, then walk 7–8 km back to Darjeeling along Hill Cart Road beside the railway, mostly downhill, stopping at Batasia Loop and the Gorkha War Memorial. Time it right and you will meet the toy train on the way.",
+     "body": [
+       "This is the cheapest way to see the top of the railway: take a shared jeep up to Ghoom and walk back. The road and the tracks run side by side for most of the way, often only a metre or two apart, and the walk is a gentle descent of around 200 m over 7–8 km. Start at Ghum station, look at the platform and the museum if it is open, and set off towards Darjeeling with the railway as your guide.",
+       "After 2–3 km you reach Batasia Loop, the spiral laid out in 1919 so that trains could lose height without a steep gradient. The loop is now a small ticketed garden, about ₹20–50 to enter, with the Gorkha War Memorial at its centre. The memorial honours Gorkha soldiers of the Indian Army who died in service after independence, many of them from these hills. On a clear morning Kanchenjunga stands straight behind it, and if a joyride is due you can watch it circle the loop.",
+       "From Batasia the road continues down through the outskirts of town to Darjeeling station, about an hour more. Walk facing the traffic where there is no footpath, and step well clear when you hear a train whistle: the trains have right of way and pass very close. Carry water and a jacket, because mist can come in quickly on this ridge. If your legs tire, flag down any jeep heading into Darjeeling for a few tens of rupees."
+     ],
+     "good_for": ["solo", "students", "couples", "photographers"],
+     "faqs": [
+       {"q": "How far is it to walk from Ghoom to Darjeeling?", "a": "About 7–8 km along Hill Cart Road, mostly downhill, which takes most people two to two and a half hours with a stop at Batasia Loop. The road follows the railway, so it is easy to find your way. The uphill direction takes longer, which is why we suggest riding up to Ghoom by shared jeep for ₹30–50 and walking down."},
+       {"q": "Is it safe to walk along the toy train route?", "a": "Walk on the road, not on the tracks, and keep to the side facing traffic where there is no footpath. Trains and jeeps both pass close, and the trains cannot stop quickly, so step well aside when you hear a whistle. The walk is used by locals every day and is generally safe in daylight; avoid it in thick mist or after dark."},
+       {"q": "What is the Gorkha War Memorial at Batasia Loop?", "a": "It stands in the middle of Batasia Loop and honours Gorkha soldiers of the Indian Army who died in service after independence; many came from these hills. The memorial is inside the ticketed Batasia garden, about ₹20–50 to enter. Visitors are expected to be respectful: no climbing on the memorial and no playful poses on it for photographs."}
+     ]},
+    {"slug": "ghoom-samten-choling-and-sakya-monasteries", "title": "Ghoom's two quieter monasteries",
+     "kind": "monastery", "duration": "1.5 hours", "best_time": "Mornings, all year", "cost": "Free · donation welcome",
+     "image_query": "Samten Choling monastery Ghoom", "wiki": "",
+     "summary": "Most visitors stop only at Yiga Choeling. Walk instead to Ghoom's two other Tibetan Buddhist monasteries, Samten Choling and the Sakya monastery, both a short walk or jeep hop from the station, for morning chanting, prayer wheels and almost no crowds.",
+     "body": [
+       "Ghoom is unusual for a small town in keeping three working monasteries. Yiga Choeling, founded in 1850, belongs to the Gelug school and takes nearly all the visitors. Samten Choling and the Sakya monastery are the other two, and they see a fraction of the crowds. The Sakya school is one of the four main schools of Tibetan Buddhism, known for its scholars and for a leadership long held within the Khön family, and its presence here shows how varied the town's Buddhist life is.",
+       "Ask at the station or any tea stall for the way: both are a short walk or a quick jeep hop along the roads around the saddle, and part of the pleasure is the walk itself, past houses with prayer flags and small chortens. Visit in the morning, when chanting is most likely. Sit quietly at the side of the hall, keep your voice low, and follow the lead of any monk who shows you in. You will often have the courtyard to yourself.",
+       "There is normally no fee at either; leave a small donation by the altar. Walk clockwise around buildings and prayer wheels, remove shoes where others do, and ask before photographing inside. Combine the two with Yiga Choeling and the railway museum for a half day in Ghoom, then catch a ₹30–50 shared jeep back to Darjeeling or walk down via Batasia Loop. At Losar, in February or March, all three monasteries are busy with prayers and family visits."
+     ],
+     "good_for": ["solo", "seniors", "couples", "students"],
+     "faqs": [
+       {"q": "Which monasteries are there in Ghoom?", "a": "Three are commonly visited: Yiga Choeling, the Gelug monastery founded in 1850 by Lama Sherab Gyatso and usually called Ghoom Monastery; Samten Choling; and a Sakya monastery. All are a short walk or jeep hop from the station. Yiga Choeling gets the tour groups; the other two are much quieter and worth the extra hour."},
+       {"q": "Is there an entry fee for Samten Choling or the Sakya monastery?", "a": "Usually not. Both normally let visitors in free, and a small donation at the altar is welcome. Rules on photography inside the prayer halls differ, so ask first. Visiting hours can change around festivals and special prayers, so check current status before you travel if you are making a special trip rather than combining them with Yiga Choeling."},
+       {"q": "Can I visit the monasteries during Losar?", "a": "Yes, and it is a good time to go, though busier. Losar, the Tibetan New Year, falls in February or March by the lunar calendar, and the monasteries hold prayers while families visit in their best clothes. Dates move each year, so check them before you plan. Dress warmly, because Ghoom in February is often close to freezing at dawn."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "How far is Ghoom from Darjeeling?", "a": "About 7–8 km along Hill Cart Road, 20–30 minutes by shared jeep at ₹30–50 a seat, or about two hours on foot downhill. The toy train covers the same stretch on the joyride, which takes about two hours return with halts. Ghoom is the first town you reach after Darjeeling on the road down to Kurseong and Siliguri."},
+    {"q": "What is the altitude of Ghoom?", "a": "Ghum station stands at 2,258 m, the highest point on the Darjeeling Himalayan Railway and one of the highest stations in India. The town spreads around that saddle, about 200 m higher than central Darjeeling, which is why it is often colder and mistier. Pack an extra layer even when Darjeeling feels mild."},
+    {"q": "Is Ghoom worth visiting?", "a": "Yes, for a half day. Ghoom has the highest station on the toy train line, a small railway museum, Yiga Choeling monastery from 1850 and two quieter monasteries, with Batasia Loop on the way back to Darjeeling. It is cheaper and less crowded than Darjeeling. Few people need to stay overnight unless they want quiet or are heading on to Lepchajagat."},
+    {"q": "How much is the toy train joyride from Darjeeling to Ghoom?", "a": "Roughly ₹1,500–1,800 for the steam joyride and ₹1,000–1,300 for diesel, per person, for a round trip of about two hours with halts at Batasia Loop and Ghum station. Book on IRCTC, because seats sell out in season. Fares and services change, so check current status before you travel."},
+    {"q": "What is the famous monastery in Ghoom?", "a": "Yiga Choeling, usually called Ghoom Monastery, founded in 1850 by Lama Sherab Gyatso. It belongs to the Gelug school of Tibetan Buddhism and is known for its Maitreya statue, about 4.6 m (15 ft) tall. Visit early in the morning, walk clockwise, and expect a small fee or a donation box."},
+    {"q": "What is the Batasia Loop?", "a": "A spiral in the toy train line between Ghoom and Darjeeling, built in 1919 so that trains could lose height on a gentler gradient. It is now a small garden, about ₹20–50 to enter, with the Gorkha War Memorial at its centre and Kanchenjunga behind on clear days. Joyride trains usually halt here for about ten minutes."},
+    {"q": "Can I stay in Ghoom?", "a": "Yes, in small family lodges and homestays around Ghoom and Jorebunglow, usually ₹1,500–2,500 a person with dinner and breakfast. Most travellers stay in Darjeeling instead, which has far more choice and is only 7–8 km away. Ghoom suits people who want quiet, an early start for Tiger Hill or a base on the way to Lepchajagat and Sukhia Pokhari."},
+    {"q": "When is Losar celebrated at Ghoom?", "a": "Losar, the Tibetan New Year, falls in February or March and follows the lunar calendar, so the date moves each year. The monasteries at Ghoom hold prayers, and families visit in their best clothes. It is cold, close to freezing at dawn, but often clear. Check the year's date and current status before you travel."},
+    {"q": "Is Ghoom on the way to Tiger Hill?", "a": "Yes. The road to Tiger Hill leaves the main road at Jorebunglow, beside Ghoom, so every Tiger Hill car passes through. The dawn three-point tour from Darjeeling, about ₹1,500–2,200 a car, stops at Tiger Hill, Ghoom monastery and Batasia Loop on the way back, usually between about 6:30 and 8 am."}
+  ]
+}

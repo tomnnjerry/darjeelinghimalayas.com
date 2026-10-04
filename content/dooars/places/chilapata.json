@@ -1,0 +1,114 @@
+{
+  "slug": "chilapata", "name": "Chilapata", "name_local": "", "region": "dooars",
+  "kind": "forest village",
+  "wiki": "", "image_query": "Chilapata forest Dooars",
+  "lat": 26.58, "lng": 89.37, "altitude_m": 80,
+  "tagline": "An elephant corridor with a ruined fort inside",
+  "meta_description": "Chilapata forest guide: the Nalraja Garh ruins, jeep safaris in the corridor between Jaldapara and Buxa, Mendabari jungle lodge, birding, costs and access.",
+  "summary": "Chilapata is a dense forest east of Jaldapara, part of the elephant corridor linking it with Buxa Tiger Reserve. Its jeep safaris pass the brick ruins of Nalraja Garh, an early frontier fort, and its forest corporation lodges are among the quietest in the Dooars.",
+  "local_story": {"title": "The fort of the Nal kings", "paras": [
+    "Deep in the Chilapata forest lie the brick ruins of Nalraja Garh, the fort of the Nal kings. The British called them the Mendabari ruins, after the nearby forest village. Walls, a gateway and scattered brickwork rise among the trees, much of it overgrown and split by roots.",
+    "Who built it is not settled. Local tradition ties it to a King Nala, and archaeologists have identified it as one of the frontier fortifications of the region once known as Pundravardhana Bhukti, the north Bengal province of the Gupta era; some writers date it to around the 5th century, though that dating is debated and the site has not been fully excavated. Either way it is far older than anything else you will see in the Dooars.",
+    "Around the ruins, the forest has its own story. Chilapata links Jaldapara to the west with Buxa to the east, and elephant herds use it to move between the two. The forest department runs jeep safaris on the Chilapata side, and the forest corporation keeps two small lodges at its edges."]},
+  "did_you_know": [
+    "The British knew Nalraja Garh as the Mendabari ruins, after the forest village nearby where the forest corporation now runs a small jungle lodge.",
+    "Chilapata forms part of the elephant corridor between Jaldapara and Buxa, used by herds moving along the foothills between the Torsa and the Buxa hills.",
+    "Hasimara, the station for Chilapata, is also the railhead for Jaigaon, the Indian town opposite Phuentsholing on the Bhutan border, about 20 km north."
+  ],
+  "intro": [
+    "Chilapata feels older and darker than Jaldapara's grassland. The forest is tall and close, with sal, simul and climbers, and the jeep tracks run through tunnels of green. Rhinos come through from Jaldapara, elephants are common, and the birdsong is constant. Then, without much warning, the jeep stops beside a wall of thin red bricks under the trees, and you are at Nalraja Garh.",
+    "Most people see Chilapata as one safari from Madarihat. It deserves a night. Stay at the forest corporation's Mendabari Jungle Lodge or Malangi Lodge near Kodalbasti, take an afternoon safari to the ruins and listen to the forest after dark. Buxa and Jayanti are an hour further east."
+  ],
+  "facts": [["Best months", "Nov – Mar"], ["Nights we suggest", "1"], ["From Siliguri", "≈ 140–150 km · 4–4.5 h"], ["Altitude", "≈ 80 m"], ["Known for", "Nalraja Garh ruins, elephants, dense forest"], ["Network", "Weak inside the forest"]],
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 0, 1, 2, 2],
+  "nights": "1",
+  "costs": [["Chilapata jeep safari, six-seat jeep with fees", "₹2,500–3,500 (indicative)"], ["Forest corporation lodge room", "₹2,000–2,700 (indicative)"], ["Meals at a corporation lodge", "About ₹500 pp a day"], ["Car Madarihat–Chilapata", "₹1,000–1,500"], ["Train NJP to Hasimara", "₹60–400"]],
+  "highlights": [
+    {"title": "Nalraja Garh", "text": "Brick walls and a gateway of an early fort, overgrown by forest. One of the oldest built sites in the Dooars, reached on the forest department's safari."},
+    {"title": "Elephants in the corridor", "text": "Chilapata links Jaldapara and Buxa, and elephant herds use it year round. Afternoon safaris often meet them on the tracks; drivers keep a careful distance."},
+    {"title": "Rhinos from Jaldapara", "text": "Rhinos wander into Chilapata from the larger park. Sightings are less certain than in Jaldapara's grassland, which makes each one memorable."},
+    {"title": "A night at Mendabari", "text": "The forest corporation's small lodge sits in the Barajhar forest. After dark, barking deer, owls and the occasional elephant trumpet fill the quiet."},
+    {"title": "Forest birds", "text": "Hornbills, woodpeckers, drongos, minivets and green pigeons are common. Dense forest favours patient listening over quick looks."}
+  ],
+  "how_to_reach": [
+    {"mode": "Train", "text": "Hasimara on the Dooars line is the nearest station, about 10–15 km from the forest gate; NJP to Hasimara is four to five hours. Check the current timetable and arrange a car from Hasimara."},
+    {"mode": "Reserved car", "text": "From NJP about 140–150 km via Birpara and Madarihat, four to four and a half hours, ₹4,500–5,500. From Madarihat it is 20–30 minutes."},
+    {"mode": "From Buxa or Jayanti", "text": "About 40–50 km west via Rajabhatkhawa and Hasimara, one to one and a half hours by car."}
+  ],
+  "where_to_stay": "Stay at the forest corporation's Mendabari Jungle Lodge in the Dakshin Barajhar forest, or its Malangi Lodge at Barodabari near the Kodalbasti forest, both at roughly ₹2,000–2,700 a room in the current tariff. Hasimara has a few budget hotels near the station and on the highway. Madarihat, 20–30 minutes away, has more choice, including the WBTDC lodge.",
+  "stays": ["dooars-mendabari-jungle-lodge"],
+  "tips": [
+    "Book the Chilapata safari as a separate route on the forest department system; it is not the same as a Jaldapara slot.",
+    "Take the afternoon slot for elephants moving through the corridor.",
+    "Carry insect repellent; the dense forest is buzzing even in winter.",
+    "Do not walk outside lodge compounds after dark; elephants pass close.",
+    "The forest closes in the monsoon and was hit by the October 2025 floods; check current status before you travel."
+  ],
+  "themes": ["wildlife-birds", "photography", "solo-backpacking"],
+  "nearby": ["jaldapara", "buxa", "jayanti"],
+  "experiences": [
+    {"slug": "chilapata-nalraja-garh-ruins", "title": "The brick ruins of Nalraja Garh",
+     "kind": "culture", "duration": "2 hours with safari", "best_time": "Afternoon slot, Nov–Mar", "cost": "Included in Chilapata safari, ₹2,500–3,500 a jeep (indicative)",
+     "image_query": "Nalraja Garh ruins Chilapata", "wiki": "",
+     "summary": "Inside the Chilapata forest, the overgrown walls of Nalraja Garh, the fort of the Nal kings, are the oldest built remains most visitors will see in the Dooars. The forest department's safari stops at the site, with a short walk among the bricks.",
+     "body": ["Nalraja Garh is a set of brick walls, a gateway and scattered structures in the forest near Mendabari, mostly covered by trees, roots and creepers. The thin bricks and the layout have led archaeologists to see it as an early frontier fort of the old province of Pundravardhana, and some date it to the Gupta period, around the 5th century; others are more cautious, and the site has not been fully studied. Local tradition names it after a King Nala.",
+              "The safari jeep stops near the ruins, and the guide leads a short walk around the walls. Look for the gateway, the thickness of the walls and the way trees have grown through the brickwork. Monkeys and birds use the ruins, and elephants pass through the area, so stay with the guide and do not wander off the path.",
+              "Do not climb on the walls or remove bricks. The site has little signage, so read up before you go, and ask the guide what local people tell about the fort."],
+     "good_for": ["students", "photographers", "couples", "solo"],
+     "faqs": [
+       {"q": "How old is Nalraja Garh?", "a": "Its date is uncertain. Some sources place it around the 5th century, in the Gupta period, as a frontier fort of the province of Pundravardhana; others are more cautious. The site has not been fully excavated. Local tradition links it to a King Nala."},
+       {"q": "Can we visit Nalraja Garh without a safari?", "a": "No. The ruins are inside the Chilapata forest, where entry is by the forest department's jeep safari with a guide. Walking in alone is not allowed and would be unsafe, as elephants and rhinos use the area."},
+       {"q": "Is Nalraja Garh worth the safari?", "a": "If you enjoy history and atmosphere, yes. The ruins are modest, but finding early brick walls deep in a forest is memorable, and the safari route also gives a chance of elephants, rhinos and forest birds. Combine it with a night at Mendabari."}
+     ]},
+    {"slug": "chilapata-corridor-jeep-safari", "title": "Afternoon safari in the elephant corridor",
+     "kind": "wildlife", "duration": "1.5–2 hours", "best_time": "Afternoon slot, Nov–Mar", "cost": "₹2,500–3,500 a jeep for up to 6 (indicative)",
+     "image_query": "Chilapata elephant forest safari", "wiki": "",
+     "summary": "Chilapata's jeep routes run through dense forest on the corridor between Jaldapara and Buxa. Elephants are the most frequent large animals, with rhinos, gaur and deer possible. The afternoon slot catches herds moving towards water.",
+     "body": ["The forest department runs Chilapata safaris from the gate near Kodalbasti and Hasimara, booked through the same online system as Jaldapara but as a separate route. A registered jeep with a guide takes you through sal and mixed forest, along streams and past the Nalraja Garh ruins.",
+              "Because Chilapata is a corridor, elephants are often on the move here, sometimes in large herds with calves. Drivers stop at a distance and keep the engine running, ready to back off; listen to them. Rhinos stray in from Jaldapara, and gaur, sambar, barking deer and wild boar use the forest. Birds are everywhere.",
+              "Sightings can be quick in dense forest, so keep cameras ready and voices low. Carry insect repellent, water and a scarf for dust. Check current status before you travel, as routes were affected by the October 2025 floods."],
+     "good_for": ["photographers", "couples", "families"],
+     "faqs": [
+       {"q": "How is the Chilapata safari different from Jaldapara?", "a": "Chilapata is dense forest rather than open grassland, with shorter views and a greater chance of elephants, while Jaldapara's grassland is better for rhinos. Chilapata's route also includes the Nalraja Garh ruins. Many visitors do one of each."},
+       {"q": "Is the Chilapata safari safe with elephants around?", "a": "Yes, with registered drivers and guides who know elephant behaviour. They keep a distance, avoid blocking a herd's path and will reverse if an elephant is uneasy. Stay seated, quiet and inside the jeep, and never ask the driver to get closer."},
+       {"q": "Where does the Chilapata safari start?", "a": "From the Chilapata gate on the Hasimara–Kodalbasti side, about 20–30 minutes from Madarihat. Your booking will name the reporting point. Arrive 30 minutes early with ID. Lodges at Mendabari and Malangi are close."}
+     ]},
+    {"slug": "chilapata-mendabari-forest-night", "title": "A forest night at Mendabari",
+     "kind": "adventure", "duration": "Overnight", "best_time": "Nov–Mar", "cost": "About ₹2,500 a room + meals (indicative)",
+     "image_query": "Mendabari jungle lodge Chilapata", "wiki": "",
+     "summary": "The forest corporation's Mendabari Jungle Lodge sits inside the Chilapata forest belt, with only a few rooms and no traffic. Spend the evening on the veranda listening to the forest and wake to birds and, sometimes, elephants nearby.",
+     "body": ["Mendabari is a forest village with a long name in the history books, since the British called Nalraja Garh the Mendabari ruins. The forest corporation's lodge here is small, simple and quiet, with rooms at one main grade, and meals cooked to order for guests.",
+              "After dusk, sit outside with a torch switched off and listen: barking deer, nightjars, owls, crickets and, sometimes, an elephant breaking branches somewhere near. Staff will tell you to stay in the compound, and you should. At dawn, walk the compound edge for birds before breakfast.",
+              "Book on the corporation's website, order meals in advance and bring what you need, since there are no shops nearby. Check current status before you travel after the monsoon."],
+     "good_for": ["couples", "photographers", "solo"],
+     "faqs": [
+       {"q": "How do I book Mendabari Jungle Lodge?", "a": "Through the West Bengal Forest Development Corporation's website, where it is listed among the Alipurduar properties at about ₹2,500 a room in the current tariff. It has only a few rooms, so book well ahead for winter weekends and holidays."},
+       {"q": "Is Mendabari safe for families?", "a": "Yes, if you follow lodge rules. Wild elephants and rhinos move in the surrounding forest, so stay inside the compound after dark and do not walk on forest roads at dusk. Children will enjoy the night sounds; keep them close outside."},
+       {"q": "What food is available at Mendabari?", "a": "Simple meals cooked by the lodge staff for guests: rice, dal, vegetables, eggs or chicken. Order in advance. There are no restaurants nearby; Hasimara and Madarihat are the nearest places with eateries and shops."}
+     ]},
+    {"slug": "chilapata-forest-birding", "title": "Forest birding on the Chilapata edge",
+     "kind": "wildlife", "duration": "2–3 hours", "best_time": "6–9 am, Nov–Apr", "cost": "Guide ₹500–1,000",
+     "image_query": "oriental pied hornbill Dooars forest", "wiki": "",
+     "summary": "Chilapata's tall mixed forest holds hornbills, woodpeckers, barbets, minivets and many more. Birding is done from lodge compounds, forest-edge roads and the safari jeep, with a local guide who knows calls and safe spots.",
+     "body": ["Dense lowland forest like Chilapata's is a place to bird by ear first. In the early morning, barbets call from the canopy, drongos mimic everything, woodpeckers drum and green pigeons whistle. Oriental pied and great hornbills cross between tall trees with heavy wingbeats, and raptors such as crested serpent eagles soar once the air warms.",
+              "Walk only where it is permitted and safe: lodge compounds, the edges of forest villages and open roads, with a local guide. Inside the forest, birding is done from the safari jeep, which is better than it sounds, since many birds ignore vehicles. Ask your driver to stop where mixed flocks are moving.",
+              "Bring binoculars, a field guide or app and insect repellent. Winter mornings are cool and misty; birds start a little after sunrise. Elephants share these edges, so stay alert and leave any spot where staff advise caution."],
+     "good_for": ["photographers", "seniors", "students"],
+     "faqs": [
+       {"q": "Which birds are common in Chilapata?", "a": "Oriental pied and great hornbills, several barbets and woodpeckers, drongos, minivets, green pigeons, bulbuls, orioles and raptors like the crested serpent eagle. Winter adds migrants such as flycatchers and warblers. Variety is best from November to April."},
+       {"q": "Can I walk in Chilapata forest for birding?", "a": "Not freely inside the forest; entry is by jeep safari with a guide. Birding on foot is possible in lodge compounds and on village edges with a local guide. Elephants and rhinos use the forest, so solo walks into the trees are unsafe."},
+       {"q": "Do I need a guide for birding at Chilapata?", "a": "It helps a lot. A local guide knows calls, flock routes and where it is safe to stand on forest edges. Fees are modest, roughly ₹500–1,000 for a morning. Ask your lodge to arrange one the evening before."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "Where is Chilapata?", "a": "Chilapata is a forest east of Jaldapara National Park in Alipurduar district, near Hasimara and Kodalbasti. It links Jaldapara with Buxa Tiger Reserve as an elephant corridor. Madarihat is 20–30 minutes away by car and Siliguri about four hours."},
+    {"q": "What is Nalraja Garh?", "a": "The brick ruins of an early fort inside Chilapata forest, known to the British as the Mendabari ruins. Archaeologists link it to frontier defences of the old province of Pundravardhana, with some dating it to the Gupta period. Local tradition names it after a King Nala."},
+    {"q": "How do I book a Chilapata safari?", "a": "Through the West Bengal forest department's online booking system, choosing the Chilapata route, or at the counter if seats remain. A six-seat jeep with entry, guide and fees costs roughly ₹2,500–3,500 in 2025–26. Bring ID."},
+    {"q": "Can we see rhinos in Chilapata?", "a": "Sometimes, as rhinos move in from Jaldapara, but sightings are less certain than in Jaldapara's grassland. Elephants are more frequent in Chilapata. For the best rhino chances, combine a Chilapata safari with a dawn safari in Jaldapara."},
+    {"q": "Where to stay near Chilapata?", "a": "The forest corporation's Mendabari Jungle Lodge and Malangi Lodge near Kodalbasti are the closest, at about ₹2,000–2,700 a room. Hasimara has budget hotels near the station, and Madarihat offers more choice including the WBTDC lodge."},
+    {"q": "When is Chilapata closed?", "a": "Like the other Dooars forests, it closes from about 16 June to 15 September. It may also close after floods or for management work, as after October 2025. Check current status before you travel."},
+    {"q": "Is Chilapata worth visiting if we have done Jaldapara?", "a": "Yes, for a different forest. Chilapata is dense and dark where Jaldapara is open grassland, and it adds the Nalraja Garh ruins and more elephant encounters. One afternoon safari and a night at Mendabari make a strong addition."},
+    {"q": "How do I get to Chilapata by train?", "a": "Take a Dooars line train from NJP or Siliguri Junction to Hasimara, four to five hours, then a car for about 10–15 km to the forest gate or your lodge. Check the current timetable and book a reserved seat on express services."},
+    {"q": "Is Chilapata near the Bhutan border?", "a": "Fairly near. Hasimara, the railhead for Chilapata, is about 20 km from Jaigaon, the Indian town opposite Phuentsholing in Bhutan. The forest itself stays on the Indian side. Entry into Bhutan needs the documents and fees Bhutan currently requires."}
+  ]
+}

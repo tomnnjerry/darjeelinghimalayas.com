@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "siliguri-to-darjeeling",
+    "from": "siliguri",
+    "to": "darjeeling",
+    "distance_km": 65,
+    "summary": "Siliguri to Darjeeling is about 65–70 km and 3–3.5 hours by road, via Rohini Road or the old Hill Cart Road through Kurseong. Shared jeeps cost about ₹250–350 a seat. The toy train covers 88 km from NJP in 7–8 hours when the full line runs.",
+    "options": [
+      {"mode": "Shared jeep", "time": "3–3.5 h", "fare": "₹250–350 a seat", "text": "Shared jeeps (Sumos, Boleros and similar) leave from the stands near Tenzing Norgay Central Bus Terminus on Hill Cart Road in Siliguri, and a few from outside NJP station. They go when full, usually ten passengers. Front seats beside the driver fill first and are the least travel-sick. In Darjeeling they stop near Chowk Bazaar and Clubside. The last reliable departures are mid-afternoon."},
+      {"mode": "Reserved car", "time": "3 h", "fare": "₹3,000–4,000 a car (SUV ₹3,500–5,000)", "text": "Pre-paid and private taxis wait at NJP station and Bagdogra airport. A reserved small car or SUV is worth it for families, older travellers and anyone landing late. Agree the fare, the drop point and any stops before you set off. Drivers usually take Rohini Road, the faster route, and can stop at a Kurseong tea stall on request."},
+      {"mode": "Toy train", "time": "7–8 h", "fare": "First class roughly ₹1,400–1,700; second class far cheaper", "text": "The Darjeeling Himalayan Railway climbs 88 km from NJP through Sukna, Rongtong, Tindharia, Kurseong and Ghoom, crossing loops and zig-zag reverses. Full-line services are often suspended or shortened after monsoon landslides. When they run, book on IRCTC well ahead. Many travellers do the road up and a joyride from Darjeeling instead. Check current status before you travel."}
+    ],
+    "stops_on_way": ["Sukna and the Mahananda forest edge", "Rohini tea garden", "Kurseong station and its tea stalls", "Sonada", "Ghoom station, 2,258 m"],
+    "tip": "Leave Siliguri by 1 pm so you reach Darjeeling before dark and before afternoon mist settles on the upper road.",
+    "faqs": [
+      {"q": "How much is a shared jeep from Siliguri to Darjeeling?", "a": "About ₹250–350 a seat in 2025–26, depending on season and seat. Jeeps leave from the stands near the Siliguri bus terminus on Hill Cart Road and from outside NJP station, departing when full. The ride takes 3 to 3.5 hours. Fares rise in peak weeks, so check current rates before you travel."},
+      {"q": "Which road is better, Rohini or Hill Cart Road?", "a": "Rohini Road is faster and smoother, and most jeeps and taxis use it to join the old road below Kurseong. Hill Cart Road via Tindharia follows the toy train line and is more scenic but slower and narrower. Both meet before Kurseong. Landslides sometimes close one, so drivers decide on the day."},
+      {"q": "Does the toy train run all the way from NJP to Darjeeling?", "a": "Sometimes. The full line is often suspended or shortened after monsoon landslides, and services change with the season. When it runs, the journey takes about 7–8 hours. Joyrides from Darjeeling to Ghoom run more reliably. Book on IRCTC and check current status before you travel."},
+      {"q": "How long does Bagdogra airport to Darjeeling take?", "a": "About 3 to 3.5 hours by car for roughly 70 km. Taxis from the airport cost about ₹3,000–4,000 for a small car. For a cheaper ride, take a taxi or auto to Siliguri's jeep stands (about 30 minutes) and join a shared jeep there. Allow extra time in peak season."}
+    ]
+  },
+  {
+    "slug": "darjeeling-to-kalimpong",
+    "from": "darjeeling",
+    "to": "kalimpong",
+    "distance_km": 50,
+    "summary": "Darjeeling to Kalimpong is about 50 km and 2.5–3 hours by road, down through Ghoom, Lopchu and Peshok to the Teesta at Teesta Bazar, then up the other side. Shared jeeps cost about ₹200–250 a seat. The drop to the river is one of the finest drives in the hills.",
+    "options": [
+      {"mode": "Shared jeep", "time": "2.5–3 h", "fare": "₹200–250 a seat", "text": "Shared jeeps for Kalimpong leave from the motor stand at Chowk Bazaar in Darjeeling through the morning and early afternoon, departing when full. They run via Ghoom, Jorebunglow and the Peshok road down to Teesta Bazar, then climb to Kalimpong's motor stand. Morning departures are more frequent; get to the stand by 9 am."},
+      {"mode": "Reserved car", "time": "2.5 h", "fare": "₹2,500–3,500 a car", "text": "A reserved car lets you stop at Lamahatta's eco-park, the Lopchu and Peshok tea gardens and the Lovers' Meet viewpoint above the Teesta–Rangeet confluence. Agree the stops before you leave. This is the best way to turn a transfer into a half-day of sightseeing for a family or a group of four."}
+    ],
+    "stops_on_way": ["Ghoom and Jorebunglow", "Lamahatta eco-park", "Lopchu tea garden", "Peshok tea garden", "Lovers' Meet viewpoint", "Teesta Bazar bridge"],
+    "tip": "Sit on the left going down from Peshok for the best views of the Teesta valley and the river confluence.",
+    "faqs": [
+      {"q": "How far is Kalimpong from Darjeeling?", "a": "About 50 km by road, which takes 2.5 to 3 hours. The road descends from Darjeeling's ridge at about 2,000 m to the Teesta at roughly 200–250 m, then climbs again to Kalimpong at about 1,250 m. Shared jeeps cost about ₹200–250 a seat; a reserved car about ₹2,500–3,500."},
+      {"q": "Is the Darjeeling–Kalimpong road affected by the Teesta flood?", "a": "Parts of the Teesta valley were badly damaged in the October 2023 flood, and the riverside roads around Teesta Bazar have had closures and diversions since. The Peshok road itself usually runs, but the crossing and the stretch along the river can be slow. Check current status before you travel."},
+      {"q": "Can I visit Lamahatta on the way to Kalimpong?", "a": "Yes. Lamahatta is on the Peshok road, about 23 km from Darjeeling, so it fits easily on a reserved-car transfer. Allow an hour for the eco-park and the short climb to the small lake above it. With a shared jeep you would need to get off and pick up another jeep later, which is harder."},
+      {"q": "Where do Kalimpong jeeps leave from in Darjeeling?", "a": "From the motor stand at Chowk Bazaar, below the market. Ask for the Kalimpong line; jeeps leave when full from early morning to early afternoon. Buy your ticket at the counter where there is one. In peak season and on Sundays, get there by 8 or 9 am."}
+    ]
+  },
+  {
+    "slug": "darjeeling-to-gangtok",
+    "from": "darjeeling",
+    "to": "gangtok",
+    "distance_km": 98,
+    "summary": "Darjeeling to Gangtok is about 95–100 km and 4.5–5.5 hours, via Peshok, Teesta Bazar, Melli and Rangpo on the Teesta. Shared jeeps cost about ₹400–500 a seat. The Teesta valley road has had long closures since the October 2023 flood, so check current status before you travel.",
+    "options": [
+      {"mode": "Shared jeep", "time": "4.5–5.5 h", "fare": "₹400–500 a seat", "text": "Shared jeeps for Gangtok leave from the Chowk Bazaar motor stand in the morning. They usually run down the Peshok road to Teesta Bazar and along the river past Melli, where the road enters Sikkim, and Rangpo, then up to Gangtok. When NH10 is closed, jeeps divert via Kalimpong and other hill roads, which adds an hour or more and can raise the fare."},
+      {"mode": "Reserved car", "time": "4–5 h", "fare": "₹4,500–6,500 a car", "text": "A reserved car is the comfortable option for families and groups, and lets you stop at the Peshok tea gardens and the Lovers' Meet viewpoint. Not every Darjeeling taxi is permitted to go deep into Sikkim; many hand over at Gangtok's entry point or at the border. Ask clearly before you book."}
+    ],
+    "stops_on_way": ["Ghoom", "Peshok tea garden", "Lovers' Meet viewpoint", "Teesta Bazar", "Melli", "Rangpo"],
+    "tip": "Foreign nationals must carry a Sikkim Inner Line Permit, which can be arranged at the border checkposts or in advance online; Indians need only photo ID.",
+    "faqs": [
+      {"q": "Is the road from Darjeeling to Gangtok open?", "a": "Usually, but it has been unreliable since the October 2023 Teesta flood damaged NH10 along the river. Closures, one-way traffic and diversions via Kalimpong and other hill roads are common, especially in the monsoon. Allow a buffer day and check current status before you travel."},
+      {"q": "Do I need a permit to go from Darjeeling to Gangtok?", "a": "Indian citizens need only valid photo ID. Foreign nationals need a Sikkim Inner Line Permit (ILP), which can be issued at the border checkposts (Melli on this road, or Rangpo) or obtained in advance online, with passport and visa. Rules change from time to time, so check current status before you travel."},
+      {"q": "How much is a shared jeep from Darjeeling to Gangtok?", "a": "About ₹400–500 a seat in 2025–26, from the Chowk Bazaar motor stand in Darjeeling. Jeeps run in the morning and take 4.5 to 5.5 hours. Diversions after landslides or road closures can add time and sometimes cost. Book the day before in peak season if the counter allows."},
+      {"q": "Should I go to Kalimpong on the way to Gangtok?", "a": "It is a good plan. Kalimpong is about 50 km from Darjeeling, and from there Gangtok is roughly 75 km more. Breaking the journey gives you a night in Kalimpong and avoids five hours in one jeep. When NH10 is closed, the Kalimpong route is often the one in use anyway."}
+    ]
+  },
+  {
+    "slug": "darjeeling-to-mirik",
+    "from": "darjeeling",
+    "to": "mirik",
+    "distance_km": 49,
+    "summary": "Darjeeling to Mirik is about 49 km and 2–2.5 hours, through Ghoom, Lepchajagat, Sukhia Pokhari and the Simana viewpoint above Nepal. Shared jeeps cost about ₹150–200 a seat. It is a quieter road than the Hill Cart Road, through forest and tea.",
+    "options": [
+      {"mode": "Shared jeep", "time": "2–2.5 h", "fare": "₹150–200 a seat", "text": "Shared jeeps for Mirik leave from Chowk Bazaar motor stand in the morning and early afternoon. If you miss a direct jeep, take one to Sukhia Pokhari (about ₹70–100) and change there. The road runs through the forest at Lepchajagat and past Jorepokhri's turn-off, then down through tea gardens to Mirik's lake."},
+      {"mode": "Reserved car", "time": "2 h", "fare": "₹2,500–3,500 a car", "text": "A reserved car lets you stop at Lepchajagat's viewpoint, Jorepokhri's twin ponds, Simana's border viewpoint and the tea gardens around Gopaldhara before Mirik. Many drivers also offer the Pashupati market across the Nepal border as a side trip. Agree stops and waiting time beforehand."}
+    ],
+    "stops_on_way": ["Ghoom", "Lepchajagat", "Sukhia Pokhari", "Jorepokhri turn-off", "Simana viewpoint", "Tea gardens above Mirik"],
+    "tip": "Do this drive in the morning: by afternoon the forest stretch around Lepchajagat is often deep in cloud.",
+    "faqs": [
+      {"q": "How far is Mirik from Darjeeling?", "a": "About 49 km by road, which takes 2 to 2.5 hours via Ghoom, Lepchajagat, Sukhia Pokhari and Simana. Shared jeeps cost about ₹150–200 a seat and a reserved car about ₹2,500–3,500. The road climbs slightly before descending to Mirik's lake at about 1,500 m."},
+      {"q": "Can I do Mirik as a day trip from Darjeeling?", "a": "Yes, it is a common day trip by reserved car, about ₹3,000–4,000 for the round trip with stops. Leave by 8 am, take in Lepchajagat and Simana on the way, spend two or three hours at Mirik, and be back before dark. On shared jeeps a day trip is possible but rushed."},
+      {"q": "What is the Simana viewpoint?", "a": "Simana is a roadside viewpoint between Sukhia Pokhari and Mirik that looks west across the border into Nepal's Ilam hills and the town of Pashupatinagar. On clear days you see terraced hills and tea. It is a ten-minute stop, with tea and snack stalls."},
+      {"q": "Can Indians visit Pashupati market in Nepal from this road?", "a": "Indian citizens can usually cross at Pashupati with photo ID for a short visit to the market, and many Darjeeling drivers include it. Foreign nationals need a Nepal visa and must use an authorised crossing. Rules and timings change, so check current status before you travel."}
+    ]
+  },
+  {
+    "slug": "darjeeling-to-maneybhanjan",
+    "from": "darjeeling",
+    "to": "maneybhanjan",
+    "distance_km": 26,
+    "summary": "Darjeeling to Maneybhanjan, the start of the Sandakphu trek and Land Rover road, is about 26 km and 1–1.5 hours via Ghoom and Sukhia Pokhari. Shared jeeps cost about ₹100–150 a seat. Leave early: trekkers aim to start walking by mid-morning.",
+    "options": [
+      {"mode": "Shared jeep", "time": "1–1.5 h", "fare": "₹100–150 a seat", "text": "Shared jeeps for Maneybhanjan leave from Chowk Bazaar motor stand, mostly in the morning. If none is filling, take a jeep to Sukhia Pokhari and change for the last stretch. In Maneybhanjan the jeeps stop in the small bazaar near the guides' association and the Land Rover stand for Sandakphu."},
+      {"mode": "Reserved car", "time": "1 h", "fare": "₹1,500–2,200 a car", "text": "A reserved car is sensible for trekkers with heavy packs or a group of four. Leave Darjeeling by 7 am and you can finish trek formalities, hire your licensed guide and start walking towards Chitrey and Tumling the same morning. Drivers know the way; agree the fare before leaving."}
+    ],
+    "stops_on_way": ["Ghoom", "Lepchajagat", "Sukhia Pokhari bazaar"],
+    "tip": "Singalila National Park entry needs a licensed guide; arrange one at Maneybhanjan and check current status before you travel.",
+    "faqs": [
+      {"q": "How do I get from Darjeeling to Maneybhanjan?", "a": "By shared jeep from Chowk Bazaar motor stand (about ₹100–150 a seat, 1 to 1.5 hours) or by reserved car (about ₹1,500–2,200). The road runs via Ghoom and Sukhia Pokhari. If there is no direct jeep, change at Sukhia Pokhari. Morning departures are the most frequent."},
+      {"q": "Can I start the Sandakphu trek the same day I leave Darjeeling?", "a": "Yes, if you leave Darjeeling by about 7 am. You will reach Maneybhanjan by 8.30 am, complete the formalities, hire a licensed guide and start walking or driving up towards Chitrey and Tumling. Arriving after noon usually means a night in Maneybhanjan."},
+      {"q": "Do I need a guide for Sandakphu from Maneybhanjan?", "a": "Yes. Entry to Singalila National Park requires a licensed guide, hired at Maneybhanjan through the local guides' association, plus park entry fees. Fees and rules are revised from time to time, and the park has seasonal closures, so check current status before you travel."},
+      {"q": "Is there a Land Rover from Maneybhanjan to Sandakphu?", "a": "Yes, Maneybhanjan is known for its old Land Rovers that drive the rough road to Sandakphu, usually hired per vehicle for the day or for a two-day trip. Costs are shared among passengers. Rates are set locally and change, so ask at the stand and check current status before you travel."}
+    ]
+  }
+]

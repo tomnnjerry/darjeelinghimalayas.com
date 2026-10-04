@@ -1,0 +1,16 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Permits for Sikkim, North Sikkim, Nathu La and Sandakphu · Darjeeling Himalayas{% endblock %}
+{% block description %}Which permits you need for each part of the Darjeeling and Sikkim hills, for Indian and foreign travellers, as we understand the rules.{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:20px"><div class="phead__body" style="margin-top:0">
+  <p class="eyebrow">Permits</p><h1 class="h-1">Which papers you need, hill by hill</h1>
+  <p class="lede">Permit rules change, and they differ for Indian and foreign travellers. This is how we understand them today: check current status before you travel.</p>
+</div></div></header>
+<section class="sec--tight"><div class="wrap">
+  {% for r in regions %}<div data-land="{{ r.slug }}" style="display:grid;grid-template-columns:260px 1fr;gap:24px;padding:24px 0;border-top:1px dashed var(--rule)">
+    <h2 class="h-3" style="display:flex;gap:12px;align-items:center"><span class="lbadge lbadge--sm">{% icon r.slug %}</span><a href="{{ r.url }}" style="color:inherit;text-decoration:none">{{ r.short }}</a></h2>
+    <p style="margin:0">{{ r.permits|default:"No special permit is needed for Indian or foreign travellers beyond normal ID. Carry a photo ID (and a passport and visa if you are not Indian) for hotel check-in." }}</p>
+  </div>{% endfor %}
+  <p class="notice" style="margin-top:20px">We arrange the permits that a registered agent can apply for and send current guidance with every quote.</p>
+</div></section>
+{% endblock %}

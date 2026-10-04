@@ -1,0 +1,13 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Planning guides for Darjeeling, Sikkim and the Dooars · Darjeeling Himalayas{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:20px"><div class="phead__body" style="margin-top:0">
+  <p class="eyebrow">Read before you go</p><h1 class="h-1">Planning guides</h1>
+  <p class="lede">What things cost, when to go, how to get there, what to eat and the history behind what you will see. Written by people who live in these hills.</p>
+</div></div></header>
+<section class="sec--tight"><div class="wrap">
+  <div class="filters" data-filter-group="#all-guides"><select data-key="region" aria-label="Hill"><option value="">Every hill</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.short }}</option>{% endfor %}</select><select data-key="kind" aria-label="Topic"><option value="">Every topic</option>{% for c in "planning seasons stays culture food wildlife practical treks budget history"|split %}<option value="{{ c }}">{{ c|capfirst }}</option>{% endfor %}</select></div>
+  <div id="all-guides">{% for r in regions %}{% if r.guides %}<div data-section data-land="{{ r.slug }}" style="margin-bottom:46px"><h2 class="h-2" style="display:flex;align-items:center;gap:12px;margin-bottom:20px"><span class="lbadge lbadge--sm">{% icon r.slug %}</span>{{ r.name }}</h2>
+  <div class="grid grid--3">{% for g in r.guides %}{% include "hills/partials/card_guide.html" %}{% endfor %}</div></div>{% endif %}{% endfor %}</div>
+</div></section>
+{% endblock %}

@@ -1,0 +1,11 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Icon sheet · Darjeeling Himalayas{% endblock %}
+{% block head_extra %}<meta name="robots" content="noindex">{% endblock %}
+{% block content %}
+<section class="sec--tight"><div class="wrap">
+  <h1 class="h-2" style="margin-bottom:20px">Icon sheet</h1>
+  <div class="icon-sheet">{% for n in names %}<div{% if n in lands %} data-land="{{ n }}"{% endif %}><span class="lbadge">{% icon n %}</span><span class="lbadge lbadge--sm lbadge--ground">{% icon n %}</span>{% icon n %}{{ n }}</div>{% endfor %}</div>
+  <h2 class="h-2" style="margin:30px 0 16px">Milestones and tickets</h2>
+  <div class="milestones"><span class="milestone"><span class="milestone__cap">Altitude</span><span class="milestone__val">2,042<small>m</small></span></span><span class="milestone"><span class="milestone__cap">Fare</span><span class="milestone__val">₹14,500</span></span><span class="milestone milestone--sm"><span class="milestone__cap">Day</span><span class="milestone__val">₹1.5k+</span></span></div>
+</div></section>
+{% endblock %}

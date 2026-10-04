@@ -1,0 +1,78 @@
+{
+  "slug": "hee-bermiok-rinchenpong-kanchenjunga-4n",
+  "title": "Hee Bermiok and Rinchenpong village stays",
+  "region": "west-sikkim",
+  "nights": 4,
+  "themes": ["homestays", "kanchenjunga-views", "monasteries"],
+  "tier": "Value",
+  "travel_mode": "Mixed",
+  "stops": [{"place": "hee-bermiok", "nights": 2}, {"place": "rinchenpong", "nights": 2}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 15000,
+  "cost_split": [
+    {"item": "Shared reserved car NJP to Hee Bermiok, car to Rinchenpong, shared jeep out", "inr": 5000},
+    {"item": "Homestays, 4 nights with dinner and breakfast", "inr": 8000},
+    {"item": "Lunches, tea and snacks", "inr": 1200},
+    {"item": "Entries, donations and village walks", "inr": 800}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2000,
+  "meta_description": "4 nights in Hee Bermiok and Rinchenpong homestays, West Sikkim: Kanchenjunga at dawn, cardamom farms, a 1730 monastery. From ₹15,000 per person.",
+  "summary": "Four slow nights in two farming villages of West Sikkim. Two nights at Hee Bermiok among cardamom and maize fields, two at Rinchenpong beside its 1730 monastery, both facing Kanchenjunga. Homestay meals, short walks, no rushing, and a realistic ₹15,000 per person from NJP and back.",
+  "intro": [
+    "This is the trip we suggest to friends who say Pelling felt like a row of hotels. Hee Bermiok and Rinchenpong are working villages, not resorts. Families here grow large cardamom under the forest shade, maize and millet on the terraces, and oranges around the houses, and they open a room or two to guests. You eat what they eat: rice, dal, a green from the garden, perhaps gundruk or a fresh churpi pickle. On a clear morning Kanchenjunga stands across the Rangeet valley, and you watch it from the courtyard with a cup of tea.",
+    "The pace is gentle on purpose. Each village gets two nights, so there is one full day with no driving at all. We send you in by a shared reserved car via Jorethang and Legship, move you across by car, and bring you out by shared jeep to keep the cost down. Rinchenpong adds a monastery built in 1730 with a rare image of the Adi Buddha, and the old local story of the poison lake from the 1860s."
+  ],
+  "highlights": [
+    "Dawn on Kanchenjunga from a homestay courtyard, twice in each village",
+    "Walks through large cardamom plantations under alder shade at Hee Bermiok",
+    "Rinchenpong Monastery of 1730 and its rare Adi Buddha image",
+    "The Bishey Pokhari, the poison lake of a Lepcha local story from 1860–61",
+    "Home cooking with farm greens, churpi, gundruk and sel roti on lucky mornings"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Hee Bermiok via Jorethang", "place": "hee-bermiok", "overnight": "Hee Bermiok", "drive": "≈ 130 km · 5.5 h by shared reserved car", "text": "Meet your car at NJP station or Bagdogra airport by late morning. The road follows the Teesta to Melli, crosses into Sikkim and turns up the Rangeet to Jorethang, where most drivers stop for a plate of momos or a thali. From there it climbs through Legship towards Hee Bermiok. Expect about five and a half hours with a lunch stop, more if traffic builds at Sevoke. You reach the village in the afternoon light, settle into the homestay and walk the lane before dark. Dinner is with the family: rice, dal, a seasonal vegetable and usually something pickled.", "meals": "Dinner", "spend": "₹200 lunch at Jorethang + ₹50 tea"},
+    {"day": 2, "title": "Cardamom fields and a dawn view", "place": "hee-bermiok", "overnight": "Hee Bermiok", "drive": "", "text": "Be up before six if the sky is clear: Kanchenjunga and its neighbours light up pink, then gold, across the Rangeet valley. After breakfast, ask your hosts to point you along the footpaths through the cardamom. Sikkim is India's largest producer of large cardamom, and the crop grows in the shade of alder trees on these slopes. In October and November you may see the pods being harvested and dried over wood fires in small kilns. The afternoon is free for reading, a nap or a slow walk to the village shop and school. Early dinner, early bed.", "meals": "Breakfast, lunch, dinner", "spend": "₹150 packed or homestay lunch + ₹100 tea and snacks"},
+    {"day": 3, "title": "Across the valley to Rinchenpong", "place": "rinchenpong", "overnight": "Rinchenpong", "drive": "≈ 50 km · 2.5 h by car via Legship", "text": "After breakfast a local car takes you back down to Legship and up the other side of the valley to Rinchenpong. The drive is short enough to stop for tea and photographs. Check in at Yangsum Heritage Farm or another village homestay, have lunch, and walk up to Rinchenpong Monastery in the afternoon. It was built in 1730 and keeps a rare image of the Adi Buddha, Kuntuzangpo, in union with his consort. Ask quietly before photographing inside. Sunset from the monastery ridge looks straight at the Kanchenjunga range when the cloud allows.", "meals": "Breakfast, dinner", "spend": "₹200 lunch + ₹50–100 monastery donation"},
+    {"day": 4, "title": "Rinchenpong and Kaluk on foot", "place": "rinchenpong", "overnight": "Rinchenpong", "drive": "", "text": "Spend the day walking. The local story of the Bishey Pokhari, the poison lake, says Lepcha fighters poisoned this pond during the British campaign of 1860–61 so that soldiers who drank from it fell sick. It is a story, told with pride, and the pond itself is small and quiet. Walk on through orange orchards, which are heavy with fruit from November to January, towards Kaluk, a short way along the ridge. Look for the village heritage house that shows old Lepcha and Sikkimese farm life if it is open. Come back for tea on the farm and a last clear look at the range.", "meals": "Breakfast, lunch, dinner", "spend": "₹150 lunch + ₹100 entries and tea"},
+    {"day": 5, "title": "Rinchenpong to NJP by shared jeep", "place": "rinchenpong", "overnight": "", "drive": "≈ 125 km · 5 h by shared jeep via Jorethang", "text": "Shared jeeps leave Rinchenpong for Jorethang and Siliguri early in the morning, so ask your hosts the night before to book a seat and tell the driver where to pick you up. Breakfast may be packed for you. From Jorethang the road runs down the Rangeet to Melli and along the Teesta to Siliguri, where you take a short auto or taxi to NJP station or Bagdogra airport. Keep at least six hours between leaving Rinchenpong and any train or flight, and more in the monsoon or after rain.", "meals": "Breakfast", "spend": "₹300–400 jeep seat + ₹200 lunch + ₹150 auto to NJP"}
+  ],
+  "stays": ["rinchenpong-yangsum-heritage-farm"],
+  "includes": [
+    "Shared reserved car NJP to Hee Bermiok, local car Hee Bermiok to Rinchenpong, shared jeep seat out",
+    "Four nights in village homestays with dinner and breakfast, twin sharing",
+    "A small budget for lunches, tea and snacks",
+    "Monastery donations and small entry fees on village walks"
+  ],
+  "excludes": [
+    "Train or flight to NJP or Bagdogra",
+    "Sikkim Restricted Area Permit costs for foreign nationals",
+    "Extra car hire for side trips to Pelling, Khecheopalri or Uttarey",
+    "Alcohol, bottled drinks and personal shopping",
+    "Tips for hosts and drivers"
+  ],
+  "save_money": [
+    "Travel in a group of four to six and split the reserved car to Hee Bermiok, which brings the per-head cost close to a jeep seat.",
+    "Take lunch at the homestay instead of driving out to a restaurant; it is usually ₹150–200 and fresher than anything on the road.",
+    "Come in late February to early April or in October rather than over the Durga Puja and Diwali holidays, when homestay and car rates rise."
+  ],
+  "good_to_know": [
+    "Indian nationals need no permit for these villages; foreign nationals need a Sikkim Restricted Area Permit, check current status before you travel.",
+    "The roads via Jorethang and Legship can be cut by landslides in the monsoon, roughly June to September, so check current status before you travel.",
+    "Mobile data is patchy in both villages; Jio and Airtel work in spots, and there are no ATMs, so carry enough cash from Siliguri or Jorethang.",
+    "Homestays are simple rooms in family houses; hot water may come by bucket and power cuts happen, so bring a torch."
+  ],
+  "faqs": [
+    {"q": "Is ₹15,000 per person really enough for this trip?", "a": "Yes, for two people sharing a room and travelling in the cooler months. Village homestays charge about ₹1,500–2,500 per person with dinner and breakfast, which covers most of the cost. The car into Hee Bermiok is the biggest single item. Budget more if you travel alone, want a private car throughout, or come over Durga Puja and Diwali, when rates go up."},
+    {"q": "How do we get from NJP or Bagdogra to Hee Bermiok?", "a": "By road through Sevoke, Melli, Jorethang and Legship, about 130 km and five and a half hours with a lunch stop. Shared jeeps run to Jorethang, and you can change there, but a reserved car shared between four to six people is far easier with luggage and costs not much more per head. Leave NJP by late morning to arrive in daylight."},
+    {"q": "What is the food like in the homestays?", "a": "Home cooking, mostly vegetarian with chicken or eggs on request. Expect rice, dal, a seasonal green such as squash shoots or nettle, potato or radish curry, and pickles of chilli, bamboo shoot or churpi. Breakfast may be roti and sabzi, eggs, or sel roti on festival days. Tell your hosts in advance about allergies or a strict diet."},
+    {"q": "When will we see Kanchenjunga clearly?", "a": "October to December gives the most reliable clear mornings, followed by March and April. In winter the view is usually sharp from dawn until mid-morning. From June to September the range hides behind cloud most days. Whatever the month, the clearest window is the first hour after sunrise, so set an alarm and keep the curtains open."},
+    {"q": "Do we need a permit for Hee Bermiok and Rinchenpong?", "a": "Indian nationals do not need a permit for these villages. Foreign nationals need a Sikkim Restricted Area Permit, which can be applied for online or obtained at entry points such as Melli and Rangpo. Carry a printed copy and your passport, as police may check at the Melli border. Rules do change, so check current status before you travel."},
+    {"q": "Is there mobile network, Wi-Fi and an ATM?", "a": "Signal comes and goes in both villages. Jio and Airtel usually work somewhere on the property, sometimes only in one corner of the courtyard. Some homestays have Wi-Fi, but do not count on it for work calls. There are no ATMs in the villages; Jorethang has the nearest reliable ones. UPI is accepted by some hosts, cash by all."},
+    {"q": "Is this trip suitable for children or older parents?", "a": "Yes, with care. The drives are long on the first and last days, but the walks are short and you can do as little as you like. Village paths are uneven and steep in places, so older travellers should bring good shoes and a stick. Ask homestays for a ground-floor room and a western toilet if needed; not all have one."},
+    {"q": "Can we add Pelling to this journey?", "a": "Yes. Pelling is about 40 km and two hours from Rinchenpong, and closer still to Hee Bermiok. Add one or two nights there for Pemayangtse Monastery and the Rabdentse ruins. A local car for the transfer costs about ₹2,500–3,500, and a budget room in Pelling about ₹1,200–2,500, so plan roughly ₹3,000 more per person per extra night."},
+    {"q": "What should we pack for a Sikkim village homestay?", "a": "Layers, because mornings and nights are cold even when afternoons are warm: from November to February it can drop to a few degrees above freezing. Bring a warm jacket, a torch, a power bank, a refillable water bottle, sandals for the house, and cash. A small gift from the plains is welcome but never expected by the families."}
+  ]
+}

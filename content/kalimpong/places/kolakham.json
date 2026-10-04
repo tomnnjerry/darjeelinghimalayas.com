@@ -1,0 +1,110 @@
+{
+  "slug": "kolakham", "name": "Kolakham", "name_local": "", "region": "kalimpong",
+  "kind": "village",
+  "wiki": "Kolakham", "image_query": "Kolakham Kalimpong Kanchenjunga",
+  "lat": 27.101, "lng": 88.678, "altitude_m": 1981,
+  "tagline": "A Rai village on the edge of Neora Valley, facing Kanchenjunga",
+  "meta_description": "Kolakham near Lava, 1,981 m: Kanchenjunga from your homestay, Changey Falls, Neora Valley forest walks, Rai village life, jeeps, costs and when to go.",
+  "summary": "Kolakham is a small village at about 1,980 m, 8 km beyond Lava and 38 km from Kalimpong, on the edge of Neora Valley National Park. Homestays look straight across to Kanchenjunga, Changey Falls is 4 km away, and the forest starts at the end of the lane. Two nights is right.",
+  "local_story": {"title": "Rai Gaon on the forest's edge",
+    "paras": ["Kolakham sits on a spur below Lava where the farmland ends and the forest of Neora Valley begins. Local accounts say the village was founded by a man named Ujir Man Rai Samsuhang, and it is still often called Rai Gaon, the village of the Rai, one of the Kirati peoples of eastern Nepal and the Darjeeling hills. Villagers also connect the name to an old way of pressing oil; we have not found a written source for that, so take it as the village's own explanation.",
+              "For most of its history Kolakham was a farming village of maize, cardamom, potatoes and cattle, reached on foot from Lava. The national park, declared in 1986, put the forest above the village under protection, and the road and tourism followed. Today many families run small homestays, often a few rooms beside the family house, with gardens of dahlias and marigolds facing north.",
+              "That northward view is the village's fortune. On clear mornings from October to April, the Kanchenjunga range fills the skyline across the valley, and you can watch it from bed in many rooms."]},
+  "did_you_know": [
+    "Kolakham lies inside or on the boundary of Neora Valley National Park, which climbs to about 3,200 m at Rachela Danda.",
+    "Changey Falls, about 4 km from Kolakham, is reached by a walk of roughly 900 m from the last motorable point.",
+    "Kolakham is often called 'Rai Gaon' after the Rai community whose families founded it, by local account."
+  ],
+  "intro": ["Kolakham is where people go when Lava feels too busy. It is a scatter of farmhouses and homestays along a ridge road, 8 km and about 30 minutes beyond Lava, with the forest of Neora Valley above and Kanchenjunga ahead. There is no bazaar to speak of, little traffic and very little to do except walk, watch birds, eat well and get up for the dawn.",
+            "Most homestays here are family-run, with rooms of wood and concrete, hot water by geyser or bucket, and simple Nepali food: dal, rice, squash, greens, pickles and chicken on request. Expect to pay about ₹1,500–2,200 per person with meals. Lava's monastery, Changey Falls and the Neora Valley range office are all within a short drive."],
+  "facts": [["Best months", "Oct – Dec · Mar – May"], ["Nights we suggest", "2"], ["From Kalimpong", "≈ 38 km · 2 h"], ["Altitude", "≈ 1,980 m"], ["Known for", "Kanchenjunga from bed, Changey Falls, forest walks"], ["Network", "Patchy; BSNL and Jio in spots"]],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "2",
+  "costs": [["Reserved car from Lava", "₹800–1,200 one way"], ["Reserved car from Kalimpong", "₹3,000–3,500 one way"], ["Homestay with dinner and breakfast", "₹1,500–2,200 pp"], ["Changey Falls entry", "Small fee, under ₹50 (indicative)"], ["Local guide for a forest walk", "₹600–1,000"]],
+  "highlights": [
+    {"title": "Kanchenjunga from your room", "text": "Most Kolakham homestays face north across the valley to the Kanchenjunga range. On clear mornings between October and April you only need to open the curtains. Ask for a north-facing room with a big window when you book."},
+    {"title": "Changey Falls", "text": "A tall waterfall about 4 km from the village, reached by a walk of roughly 900 m from the road end. It is fullest after the monsoon, in September and October, and is a short half-day outing."},
+    {"title": "Forest of Neora Valley", "text": "The national park begins above the village. Walk the lanes and forest edges at dawn for birds, and arrange a guided park entry through the Lava range office if you want to go deeper."},
+    {"title": "Rai village life", "text": "Kolakham is a farming village first. Ask your host about the cardamom, maize and cattle, the household shrine and the Rai festivals, and walk to neighbouring farms to see how the slopes are worked."},
+    {"title": "Quiet nights", "text": "With little traffic and few lights, nights at Kolakham are dark and silent, good for stars on clear winter nights. It is cold too, so ask for extra blankets."}
+  ],
+  "how_to_reach": [
+    {"mode": "Reserved car", "text": "Most people come by reserved car: from NJP or Bagdogra about ₹5,000–6,500 and 4.5–5 hours, via Kalimpong and Lava or through the Dooars and Gorubathan. From Lava it is 8 km, about 30 minutes, for ₹800–1,200. NH10 has had closures since October 2023; check current status before you travel."},
+    {"mode": "Shared jeep and car", "text": "Take a shared jeep from Kalimpong to Lava (₹120–180, mostly mornings) and then a local car for the last 8 km. Your homestay can usually arrange the pickup from Lava."},
+    {"mode": "On foot", "text": "Fit walkers can walk from Lava to Kolakham in about 2 hours on the road and village paths, dropping slightly in height. It is a pleasant half-day walk in dry weather; ask locals for the shortcuts."}
+  ],
+  "where_to_stay": "Kolakham is a homestay village: family homestays and small cottages spread along the ridge road, most with north-facing rooms looking towards Kanchenjunga. Rates are around ₹1,500–2,200 per person with dinner and breakfast, a little more for rooms with the best views or attached baths with geysers. Book through the homestay directly or ask your Kalimpong hotel to recommend a family. If you prefer government lodges, sleep at the WBFDC cottages in Lava, 8 km away, and visit Kolakham for a day.",
+  "stays": [],
+  "tips": ["Ask for a north-facing room with a window when booking: that is the whole point of Kolakham.",
+           "Carry cash, as there is no ATM and UPI depends on a patchy network.",
+           "Visit Changey Falls in September–November, when the water is high but the paths are drier.",
+           "Bring warm clothes and a torch; power cuts and cold nights are normal.",
+           "Roads around Lava can be blocked after heavy rain: check current status before you travel."],
+  "themes": ["homestays", "kanchenjunga-views", "wildlife-birds", "budget-honeymoons"],
+  "nearby": ["lava", "neora-valley", "rishyap"],
+  "experiences": [
+    {"slug": "kolakham-changey-falls-walk", "title": "Changey Falls below Kolakham",
+     "kind": "viewpoint", "duration": "2–3 hours", "best_time": "9 am–2 pm, Sep–Nov", "cost": "Small entry fee · car ₹800–1,500 return",
+     "image_query": "Changey Falls Lava Kalimpong", "wiki": "Changey Falls",
+     "summary": "A tall cascade in the forest about 4 km from Kolakham, reached by a walk of roughly 900 m from the road end. Fullest after the monsoon, and a short, easy half day from Kolakham or Lava.",
+     "body": ["Changey Falls drops through forest below the Kolakham ridge, about 4 km from the village and roughly 10 km from Lava. Sources disagree about its height, and figures range widely, so we will just say it is tall and falls in several stages. The drive ends at a roadhead, and from there a path of about 900 m leads down to the falls through trees and steps.",
+              "The falls are fullest at the end of the monsoon, from late August to October, and thinner from February to May. The path is steep and slippery in places, especially after rain, so wear shoes with grip. Local authorities sometimes charge a small entry fee and run tea stalls at the top. Swimming is not safe; the pool and rocks are slippery and the water is cold.",
+              "From Kolakham, a local car costs about ₹800–1,500 return with waiting, or you can walk the road and paths in about an hour each way. Combine it with lunch in Lava or a walk back via the village farms. Paths can be closed after landslides, so check current status before you travel."],
+     "good_for": ["families", "couples", "photographers", "students"],
+     "faqs": [
+       {"q": "How far is Changey Falls from Lava?", "a": "About 10 km from Lava and 4 km from Kolakham by road, then a walk of about 900 m from the roadhead. A car from Lava costs roughly ₹1,200–1,800 return with waiting. Allow 2–3 hours for the trip from Kolakham, more from Lava."},
+       {"q": "Is the walk to Changey Falls difficult?", "a": "It is short, about 900 m each way, but steep, with steps and slippery stretches, especially after rain. Most reasonably fit people manage it in 20–30 minutes down and a bit longer back up. It is harder for older people or those with knee trouble."},
+       {"q": "When is the best time to see Changey Falls?", "a": "Late August to October, after the monsoon, when the water is high. The path is wettest and riskiest during the monsoon itself. From February to May the falls are thinner but the walk is easier. Check current status before you travel."}
+     ]},
+    {"slug": "kolakham-kanchenjunga-dawn", "title": "Kanchenjunga dawn from a Kolakham homestay",
+     "kind": "viewpoint", "duration": "1 hour", "best_time": "5–6.30 am, Oct–Apr", "cost": "Free from your homestay",
+     "image_query": "Kanchenjunga sunrise Kalimpong hills", "wiki": "Kangchenjunga",
+     "summary": "No jeep, no crowd: in Kolakham the sunrise over Kanchenjunga happens outside your window. Ask your host to knock at dawn, take your tea to the garden and watch the range light up across the valley.",
+     "body": ["The best thing about Kolakham costs nothing. Most homestays look north across the deep valley to the Kanchenjunga range, about 8,586 m at the summit and well over 80 km away. On a clear morning the top of the mountain turns pink a few minutes before sunrise, then gold, then white, while the valley below is still in shadow.",
+              "Ask your host to wake you about 30 minutes before sunrise: around 5.30 am in October and March, after 6 am in December and January. Wrap up, because dawn in winter is close to freezing. Take your tea to the garden or the roof. If the range is hidden, wait half an hour; cloud often lifts briefly just after the sun comes up.",
+              "Clear dawns are most likely from mid-October to early December and again from February to April. For two chances, stay two nights. Photographers should bring a telephoto lens to pick out the peaks and the prayer flags in front."],
+     "good_for": ["couples", "photographers", "seniors", "families"],
+     "faqs": [
+       {"q": "Can you see Kanchenjunga from Kolakham?", "a": "Yes, on clear days. Kolakham faces north across the valley to the Kanchenjunga range, and many homestays have a direct view from their rooms or gardens. The best chances are from October to April, at dawn. In the monsoon, views are rare."},
+       {"q": "Is Kolakham or Lava better for Kanchenjunga views?", "a": "Kolakham and Rishyap have better views than Lava's bazaar, which sits among trees. From Kolakham you see the range from your homestay; Rishyap's Tiffin Dara is higher and wider. Lava is better for the monastery and park access."},
+       {"q": "What time is sunrise in Kolakham in winter?", "a": "Around 6.15–6.20 am in December and January, about 5.30–5.45 am in October and March, and earlier in April. Be outside 30 minutes before, when the summit first catches the light."}
+     ]},
+    {"slug": "kolakham-neora-forest-edge-walk", "title": "Forest-edge walk into Neora Valley",
+     "kind": "trek", "duration": "3–4 hours", "best_time": "6.30–10.30 am, Oct–May", "cost": "Guide ₹600–1,000 · park fees if entering",
+     "image_query": "Neora Valley National Park forest", "wiki": "Neora Valley National Park",
+     "summary": "Walk with a local guide from Kolakham's last houses into the forest that rises towards Neora Valley National Park: moss, ferns, old oaks, bird calls and, perhaps, the scratch marks of a bear.",
+     "body": ["Kolakham is where the farmland of the Kalimpong hills ends and the forest of Neora Valley begins. A guided walk from the top of the village follows the trails used by villagers to collect fodder and firewood, climbing into mixed forest of oak, chestnut, magnolia and bamboo, thick with moss and ferns.",
+              "This is not a summit walk; it is about the forest. Go slowly, watch the canopy for mixed bird flocks and listen for barking deer. Guides will show you plants used in village medicine and food. Neora Valley holds Himalayan black bear and leopard, so stay with your guide and do not walk alone at dusk.",
+              "If you want to go inside the national park proper, you need a permit and a registered guide, arranged through the Lava range office, and the park closes in the monsoon, roughly mid-June to mid-September. For a walk on the forest edge, your homestay can usually find a local guide for ₹600–1,000. Leeches are common from May to September."],
+     "good_for": ["solo", "couples", "students", "photographers"],
+     "faqs": [
+       {"q": "Do I need a permit to walk near Kolakham?", "a": "Walking on village trails and the forest edge with a local guide does not usually need a park permit. Entering Neora Valley National Park itself requires a permit and registered guide from the Lava range office, plus fees. Rules change, so check current status before you travel."},
+       {"q": "Are there wild animals in the forest near Kolakham?", "a": "Yes. Neora Valley holds Himalayan black bear, leopard, barking deer, wild boar and the red panda higher up. Encounters are rare, but stay with your guide, walk in daylight, make some noise on blind bends and never approach wildlife."},
+       {"q": "What should I wear for a forest walk at Kolakham?", "a": "Shoes with good grip, long trousers tucked into socks against leeches in the wet months, a light rain jacket and a warm layer. Carry water and snacks. In winter, start after the frost has melted from the paths, around 7–8 am."}
+     ]},
+    {"slug": "kolakham-rai-farm-day", "title": "A farm day with a Rai family in Kolakham",
+     "kind": "culture", "duration": "Half day", "best_time": "Oct–Nov harvest, Mar–Apr planting", "cost": "Included with homestay · tip welcome",
+     "image_query": "cardamom farm Darjeeling hills village", "wiki": "Rai people",
+     "summary": "Spend a morning on your host family's farm: cardamom under the trees, maize and potato terraces, cattle and the kitchen garden. Then help in the kitchen and learn how gundruk and pickles are made.",
+     "body": ["Kolakham was a farming village long before it was a homestay village, and most families still farm. The Rai, one of the Kirati peoples of eastern Nepal and the Darjeeling hills, are the community most associated with the village; by local account they founded it. Ask your host if you can spend a morning with them on the land.",
+              "Depending on the season you might see large cardamom growing in the shade under trees, maize and potatoes on terraces, broom grass on steep slopes and a kitchen garden of squash, greens and chillies. In October and November there is harvesting and drying; in March and April, planting. Cattle and goats are part of most households, and you may be asked to help carry fodder.",
+              "Back in the kitchen, learn how gundruk, fermented and dried leafy greens, is made in winter, and how chilli and radish pickles are prepared. These visits are informal and depend on the family's work that day, so ask, do not insist, and leave a tip or buy some cardamom if you have taken up their time."],
+     "good_for": ["families", "students", "solo", "couples"],
+     "faqs": [
+       {"q": "Can I stay with a local family in Kolakham?", "a": "Yes. Most stays in Kolakham are family homestays, with rooms beside or inside the family house and meals cooked by the family. Rates are about ₹1,500–2,200 per person with dinner and breakfast. Ask when booking if the family farms and is happy to show guests around."},
+       {"q": "Who are the Rai people?", "a": "The Rai are one of the Kirati peoples of eastern Nepal, Sikkim and the Darjeeling and Kalimpong hills, with their own languages and traditions, such as the Sakela dance. In Kolakham, local accounts say Rai families founded the village, which is why it is also called Rai Gaon."},
+       {"q": "What is gundruk?", "a": "Gundruk is a fermented, sun-dried leafy green, usually made from mustard, radish or cauliflower leaves in late autumn and winter. It is cooked into a sour soup or pickle and eaten with rice. You will find it in homestay kitchens across the Kalimpong hills."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "Is Kolakham better than Lava?", "a": "For views and quiet, yes. Kolakham's homestays look directly at Kanchenjunga, and there is almost no traffic. Lava has the monastery, the bazaar, the forest lodge and the park office. Many travellers stay in Kolakham and visit Lava for a few hours."},
+    {"q": "How far is Kolakham from Lava?", "a": "About 8 km, 30 minutes by car, and roughly 38 km from Kalimpong. A local car from Lava costs ₹800–1,200. Shared jeeps rarely run on this stretch, so ask your homestay to arrange a pickup."},
+    {"q": "How many days should I stay in Kolakham?", "a": "Two nights is ideal: one day for Changey Falls and Lava's monastery, one for a forest walk or Neora Valley, and two chances at a Kanchenjunga dawn. Kolakham is a place to slow down, so do not try to rush it in a single night."},
+    {"q": "What is the homestay cost in Kolakham?", "a": "About ₹1,500–2,200 per person per night with dinner and breakfast, a little more for the best-view rooms or attached bathrooms with geysers. Prices rise in October and on long weekends. Lunch is usually extra, around ₹150–250."},
+    {"q": "Is there mobile network in Kolakham?", "a": "Patchy. Some homestays get Jio or BSNL signal, others only at certain spots. Data is slow and unreliable. Tell family and work you may be offline, and download maps and tickets before leaving Kalimpong."},
+    {"q": "When is the best time to visit Kolakham?", "a": "October to early December for clear Kanchenjunga dawns, and March to May for rhododendrons, birds and mild days. January and February are cold but often clear. From June to September it is wet, misty and leechy, and Neora Valley is closed."},
+    {"q": "Is Kolakham suitable for elderly travellers?", "a": "Mostly yes, if you choose a homestay with an easy approach and an attached bathroom. Some homestays have steep steps. The altitude, about 1,980 m, is fine for most people. Nights are cold, so check heating or ask for extra blankets."},
+    {"q": "Can I visit Neora Valley from Kolakham?", "a": "Yes. Kolakham is on the park's edge, and guided entries are arranged through the Lava range office with a permit, a registered guide and a vehicle. The park closes in the monsoon, roughly mid-June to mid-September. Check current status before you travel."},
+    {"q": "What food is served in Kolakham homestays?", "a": "Home-style Nepali food: rice, dal, seasonal vegetables such as squash and its shoots, local greens, pickles, eggs, and chicken on request. Breakfast is often puri-sabzi, bread and eggs, or noodles. Tell your hosts about any dietary needs in advance."}
+  ]
+}

@@ -1,0 +1,14 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}{{ t.name }} in {{ r.short }} · Darjeeling Himalayas{% endblock %}
+{% block description %}{{ t.name }} in {{ r.name }}: places, trips with real costs and where to stay.{% endblock %}
+{% block body_attrs %} data-land="{{ r.slug }}"{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:20px"><div class="phead__body" style="margin-top:0">
+  <span class="lbadge lbadge--lg">{% icon r.slug %}</span>
+  <p class="eyebrow" style="margin-top:16px">{{ r.name }} · way to travel</p><h1 class="h-1">{{ t.name }} in {{ r.short }}</h1><p class="lede">{{ t.summary }}</p>
+</div></div></header>
+{% if journeys %}<section class="sec--tight"><div class="wrap"><h2 class="h-2" style="margin-bottom:20px">Trips</h2><div class="tickets">{% for j in journeys %}{% include "hills/partials/ticket.html" %}{% endfor %}</div></div></section>{% endif %}
+<section class="sec"><div class="wrap"><h2 class="h-2" style="margin-bottom:20px">Places</h2><div class="grid grid--4">{% for p in places %}{% include "hills/partials/card_place.html" %}{% endfor %}</div></div></section>
+{% if experiences %}<section class="sec sec--paper2"><div class="wrap"><h2 class="h-2" style="margin-bottom:20px">Things to do</h2><div class="grid grid--3">{% for e in experiences|slice:":9" %}{% include "hills/partials/card_exp.html" %}{% endfor %}</div></div></section>{% endif %}
+{% endblock %}
+{% block cta %}{% include "hills/partials/cta.html" with cta_land=r.slug %}{% endblock %}

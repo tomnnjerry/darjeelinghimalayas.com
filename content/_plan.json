@@ -1,0 +1,55 @@
+{
+  "_note": "Fixed place slugs for every land. Writers must create exactly these place files (slug = file name) and may link to ANY slug in this file from routes, nearby (own land only), journeys (own land only) and guides.",
+  "darjeeling": {
+    "name": "Darjeeling & Ghoom", "short": "Darjeeling",
+    "places": {"darjeeling": "Darjeeling", "ghoom": "Ghoom", "tiger-hill": "Tiger Hill", "lamahatta": "Lamahatta",
+      "takdah": "Takdah", "tinchuley": "Tinchuley", "lepchajagat": "Lepchajagat", "jorepokhri": "Jorepokhri",
+      "sukhia-pokhari": "Sukhia Pokhari", "chatakpur": "Chatakpur", "bijanbari": "Bijanbari", "peshok": "Peshok",
+      "mungpoo": "Mungpoo"}
+  },
+  "kurseong-mirik": {
+    "name": "Kurseong, Mirik & the tea valleys", "short": "Kurseong & Mirik",
+    "places": {"kurseong": "Kurseong", "dow-hill": "Dow Hill", "chimney": "Chimney", "makaibari": "Makaibari",
+      "sittong": "Sittong", "latpanchar": "Latpanchar", "ahaldara": "Ahaldara", "namthing-pokhri": "Namthing Pokhri",
+      "mirik": "Mirik", "sourenee": "Sourenee", "tingling": "Tingling", "gopaldhara": "Gopaldhara"}
+  },
+  "kalimpong": {
+    "name": "Kalimpong, Lava & Lolegaon", "short": "Kalimpong",
+    "places": {"kalimpong": "Kalimpong", "delo": "Deolo", "lava": "Lava", "kolakham": "Kolakham",
+      "neora-valley": "Neora Valley", "lolegaon": "Lolegaon", "charkhole": "Charkhole", "rishyap": "Rishyap",
+      "pedong": "Pedong", "sillery-gaon": "Sillery Gaon", "ramdhura": "Ramdhura", "icchey-gaon": "Icchey Gaon",
+      "teesta-bazar": "Teesta Bazar"}
+  },
+  "singalila": {
+    "name": "Sandakphu & the Singalila Ridge", "short": "Singalila",
+    "places": {"maneybhanjan": "Maneybhanjan", "chitrey": "Chitrey", "tumling": "Tumling", "tonglu": "Tonglu",
+      "gairibas": "Gairibas", "kalipokhri": "Kalipokhri", "sandakphu": "Sandakphu", "phalut": "Phalut",
+      "gorkhey": "Gorkhey", "samanden": "Samanden", "rammam": "Rammam", "srikhola": "Srikhola", "rimbik": "Rimbik",
+      "dhotrey": "Dhotrey"}
+  },
+  "gangtok": {
+    "name": "Gangtok & East Sikkim", "short": "Gangtok",
+    "places": {"gangtok": "Gangtok", "rumtek": "Rumtek", "tsomgo-lake": "Tsomgo Lake", "nathu-la": "Nathu La",
+      "kupup": "Kupup", "gnathang": "Gnathang", "zuluk": "Zuluk", "padamchen": "Padamchen", "rongli": "Rongli",
+      "aritar": "Aritar", "pakyong": "Pakyong", "rangpo": "Rangpo"}
+  },
+  "north-sikkim": {
+    "name": "North Sikkim: Lachung & Lachen", "short": "North Sikkim",
+    "places": {"mangan": "Mangan", "dzongu": "Dzongu", "singhik": "Singhik", "chungthang": "Chungthang",
+      "lachung": "Lachung", "yumthang": "Yumthang Valley", "yumesamdong": "Yumesamdong (Zero Point)",
+      "lachen": "Lachen", "thangu": "Thangu", "gurudongmar": "Gurudongmar Lake", "chopta-valley": "Chopta Valley",
+      "kabi-lungchok": "Kabi Lungchok", "phodong": "Phodong"}
+  },
+  "west-sikkim": {
+    "name": "Pelling, Yuksom & South Sikkim", "short": "West & South Sikkim",
+    "places": {"pelling": "Pelling", "yuksom": "Yuksom", "khecheopalri": "Khecheopalri", "tashiding": "Tashiding",
+      "rinchenpong": "Rinchenpong", "kaluk": "Kaluk", "dentam": "Dentam", "uttarey": "Uttarey",
+      "hee-bermiok": "Hee Bermiok", "barsey": "Barsey", "ravangla": "Ravangla", "namchi": "Namchi", "temi": "Temi"}
+  },
+  "dooars": {
+    "name": "The Dooars & Siliguri", "short": "Dooars",
+    "places": {"siliguri": "Siliguri", "gorumara": "Gorumara", "lataguri": "Lataguri", "chapramari": "Chapramari",
+      "murti": "Murti", "samsing": "Samsing", "suntalekhola": "Suntalekhola", "jhalong": "Jhalong", "bindu": "Bindu",
+      "jaldapara": "Jaldapara", "chilapata": "Chilapata", "buxa": "Buxa", "jayanti": "Jayanti"}
+  }
+}

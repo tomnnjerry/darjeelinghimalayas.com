@@ -1,0 +1,15 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}{{ t.name }} in Darjeeling, Sikkim and the Dooars · Darjeeling Himalayas{% endblock %}
+{% block description %}{{ t.summary|truncatechars:156 }}{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:20px"><div class="phead__body" style="margin-top:0">
+  <p class="eyebrow">Way to travel</p><h1 class="h-1">{{ t.name }}</h1><p class="lede">{{ t.tagline }}</p>
+</div></div></header>
+<section class="sec--tight"><div class="wrap split">
+  <div>{% for x in t.intro %}<p>{{ x }}</p>{% endfor %}</div>
+  <div class="brief">{% icon "leaf" %}<div><b>In brief</b><p>{{ t.summary }}</p></div></div>
+</div></section>
+{% if region_pages %}<section class="sec--tight"><div class="wrap"><p class="eyebrow">By hill</p><div class="chips">{% for r in region_pages %}<a class="chip" href="{% url 'region_theme' r.slug t.slug %}">{% icon r.slug %}{{ t.name }} in {{ r.short }}</a>{% endfor %}</div></div></section>{% endif %}
+{% if journeys %}<section class="sec sec--paper2"><div class="wrap"><div class="sec__head"><div><p class="eyebrow">Trips</p><h2 class="h-1">{{ t.name }} on a ticket</h2></div></div><div class="tickets">{% for j in journeys %}{% include "hills/partials/ticket.html" %}{% endfor %}</div></div></section>{% endif %}
+{% if places %}<section class="sec"><div class="wrap"><div class="sec__head"><div><p class="eyebrow">Places</p><h2 class="h-1">Where to go for it</h2></div></div><div class="grid grid--4">{% for p in places|slice:":16" %}{% include "hills/partials/card_place.html" %}{% endfor %}</div></div></section>{% endif %}
+{% endblock %}

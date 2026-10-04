@@ -1,0 +1,68 @@
+{
+  "slug": "darjeeling-three-villages-5n",
+  "title": "Lamahatta, Tinchuley and Peshok",
+  "region": "darjeeling",
+  "nights": 5,
+  "themes": ["homestays", "tea-country", "kanchenjunga-views", "photography"],
+  "tier": "Value",
+  "travel_mode": "Reserved car",
+  "stops": [{"place": "lamahatta", "nights": 2}, {"place": "tinchuley", "nights": 2}, {"place": "peshok", "nights": 1}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 19000,
+  "cost_split": [
+    {"item": "Reserved car shares on every leg and the Takdah day", "inr": 6500},
+    {"item": "Village homestays, 5 nights with dinner and breakfast", "inr": 10000},
+    {"item": "Lunches, tea and snacks", "inr": 1800},
+    {"item": "Entry fees, orchid centre and donations", "inr": 700}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2258,
+  "meta_description": "5 nights in three villages from ₹19,000: Lamahatta's dhupi forest, Tinchuley's orange orchards and old Takdah, and Peshok's tea above the Teesta confluence.",
+  "summary": "Three villages on the road from Ghoom down to the Teesta, two nights each in the first two and one in the last. Lamahatta's prayer flags and dhupi trees, Tinchuley's three hilltops and old Takdah's army bungalows, then Peshok's tea and the Lovers' Meet view. Homestays all the way, about ₹19,000 per person.",
+  "intro": [
+    "The road that leaves Ghoom for the Teesta drops through three very different villages. Lamahatta, about 23 km from Darjeeling, opened its eco-tourism park around 2012, with terraced gardens, tall dhupi trees and a short climb to a small holy lake; villagers read the name as lama and hatta, a monks' settlement. Tinchuley takes its name, people say, from three hilltops shaped like clay ovens. Beside it Takdah was a British army cantonment in the early 1900s, and its officers' bungalows still stand among the tea and orchids.",
+    "Peshok, lowest of the three, looks down on the meeting of the Teesta and the Rangeet. Lepcha folklore says the two rivers were lovers who agreed to meet in the plains: Rongnyu followed a serpent and arrived first, Rongeet followed a dawdling bird and came late, hurt. We travel by reserved car because shared jeeps on this road are few, and we keep the moves short so you have whole mornings in each village."
+  ],
+  "highlights": [
+    "The dhupi forest and prayer-flag trail to Lamahatta's small lake",
+    "Kanchenjunga and the Teesta valley from Tinchuley's Gumbadara viewpoint",
+    "Takdah's early-1900s cantonment bungalows and orchid centre",
+    "Peshok tea estate and the Lovers' Meet view of the river confluence",
+    "Five nights of village homestay cooking"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Lamahatta via Ghoom", "place": "lamahatta", "overnight": "Lamahatta", "drive": "≈ 85 km · 3.5–4 h by reserved car", "text": "Share a reserved car from NJP or Bagdogra up the Hill Cart Road through Kurseong to Ghoom, the saddle where the roads split, and turn onto the road towards Peshok and the Teesta. Lamahatta sits at about 1,740 m among tall dhupi trees. Check in to a family homestay, drink tea on the porch, and walk the terraced eco-park in the late afternoon light, when the prayer flags glow. Dinner will be home-cooked: dal, rice, squash and greens, perhaps chicken.", "meals": "Dinner", "spend": "₹2,000 car share + ₹2,000 homestay share with meals"},
+    {"day": 2, "title": "Lamahatta's lake trail", "place": "lamahatta", "overnight": "Lamahatta", "drive": "", "text": "On a clear morning Kanchenjunga shows above the village. After breakfast walk the uphill trail through the dhupi forest to the small lake the village holds sacred, about 30–45 minutes each way. Go slowly and stop where the trees open. In the afternoon, wander the village and ask your hosts how the eco-tourism park changed things after it opened around 2012, when families began to take guests. Evenings are cold from November to February, so ask for an extra blanket.", "meals": "Breakfast, dinner", "spend": "₹50–100 park entry + ₹150 lunch"},
+    {"day": 3, "title": "Through Takdah to Tinchuley", "place": "tinchuley", "overnight": "Tinchuley", "drive": "About an hour by reserved car, with stops in Takdah", "text": "Drive on towards Takdah, a British army cantonment in the early 1900s whose old officers' bungalows still stand; some are now heritage homestays. Stop at the government orchid centre, best in flower from February to April. Nearby is Rungli Rungliot tea garden, whose name, the local story says, means thus far and no further. Carry on about 3 km to Tinchuley, at about 1,770 m, and check in to a homestay among orange orchards and tea. Walk to the small village monastery before dusk.", "meals": "Breakfast, dinner", "spend": "₹750 car share + small orchid centre fee"},
+    {"day": 4, "title": "Gumbadara dawn and orchards", "place": "tinchuley", "overnight": "Tinchuley", "drive": "", "text": "Walk up to the Gumbadara viewpoint for sunrise over Kanchenjunga and a long look down into the Teesta valley. Back for breakfast, then spend the day on foot: through the orange orchards, which are heavy with fruit from about November to January, and along paths towards Takdah or down the slope towards the Teesta side. Ask your hosts about the name: the three hilltops that look like chulha, clay ovens. Keep the afternoon free; mist often rises from the valley after lunch.", "meals": "Breakfast, dinner", "spend": "₹150 lunch + tea"},
+    {"day": 5, "title": "Down to Peshok and Lovers' Meet", "place": "peshok", "overnight": "Peshok", "drive": "≈ 1–1.5 h by reserved car", "text": "Drive down to the Peshok road, past Lopchu tea estate, to Peshok, among the tea at roughly 1,000–1,200 m. Stand at the Lovers' Meet viewpoint, where you look down on the confluence of the Teesta and the Rangeet. Lepcha folklore tells of Rongnyu and Rongeet, lovers who raced to meet in the plains: one followed a serpent and arrived first, the other followed a dawdling bird and arrived late, hurt. Walk among the Peshok tea rows in the afternoon and sleep in a village homestay.", "meals": "Breakfast, dinner", "spend": "₹750 car share + ₹2,000 homestay share"},
+    {"day": 6, "title": "Peshok to NJP", "place": "peshok", "overnight": "", "drive": "≈ 85 km · 3.5–4 h by reserved car via Teesta Bazar, or back via Ghoom", "text": "Leave after breakfast. The short route drops to Teesta Bazar and follows the river south to Sevoke and Siliguri, but Teesta valley roads have had long closures since the October 2023 flood: check current status before you travel. If the river road is shut, your driver will climb back to Ghoom and take the Hill Cart Road down, which takes about the same time on a good day. Stop at Lopchu for a last cup of tea, and plan for an evening train or flight.", "meals": "Breakfast", "spend": "₹1,750–2,000 car share + ₹200 lunch"}
+  ],
+  "stays": [],
+  "includes": ["Reserved car shares from NJP to NJP, including the Takdah stops", "Village homestays for 5 nights with dinner and breakfast, twin sharing", "Lamahatta park entry and orchid centre fee", "Small monastery donations"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Lunches beyond the estimate", "Darjeeling sightseeing, Tiger Hill and toy train", "Tips for drivers and hosts"],
+  "save_money": [
+    "Book one car for the whole trip rather than a new car for each leg; the short village hops cost little when they are part of one hire.",
+    "Take homestay rooms with dinner and breakfast included: there are few restaurants in these villages and roadside meals add up.",
+    "Travel in February, March or early April for orchids and clear mornings at lower rates than October and November."
+  ],
+  "good_to_know": [
+    "Shared jeeps on the Peshok road are few; a reserved car is the practical choice.",
+    "Teesta valley roads have had long closures since October 2023: check current status before you travel.",
+    "Homestays are simple: ask about hot water, heating and the walk from the road before you book.",
+    "Mobile signal is patchy in Tinchuley and Peshok; tell your car driver your plans the night before."
+  ],
+  "faqs": [
+    {"q": "Which is better, Lamahatta, Tinchuley or Takdah?", "a": "They suit different moods. Lamahatta is a forest village with a short trail and prayer flags, best for one or two quiet nights. Tinchuley has wider views, orange orchards and the Gumbadara viewpoint. Takdah has the old cantonment bungalows and the orchid centre. They are close together, which is why this trip covers all three."},
+    {"q": "How much does this 5-night trip cost?", "a": "About ₹19,000 per person, twin sharing, from NJP back to NJP, indicative for 2025–26. That covers reserved car shares on every leg, five nights in village homestays with dinner and breakfast, lunches, and entry fees. Couples who want the best room in each homestay should add a little, and solo travellers pay more for the car."},
+    {"q": "Can I see Kanchenjunga from these villages?", "a": "Yes, on clear mornings. Lamahatta shows the range above the village, and Tinchuley's Gumbadara viewpoint looks at Kanchenjunga and down into the Teesta valley. Peshok faces the river confluence more than the snow. Views are best from October to early December and in March and April, usually before 9 am."},
+    {"q": "What is the Lovers' Meet viewpoint?", "a": "It is a viewpoint on the Peshok road above the Teesta, looking down on the confluence of the Teesta and the Rangeet near Melli and Teesta Bazar. The name comes from Lepcha folklore about two rivers, Rongnyu and Rongeet, who were lovers and agreed to meet in the plains. Rongnyu, the Teesta, arrived first."},
+    {"q": "When do the orchids flower at Takdah?", "a": "The government orchid centre at Takdah is at its best from February to April, when most species flower. In other months you see plants in the nursery but fewer blooms. The centre is small; allow 30–45 minutes. Opening hours and fees change, so check current status before you travel."},
+    {"q": "Why is there an old cantonment at Takdah?", "a": "The British army used Takdah as a cantonment in the early 1900s, and built officers' bungalows on the ridge among the forest. Several still stand, and some now run as heritage homestays. Walk past them on the village road; ask before you enter any compound, as most are private homes."},
+    {"q": "Can we do this trip by shared jeep?", "a": "Only partly. A few shared jeeps run between Darjeeling and the Peshok road villages, but they are irregular and leave early. The short hops between Lamahatta, Takdah, Tinchuley and Peshok have almost none. A reserved car for the whole trip, shared with another couple, keeps the cost reasonable and saves hours of waiting."},
+    {"q": "Is this trip suitable for older travellers?", "a": "Yes, with care. The drives are short after the first day, the homestays are on or near the road, and the only real walk is the 30–45 minute climb to Lamahatta's lake, which you can skip. Ask for ground-floor rooms and check that bathrooms have hot water. Nights are cold in winter."},
+    {"q": "Is the monsoon a good time for these villages?", "a": "Only if you want rain, mist and empty homestays. From June to September views are rare, paths are slippery and the roads to the Teesta suffer landslides. The tea and forest are greenest then, and prices drop. If you go, keep a buffer day and check current status before you travel."}
+  ]
+}

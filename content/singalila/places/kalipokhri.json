@@ -1,0 +1,173 @@
+{
+  "slug": "kalipokhri",
+  "name": "Kalipokhri",
+  "name_local": "कालीपोखरी",
+  "region": "singalila",
+  "kind": "trek stop",
+  "wiki": "",
+  "image_query": "Kalipokhri lake Sandakphu trek",
+  "lat": 27.08,
+  "lng": 88.03,
+  "altitude_m": 3186,
+  "tagline": "The black pond on the border, an hour below Sandakphu",
+  "meta_description": "Kalipokhri, the black pond on the Sandakphu trek: its lore, lodges at 3,186 m, the poison pass of Bikheybhanjang, costs and trek timings.",
+  "summary": "Kalipokhri, 'black pond' in Nepali, is a hamlet at about 3,186 m built around a small dark lake hung with prayer flags, right on the India–Nepal border. It is the usual second night of the Sandakphu trek, 6 km and 2–3 hours below the summit, with family lodges and a quieter feel than Sandakphu.",
+  "local_story": {
+    "title": "A dark pond the ridge treats as sacred",
+    "paras": [
+      "Kali means black and pokhri means pond, and the name is literal: the small lake beside the trail has peaty, dark water that looks black under cloud. Buddhists and Hindus along the ridge treat it as sacred, and prayer flags ring its banks. Local lore holds that the water never freezes completely even when snow lies all around; we have not seen this tested, so treat it as the village's story rather than a measured fact.",
+      "The hamlet that grew around the pond is one of the larger settlements on the upper ridge, with lodges on both sides of a border that runs along the track. Above it, the trail climbs to Bikheybhanjang, the 'poison pass', named in Nepali for the aconite that grows on these slopes. The same plant is behind Sandakphu's Lepcha name, the 'height of the poisonous plant', and old accounts say herders muzzled their animals to cross this stretch safely."
+    ]
+  },
+  "did_you_know": [
+    "Kalipokhri means 'black pond' in Nepali; the dark colour comes from peaty water and the shade of the surrounding slopes.",
+    "Bikheybhanjang, above Kalipokhri, takes its name from bikh, Nepali for poison, after the aconite plants of these high slopes.",
+    "Wikipedia notes Kalipokhri as one of the larger settlements inside the Singalila trekking corridor, grown up around the lake of the same name."
+  ],
+  "intro": [
+    "After the long forest climb from Gairibas, the trail tops out onto open slopes and you see the pond first: a small, dark oval ringed with prayer flags, with low stone lodges around it and the bare ridge of Sandakphu rising beyond. Kalipokhri is higher than Tumling and colder, and on autumn evenings frost settles on the roofs before dinner.",
+    "Many trekkers sleep here rather than push on to Sandakphu the same day. It is a good choice: the climb from Gairibas is already 3–4 hours, the lodges are friendly and cheaper than the summit's, and you can walk the last 6 km in the early morning to reach Sandakphu in time to see the mountains before the cloud rises."
+  ],
+  "facts": [
+    ["Best months", "Oct – Dec · Mar – May"],
+    ["Nights we suggest", "1"],
+    ["From Gairibas", "≈ 6 km · 3–4 h on foot"],
+    ["Altitude", "≈ 3,186 m"],
+    ["Known for", "Black pond, prayer flags, border lodges"],
+    ["Network", "Patchy, mostly Nepali"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1",
+  "costs": [
+    ["Dorm or shared lodge bed", "₹400–700 pp"],
+    ["Private twin room", "₹1,500–2,500 a room"],
+    ["Dal-bhat dinner", "₹250–350"],
+    ["Breakfast", "₹150–250"],
+    ["Hot water bucket", "₹80–120"],
+    ["Tea", "₹30–60"]
+  ],
+  "highlights": [
+    {"title": "The black pond", "text": "A small dark lake ringed with prayer flags sits right beside the trail. Walk around it clockwise as local people do, look at the reflections on still mornings and notice how dark the water stays even under a blue sky."},
+    {"title": "A calmer night below the summit", "text": "Kalipokhri's lodges are quieter and a little cheaper than Sandakphu's, and sleeping here breaks the hardest climbing day. You reach Sandakphu the next morning fresh, with the mountains often clear."},
+    {"title": "The poison pass", "text": "The trail to Sandakphu passes Bikheybhanjang, the 'poison pass', named after the aconite plants of these slopes. It is the start of the final steep climb, and a reminder of how this ridge got its names."},
+    {"title": "Frosty autumn mornings", "text": "From November, frost covers the grass and roofs at dawn and ice rims the pond. The morning light on the ridge toward Sandakphu is clean and golden. Dress warmly before stepping out."},
+    {"title": "Stars over the border", "text": "With little light pollution and dry autumn air, Kalipokhri's night sky is excellent. Step out after dinner for the Milky Way, then go back to the stove before your toes freeze."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot from Gairibas", "text": "Climb via Kaiyakatta: about 6 km and 3–4 hours, gaining roughly 550 m on forest paths and the cobbled track. A licensed guide is required."},
+    {"mode": "On foot from Sandakphu", "text": "Coming down from Sandakphu on the return route, Kalipokhri is about 6 km and 2 hours below the summit."},
+    {"mode": "Land Rover", "text": "The Sandakphu track passes through Kalipokhri, about 3–3.5 hours from Maneybhanjan. Drops can be arranged with the owners' association."}
+  ],
+  "where_to_stay": "Kalipokhri has several small family lodges around the pond and along the track, on both sides of the border. Rooms are basic: dorm beds and twin rooms with quilts, shared toilets, a dining room with a stove and dal-bhat dinners. Expect ₹400–700 for a bed in a shared room or ₹1,500–2,500 for a private twin, with meals extra. Book ahead in October and April through your guide.",
+  "stays": [],
+  "tips": [
+    "Sleep at Kalipokhri rather than Sandakphu if you climbed from Gairibas the same day; altitude is easier on two steps.",
+    "Walk clockwise around the pond and do not throw anything into the water; it is treated as sacred.",
+    "Leave for Sandakphu by 6.30 am to reach the top before the cloud rises.",
+    "Ask for an extra blanket in November to February; nights go well below freezing.",
+    "Carry Indian rupees in small notes; lodges on the Nepal side accept them."
+  ],
+  "themes": ["treks", "kanchenjunga-views", "photography", "solo-backpacking"],
+  "nearby": ["sandakphu", "gairibas", "tumling"],
+  "experiences": [
+    {
+      "slug": "kalipokhri-black-pond-and-prayer-flags",
+      "title": "Walk around the black pond at dawn",
+      "kind": "culture",
+      "duration": "30 minutes",
+      "best_time": "6–7 am, Oct–Apr",
+      "cost": "Free",
+      "image_query": "Kalipokhri black lake prayer flags",
+      "wiki": "",
+      "summary": "Circle Kalipokhri's small sacred pond in the early light as villagers do, clockwise past the prayer flags, while frost lies on the grass and the water stays dark and still. A short, quiet ritual before the final climb to Sandakphu.",
+      "body": [
+        "The pond is small enough to walk around in ten minutes. Prayer flags are strung on poles and lines around its bank, printed with mantras that the wind is meant to carry. Local Buddhists walk around it clockwise; Hindu families also treat it as a holy spot. Follow the same direction and keep your boots out of the water.",
+        "At dawn in autumn the surface is often perfectly still and the dark water reflects the flags and the ridge above. In winter a skin of ice forms around the edges. The village story is that the pond never freezes over completely, and many guides will tell you so; we have not been able to confirm it, so enjoy it as lore.",
+        "After the walk, have tea in your lodge and start up toward Bikheybhanjang. The pond is the last calm moment before the steep final climb to Sandakphu."
+      ],
+      "good_for": ["photographers", "couples", "seniors", "solo"],
+      "faqs": [
+        {"q": "Why is it called Kalipokhri?", "a": "Kali means black and pokhri means pond in Nepali. The water is dark, probably from peaty soil and the shade of the surrounding slopes, so the pond looks black, especially under cloud. The hamlet takes its name from the pond."},
+        {"q": "Is Kalipokhri lake sacred?", "a": "Yes, local Buddhist and Hindu families treat it as holy, which is why it is ringed with prayer flags. Walk around it clockwise, do not wash or throw things in it, and avoid loud behaviour nearby."},
+        {"q": "Does Kalipokhri freeze in winter?", "a": "Local lore says the pond never freezes completely, though ice forms around its edges in cold months. We have not been able to verify this. In January and February, with snow all around, it is worth seeing for yourself."}
+      ]
+    },
+    {
+      "slug": "kalipokhri-bikheybhanjang-poison-pass",
+      "title": "Climb through the poison pass to Sandakphu",
+      "kind": "trek",
+      "duration": "2–3 hours",
+      "best_time": "6.30–9.30 am, Oct–May",
+      "cost": "Included in your guide fee",
+      "image_query": "Bikheybhanjang Sandakphu trail",
+      "wiki": "Aconitum",
+      "summary": "The final 6 km from Kalipokhri to Sandakphu passes Bikheybhanjang, named for the poisonous aconite of these slopes, then climbs steeply to the 3,636 m summit. It is the last big effort of the trek and the moment the Everest view opens.",
+      "body": [
+        "Leave Kalipokhri early on the cobbled track. The first hour is a gentle rise across open slopes to Bikheybhanjang, a saddle with a couple of tea shops. The name comes from bikh, poison, after the aconite plants that grow here; Sandakphu's own name, from Lepcha, refers to the same plants. Do not pick or handle unfamiliar plants on this stretch.",
+        "From Bikheybhanjang the trail climbs hard: about 300 m in 2–3 km of switchbacks, mostly on the Land Rover track with footpath shortcuts. It is slow going at this altitude. Stop often, breathe deeply and look back south along the ridge you have walked.",
+        "Near the top, the ground opens and the buildings of Sandakphu appear. Then, on a clear morning, the view hits you from the west and north at once: Everest, Lhotse and Makalu on one side, the Kanchenjunga massif on the other. Arrive by 9 or 10 am if you can, before the cloud."
+      ],
+      "good_for": ["students", "solo", "couples", "first-timers"],
+      "faqs": [
+        {"q": "How long does it take from Kalipokhri to Sandakphu?", "a": "About 2–3 hours for roughly 6 km, with most of the climbing in the last 2–3 km after Bikheybhanjang. Leave early to reach the summit while the mountains are clear."},
+        {"q": "What does Bikheybhanjang mean?", "a": "Bikh means poison and bhanjyang means pass or col in Nepali. The name refers to the poisonous aconite plants of these high slopes. Sandakphu's Lepcha name, 'height of the poisonous plant', refers to the same flora."},
+        {"q": "Is aconite dangerous to trekkers?", "a": "Only if eaten or handled carelessly. Aconite is among the most toxic plants known, but simply walking past it is harmless. Do not pick wild plants, do not use unknown leaves for tea, and keep children from tasting anything."}
+      ]
+    },
+    {
+      "slug": "kalipokhri-woodstove-dinner",
+      "title": "A woodstove dinner in a border lodge",
+      "kind": "food",
+      "duration": "1.5 hours",
+      "best_time": "6.30–8 pm",
+      "cost": "₹250–400 a meal",
+      "image_query": "trekkers lodge dining room stove Himalaya",
+      "wiki": "Thukpa",
+      "summary": "Kalipokhri is cold by evening, so dinner is about warmth: thukpa or dal-bhat, hot lemon or butter tea, and a seat close to the stove. Lodges here sit on both sides of the border, and you may eat in Nepal and sleep in India.",
+      "body": [
+        "Kalipokhri lodges cook for trekkers on wood, gas or a sawdust stove, and the dining room becomes the warmest place in the hamlet. Order early. Dal-bhat with refills is the best value; thukpa, a Tibetan noodle soup with vegetables and egg, is the warmest. Some kitchens make momos or Tibetan bread if you ask in time.",
+        "Drinks matter at 3,186 m. Hot lemon with honey, ginger tea and plain hot water keep you hydrated. Butter tea, salty and rich, is made in some Sherpa-run kitchens; try it once. Avoid alcohol before Sandakphu; it worsens altitude headaches and cold sleep.",
+        "Watch the border in the dining room: the family may be Nepali citizens, the guests Indian, the money Indian rupees and the gas cylinder from Maneybhanjan. Pay your bill before bed and ask for a flask of hot water for the night."
+      ],
+      "good_for": ["students", "solo", "couples", "families"],
+      "faqs": [
+        {"q": "What food is available at Kalipokhri?", "a": "Dal-bhat, thukpa, noodle soup, fried rice, eggs and Tibetan bread are usual. Some lodges make momos or butter tea. Menus are short and similar from lodge to lodge. Prices are slightly higher than Tumling because supplies come further."},
+        {"q": "Can I drink alcohol at Kalipokhri?", "a": "Some lodges sell beer or local spirits, but we advise against alcohol before Sandakphu. At over 3,000 m it worsens dehydration and altitude headaches and makes cold nights harder. Celebrate after you come down."},
+        {"q": "How cold is Kalipokhri at night?", "a": "From November to February, nights drop to around −5 to 0 °C, colder after snow. In April and May nights are around 2–6 °C. Lodges give thick quilts; bring warm sleeping clothes, socks and a cap."}
+      ]
+    },
+    {
+      "slug": "kalipokhri-night-sky",
+      "title": "Stargazing over the border at Kalipokhri",
+      "kind": "viewpoint",
+      "duration": "30–45 minutes",
+      "best_time": "8–10 pm, Oct–Feb, moonless nights",
+      "cost": "Free",
+      "image_query": "Milky Way Himalaya night sky trek",
+      "wiki": "",
+      "summary": "On clear, moonless nights Kalipokhri's high, dark sky shows the Milky Way from horizon to horizon. Step outside the lodge after dinner, let your eyes adjust for ten minutes and look up.",
+      "body": [
+        "At over 3,000 m, with no towns nearby and dry autumn air, Kalipokhri has one of the darkest skies on the trek. On moonless nights from October to February the Milky Way arches overhead and you can see far more stars than in any city. Satellites drift across; shooting stars are common in mid-December during the Geminids.",
+        "Turn off your torch and give your eyes ten minutes. Use a red light if you need one. The pond reflects bright stars on still nights. Photographers will want a tripod and a wide lens; keep batteries warm in an inside pocket.",
+        "It will be cold, often below freezing. Wear everything: down jacket, cap, gloves, warm socks. Stay out for half an hour, then go back to the stove. Check the moon phase before your trek if the stars matter to you."
+      ],
+      "good_for": ["photographers", "couples", "students"],
+      "faqs": [
+        {"q": "Is Kalipokhri good for stargazing?", "a": "Yes, on clear moonless nights from October to February. The high altitude, dry air and lack of nearby towns make for very dark skies. Lodge lights are few, but step a little away from them for the best view."},
+        {"q": "When is the best time to see the Milky Way on the Sandakphu trek?", "a": "Clear nights around the new moon from October to February. The core of the Milky Way is best in spring and early autumn evenings, but the band of stars is visible year-round on dark nights. Avoid full-moon dates."},
+        {"q": "What should I bring for night photography?", "a": "A small tripod, a wide lens with a fast aperture, spare batteries kept warm, a head torch with a red mode and warm gloves that let you use buttons. Expect exposures of 15–25 seconds."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What does Kalipokhri mean?", "a": "Kalipokhri means 'black pond' in Nepali, after the small dark lake beside the trail. The pond is treated as sacred and ringed with prayer flags. The hamlet around it is one of the main overnight stops below Sandakphu."},
+    {"q": "Is Kalipokhri in India or Nepal?", "a": "It sits right on the border. Some lodges are on the Nepal side and some on the Indian side of the track. You do not pass a checkpoint, but carry ID; SSB and Nepal police may check."},
+    {"q": "How far is Kalipokhri from Sandakphu?", "a": "About 6 km, usually 2–3 hours on foot with roughly 450 m of climbing, most of it after Bikheybhanjang. By Land Rover it takes about 40 minutes to an hour."},
+    {"q": "Should I sleep at Kalipokhri or Sandakphu?", "a": "If you walked up from Tumling via Gairibas the same day, sleep at Kalipokhri. It splits the climbing, helps acclimatisation and puts you on Sandakphu early the next morning for clear views. Lodges here are also a little cheaper."},
+    {"q": "What is the altitude of Kalipokhri?", "a": "About 3,186 m. Mild altitude symptoms such as headache or poor sleep are common. Drink water, eat well and avoid alcohol. If you feel very unwell, do not continue to Sandakphu; descend."},
+    {"q": "Is there network at Kalipokhri?", "a": "Patchy, and mostly Nepali networks. Turn off data roaming to avoid charges. Some lodges have Wi-Fi when the power is on. Expect to be offline for much of the evening."},
+    {"q": "Can Land Rovers reach Kalipokhri?", "a": "Yes, the Sandakphu track passes through Kalipokhri, about 3–3.5 hours from Maneybhanjan. Some Land Rover trips stop here for a night instead of Sandakphu."},
+    {"q": "Is Kalipokhri cold in winter?", "a": "Very. December to February brings nights well below freezing and snow is common in January and February. Lodges stay open, but you need warm clothing and a good sleeping bag or extra quilts."},
+    {"q": "Are there toilets and hot water at Kalipokhri?", "a": "Toilets are basic and usually shared, often outside the main building. Hot water comes in buckets for ₹80–120. Washing is quick in the cold; most trekkers save a proper wash for Rimbik or Darjeeling."}
+  ]
+}

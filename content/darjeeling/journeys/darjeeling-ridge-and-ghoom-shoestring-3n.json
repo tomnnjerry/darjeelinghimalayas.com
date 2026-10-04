@@ -1,0 +1,66 @@
+{
+  "slug": "darjeeling-ridge-and-ghoom-shoestring-3n",
+  "title": "Darjeeling ridge and Ghoom on a shoestring",
+  "region": "darjeeling",
+  "nights": 3,
+  "themes": ["monasteries", "toy-train", "solo-backpacking", "kanchenjunga-views"],
+  "tier": "Shoestring",
+  "travel_mode": "Mixed",
+  "stops": [{"place": "darjeeling", "nights": 2}, {"place": "ghoom", "nights": 1}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 8000,
+  "cost_split": [
+    {"item": "Shared jeeps, the Tiger Hill seat and local jeeps", "inr": 1200},
+    {"item": "Budget room in Darjeeling (2 nights) and a Ghoom guesthouse (1 night)", "inr": 3600},
+    {"item": "Meals, momos and tea for 4 days", "inr": 2400},
+    {"item": "Entry fees, monastery donations and the railway museum", "inr": 800}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Active",
+  "max_altitude_m": 2567,
+  "meta_description": "3 nights in Darjeeling and Ghoom from ₹8,000: Tiger Hill dawn, a walk along the toy train line to Batasia, three monasteries and Ghoom's railway museum.",
+  "summary": "A cheap, walking trip along the Darjeeling ridge. Two nights in town for Tiger Hill, the mountaineering institute and a tea garden on foot, then a walk beside the toy train line to Ghoom, where three monasteries and the highest station on the line fill a quiet last evening. About ₹8,000 per person.",
+  "intro": [
+    "Ghoom sits on the saddle where every road in these hills meets: down to Siliguri, across to Mirik, down to the Teesta and Kalimpong, and along the ridge to Darjeeling. In 1850 Lama Sherab Gyatso founded Yiga Choeling there, a Gelug monastery whose main image is a Maitreya, the Buddha to come, about 4.6 m tall. Seventy years later the railway engineers built the Batasia Loop just below the saddle, in 1919, to lower the gradient for trains climbing back from Darjeeling. This trip walks between those two stories.",
+    "It is built for travellers with more time than money. The only jeep rides are the climb from the plains, the dawn trip to Tiger Hill and the ride home. Everything else is on foot: the Mall, Observatory Hill, Happy Valley tea garden and the 7–8 km beside the railway from Darjeeling to Ghoom. The night in Ghoom is the point: you hear the monastery horns at dawn and leave before the day trippers arrive."
+  ],
+  "highlights": [
+    "Kanchenjunga at dawn from Tiger Hill, 2,567 m",
+    "A walk beside the toy train track to the Batasia Loop and Ghoom",
+    "Yiga Choeling's Maitreya statue and the morning prayers",
+    "Ghoom station at 2,258 m and its small railway museum",
+    "Happy Valley tea garden on foot from town"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Darjeeling by shared jeep", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 70 km · 3–3.5 h by shared jeep", "text": "Take a shared jeep from outside NJP station or the Siliguri stands for ₹250–350 a seat. The road and the railway climb together through Kurseong and over the saddle at Ghoom, the place you will sleep in two nights from now. In Darjeeling, find a budget room near Chowrasta or down towards Gandhi Road and Clubside, and walk the Mall loop at dusk. Book a shared Tiger Hill seat for the morning with your hotel or at the jeep stand before you sleep.", "meals": "On your own", "spend": "₹250–350 jeep seat + ₹200 dinner"},
+    {"day": 2, "title": "Tiger Hill and Happy Valley", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 22 km return · shared jeep seat at about 4 am", "text": "Leave at about 4 am for Tiger Hill and watch Kanchenjunga, 8,586 m and the third-highest mountain on Earth, take the first light. Back in town by breakfast, walk down Lebong Cart Road to Happy Valley Tea Estate, one of the older gardens, a short walk from town. The story of Darjeeling tea starts nearby: Dr Archibald Campbell planted China seeds in his garden at Beechwood around 1841, and commercial gardens followed from 1852. In the afternoon visit the mountaineering institute and the zoo, which share a ticket.", "meals": "On your own", "spend": "₹250–400 Tiger Hill seat + ₹100–150 HMI and zoo + ₹350 food"},
+    {"day": 3, "title": "Walk the railway to Ghoom", "place": "ghoom", "overnight": "Ghoom", "drive": "≈ 7–8 km on foot beside the railway, or ₹30–50 by shared jeep", "text": "Climb Observatory Hill in the morning, where the Mahakal shrine is shared by Hindu and Buddhist priests, then walk out of town beside the toy train track with your day pack; send heavy bags up by shared jeep. At the Batasia Loop the Gorkha War Memorial stands in the middle of the spiral. Carry on to Ghoom, check in to a family guesthouse near the station or the monastery, and spend the afternoon at Yiga Choeling, Samten Choling and the Sakya monastery. Watch the last train of the day cross the road.", "meals": "Dinner", "spend": "₹20–50 Batasia entry + donations + ₹1,400 guesthouse share"},
+    {"day": 4, "title": "Morning prayers and the jeep down", "place": "ghoom", "overnight": "", "drive": "≈ 62 km · 3 h by shared jeep", "text": "Be at Yiga Choeling early, when the monks chant and the butter lamps are lit; sit at the back, walk clockwise and ask before photographs. When it opens, visit the small museum at Ghoom station, the highest on the line at 2,258 m. Then flag a Siliguri-bound jeep with a spare seat at the Ghoom stand, or ride a local jeep to Kurseong and change there, where jeeps to Siliguri are frequent. Leave by noon if you have an evening train or flight.", "meals": "Breakfast", "spend": "₹50–100 museum and donations + ₹250–350 jeep seat"}
+  ],
+  "stays": ["darjeeling-dekeling-hotel", "darjeeling-tenzing-norgay-youth-hostel"],
+  "includes": ["Shared jeep seats on all main legs", "Shared Tiger Hill seat", "Budget room share in Darjeeling for 2 nights", "Ghoom guesthouse share with dinner and breakfast", "Entry fees and small monastery donations"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Toy train joyride tickets", "Reserved cars", "Porters and bag transfers beyond a jeep seat", "Shopping"],
+  "save_money": [
+    "Walk the 7–8 km from Darjeeling to Ghoom instead of booking a joyride: you see the same loops and the train passes you several times a day.",
+    "Ask in Ghoom for a room in a family guesthouse rather than a Darjeeling hotel for the last night; rates are lower and you are 7 km closer to the plains.",
+    "Drink tea at the small stalls by Ghoom station and Chowk Bazaar, where a cup costs a fraction of a tea room on the Mall."
+  ],
+  "good_to_know": [
+    "The railway walk follows the road for much of the way: keep to the edge, watch for jeeps and step well clear when a train comes.",
+    "Tiger Hill vehicle passes and limits change; check current status before you travel.",
+    "Monasteries are working places: dress modestly, keep your voice low and do not use flash in prayer halls.",
+    "Ghoom is often colder and mistier than Darjeeling because it sits higher, at about 2,258 m."
+  ],
+  "faqs": [
+    {"q": "Is it worth staying a night in Ghoom?", "a": "For a budget traveller, yes. Ghoom is a working market town, not a resort, but sleeping there lets you see Yiga Choeling at morning prayers before the tour jeeps arrive, and it puts you on the main road down to Siliguri. Rooms are simple and cheaper than in Darjeeling. Bring warm clothes: it is often colder and mistier than town."},
+    {"q": "How long is the walk from Darjeeling to Ghoom?", "a": "About 7–8 km, mostly a gentle climb from about 2,050 m to 2,258 m, which takes most walkers two and a half to three hours with a stop at the Batasia Loop. The railway and the road run side by side much of the way, so watch for traffic. If you tire, flag a shared jeep heading to Ghoom for ₹30–50."},
+    {"q": "How much does this trip cost?", "a": "About ₹8,000 per person, twin sharing, from NJP back to NJP, indicative for 2025–26. That includes shared jeep seats, a shared Tiger Hill seat, two nights in a budget room in Darjeeling, a Ghoom guesthouse with dinner and breakfast, simple meals and entry fees. Solo travellers can stay close to this by using the youth hostel dorm in Darjeeling."},
+    {"q": "Who founded Ghoom monastery?", "a": "Yiga Choeling, usually called Ghoom Monastery, was founded in 1850 by Lama Sherab Gyatso and belongs to the Gelug school of Tibetan Buddhism. Its best-known image is a statue of Maitreya, the future Buddha, about 4.6 m (15 ft) tall. Ghoom also has Samten Choling and a Sakya monastery, all within a short walk of each other."},
+    {"q": "Can I ride the toy train on this trip?", "a": "You can add a diesel joyride for roughly ₹1,000–1,300 or a steam joyride for roughly ₹1,500–1,800, booked on IRCTC. We leave it out of the price because the walk covers the same ground between Darjeeling, Batasia and Ghoom. Joyride services and timings change with the season and track work: check current status before you travel."},
+    {"q": "What is the Batasia Loop?", "a": "It is a spiral of track built in 1919 between Ghoom and Darjeeling, where the line circles over itself to lower the gradient. A garden in the middle holds the Gorkha War Memorial, honouring Gorkha soldiers of the Indian Army who died in service after independence. There is a small entry fee, about ₹20–50, and the view north takes in Kanchenjunga on clear days."},
+    {"q": "When should I do this trip?", "a": "October to early December brings the clearest mountain views and dry paths for the railway walk. March to May is warmer and good in the mornings. January and February are cold but often clear. Avoid June to September if you want views or dry walking: the ridge is in cloud much of the day and the paths are slippery."},
+    {"q": "Is this trip suitable for solo travellers?", "a": "Yes. Shared jeeps, the youth hostel dorm and the Tiger Hill seat all suit one person, and Darjeeling and Ghoom are used to backpackers. Walk the railway route in daylight, tell your guesthouse your plans and keep your phone charged. Women travelling alone generally report feeling safe here; use the usual care after dark."},
+    {"q": "Can I get a jeep down to Siliguri from Ghoom?", "a": "Usually, but it takes patience. Jeeps from Darjeeling to Siliguri pass through Ghoom and sometimes have a spare seat, and the stand can tell you which are due. Otherwise take a local jeep to Kurseong and change there, as Kurseong to Siliguri jeeps are frequent. Start by late morning so you are not stuck in the afternoon lull."}
+  ]
+}

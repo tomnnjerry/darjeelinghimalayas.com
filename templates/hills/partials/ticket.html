@@ -1,0 +1,10 @@
+{% load hills %}<a class="ticket rv" href="{{ j.url }}" data-item data-land="{{ j.region }}" data-region="{{ j.region }}" data-tier="{{ j.tier }}" data-themes="{{ j.themes|join:' ' }}" data-length="{% if j.nights <= 3 %}short{% elif j.nights <= 6 %}mid{% else %}long{% endif %}">
+  <span class="ticket__img">{% with img=j|first_img %}{% if img %}<img src="{{ img|src:500 }}" srcset="{{ img|srcset }}" sizes="(max-width: 700px) 100vw, 30vw" alt="" loading="lazy">{% endif %}{% endwith %}<span class="lbadge lbadge--sm">{% icon j.region %}</span><span class="ticket__tier">{{ j.tier }}</span></span>
+  <span class="ticket__card">
+    <span class="ticket__punch" aria-hidden="true"></span>
+    <span class="ticket__line"><span>{{ j.region_obj.short }}</span><span>{{ j.nights }} nights · {{ j.travel_mode }}</span></span>
+    <span class="ticket__title" style="display:block">{{ j.title }}</span>
+    <span class="ticket__route">{% icon "route" %}{% for s in j.stop_objs|slice:":4" %}{{ s.obj.name }}{% if not forloop.last %} · {% endif %}{% endfor %}</span>
+    <span class="ticket__fare"><b>{{ j.price_from_inr|inr }}</b><span>per person<br>about {{ j.per_day|inr }} a day</span></span>
+  </span>
+</a>

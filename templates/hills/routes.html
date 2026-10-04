@@ -1,0 +1,12 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Routes and road times in the Darjeeling and Sikkim hills · Darjeeling Himalayas{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:20px"><div class="phead__body" style="margin-top:0">
+  <p class="eyebrow">Routes</p><h1 class="h-1">Getting from one hill to the next</h1>
+  <p class="lede">Shared jeep, reserved car, toy train or on foot: distances, honest times and indicative fares for each road.</p>
+</div></div></header>
+<section class="sec--tight"><div class="wrap">
+  {% for r in regions %}{% if r.routes %}<div data-land="{{ r.slug }}" style="margin-bottom:40px"><h2 class="h-2" style="display:flex;align-items:center;gap:12px;margin-bottom:18px"><span class="lbadge lbadge--sm">{% icon r.slug %}</span>{{ r.name }}</h2>
+  <div class="grid grid--3">{% for rt in r.routes %}<a class="gcard" href="{{ rt.url }}"><span class="gcard__cat">{% icon "route" %}{{ rt.distance_km }} km</span><b>{{ rt.from_obj.name }} to {{ rt.to_obj.name }}</b><p>{{ rt.summary|truncatewords:20 }}</p></a>{% endfor %}</div></div>{% endif %}{% endfor %}
+</div></section>
+{% endblock %}

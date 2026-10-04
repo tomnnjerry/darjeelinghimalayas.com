@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "gangtok-mintokling-guest-house",
+    "name": "Mintokling Guest House",
+    "place": "gangtok",
+    "kind": "guesthouse",
+    "price_band": "₹2,500–4,500 a room (indicative)",
+    "wiki": "",
+    "image_query": "Mintokling Guest House Gangtok",
+    "summary": "A long-running, family-run guesthouse in central Gangtok, built around a garden and finished in Sikkimese style. Quieter than the hotels on MG Marg, a short walk from it, and a favourite with travellers who want a calm base rather than a view tower.",
+    "body": [
+      "Mintokling has been taking guests for many years and still feels like a family compound rather than a hotel. Rooms sit around a garden with painted wood, Buddhist motifs and simple, warm furnishing. It is the kind of place where the staff will tell you which shared jeep stand to use and how early to leave for Tsomgo. We like it because it keeps you inside walking range of MG Marg without the evening noise of the mall.",
+      "Expect clean, plain rooms rather than hotel extras. Ask about room heaters in December and January, when Gangtok nights drop to about 4–5 °C, and about hot water timings. Rates move with the season: Durga Puja, Diwali and the April–May school holidays are the busiest weeks, when booking a few weeks ahead is wise. Check current rates directly before you travel."
+    ],
+    "why": ["Garden setting, a few minutes on foot from MG Marg", "Family-run, with Sikkimese decor and a quiet night", "Good value for couples and older travellers who want calm"],
+    "best_for": ["couples", "seniors", "first-timers"],
+    "website": "",
+    "faqs": [
+      {"q": "How far is Mintokling Guest House from MG Marg?", "a": "It is in central Gangtok, within walking distance of MG Marg; most guests walk to the mall for dinner and take a taxi only for the steep climb back with bags. Taxis inside town charge fixed short-hop fares of about ₹100–300. Confirm the exact walking route with the guesthouse when you book, since Gangtok's lanes are steep and stepped."},
+      {"q": "Can Mintokling arrange Tsomgo and Nathu La permits?", "a": "Most Gangtok guesthouses work with registered local tour operators who apply for Tsomgo and Nathu La permits; the guesthouse itself does not issue them. Give your photo ID and two passport photos a day ahead. Nathu La is for Indian nationals only and is closed to tourists on some weekdays. Check current status before you travel."},
+      {"q": "Is Mintokling warm enough in winter?", "a": "Gangtok winters are cool rather than freezing, with nights around 4–5 °C in December and January. Older buildings like this one can feel cold indoors, so ask for a room heater or extra blankets when you book, and pack a warm layer for evenings. Hot water timings vary in small guesthouses, so check them on arrival."}
+    ]
+  },
+  {
+    "slug": "gangtok-netuk-house",
+    "name": "Netuk House",
+    "place": "gangtok",
+    "kind": "heritage hotel",
+    "price_band": "₹4,500–7,500 a room with breakfast (indicative)",
+    "wiki": "",
+    "image_query": "Netuk House Gangtok Sikkim",
+    "summary": "A Sikkimese family home turned small guesthouse, decorated in traditional Bhutia style with painted woodwork and an altar room. It is the closest Gangtok comes to a heritage stay at a mid-range price, and known for home-style Sikkimese meals.",
+    "body": [
+      "Netuk House is a family residence that opened its rooms to guests, and that is still its character: a handful of rooms, carved and painted wood, thangkas and a family chapel. For travellers who want to understand how a Sikkimese Buddhist household looks and eats, it is a gentle introduction without leaving the capital. Dinner here, when offered, tends to be Sikkimese home cooking rather than a hotel menu.",
+      "It sits in central Gangtok, within reach of MG Marg on foot. It is a Comfort-tier choice for us: more than a budget room, far less than a big hotel. With only a few rooms, it fills early around Durga Puja, Diwali and the April–May holidays. Ask about meal plans, heating and the stairs to your room when you book, and check current rates before you travel."
+    ],
+    "why": ["Traditional Sikkimese family house with a small number of rooms", "Home-style Sikkimese food when meals are offered", "Central, so the mall and the monasteries are close"],
+    "best_for": ["couples", "seniors", "photographers"],
+    "website": "",
+    "faqs": [
+      {"q": "Is Netuk House a hotel or a homestay?", "a": "It is a family home run as a small guesthouse, so it sits between the two: private rooms with hotel-style service, but a family atmosphere and traditional Sikkimese decor. With only a few rooms, expect a quiet, personal stay rather than the facilities of a large hotel, and book early for October, Puja week and the April–May holidays."},
+      {"q": "Is Netuk House good for a honeymoon on a budget?", "a": "Yes, for couples who prefer character to a lobby. It costs more than a budget hotel, roughly in the ₹4,500–7,500 a room range with breakfast (indicative), but it gives you a quiet, traditional setting in central Gangtok. Pair it with cheaper homestay nights in Aritar or Zuluk to keep the overall trip affordable."},
+      {"q": "Can we walk to MG Marg from Netuk House?", "a": "Yes, it is in central Gangtok and MG Marg is within walking distance, though Gangtok's roads are steep. Many guests walk down for dinner and take a fixed-fare taxi back, about ₹100–300 for a short hop. Confirm the route and the nearest taxi point with your hosts on arrival."}
+    ]
+  },
+  {
+    "slug": "gangtok-hotel-tibet",
+    "name": "Hotel Tibet",
+    "place": "gangtok",
+    "kind": "budget hotel",
+    "price_band": "₹3,000–5,500 a room (indicative)",
+    "wiki": "",
+    "image_query": "Hotel Tibet Gangtok",
+    "summary": "An old Gangtok hotel decorated in Tibetan style, close to MG Marg on Paljor Stadium Road. Rooms are plain but warm in feel, some face the valley, and the location makes it easy to do the town on foot.",
+    "body": [
+      "Hotel Tibet has been part of the Gangtok streetscape for decades, and its Tibetan decor, with painted pillars and thangkas, sets it apart from the concrete blocks around it. It is a short walk from MG Marg, which means you can eat out, shop at Lal Bazaar and catch a shared taxi without hiring a car. Rooms vary in size and view; valley-facing rooms cost more.",
+      "We place it at the upper end of Value: not a backpacker lodge, not a resort. It suits families and couples who want reliability and a central address. As with any older hotel, look at the room first if you can, ask for a heater in winter and check whether breakfast is included. Rates rise sharply in Puja and Diwali weeks; check current status before you travel."
+    ],
+    "why": ["Walkable to MG Marg, Lal Bazaar and taxi stands", "Tibetan-style interiors in an old Gangtok address", "Valley-facing rooms for a little extra"],
+    "best_for": ["families", "couples", "first-timers"],
+    "website": "",
+    "faqs": [
+      {"q": "Where is Hotel Tibet in Gangtok?", "a": "It is on Paljor Stadium Road in central Gangtok, a short walk from MG Marg. That puts the mall, Lal Bazaar and the town's shared taxi points within reach on foot, which saves money on short taxi hops. Ask the front desk for the easiest walking route, because Gangtok's roads are steep."},
+      {"q": "Do rooms at Hotel Tibet have a view?", "a": "Some rooms face the valley and cost more; others face the road or the inside of the building. Kanchenjunga views from central Gangtok depend on the weather and the angle of the room, so do not assume a mountain view. If the view matters, ask for a valley-facing room and check what it faces when you book."},
+      {"q": "Is Hotel Tibet suitable for families?", "a": "Yes. Its central location means children walk less and you avoid taxis for meals and shopping, and the hotel has a range of room sizes. Ask about extra beds and heaters when you book, especially from December to February, and book early for Durga Puja, Diwali and summer holidays, when Gangtok fills."}
+    ]
+  },
+  {
+    "slug": "gangtok-hotel-sonam-delek",
+    "name": "Hotel Sonam Delek",
+    "place": "gangtok",
+    "kind": "budget hotel",
+    "price_band": "₹2,500–5,000 a room (indicative)",
+    "wiki": "",
+    "image_query": "Hotel Sonam Delek Tibet Road Gangtok",
+    "summary": "A long-standing family-run hotel on Tibet Road, just above MG Marg, with a mix of plain budget rooms and better valley-facing ones. A practical, central base for travellers who want to walk everywhere and spend on trips, not rooms.",
+    "body": [
+      "Tibet Road runs just above MG Marg, and Sonam Delek has been one of its familiar hotels for many years. The appeal is simple: you step out to the mall in minutes, the Lal Bazaar taxi stands are close, and the cheaper rooms leave money for the Tsomgo or Silk Route trip. Better rooms face the valley and, on clear mornings, the snow peaks beyond.",
+      "Rooms differ a lot in size and outlook, so ask what you are getting. In winter, request a heater; in the monsoon, expect damp corners, as in most Gangtok buildings. Breakfast and meal plans vary by season. Check current rates and what is included before you travel, especially for Durga Puja, Diwali and the April–May holidays."
+    ],
+    "why": ["Tibet Road address, a few minutes from MG Marg", "Range of rooms from basic to valley-facing", "Leaves budget for permit trips and the Silk Route"],
+    "best_for": ["students", "solo", "families"],
+    "website": "",
+    "faqs": [
+      {"q": "Is Hotel Sonam Delek close to MG Marg?", "a": "Yes. It is on Tibet Road, just above MG Marg, so the pedestrian mall is a few minutes away on foot. That makes it easy to eat out, change money and book Tsomgo or Nathu La tours with operators near the mall without paying for taxis."},
+      {"q": "What kind of rooms does Hotel Sonam Delek have?", "a": "It has a mix: smaller, cheaper rooms facing inward or the road, and larger valley-facing rooms that cost more. Price bands are indicative, roughly ₹2,500–5,000 a room depending on season and room. Ask exactly which room type you are booking, and whether breakfast is included, before you pay."},
+      {"q": "Can solo travellers stay at Sonam Delek on a budget?", "a": "Yes. A single traveller can take one of the smaller rooms and save by eating at MG Marg and Lal Bazaar canteens for ₹150–300 a meal. For Tsomgo or Nathu La, join a shared tour sold per seat by Gangtok operators rather than hiring a whole car, and check current status before you travel."}
+    ]
+  },
+  {
+    "slug": "rumtek-bamboo-retreat",
+    "name": "Bamboo Retreat",
+    "place": "rumtek",
+    "kind": "guesthouse",
+    "price_band": "₹5,000–9,000 a room with meals (indicative)",
+    "wiki": "",
+    "image_query": "Bamboo Retreat Rumtek Sikkim",
+    "summary": "A small eco-minded retreat on the slope below Rumtek, among farms and forest, with organic food and quiet rooms. It is our Comfort choice for a night near the monastery, away from Gangtok's traffic, about an hour from town.",
+    "body": [
+      "Bamboo Retreat sits on a hillside in the Rumtek area, below the monastery road, among terraced fields and bamboo. It is built for slowing down: walks to Rumtek and the old monastery, meals made from local and organic produce, and nights with nothing louder than insects and prayer flags. We suggest it to couples and older travellers who want one quiet night after the rush of Gangtok sightseeing.",
+      "It costs more than a Gangtok budget hotel, so we use it as a single splurge night inside an otherwise affordable trip. Rumtek is about 24 km from Gangtok, roughly an hour by car; shared taxis run to Rumtek village from town. Ask the retreat about pick-up, meal plans and walking paths to the monastery, and check current rates before you travel."
+    ],
+    "why": ["Quiet hillside setting below Rumtek monastery", "Home-grown and local organic food", "Walkable to Rumtek and the old monastery"],
+    "best_for": ["couples", "seniors", "solo"],
+    "website": "",
+    "faqs": [
+      {"q": "How far is Bamboo Retreat from Gangtok?", "a": "It is in the Rumtek area, about 24 km from Gangtok, roughly an hour by road. A reserved car from Gangtok costs about ₹1,500–2,500, and shared taxis run from Gangtok to Rumtek village for around ₹80–150 a seat. Ask the retreat for exact directions or a pick-up, as it lies off the main monastery road."},
+      {"q": "Can we walk from Bamboo Retreat to Rumtek Monastery?", "a": "Yes, the monastery is within walking reach on village paths and the road, though it is uphill. Allow time for the security check at the monastery gate and carry photo ID. Early morning, around prayer time, is the best time to go, when the courtyard is quiet and the monks are at assembly."},
+      {"q": "Is Bamboo Retreat good value for a budget trip?", "a": "It is a Comfort-tier stay, roughly ₹5,000–9,000 a room with meals (indicative), so we use it as one splurge night. Balance it with budget nights in Gangtok and homestays in Aritar or Zuluk at ₹1,200–2,200 per person with meals. Check current rates directly before you travel."}
+    ]
+  }
+]

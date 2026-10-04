@@ -1,0 +1,231 @@
+{
+ "slug": "tea-valleys-grand-loop-7n",
+ "title": "Kurseong, Makaibari, Sittong and Mirik",
+ "region": "kurseong-mirik",
+ "nights": 7,
+ "themes": [
+  "tea-country",
+  "homestays",
+  "toy-train",
+  "kanchenjunga-views",
+  "family-trips"
+ ],
+ "tier": "Comfort",
+ "travel_mode": "Reserved car",
+ "stops": [
+  {
+   "place": "kurseong",
+   "nights": 2
+  },
+  {
+   "place": "makaibari",
+   "nights": 1
+  },
+  {
+   "place": "sittong",
+   "nights": 2
+  },
+  {
+   "place": "mirik",
+   "nights": 2
+  }
+ ],
+ "start": "NJP railway station or Bagdogra airport",
+ "end": "NJP railway station or Bagdogra airport",
+ "price_from_inr": 38000,
+ "cost_split": [
+  {
+   "item": "Private car and driver for 8 days",
+   "inr": 12000
+  },
+  {
+   "item": "Rooms, 7 nights, with breakfast and dinner on most nights",
+   "inr": 17500
+  },
+  {
+   "item": "Lunches, cafés and snacks",
+   "inr": 4000
+  },
+  {
+   "item": "Guides, tastings, entries and donations",
+   "inr": 4500
+  }
+ ],
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  2,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  2
+ ],
+ "pace": "Balanced",
+ "max_altitude_m": 2200,
+ "meta_description": "7 nights in the tea valleys from ₹38,000: Kurseong heritage, a Makaibari homestay, Sittong oranges, Ahaldara sunrise and Mirik lake, by private car.",
+ "summary": "A full week through the tea valleys by private car. Two nights in Kurseong including a heritage night, one with a Makaibari tea family, two in the orange village of Sittong with an Ahaldara sunrise and Latpanchar hornbills, and two by the lake in Mirik. From about ₹38,000 per person.",
+ "intro": [
+  "This is our complete tour of the land, done comfortably. It mixes better rooms in the towns with two genuine village stays, so you see both the history of Kurseong and Mirik and the everyday life of the tea and orange villages.",
+  "A private car and driver for the whole week takes the strain out of the narrow hill roads between Kurseong, Sittong and Mirik, and lets you stop wherever the view or the light is good. The route climbs gently and never goes above about 2,200 m, so it suits families and older travellers."
+ ],
+ "highlights": [
+  "Netaji's house and Eagle's Crag",
+  "A night with a Makaibari tea family",
+  "Sittong's orange orchards",
+  "Ahaldara sunrise and Latpanchar hornbills",
+  "Mirik lake and Bokar Monastery"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "NJP to Kurseong",
+   "place": "kurseong",
+   "overnight": "Kurseong",
+   "drive": "≈ 45 km · 1.5–2 h by private car",
+   "text": "Drive from NJP or Bagdogra to Kurseong via the Pankhabari road through tea gardens, and check into Cochrane Place or a comfortable hotel. In the afternoon, walk the bazaar where the toy train runs down the street, and climb Eagle's Crag before sunset.",
+   "meals": "Dinner",
+   "spend": "₹400 lunch"
+  },
+  {
+   "day": 2,
+   "title": "Giddapahar, Dow Hill and Chimney",
+   "place": "kurseong",
+   "overnight": "Kurseong",
+   "drive": "Private car, ≈ 30 km loop",
+   "text": "Visit Netaji's house at Giddapahar in the morning. Then drive up through the Dow Hill forest past the old schools to Chimney, where the brick chimney of an 1839 dak bungalow still stands. Have lunch at a Chimney homestay and come back via the ghost-story road between the schools.",
+   "meals": "Breakfast, Dinner",
+   "spend": "₹400 lunch + guide share"
+  },
+  {
+   "day": 3,
+   "title": "Down to a Makaibari tea family",
+   "place": "makaibari",
+   "overnight": "Makaibari",
+   "drive": "≈ 5 km",
+   "text": "A short drive takes you down to Makaibari. Visit the factory if it is working, taste the flushes, then check into a village homestay with a tea worker's family. Walk the village and garden paths in the afternoon, and eat a home-cooked dinner.",
+   "meals": "Breakfast, Dinner",
+   "spend": "₹500 tasting + ₹200 lunch"
+  },
+  {
+   "day": 4,
+   "title": "Plucking dawn, then Sittong",
+   "place": "sittong",
+   "overnight": "Sittong",
+   "drive": "≈ 30 km · 1.5–2 h via Kurseong and Bagora",
+   "text": "Walk out with your host to the plucking sections at dawn. After breakfast, drive back up through Kurseong and over the Bagora ridge into the Riyang valley to Sittong. Check into a homestay and walk the orange orchards in the afternoon light.",
+   "meals": "Breakfast, Dinner",
+   "spend": "₹200 lunch"
+  },
+  {
+   "day": 5,
+   "title": "Ahaldara sunrise and Latpanchar",
+   "place": "sittong",
+   "overnight": "Sittong",
+   "drive": "≈ 30–45 min each way",
+   "text": "Drive before dawn to Ahaldara and watch sunrise over the Teesta valley and the Kalimpong hills, with Kanchenjunga on clear mornings. Bird at Latpanchar with a local guide on the way back. After lunch, rest, then visit Sittong's old church and the village lanes.",
+   "meals": "Breakfast, Dinner",
+   "spend": "₹700 guide share + ₹200 lunch"
+  },
+  {
+   "day": 6,
+   "title": "Sittong to Mirik",
+   "place": "mirik",
+   "overnight": "Mirik",
+   "drive": "≈ 4 h by private car",
+   "text": "This is the longest drive of the week: down from Sittong towards the plains and up the Dudhia road to Mirik, with stops at Tingling and Sourenee for the tea viewpoints. Check into a lake-view room and walk the footbridge at dusk.",
+   "meals": "Breakfast, Dinner",
+   "spend": "₹400 lunch"
+  },
+  {
+   "day": 7,
+   "title": "Mirik lake, Bokar and Gopaldhara",
+   "place": "mirik",
+   "overnight": "Mirik",
+   "drive": "Private car, ≈ 30 km",
+   "text": "Walk the lake at dawn, then go up to Bokar Monastery for prayers and on to Rameetay Dara. After lunch, drive up to the high tea slopes of Gopaldhara for the afternoon light over the valley, and taste a Mirik-valley first flush back in town.",
+   "meals": "Breakfast, Dinner",
+   "spend": "₹400 lunch + ₹400 tasting + donation"
+  },
+  {
+   "day": 8,
+   "title": "Mirik to NJP",
+   "place": "mirik",
+   "overnight": "",
+   "drive": "≈ 52 km · 2–2.5 h by private car",
+   "text": "After breakfast, drive down via Dudhia to NJP or Bagdogra, arriving by early afternoon. Keep a buffer for traffic around Siliguri.",
+   "meals": "Breakfast",
+   "spend": "₹400 lunch"
+  }
+ ],
+ "stays": [
+  "kurseong-cochrane-place",
+  "makaibari-village-homestays",
+  "mirik-gta-swiss-cottages"
+ ],
+ "includes": [
+  "Private car with driver for transfers and sightseeing",
+  "Better rooms on twin sharing, including one heritage night where listed",
+  "Breakfast and dinner on most nights",
+  "Local guides and tastings where listed"
+ ],
+ "excludes": [
+  "Flights and trains to NJP or Bagdogra",
+  "Lunches unless stated",
+  "Toy train tickets unless stated",
+  "Tips, porters and personal shopping",
+  "Anything not listed under includes"
+ ],
+ "save_money": [
+  "Swap the Kurseong heritage hotel for the WBTDC Tourist Lodge to save ₹2,000–3,000 per person.",
+  "Keep the car but walk wherever you can in Kurseong and Mirik.",
+  "Buy oranges and tea directly from growers and estates."
+ ],
+ "good_to_know": [
+  "Sittong to Mirik is a long drive; leave early.",
+  "Village homestays are simple even on a Comfort trip; that is part of the experience.",
+  "Teesta valley roads near Latpanchar have had closures since October 2023; check current status before you travel."
+ ],
+ "faqs": [
+  {
+   "q": "Is the price per person?",
+   "a": "Yes. ₹38,000 is per person on twin sharing for Indian nationals, from NJP or Bagdogra and back, as an indicative 2025–26 figure. Solo travellers pay more for rooms and cars; groups of four sharing a car pay less. We round to the nearest ₹500."
+  },
+  {
+   "q": "Can we start from Bagdogra airport instead of NJP?",
+   "a": "Yes. Bagdogra is about 30 minutes from Siliguri and a little further from NJP. Shared autos and taxis link the airport to the Siliguri jeep stands. With a reserved car, the fare from Bagdogra is about the same as from NJP."
+  },
+  {
+   "q": "Can we change the number of nights?",
+   "a": "Yes. Add a night where you want more time, usually in the village stops, or drop one on a tight schedule. Keep at least two nights in any place where you want a clear dawn view, since weather can spoil one morning."
+  },
+  {
+   "q": "Why mix comfortable hotels and village homestays?",
+   "a": "Because the villages are the heart of this land, and there are no comfortable hotels in Makaibari or Sittong. The homestays are clean and warm, with home-cooked food. The towns give you better rooms on either side."
+  },
+  {
+   "q": "Is seven nights too long for this area?",
+   "a": "Not if you like a slower pace. Each stop gets enough time for its best morning. If you are short of time, drop Makaibari and one Sittong night to make it five nights."
+  },
+  {
+   "q": "Can children do this trip?",
+   "a": "Yes. Drives are mostly under two hours except Sittong to Mirik, there is plenty of outdoor space, and the toy train, orchards and lake please children. Keep the Ahaldara dawn optional for small ones."
+  },
+  {
+   "q": "Will we see Kanchenjunga?",
+   "a": "The best chance is the Ahaldara sunrise on day 5, most likely between October and March. Eagle's Crag and Rameetay Dara sometimes show snow peaks on clear winter mornings too. Weather decides."
+  },
+  {
+   "q": "How do you choose the driver?",
+   "a": "We suggest a Kurseong or Siliguri driver who knows the village roads to Sittong and Latpanchar, which are narrow. Agree the full itinerary, daily hours and overnight charges in advance, and confirm the driver's stay arrangements."
+  },
+  {
+   "q": "When is the best season?",
+   "a": "November to January for oranges in Sittong and clear mornings; March to May for tea and birds. Avoid the monsoon, when village roads become slippery and the views disappear."
+  }
+ ]
+}

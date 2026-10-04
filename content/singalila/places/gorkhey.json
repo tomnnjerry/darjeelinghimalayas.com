@@ -1,0 +1,171 @@
+{
+  "slug": "gorkhey",
+  "name": "Gorkhey",
+  "name_local": "",
+  "region": "singalila",
+  "kind": "forest village",
+  "wiki": "",
+  "image_query": "Gorkhey village Singalila river",
+  "lat": 27.2,
+  "lng": 88.06,
+  "altitude_m": 2390,
+  "tagline": "A river meadow village after the long drop from Phalut",
+  "meta_description": "Gorkhey on the Sandakphu–Phalut trek: a river village near the Sikkim border, the steep forest descent from Phalut, family lodges, costs and routes on.",
+  "summary": "Gorkhey is a small farming village at about 2,390 m beside a cold mountain stream near the Sikkim border, reached by a steep 15 km descent through forest from Phalut. After days on the bare ridge it feels green and sheltered, with family lodges, fields and a riverside meadow. It is the first night off the ridge.",
+  "local_story": {
+    "title": "Off the ridge and into the valley",
+    "paras": [
+      "For days the Singalila trail keeps to the crest, where the ground is grass and rock and the wind never stops. Below Phalut it finally drops, losing over 1,200 m through fir, rhododendron, oak and bamboo to the floor of the Gorkhey valley. Gorkhey sits where that forest opens out beside the Gorkhey Khola, one of the cold headwater streams of the Rammam river system, which rises in the Singalila range and flows east to join the Rangeet near Jorethang.",
+      "The village is a handful of farmhouses with fields of potato, maize and vegetables, cattle on the meadows and a few lodges for trekkers. It lies inside the protected Singalila landscape, close to the Sikkim border, and like the other villages on the descent it has no motor road. Everything comes in on foot or on mule, which is why life here keeps an older rhythm than the jeep towns below."
+    ]
+  },
+  "did_you_know": [
+    "The descent from Phalut to Gorkhey drops roughly 1,200 m over about 15 km, the biggest single height loss on the Singalila trek.",
+    "The Rammam river, into whose system Gorkhey's stream drains, rises in the Singalila range and joins the Rangeet near Jorethang in Sikkim.",
+    "Gorkhey has no motor road; supplies arrive on foot or by mule from Rimbik and Srikhola."
+  ],
+  "intro": [
+    "Arriving at Gorkhey after the long day down from Phalut is one of the sweetest moments of the trek. Your knees are aching, the forest has been steep and endless, and then you hear the river and walk out into a green valley with smoke rising from farmhouse roofs. The air is noticeably warmer than on the ridge.",
+    "Spend the evening by the river, wash properly for the first time in days and eat a farmhouse dinner. If you have time, take a rest day: walk the meadows, watch village life and give your legs a break before the last two days to Rammam or Samanden, Srikhola and Rimbik."
+  ],
+  "facts": [
+    ["Best months", "Oct – Nov · Mar – May"],
+    ["Nights we suggest", "1–2"],
+    ["From Phalut", "≈ 15 km · 5–6 h downhill"],
+    ["Altitude", "≈ 2,390 m"],
+    ["Known for", "River meadow, farm lodges, quiet"],
+    ["Network", "Weak or none"]
+  ],
+  "best_months": [1, 0, 1, 2, 2, 0, 0, 0, 0, 2, 2, 1],
+  "nights": "1–2",
+  "costs": [
+    ["Lodge bed or twin room", "₹500–1,200 pp"],
+    ["Dinner and breakfast", "₹400–700 pp"],
+    ["Tea", "₹30–50"],
+    ["Hot water bucket", "₹50–100"],
+    ["Guide share for a pair", "≈ ₹750–1,000 pp a day"]
+  ],
+  "highlights": [
+    {"title": "The descent from Phalut", "text": "The trail drops from the open ridge into fir and rhododendron, then oak and bamboo, losing over 1,200 m. It is hard on knees but beautiful, especially in April when the rhododendrons flower. Use poles and take it slowly."},
+    {"title": "Riverside meadow", "text": "Gorkhey's fields and meadows spread along the stream, with cattle grazing and prayer flags strung across the water. Sit on the bank in the afternoon sun and let the trek slow down."},
+    {"title": "Farm lodges", "text": "The village's few lodges are family homes with extra rooms. Dinner is whatever the farm has: rice, dal, potatoes, greens, sometimes squash or local beans, cooked on a wood fire."},
+    {"title": "A rest day off the ridge", "text": "If your schedule allows, a second night here is restful. Walk up the valley, watch the farming day, and let tired legs recover before the last stretch to Srikhola and Rimbik."},
+    {"title": "Birds of the river valley", "text": "The stream and forest edge bring different birds from the ridge: forktails and redstarts on the rocks, wagtails, and flycatchers in the trees. Early morning by the water is best."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot from Phalut", "text": "Descend about 15 km through forest: 5–6 hours, dropping around 1,200 m. Steep and long; poles help. A licensed guide is required."},
+    {"mode": "On foot from Rimbik or Srikhola", "text": "Walk up via Srikhola and Rammam, or Rammam and Samanden: a full day or more, climbing through villages and forest. Used by trekkers doing the route in reverse."}
+  ],
+  "where_to_stay": "Gorkhey has a few small family lodges and homestays with basic rooms, quilts, shared toilets and home-cooked meals, at roughly ₹500–1,200 per person for the bed. Facilities are simple but the welcome is warm. Your guide will normally arrange the lodge by phone from Sandakphu; in October, book a day ahead.",
+  "stays": [],
+  "tips": [
+    "Use trekking poles on the descent from Phalut; it is long and steep on loose ground.",
+    "Leave Phalut by 8 am to reach Gorkhey with afternoon light for washing and resting.",
+    "Do not wash with soap directly in the stream; take water away in a bucket.",
+    "Carry cash; there are no ATMs or card machines until Darjeeling.",
+    "Consider a rest day here if your knees or feet are struggling."
+  ],
+  "themes": ["treks", "homestays", "wildlife-birds", "off-season"],
+  "nearby": ["phalut", "samanden", "rammam"],
+  "experiences": [
+    {
+      "slug": "gorkhey-descent-from-phalut",
+      "title": "The long forest descent from Phalut",
+      "kind": "trek",
+      "duration": "5–6 hours",
+      "best_time": "Start 8 am, Oct–Nov and Apr–May",
+      "cost": "Included in your guide fee",
+      "image_query": "forest trail Phalut Gorkhey",
+      "wiki": "",
+      "summary": "Leave the high ridge at Phalut and drop more than 1,200 m through every forest belt of Singalila, from subalpine fir to oak and bamboo, to the river at Gorkhey. Hard on the knees, but a journey through the whole park in one day.",
+      "body": [
+        "From Phalut the trail turns east off the ridge and plunges into the forest. First comes silver fir and dwarf rhododendron, hung with lichen; then larger rhododendrons and magnolias; then oak, maple and dense bamboo. Each belt has its own birds and smells, and the temperature rises as you go down.",
+        "The path is steep in places, with loose stones and roots, and goes on for hours. Poles help a lot. Take short, controlled steps, rest your knees on the flatter stretches and drink regularly. In April the rhododendrons on the upper slopes are spectacular.",
+        "Near the bottom you hear the river before you see it. The forest opens into fields and meadows, and Gorkhey's roofs appear. You will be tired, but the warmth of the valley and a hot cup of tea make up for it."
+      ],
+      "good_for": ["students", "solo", "couples"],
+      "faqs": [
+        {"q": "How long is the descent from Phalut to Gorkhey?", "a": "About 15 km, usually 5–6 hours, dropping around 1,200 m. It is steep in places and tough on knees. Fit trekkers find it long but manageable; poles and good boots help a lot."},
+        {"q": "Is there water on the way from Phalut to Gorkhey?", "a": "There are some streams in the lower forest, but carry at least 1.5–2 litres from Phalut and treat any stream water. There are no shops or tea stops until Gorkhey."},
+        {"q": "Is the Phalut to Gorkhey trail safe?", "a": "Yes with a guide and in good weather. Slippery roots and loose stones are the main hazards. After snow or heavy rain it can be dangerous; your guide may advise a different route."}
+      ]
+    },
+    {
+      "slug": "gorkhey-riverside-meadow-afternoon",
+      "title": "A lazy afternoon on the Gorkhey meadows",
+      "kind": "culture",
+      "duration": "2–3 hours",
+      "best_time": "Afternoon, Oct–Nov and Mar–May",
+      "cost": "Free",
+      "image_query": "Gorkhey meadow river Darjeeling",
+      "wiki": "",
+      "summary": "Wash in warm water, sit by the stream and watch cattle on the meadow and farmers in the fields. After days of altitude and wind, Gorkhey's green riverside is the trek's natural place to slow down.",
+      "body": [
+        "Gorkhey's meadows lie flat along the stream, unusual in these steep hills. In the afternoon they catch the sun while the ridge above disappears into cloud. Cattle graze, children come home from school, and prayer flags flap over the water.",
+        "Ask your lodge for a bucket of hot water and wash properly. Rinse clothes and dry them on the lodge line. Then take a book or a notebook to the bank and sit. The sound of the river and the warmth after the ridge are what most trekkers remember about Gorkhey.",
+        "Be respectful of fields and fences; walk on paths, not across crops. Ask before photographing people. As the sun goes down behind the ridge, the valley cools fast, and it is time for the lodge kitchen."
+      ],
+      "good_for": ["couples", "solo", "seniors", "families"],
+      "faqs": [
+        {"q": "Is Gorkhey worth a rest day?", "a": "Yes, if your schedule allows. It is warmer and greener than the ridge, with good walking along the valley and a slower pace. Tired knees benefit from a day off before the last two days to Srikhola and Rimbik."},
+        {"q": "Can I swim in the Gorkhey river?", "a": "The water is very cold snowmelt and fast in places. A quick paddle is fine; swimming is not advised. Do not use soap in the river; wash with a bucket away from the water."},
+        {"q": "Is Gorkhey warmer than Phalut?", "a": "Much warmer. At about 2,390 m it is roughly 1,200 m lower, so days are pleasant and nights near freezing only in winter. In October and November, expect about 5–15 °C."}
+      ]
+    },
+    {
+      "slug": "gorkhey-farmhouse-supper",
+      "title": "Farmhouse supper by the wood fire",
+      "kind": "food",
+      "duration": "1.5 hours",
+      "best_time": "6.30–8 pm",
+      "cost": "₹200–350 a meal",
+      "image_query": "Himalayan village kitchen wood fire",
+      "wiki": "",
+      "summary": "Eat what the farm grows, cooked on a wood fire in a family kitchen: red rice or white, dal, potatoes, local greens and pickle, maybe a squash curry or fresh cheese. Simple, filling and very local.",
+      "body": [
+        "Gorkhey's lodges are homes first. Dinner comes from the family kitchen and the family fields: potatoes, greens like mustard and squash shoots, beans in season, sometimes fresh cheese or curd from their cows. Rice is carried in, as are noodles and eggs. Expect dal-bhat, with refills.",
+        "Sit near the kitchen if you are invited; it is the warmest room, and you can watch the cooking on a clay or iron stove. Ask about the dishes and what grows in the valley. Many families keep a pickle jar of radish or chilli; try a little.",
+        "Meals cost a little less here than on the ridge. Pay for the night in cash before bed, including your guide's meals if agreed, and ask for an early breakfast if you are heading on to Samanden or Rammam."
+      ],
+      "good_for": ["families", "couples", "solo", "students"],
+      "faqs": [
+        {"q": "What food is served at Gorkhey?", "a": "Home-cooked dal-bhat with seasonal vegetables from the family farm, plus noodles and eggs. Meals are simple but fresh. Special diets are possible with notice; tell your guide a day ahead."},
+        {"q": "Is food at Gorkhey cheaper than on the ridge?", "a": "Slightly. Dinner costs about ₹200–350 and breakfast ₹150–250, compared with ₹300–400 at Sandakphu. All prices are indicative and paid in cash."},
+        {"q": "Can I buy snacks at Gorkhey?", "a": "Only a few basics, such as biscuits and noodles, if the lodge stocks them. Carry your own snacks from Sandakphu or earlier. Proper shops return at Rimbik."}
+      ]
+    },
+    {
+      "slug": "gorkhey-river-birding-walk",
+      "title": "Early bird walk along the Gorkhey stream",
+      "kind": "wildlife",
+      "duration": "1.5–2 hours",
+      "best_time": "6–8 am, Mar–May and Oct–Nov",
+      "cost": "Included in your guide fee",
+      "image_query": "white-capped redstart Himalaya river",
+      "wiki": "",
+      "summary": "Walk the stream and forest edge at Gorkhey at dawn for river birds that do not live up on the ridge: forktails, redstarts, dippers and wagtails, along with flycatchers and sunbirds in the trees.",
+      "body": [
+        "Mountain streams have their own bird community. At Gorkhey look on boulders in the water for white-capped redstarts with their red tails and white caps, plumbeous redstarts flicking their tails, forktails walking on wet rock and, with luck, a brown dipper diving underwater.",
+        "On the forest edge, flycatchers, sunbirds and warblers are active in the early morning, and laughingthrushes call in the undergrowth. Walk slowly along the path by the stream and stop often. Your guide may know other trails into the forest.",
+        "Bring binoculars, and keep the walk to an hour or two so you can still reach Samanden or Rammam comfortably. If you are taking a rest day here, explore further up the valley."
+      ],
+      "good_for": ["photographers", "seniors", "solo"],
+      "faqs": [
+        {"q": "What birds live along Himalayan streams like Gorkhey's?", "a": "White-capped and plumbeous redstarts, forktails, brown dippers and grey wagtails are typical. They live on rocks and in the water, so look low. The forest edge adds flycatchers, sunbirds and laughingthrushes."},
+        {"q": "When is the best birding at Gorkhey?", "a": "Early morning, from first light to about 8 am, in spring (March to May) and autumn (October to November). Spring brings more song and breeding activity."},
+        {"q": "Do I need a guide for a bird walk at Gorkhey?", "a": "You are inside the protected area with your trek guide anyway; walk with him. Ask him to point out river birds; many local guides know the common species."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Gorkhey?", "a": "Gorkhey is a small village at about 2,390 m in the valley below Phalut, near the Sikkim border, on the descent route of the Sandakphu–Phalut trek. It is about 15 km and 5–6 hours down from Phalut."},
+    {"q": "Can I reach Gorkhey by road?", "a": "No. Gorkhey has no motor road. The nearest jeep point is Srikhola or Rimbik, a day's walk away. Supplies come on foot or by mule."},
+    {"q": "Where do I stay in Gorkhey?", "a": "In small family lodges and homestays with basic rooms, quilts, shared toilets and home-cooked meals. Your guide usually books by phone from Sandakphu or Phalut. Expect about ₹500–1,200 per person for the bed."},
+    {"q": "How long from Gorkhey to Rimbik?", "a": "About 1.5–2 days on foot: Gorkhey to Samanden and Rammam (3–4 hours), Rammam to Srikhola (2.5–3 hours), and Srikhola to Rimbik (2 hours), or a jeep from Srikhola. Many trekkers sleep at Rammam or Srikhola."},
+    {"q": "Is Gorkhey in Sikkim?", "a": "Gorkhey is in Darjeeling district, West Bengal, close to the border with Sikkim. Your guide can show you where the boundary runs in the valley."},
+    {"q": "Is there network in Gorkhey?", "a": "Usually weak or none. Expect to reconnect at Rammam, Srikhola or Rimbik. Tell family before leaving Sandakphu."},
+    {"q": "Is Gorkhey worth the extra days?", "a": "Yes, if you like quiet villages and forest. Gorkhey and the villages after it show a side of the region that ridge-only trekkers never see, with farming life and river valleys rather than lodges and Land Rovers."},
+    {"q": "What is the weather like in Gorkhey?", "a": "Milder than the ridge: about 5–15 °C in October and November, colder in winter with frost, and warm in April and May. Afternoons can bring cloud and showers in spring."},
+    {"q": "Can I start a trek from Gorkhey?", "a": "You can walk up to Gorkhey from Srikhola or Rimbik and on to Phalut and Sandakphu, doing the classic route in reverse. It involves big climbs and needs a guide and park entry from the start."}
+  ]
+}

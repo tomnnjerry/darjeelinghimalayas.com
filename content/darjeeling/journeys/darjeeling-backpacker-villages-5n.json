@@ -1,0 +1,70 @@
+{
+  "slug": "darjeeling-backpacker-villages-5n",
+  "title": "Darjeeling and the forest villages by jeep",
+  "region": "darjeeling",
+  "nights": 5,
+  "themes": ["solo-backpacking", "homestays", "wildlife-birds", "kanchenjunga-views"],
+  "tier": "Shoestring",
+  "travel_mode": "Shared jeeps",
+  "stops": [{"place": "darjeeling", "nights": 2}, {"place": "lepchajagat", "nights": 2}, {"place": "jorepokhri", "nights": 1}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 12000,
+  "cost_split": [
+    {"item": "Shared jeeps and short local taxi rides", "inr": 2000},
+    {"item": "Hostel bed or budget room in Darjeeling, 2 nights", "inr": 2000},
+    {"item": "Lepchajagat homestay, 2 nights with dinner and breakfast", "inr": 4000},
+    {"item": "Jorepokhri Tourist Lodge, 1 night", "inr": 1500},
+    {"item": "Lunches, tea and snacks", "inr": 1800},
+    {"item": "Entry fees and donations", "inr": 700}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2258,
+  "meta_description": "5 nights by shared jeep from ₹12,000: Darjeeling, the Lepcha forest village of Lepchajagat and the twin ponds of Jorepokhri, out via Sukhia Pokhari and Mirik.",
+  "summary": "Darjeeling for two nights, then the Ghoom–Mirik road by shared jeep: two quiet nights in the pine and rhododendron forest of Lepchajagat and one by the twin ponds of Jorepokhri, leaving through Sukhia Pokhari and Mirik. Every leg runs on shared jeeps, for about ₹12,000 per person.",
+  "intro": [
+    "West of Ghoom the road to Mirik runs along a forested ridge through some of the oldest inhabited country in these hills. Lepchajagat means the place, or world, of the Lepchas, the people who lived here before anyone else, and its pine, oak and rhododendron forest still closes over the road. A few kilometres on, Jorepokhri, the twin ponds in Nepali, was declared India's first salamander sanctuary in 1985. We tell you honestly that recent reporting says concrete and tourist works have changed the ponds so much that salamanders no longer breed there.",
+    "This is the backpacker's version of the forest villages. Jeeps for Sukhia Pokhari and Mirik leave Darjeeling's motor stand through the day and pass both villages, so you need no reserved car. Two nights in Darjeeling give you the town's history; two in Lepchajagat give you a dawn view of Kanchenjunga and a slow day of birds and forest paths; the last night by the ponds puts you on the road down through Mirik to Siliguri."
+  ],
+  "highlights": [
+    "Two nights in the Lepcha forest village of Lepchajagat",
+    "Kanchenjunga at dawn from the Lepchajagat viewpoint",
+    "Birding on the pine and rhododendron trails",
+    "The twin ponds of Jorepokhri and the honest salamander story",
+    "Sukhia Pokhari's market and the road past Simana into Mirik"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Darjeeling by shared jeep", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 70 km · 3–3.5 h by shared jeep", "text": "Pick up a shared jeep for Darjeeling outside NJP station or at the Siliguri stands, ₹250–350 a seat. The climb takes about three hours through Kurseong and over the saddle at Ghoom. Check in to the Tenzing Norgay Youth Hostel at the top of town or a small budget hotel near Chowrasta. Walk the Mall at dusk, pass the Bhanubhakta statue and, if you have the legs, climb Observatory Hill, where tradition places the shrine that may have given Darjeeling, the place of the thunderbolt, its name.", "meals": "On your own", "spend": "₹250–350 jeep seat + ₹200 dinner"},
+    {"day": 2, "title": "Darjeeling on foot", "place": "darjeeling", "overnight": "Darjeeling", "drive": "", "text": "Spend the day walking. Start at the Himalayan Mountaineering Institute, founded in 1954 after the first Everest ascent, with Tenzing Norgay's memorial and the Everest Museum, and the zoo next door, which breeds red pandas and snow leopards. After lunch walk down to Happy Valley Tea Estate on Lebong Cart Road, then on to the Tibetan Refugee Self Help Centre, set up in October 1959, where you can watch carpets being woven. Eat momos in the lanes above Chowk Bazaar and check tomorrow's Sukhia jeep times at the motor stand.", "meals": "On your own", "spend": "₹100–150 HMI and zoo + ₹400 food"},
+    {"day": 3, "title": "Ghoom and on to Lepchajagat", "place": "lepchajagat", "overnight": "Lepchajagat", "drive": "≈ 19 km · 1 h by shared jeep", "text": "Take a Sukhia Pokhari or Mirik jeep from Darjeeling's motor stand, ₹70–100, and ask to be dropped at Lepchajagat; if you want to see Ghoom monastery, get off at Ghoom, visit Yiga Choeling, and pick up the next jeep there. Lepchajagat is a strip of homes and homestays at about 2,120 m in pine, oak and rhododendron forest. Settle in, take a short forest walk before the afternoon mist comes up, and ask your host which path leads to the dawn viewpoint.", "meals": "Dinner", "spend": "₹70–100 jeep seat + ₹2,000 homestay share with meals"},
+    {"day": 4, "title": "A slow day in the forest", "place": "lepchajagat", "overnight": "Lepchajagat", "drive": "", "text": "Be at the viewpoint before sunrise for Kanchenjunga, then come back for breakfast and a second cup of tea. The forest around the village is good for birds in the early morning; walk slowly, listen and carry binoculars if you have them. Ask your hosts about the Lepchas, the oldest people of these hills, whose name the village carries. Mist usually rolls in after lunch, so keep the afternoon for reading, a nap, or a game of carrom in the homestay kitchen.", "meals": "Breakfast, dinner", "spend": "₹150 lunch + tea"},
+    {"day": 5, "title": "Sukhia Pokhari and the twin ponds", "place": "jorepokhri", "overnight": "Jorepokhri", "drive": "Short shared jeep ride to Sukhia Pokhari, then ≈ 4 km by local taxi or on foot", "text": "Ride a passing jeep to Sukhia Pokhari, the market town and junction whose name is usually read as dry pond, and wander its main street. From there it is about 4 km to Jorepokhri, by local taxi or on foot. In 1985 the twin ponds became India's first salamander sanctuary, for the Himalayan newt. Recent reporting says paving and tourist works have altered them so much that the newts no longer breed here; the surviving ponds are elsewhere. Sleep at the GTA tourist lodge by the water.", "meals": "Dinner", "spend": "₹50 jeep + ₹200–300 taxi + ₹1,500 lodge share"},
+    {"day": 6, "title": "Down through Mirik to Siliguri", "place": "jorepokhri", "overnight": "", "drive": "≈ 70 km · 3.5–4 h by shared jeeps, changing at Sukhia Pokhari or Mirik", "text": "Walk or ride back to Sukhia Pokhari after breakfast and take a shared jeep down the Mirik road. The road passes Simana, where the view opens west into the Ilam hills of Nepal, and drops through tea gardens to Mirik, where jeeps to Siliguri leave often. If the Mirik jeeps are full, go back up to Ghoom and catch a Siliguri jeep there. Allow the whole morning and plan for an evening train or flight; traffic around Siliguri can add an hour.", "meals": "Breakfast", "spend": "₹300–400 in jeep seats + ₹150 lunch"}
+  ],
+  "stays": ["darjeeling-tenzing-norgay-youth-hostel", "jorepokhri-tourist-lodge"],
+  "includes": ["Shared jeep seats on all legs", "Hostel bed or budget room share in Darjeeling, 2 nights", "Lepchajagat homestay with dinner and breakfast, 2 nights", "Jorepokhri Tourist Lodge, 1 night", "Entry fees and small donations"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Reserved cars", "Tiger Hill trip and toy train joyride", "Bird guide", "Shopping"],
+  "save_money": [
+    "Use the Sukhia and Mirik jeeps from Darjeeling's motor stand, which pass Lepchajagat for ₹70–100, instead of a reserved car at ₹1,500 or more.",
+    "Homestays in Lepchajagat include dinner and breakfast, so carry fruit and biscuits for lunch and skip the roadside restaurants.",
+    "Leave through Mirik rather than going back to Darjeeling: it saves a jeep fare and an hour on the road."
+  ],
+  "good_to_know": [
+    "Do not expect to see salamanders at Jorepokhri; the honest account is that they no longer breed in these ponds.",
+    "Lepchajagat is misty most afternoons and cold at night from November to February; bring a warm jacket.",
+    "The WBFDC resort in Lepchajagat books on the WBFDC portal up to 90 days ahead; we use village homestays to keep the cost down.",
+    "Shared jeep timings on the Mirik road thin out after early afternoon; travel in the morning and check current status before you travel."
+  ],
+  "faqs": [
+    {"q": "Can I reach Lepchajagat without a reserved car?", "a": "Yes. Shared jeeps from Darjeeling's motor stand to Sukhia Pokhari and Mirik run along the Ghoom–Mirik road and pass Lepchajagat, about 19 km from town, for ₹70–100 a seat. Tell the driver where you want to get off. Coming back, wait by the road for a passing jeep with a spare seat; mornings are easiest."},
+    {"q": "Will I see salamanders at Jorepokhri?", "a": "Probably not, and we would rather say so. Jorepokhri was declared India's first salamander sanctuary in 1985, for the Himalayan newt, but 2026 reporting says paving and tourist works have changed the ponds so much that the newts are no longer found breeding there. The surviving breeding ponds are elsewhere, such as Namthing Pokhri near Sittong."},
+    {"q": "How much does this 5-night trip cost?", "a": "About ₹12,000 per person, twin sharing, from NJP back to NJP, indicative for 2025–26. That covers shared jeeps, two nights in a Darjeeling hostel or budget room, two nights in a Lepchajagat homestay with dinner and breakfast, one night at the Jorepokhri lodge, simple lunches and entry fees. Solo travellers pay a little more for rooms."},
+    {"q": "What is there to do in Lepchajagat?", "a": "Very little in the busy sense, which is why people go. Watch Kanchenjunga at dawn from the village viewpoint, walk the forest paths through pine, oak and rhododendron, look for birds in the early morning and talk to your hosts. Afternoons are often misty. It suits readers, birders and anyone tired of sightseeing."},
+    {"q": "Where do I stay in Lepchajagat?", "a": "There are village homestays, which usually charge about ₹1,500–2,500 per person with dinner and breakfast, and the WBFDC Lepchajagat Nature and Wilderness Resort, a small forest resort with six rooms booked on the WBFDC portal, which opens about 90 days ahead. We price this trip with a homestay. Ask about hot water and blankets in winter."},
+    {"q": "Can I visit Pashupati market across the border?", "a": "Many Indian visitors drive from Sukhia Pokhari or Mirik to Pashupatinagar on the Nepal side, and Indian citizens have generally crossed without a passport for the market. It adds a reserved car or extra jeep fares to this budget. Rules at border points change, so check current status before you travel and carry a photo ID."},
+    {"q": "When is the best season for the forest villages?", "a": "October to early December for clear dawns and dry paths, and March to May for rhododendron flowers and warmer days. January and February are cold but often clear. From June to September Lepchajagat and Jorepokhri are in cloud much of the time, paths are slippery and leeches appear, but homestays are quiet and cheaper."},
+    {"q": "Is there mobile network in Lepchajagat and Jorepokhri?", "a": "Signal from the main networks usually works along the Ghoom–Mirik road, but it can drop in the forest and during power cuts or bad weather. Data is slow at times. Download maps and tickets before you leave Darjeeling, carry a power bank and tell someone your plans."},
+    {"q": "Can I do this trip in the other direction?", "a": "Yes. Come up from Siliguri through Mirik to Sukhia Pokhari and Jorepokhri, move to Lepchajagat, and finish in Darjeeling before taking the Hill Cart Road down. Shared jeeps run both ways. Starting at Mirik means a gentler first climb, and Mirik to Siliguri jeeps are frequent in the morning."}
+  ]
+}

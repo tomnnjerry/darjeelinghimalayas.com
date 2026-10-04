@@ -1,0 +1,13 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Sitemap · Darjeeling Himalayas{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:20px"><div class="phead__body" style="margin-top:0"><p class="eyebrow">Sitemap</p><h1 class="h-1">Every page on the site</h1></div></div></header>
+<section class="sec--tight"><div class="wrap">
+  {% for r in regions %}<h2 class="h-2" style="margin:30px 0 14px" data-land="{{ r.slug }}"><a href="{{ r.url }}" style="color:inherit">{{ r.name }}</a></h2>
+  <ul class="index-list">{% for p in r.places %}<li><a href="{{ p.url }}">{{ p.name }}</a></li>{% for e in p.experiences %}<li><a href="{{ e.url }}">{{ e.title }}</a></li>{% endfor %}{% endfor %}
+  {% for j in r.journeys %}<li><a href="{{ j.url }}">{{ j.title }}</a></li>{% endfor %}{% for s in r.stays %}<li><a href="{{ s.url }}">{{ s.name }}</a></li>{% endfor %}{% for g in r.guides %}<li><a href="{{ g.url }}">{{ g.title }}</a></li>{% endfor %}{% for f in r.festivals %}<li><a href="{{ f.url }}">{{ f.name }}</a></li>{% endfor %}{% for rt in r.routes %}<li><a href="{{ rt.url }}">{{ rt.from_obj.name }} to {{ rt.to_obj.name }}</a></li>{% endfor %}
+  {% for m, s in month_slugs %}<li><a href="{% url 'region_month' r.slug s %}">{{ r.short }} in {{ m }}</a></li>{% endfor %}</ul>{% endfor %}
+  <h2 class="h-2" style="margin:30px 0 14px">Ways to travel, stories and tools</h2>
+  <ul class="index-list">{% for rr, t in pairs %}<li><a href="{% url 'region_theme' rr.slug t.slug %}">{{ t.name }} in {{ rr.short }}</a></li>{% endfor %}{% for rr, k, n in kind_pairs %}<li><a href="{% url 'region_kind' rr.slug k %}">{{ n }} in {{ rr.short }}</a></li>{% endfor %}{% for d in cat.posts.values %}<li><a href="{{ d.url }}">{{ d.title }}</a></li>{% endfor %}{% for t in cat.themes.values %}<li><a href="{{ t.url }}">{{ t.name }}</a></li>{% endfor %}<li><a href="{% url 'fares' %}">Jeep fare board</a></li><li><a href="{% url 'tool_budget' %}">Budget builder</a></li><li><a href="{% url 'tool_season' %}">Season finder</a></li><li><a href="{% url 'tool_permits' %}">Permits</a></li><li><a href="{% url 'glossary' %}">Hill words</a></li></ul>
+</div></section>
+{% endblock %}

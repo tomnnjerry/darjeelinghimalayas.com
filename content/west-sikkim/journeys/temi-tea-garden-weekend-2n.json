@@ -1,0 +1,76 @@
+{
+  "slug": "temi-tea-garden-weekend-2n",
+  "title": "Temi tea garden weekend",
+  "region": "west-sikkim",
+  "nights": 2,
+  "themes": ["tea-country", "long-weekends", "homestays"],
+  "tier": "Value",
+  "travel_mode": "Shared jeeps",
+  "stops": [{"place": "temi", "nights": 2}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 10500,
+  "cost_split": [
+    {"item": "Shared jeeps and local taxis", "inr": 2000},
+    {"item": "Homestay or guesthouse around Temi, 2 nights with meals", "inr": 6000},
+    {"item": "Lunches, tea and snacks", "inr": 1200},
+    {"item": "Tea tasting, entries and a half day to Ravangla's Buddha Park", "inr": 1300}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Easy",
+  "max_altitude_m": 2100,
+  "meta_description": "2 nights at Temi, Sikkim's government tea garden on Tendong Hill: estate walks, first-flush tasting and a half day at Ravangla's Buddha Park. From ₹10,500.",
+  "summary": "A two-night weekend at Temi Tea Garden, set up by the Sikkim government in 1969 on the slopes of Tendong Hill. Walk the organic estate, taste the season's tea, spend half a day at Ravangla's 130-ft Buddha, and travel by shared jeeps for about ₹10,500 per person from NJP.",
+  "intro": [
+    "Darjeeling has eighty-odd tea gardens; Sikkim had, for most of its history, just one. Temi Tea Garden was started by the state government in 1969 on the slopes of Tendong Hill and covers about 177 hectares, running down the hillside in neat green rows. The estate is certified organic, and its first flush, picked in March and April, sells well beyond Sikkim. Tendong Hill above it is the hill of the Lepcha flood legend, and on clear days the Kanchenjunga range rises behind the garden.",
+    "This is a short trip for people with a long weekend and a modest budget. Shared jeeps take you from Siliguri to Namchi, and a local jeep or taxi covers the last 30 km. You sleep in a homestay or small guesthouse in the villages around the garden, walk the estate roads in the morning and spend an afternoon at Ravangla, 18 km away, where the Buddha Park's statue was consecrated by the Dalai Lama in 2013."
+  ],
+  "highlights": [
+    "Morning walks along the estate roads of Sikkim's government tea garden",
+    "A tasting of Temi's organic tea, best in the first-flush months of March and April",
+    "Kanchenjunga rising behind the tea rows on a clear morning",
+    "The 130-ft Buddha at Ravangla's Buddha Park and the Rabong gompa beside it",
+    "Homestay dinners in the villages around Tendong Hill"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Temi via Namchi", "place": "temi", "overnight": "Temi", "drive": "≈ 130 km · 5–5.5 h by shared jeeps via Namchi", "text": "Take an auto from NJP or a cab from Bagdogra to the Siliguri jeep stands and board a shared jeep for Namchi, about 100 km and three and a half to four hours via Melli. Namchi is a clean, compact town with good canteens for lunch. From the Namchi stand take a local shared jeep towards Temi if one is leaving, or hire a small taxi for the last 30 km. You reach the garden in the afternoon. Check in at a homestay near the estate, walk to the edge of the tea rows at dusk and turn in early.", "meals": "Dinner", "spend": "₹250–350 jeep seat + ₹150 auto + ₹200 lunch + ₹100–750 local jeep or taxi share"},
+    {"day": 2, "title": "Tea rows at dawn, Ravangla after lunch", "place": "temi", "overnight": "Temi", "drive": "≈ 36 km return · 1.5 h by local taxi", "text": "Walk the estate roads early, when the pluckers are out and the light is low over the bushes. Stay on the roads and paths, and ask before photographing workers. Later, look for the garden's sales counter or a nearby tea shop for a tasting; factory visits depend on the season and on permission, so do not count on one. After lunch, share a local taxi to Ravangla, 18 km away. Buddha Park, or Tathagata Tsal, holds a 130-ft Buddha consecrated by the Dalai Lama in March 2013, with Rabong gompa next door. Return to Temi by dusk.", "meals": "Breakfast, lunch, dinner", "spend": "₹200–300 tea tasting + ₹50–100 Buddha Park entry + taxi share"},
+    {"day": 3, "title": "Temi to NJP by shared jeep", "place": "temi", "overnight": "", "drive": "≈ 130 km · 5–5.5 h by shared jeeps via Namchi", "text": "Buy your tea before you leave: a packet from the garden makes a better gift than anything in Siliguri. After breakfast, take a local jeep or taxi back to Namchi, and from there a shared jeep to Siliguri. If you have an hour in Namchi, the Samdruptse hill with its 118-ft statue of Guru Padmasambhava is a short taxi ride above the town. Leave plenty of time: the road along the Teesta past Melli and Sevoke slows in the afternoon, so keep at least six hours before any train from NJP or flight from Bagdogra.", "meals": "Breakfast", "spend": "₹100–750 local jeep or taxi share + ₹250–350 jeep seat + ₹200 lunch"}
+  ],
+  "stays": [],
+  "includes": [
+    "Shared jeep seats Siliguri to Namchi and back",
+    "Local jeep or taxi share between Namchi and Temi, and to Ravangla",
+    "Two nights in a homestay or small guesthouse around Temi with meals, twin sharing",
+    "A tea tasting and the Buddha Park entry"
+  ],
+  "excludes": [
+    "Train or flight to NJP or Bagdogra",
+    "Auto or cab between NJP, Bagdogra and the Siliguri jeep stands",
+    "Tea you buy to take home",
+    "Sikkim Restricted Area Permit costs for foreign nationals",
+    "Tips and personal expenses"
+  ],
+  "save_money": [
+    "Travel in a group of four and hire one small taxi between Namchi and Temi; it costs about the same per head as two jeep changes and saves an hour.",
+    "Buy tea directly from the garden counter rather than from shops in Gangtok or Siliguri, where the same packets cost more.",
+    "Avoid long weekends that fall on Durga Puja, Diwali and Christmas, when homestays around Temi fill and rates climb."
+  ],
+  "good_to_know": [
+    "Indian nationals need no permit for Temi and Ravangla; foreign nationals need a Sikkim Restricted Area Permit, check current status before you travel.",
+    "The Teesta road between Sevoke and Melli has had repeated landslide and flood damage since October 2023; check current status before you travel.",
+    "Tea factory visits and tastings depend on the season and the garden's rules; plucking slows in the winter months.",
+    "Nights at Temi are cool from November to February, around 5–10 °C, so bring a warm layer."
+  ],
+  "faqs": [
+    {"q": "Is Temi the only tea garden in Sikkim?", "a": "For most of its history, yes. Temi Tea Garden was set up by the Sikkim government in 1969 and was long the state's only tea estate. Several small tea projects have started in other parts of Sikkim in recent years, but Temi remains the best known and the largest open to visitors, with about 177 hectares on the slopes of Tendong Hill."},
+    {"q": "When is the best time to visit Temi?", "a": "March and April, for the first flush and clear mornings, and October and November, when the air is clean and the Kanchenjunga range shows behind the garden. December to February is cold but often clear, though plucking slows. The monsoon months of June to August bring heavy rain, leeches on the paths and a real risk of landslides on the roads."},
+    {"q": "Can we visit the Temi tea factory?", "a": "Sometimes. Visits depend on the season, the day's work and the management's rules, which have changed over the years. In the plucking season there is often a counter or shop where you can taste and buy tea. Ask your homestay host on arrival, as they will know whether the factory is taking visitors that week."},
+    {"q": "Is ₹10,500 per person realistic for this weekend?", "a": "Yes, for two people sharing a room and travelling by shared jeeps. Homestays around Temi charge roughly ₹1,500–2,500 per person a night with meals, and jeep seats from Siliguri cost ₹250–350. The local taxi legs are the part that varies most. Travel alone or hire a private car throughout and the cost roughly doubles."},
+    {"q": "How do we get to Temi by shared jeep?", "a": "Take a shared jeep from Siliguri to Namchi, about 100 km and three and a half to four hours. From Namchi, local jeeps run towards Temi, though not often, and a small taxi for the last 30 km is the easier choice. Coming from Gangtok, take a jeep to Ravangla and then a local taxi for the 18 km to Temi."},
+    {"q": "Where do we stay near Temi Tea Garden?", "a": "In homestays and small guesthouses in the villages around the estate, and along the road towards Ravangla and Namchi. Rooms are simple, clean and often have a view over the tea. Book ahead for March, April, October and long weekends. If you want more choice, stay in Ravangla and visit Temi as a day trip."},
+    {"q": "Can we add Namchi or Ravangla for an extra night?", "a": "Easily. Ravangla is 18 km from Temi and Namchi about 30 km, each well worth a night. Namchi has the Samdruptse statue of Guru Padmasambhava and the Char Dham complex at Solophok; Ravangla has the Buddha Park and Ralang Monastery nearby. Plan roughly ₹3,000–3,500 more per person for each extra night with transport."},
+    {"q": "Is this trip good for families with children?", "a": "Yes. The walking is gentle and on estate roads, and children usually enjoy the open spaces of the Buddha Park. The longest stretch is the road journey from Siliguri, around five hours each way, so plan snack and toilet stops. Homestays are happy to cook simple, mild food for children if you ask in advance."},
+    {"q": "What is Tendong Hill and can we climb it?", "a": "Tendong Hill, about 2,600 m, rises above Temi and Ravangla. In Lepcha tradition it rose above a great flood and saved their ancestors, which the Tendong Lho Rum Faat festival marks every 8 August. A trail climbs it from the Damthang side, but it is a long day hike; ask locally about the route and a guide."}
+  ]
+}

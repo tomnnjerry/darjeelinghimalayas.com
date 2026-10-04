@@ -1,0 +1,88 @@
+{
+  "slug": "west-sikkim-sacred-lakes-monasteries-7n",
+  "title": "Sacred lakes and monasteries of West Sikkim",
+  "region": "west-sikkim",
+  "nights": 7,
+  "themes": ["monasteries", "kanchenjunga-views", "homestays", "solo-backpacking"],
+  "tier": "Value",
+  "travel_mode": "Mixed",
+  "stops": [
+    {"place": "pelling", "nights": 3},
+    {"place": "khecheopalri", "nights": 1},
+    {"place": "yuksom", "nights": 2},
+    {"place": "tashiding", "nights": 1}
+  ],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 24000,
+  "cost_split": [
+    {"item": "Shared jeeps and two reserved-car days", "inr": 6500},
+    {"item": "Budget hotel rooms and homestays, 7 nights", "inr": 11500},
+    {"item": "Food on the road, lunches and tea", "inr": 3500},
+    {"item": "Entries, monastery donations and a local guide", "inr": 2500}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2200,
+  "meta_description": "7 nights through West Sikkim's sacred sites: Pemayangtse, Rabdentse, Khecheopalri Lake, Yuksom's coronation throne and Tashiding. From ₹24,000 per person.",
+  "summary": "A week along the old pilgrim circuit of West Sikkim, where the kingdom began. Pemayangtse and Sanga Choeling above Pelling, the ruined capital at Rabdentse, a night by Khecheopalri Lake, Yuksom's coronation throne of 1642, Dubdi and finally Tashiding. Shared jeeps, two car days, simple rooms, about ₹24,000 per person.",
+  "intro": [
+    "Sikkim's Buddhist story starts in this corner of the state. In 1642 three lamas from Tibet met at Yuksom and crowned Phuntsog Namgyal as the first Chogyal on a stone seat at Norbugang. Over the next century the monasteries followed: Tashiding in 1641, Sanga Choeling in 1697, Dubdi in 1701, Pemayangtse around 1705. The second capital rose at Rabdentse in 1670 and was abandoned after the Gorkha invasions. This journey links them in the order a pilgrim might walk them, with a night beside the sacred lake of Khecheopalri in the middle.",
+    "We keep it affordable by using shared jeeps for the long legs and hiring a car only for the two days when jeeps are too rare to rely on. You stay three nights in Pelling at a budget hotel such as Hotel Garuda, one night in a village homestay above Khecheopalri, two in a Yuksom guesthouse and one at Tashiding. Most sights are reached on foot, some by steep paths, so it suits walkers who like their history standing in front of them."
+  ],
+  "highlights": [
+    "Pemayangtse Monastery and its seven-tiered wooden model of Guru Rinpoche's palace",
+    "The forest walk to the Rabdentse ruins, Sikkim's capital from 1670",
+    "A quiet evening at Khecheopalri Lake, sacred to Buddhists and Hindus",
+    "Norbugang, where the first Chogyal was crowned in 1642, and the climb to Dubdi",
+    "Tashiding on its heart-shaped hill and the Thongwa Rangdol chorten"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Pelling by shared jeep", "place": "pelling", "overnight": "Pelling", "drive": "≈ 135 km · 5.5 h by shared jeep", "text": "Take an auto from NJP or a cab from Bagdogra to the Siliguri jeep stands near the SNT terminus. A few direct jeeps to Pelling and Geyzing leave in the morning; if you miss them, take a jeep to Jorethang and change there for Pelling. The road runs along the Teesta to Melli, up the Rangeet to Jorethang, then climbs through Legship and Geyzing. Expect five and a half to six hours. Check in at Hotel Garuda or a similar budget hotel in Upper Pelling and walk the main road at dusk to get your bearings.", "meals": "Dinner", "spend": "₹450–600 jeep seat + ₹150 auto + ₹200 lunch"},
+    {"day": 2, "title": "Pemayangtse and the Rabdentse ruins", "place": "pelling", "overnight": "Pelling", "drive": "", "text": "Walk down to Pemayangtse Monastery, about 2 km below Upper Pelling. Founded around 1705, it is the leading Nyingma monastery of Sikkim, and its head lama once anointed the Chogyals. Climb to the top floor for Zangdok Palri, the seven-tiered painted model of Guru Rinpoche's celestial palace carved by Dungzin Rinpoche over about five years. From near the monastery a forest path leads to the ruins of Rabdentse, Sikkim's capital from 1670 until the Gorkha raids. Walls, chortens and a long view over the valley remain. A local guide here brings the stones to life.", "meals": "Breakfast, dinner", "spend": "₹50–100 entries + ₹200 lunch + guide share"},
+    {"day": 3, "title": "Sanga Choeling and the Chenrezig skywalk", "place": "pelling", "overnight": "Pelling", "drive": "", "text": "Start early with the view of Kanchenjunga from the hotel roof, then walk up the ridge to Sanga Choeling, established in 1697 and among the oldest monasteries in Sikkim. The path climbs through forest for about forty minutes and is steep in places. On the same ridge stands the large Chenrezig statue with the glass skywalk opened in 2018; there is a small entry fee. Come down for a late lunch and keep the afternoon slow: tea in a Pelling cafe, a walk to the helipad ground for sunset, and an early night before tomorrow's drive.", "meals": "Breakfast, dinner", "spend": "₹100–150 skywalk entry + ₹250 lunch and tea"},
+    {"day": 4, "title": "Rimbi Falls and Khecheopalri Lake", "place": "khecheopalri", "overnight": "Khecheopalri", "drive": "≈ 30 km · 1.5 h by reserved car", "text": "The first of two car days. Drive out on the Yuksom road, stopping at Rimbi Falls, then turn up to Khecheopalri. The lake sits in a forest bowl at about 1,700 m and is sacred to Buddhists and Hindus. Its older name, Sho Dzo Sho, is read as O lady, sit here. Walk the prayer-flag jetty quietly; boating and fishing are not allowed. Folklore says birds lift away any leaf that falls on the water. Stay in a simple homestay in the village above, and walk up to the small Khecheopalri gompa before dinner.", "meals": "Breakfast, dinner", "spend": "₹50 lake entry + ₹200 lunch"},
+    {"day": 5, "title": "On to Yuksom and the coronation throne", "place": "yuksom", "overnight": "Yuksom", "drive": "≈ 35 km · 1.5–2 h by reserved car", "text": "Your car takes you back to the Yuksom road and on past Kanchenjunga Falls, worth a short stop after rain. Yuksom sits at about 1,780 m and was Sikkim's first capital. After lunch, walk to Norbugang, where the stone coronation throne stands under an old pine beside a chorten. Here, in 1642, the three lamas consecrated Phuntsog Namgyal as the first Chogyal. Kathok Lake, a few minutes away, gave water for the ceremony. Yuksom is the trailhead for the Goecha La trek, so the evening lanes fill with trekkers coming and going.", "meals": "Breakfast, dinner", "spend": "₹200 lunch + ₹50 entries"},
+    {"day": 6, "title": "The climb to Dubdi Monastery", "place": "yuksom", "overnight": "Yuksom", "drive": "", "text": "After breakfast take the steep path to Dubdi Monastery, about 45 minutes uphill through forest. Built in 1701 under Chogyal Chakdor Namgyal, it is often called the oldest monastery in Sikkim, and the quiet up here is part of its pull. Carry water and go slowly. Back in Yuksom, walk to Tashi Tenka, the site of the old palace, for the view over the valley. In the afternoon stroll to the Khangchendzonga National Park office at the edge of the village to see where the Goecha La trek begins, and plan your next trip.", "meals": "Breakfast, dinner", "spend": "₹200 lunch + ₹50–100 donation"},
+    {"day": 7, "title": "Yuksom to Tashiding Monastery", "place": "tashiding", "overnight": "Tashiding", "drive": "≈ 19 km · 1 h by shared jeep", "text": "Take a shared jeep or a local taxi down to Tashiding. The monastery stands on a heart-shaped hill between the Rathong Chu and the Rangeet. It was founded in 1641 by Ngadak Sempa Chempo, one of the three lamas of Yuksom, and enlarged in 1717. The path up from the road is steep and lined with rows of carved mani stones. Look for the Thongwa Rangdol chorten, said to cleanse sins by sight alone. If you come in February or March, ask about Bumchu, when the sacred vase is opened. Sleep in a simple guesthouse in the bazaar.", "meals": "Breakfast, dinner", "spend": "₹100–150 jeep seat + ₹200 lunch + donation"},
+    {"day": 8, "title": "Tashiding to NJP via Jorethang", "place": "tashiding", "overnight": "", "drive": "≈ 140 km · 6 h by shared jeep via Legship and Jorethang", "text": "Leave early. Jeeps from Tashiding run to Legship and Jorethang in the morning, and from Jorethang there are frequent shared jeeps to Siliguri. The road follows the Rangeet down to Melli, then the Teesta to Sevoke. Allow six hours or more with the change, and keep a generous gap before any train or flight, especially in the wet months. From the Siliguri jeep stand take an auto to NJP station or a cab to Bagdogra. Buy your last bag of Temi tea or churpi in Jorethang bazaar on the way through.", "meals": "Breakfast", "spend": "₹100 jeep to Jorethang + ₹250–350 jeep to Siliguri + ₹150 auto"}
+  ],
+  "stays": ["pelling-hotel-garuda"],
+  "includes": [
+    "Shared jeep seats on all main legs",
+    "Reserved car for the two days from Pelling to Khecheopalri and Khecheopalri to Yuksom",
+    "Seven nights in budget hotel rooms, a village homestay and guesthouses, twin sharing",
+    "A food budget for lunches, tea and simple dinners",
+    "Monastery entries, donations and a local guide for Pemayangtse and Rabdentse"
+  ],
+  "excludes": [
+    "Train or flight to NJP or Bagdogra",
+    "Sikkim Restricted Area Permit costs for foreign nationals",
+    "Khangchendzonga National Park permits and trek guides",
+    "Extra reserved cars if shared jeeps are not running",
+    "Alcohol, shopping and tips"
+  ],
+  "save_money": [
+    "Book the first morning jeep from Siliguri straight to Pelling the evening before; changing at Jorethang costs a little more and wastes an hour.",
+    "Share the two car days with other travellers from your Pelling hotel, which can halve the cost of the Khecheopalri and Yuksom legs.",
+    "Eat thalis in local canteens in Pelling and Yuksom bazaar at ₹150–250 instead of hotel restaurants that charge twice as much for the same meal."
+  ],
+  "good_to_know": [
+    "Indian nationals need no permit for this circuit; foreign nationals need a Sikkim Restricted Area Permit, check current status before you travel.",
+    "Landslides on the Legship, Yuksom and Tashiding roads are common from June to September and can close them for days, so check current status before you travel.",
+    "Shared jeeps between Pelling, Yuksom and Tashiding are few and leave in the morning; ask at your hotel the night before.",
+    "Dress modestly in monasteries, walk clockwise around chortens and ask before taking photographs inside prayer halls.",
+    "Sikkim restricts packaged drinking water bottles in some places; carry a refillable bottle and a filter or tablets."
+  ],
+  "faqs": [
+    {"q": "Which is the oldest monastery in Sikkim?", "a": "Dubdi, above Yuksom, built in 1701, is the one most often called the oldest. Tashiding was founded earlier, in 1641, but much of what stands today dates from the 1717 enlargement and later. Sanga Choeling above Pelling, established in 1697, is also among the oldest. This journey visits all three, along with Pemayangtse from around 1705."},
+    {"q": "Is ₹24,000 enough for seven nights?", "a": "For two people sharing a room, yes, in the main seasons. Budget rooms in Pelling run about ₹1,200–2,500 a night, homestays ₹1,500–2,500 per person with meals, and shared jeep seats rarely cost more than ₹600. The two car days are the main extra. A solo traveller pays more for rooms, and festival weeks push prices up."},
+    {"q": "Can we see Kanchenjunga from Pelling?", "a": "On clear mornings, yes, and well. Pelling faces the Kanchenjunga range across the valley, and from October to December the view is often sharp from sunrise until mid-morning. March and April are good but hazier. During the monsoon months the peaks stay hidden most days. Ask for a room on an upper floor facing north-west."},
+    {"q": "Can we stay at Khecheopalri Lake itself?", "a": "There are a few very simple places to stay near the lake and more homestays in Khecheopalri village above it, a short climb away. We prefer the village, which is quieter at night and has the small gompa and a wider view. Facilities are basic: shared bathrooms in some houses and hot water by bucket. Book ahead in October and November."},
+    {"q": "How hard is the walk to Dubdi Monastery?", "a": "Short but steep. The path from Yuksom climbs for about 45 minutes through forest, on stone steps and dirt that can be slippery after rain. Anyone reasonably fit can do it at a slow pace with rests. Wear proper shoes, carry water, and start in the morning, when it is cooler and the monastery is more likely to be open."},
+    {"q": "Do we need a guide for these monasteries?", "a": "Not to enter, but a local guide adds a great deal at Pemayangtse and Rabdentse, where the history is dense and signboards are few. Guides in Pelling charge roughly ₹1,000–2,000 for a half day, shared between your group. At Yuksom and Tashiding the lanes are easy to follow, and a monk or caretaker may explain if you ask politely."},
+    {"q": "When is Bumchu at Tashiding?", "a": "Bumchu falls on the 14th and 15th days of the first Tibetan month, usually in February or March. The monks open a sealed vase of sacred water and read its level as a forecast for the year, and pilgrims come from across Sikkim, Nepal and Bhutan. Rooms fill fast. The lunar date shifts each year, so check current status before you travel."},
+    {"q": "Can we combine this trip with the Goecha La trek?", "a": "Yes, by adding the trek after your two nights at Yuksom. Goecha La usually takes eight to ten days return from Yuksom, with a licensed guide, park permits and registration all mandatory. Book through a registered agency in advance, especially for April, May, October and November. Rules about how far groups may go change, so check current status before you travel."},
+    {"q": "Is this journey good for solo travellers?", "a": "Very. Pelling and Yuksom see a steady stream of backpackers, shared jeeps make solo travel cheap, and guesthouse owners are used to single guests. Expect to pay close to the double-room rate for a single room, which raises the cost by roughly a third. Women travelling alone generally find West Sikkim relaxed, though ordinary care after dark still applies."}
+  ]
+}

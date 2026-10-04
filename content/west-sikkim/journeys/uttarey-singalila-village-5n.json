@@ -1,0 +1,68 @@
+{
+  "slug": "uttarey-singalila-village-5n",
+  "title": "Uttarey and Dentam village stay",
+  "region": "west-sikkim",
+  "nights": 5,
+  "themes": ["homestays", "off-season", "solo-backpacking", "kanchenjunga-views"],
+  "tier": "Shoestring",
+  "travel_mode": "Shared jeeps",
+  "stops": [{"place": "pelling", "nights": 1}, {"place": "dentam", "nights": 1}, {"place": "uttarey", "nights": 3}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 12500,
+  "cost_split": [
+    {"item": "Shared jeeps and a taxi share", "inr": 2300},
+    {"item": "Homestays and a Pelling budget room, 5 nights with meals", "inr": 7500},
+    {"item": "Lunches, tea and snacks", "inr": 1700},
+    {"item": "Entries, a guided border-trail day and donations", "inr": 1000}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2150,
+  "meta_description": "5 nights from ₹12,500: Pelling, the Dentam valley, Singshore Bridge and village homestays at Uttarey under the Singalila ridge, by shared jeep.",
+  "summary": "A slow trip to the far end of West Sikkim. A night in Pelling, a night among Dentam's paddy and cardamom, then three nights at Uttarey near the Nepal border, with Singshore Bridge, forest walks and home cooking, from about ₹12,500 per person.",
+  "intro": [
+    "Beyond Pelling the road keeps going, down to the Dentam valley and up again to Uttarey at about 2,000 m, where the Singalila ridge marks the border with Nepal. For generations people walked over that ridge at Chewabhanjyang to trade and visit relatives; today Uttarey is a farming village with homestays, a small lake, waterfalls and forest trails.",
+    "This trip is for people who want to stop moving. You spend more nights in villages than in towns, eat what your hosts grow and walk rather than drive. On the way you cross Singshore Bridge, a suspension bridge about 100 m above a gorge, said to be the highest in Sikkim."
+  ],
+  "highlights": [
+    "A dawn view of Kanchenjunga from Upper Pelling",
+    "Paddy terraces and cardamom groves in the Dentam valley",
+    "Walking across Singshore Bridge, about 240 m long",
+    "Three nights of homestay cooking at Uttarey",
+    "A guided walk towards the Singalila ridge and the old Chewabhanjyang route"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Pelling", "place": "pelling", "overnight": "Pelling", "drive": "≈ 135 km · 6–7 h by shared jeep with a change", "text": "Take a morning shared jeep from Siliguri to Jorethang and change for Pelling or Gyalshing. The road follows the Teesta and the Rangeet before climbing through Legship. Check in to a budget hotel in Upper Pelling near the jeep stop. If you arrive with daylight, walk the short road towards the helipad ground for the evening view of the hills and ask about the next morning's jeeps towards Dentam and Uttarey.", "meals": "Dinner", "spend": "₹550–650 in jeep seats + ₹150 lunch"},
+    {"day": 2, "title": "Pelling dawn and down to Dentam", "place": "dentam", "overnight": "Dentam", "drive": "≈ 25 km · 1.5 h by shared jeep", "text": "Watch Kanchenjunga at first light from Upper Pelling, then walk down to Pemayangtse Monastery, about 2 km, if you have time before the jeep. In late morning take a jeep to Dentam, a farming valley at about 1,500 m. Settle into a homestay and walk the paddy bunds and cardamom groves in the afternoon. Ask your hosts about the valley's small dairy and local cheese.", "meals": "Breakfast, dinner", "spend": "₹100–150 jeep seat + ₹50 monastery entry"},
+    {"day": 3, "title": "Singshore Bridge and on to Uttarey", "place": "uttarey", "overnight": "Uttarey", "drive": "≈ 15 km · 1 h by shared jeep or taxi", "text": "Travel up the valley towards Uttarey and stop at Singshore Bridge, which hangs about 100 m above a gorge and is roughly 240 m long. Walk across and back; it sways gently when vehicles cross. Continue to Uttarey at about 2,000 m and check in to a homestay. In the evening walk to the small lake and watch the light fade on the Singalila ridge to the west, where Nepal begins.", "meals": "Breakfast, dinner", "spend": "₹100–300 jeep seat or taxi share"},
+    {"day": 4, "title": "Towards the Singalila ridge", "place": "uttarey", "overnight": "Uttarey", "drive": "", "text": "With a local guide, walk up through forest towards the Singalila ridge on the old route to Chewabhanjyang, the pass that once carried trade between Sikkim and Nepal. How far you go depends on your fitness and on border-post rules; most day walkers turn back well below the pass, at a clearing with views. Carry lunch, water and a rain jacket. Back in Uttarey, a hot meal and an early night.", "meals": "Breakfast, packed lunch, dinner", "spend": "₹800–1,200 guide share"},
+    {"day": 5, "title": "Waterfalls and village paths", "place": "uttarey", "overnight": "Uttarey", "drive": "", "text": "A slow day. Walk to Mainebas waterfall, a short distance from the village, and the paths through farms and forest around it. Watch your hosts at work: cardamom drying, cows to milk, the kitchen fire. If you have energy, ask about the walks to the viewpoints above the village. In the evening, try a local brew of millet if your hosts make it, and plan an early departure.", "meals": "Breakfast, dinner", "spend": "₹200 lunch and tea"},
+    {"day": 6, "title": "Uttarey to NJP", "place": "uttarey", "overnight": "", "drive": "≈ 170 km · 7–8 h by shared jeep via Jorethang", "text": "Take the early jeep from Uttarey towards Jorethang; your hosts will book the seat. Change at Jorethang for Siliguri. It is a long day, so carry snacks and water. If your train or flight is in the evening, this works; if it leaves early, spend the last night in Jorethang or Siliguri.", "meals": "Breakfast", "spend": "₹300–400 jeep seat + ₹300 onward + ₹150 lunch"}
+  ],
+  "stays": ["pelling-hotel-garuda"],
+  "includes": ["Shared jeep seats on all main legs", "One night in a Pelling budget room", "Four nights in village homestays with dinner and breakfast", "A shared local guide for the ridge walk"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Reserved cars", "Crossing into Nepal (not permitted on this route for tourists)", "Tips"],
+  "save_money": [
+    "Homestay rates include dinner and breakfast, so the only daily extra is lunch and tea.",
+    "Visit in the monsoon shoulder months of late September or early March, when village rates are lowest and the hills still green.",
+    "Book the morning jeeps through your hosts; they know the drivers and the real seat price."
+  ],
+  "good_to_know": [
+    "Uttarey lies near the Nepal border; carry photo ID and follow any instructions at border posts.",
+    "Foreign nationals need a Sikkim Restricted Area Permit. Check current status before you travel.",
+    "Mobile signal in Uttarey and Dentam is patchy; carry cash, there are no reliable ATMs.",
+    "Roads beyond Pelling are narrow and can be blocked by landslides in the monsoon; check current status before you travel."
+  ],
+  "faqs": [
+    {"q": "Where is Uttarey?", "a": "Uttarey is a village at about 2,000 m in Gyalshing district, near the Nepal border, roughly 30 km beyond Pelling via Dentam. It sits below the Singalila ridge and was on the old foot route over Chewabhanjyang into Nepal. Today it is known for homestays, forest walks and quiet."},
+    {"q": "Can I walk from Uttarey into Nepal?", "a": "Not as a tourist on this trip. Chewabhanjyang is a border pass with a security post, and crossing needs permissions that are not given for casual walking. Day walks towards the ridge are possible with a local guide. Check current status before you travel, as border rules change."},
+    {"q": "How do I reach Uttarey by public transport?", "a": "Take a shared jeep from Siliguri to Jorethang, then a jeep towards Pelling or Gyalshing and onwards to Dentam and Uttarey, or a direct Jorethang to Uttarey jeep if one is running. Departures are few and mostly in the morning. Your homestay can advise on the current timings."},
+    {"q": "What is Singshore Bridge?", "a": "A road suspension bridge between Dentam and Uttarey, about 240 m long and roughly 100 m above the gorge below. It is said to be the highest suspension bridge in Sikkim. Vehicles cross it, and visitors walk across for the view down. It is free to visit."},
+    {"q": "How much does this trip cost?", "a": "About ₹12,500 per person, twin sharing, from NJP back to NJP, indicative for 2025–26. That includes jeep seats, a Pelling budget room, four nights of village homestays with meals, food and a shared guide. Solo travellers pay a little more per night at most homestays."},
+    {"q": "Is Uttarey cold in winter?", "a": "Yes. At about 2,000 m, nights in December and January fall close to freezing and mornings can be frosty, though days are often sunny and clear. Homestays provide thick quilts; ask about a heater or a hot water bottle. Pack thermals, a down jacket and woollen socks."},
+    {"q": "Is there anything to do in Uttarey?", "a": "Uttarey is about walking and resting: forest trails towards the Singalila ridge, Mainebas waterfall, a small lake, farm paths and birdwatching. Singshore Bridge is nearby. If you need a full sightseeing list each day, base yourself in Pelling instead and visit on a day trip."},
+    {"q": "Is food at Uttarey homestays vegetarian?", "a": "Most homestays cook rice, dal, seasonal vegetables, saag and pickles, and many also cook chicken or eggs. Tell your hosts in advance if you are vegetarian, vegan or avoid particular foods; they are used to requests. Local squash, greens and cheese often appear on the table."},
+    {"q": "Can I add Barsey to this trip?", "a": "Barsey is on the same Singalila range but is reached from Hilley on the Soreng side, not from Uttarey by a regular road. You would go back via Jorethang and Sombaria. It is better as a separate trip or an extension of two nights."}
+  ]
+}

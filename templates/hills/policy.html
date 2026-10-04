@@ -1,0 +1,13 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}{{ pol.title }} · Darjeeling Himalayas{% endblock %}
+{% block description %}{{ pol.summary }}{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:20px"><div class="phead__body" style="margin-top:0">
+  <p class="eyebrow">Policy · updated {{ updated }}</p><h1 class="h-1">{{ pol.title }}</h1><p class="lede">{{ pol.summary }}</p>
+  <p class="notice" style="margin-top:18px">Draft for legal review. Text in [brackets] must be completed before launch.</p>
+</div></div></header>
+<section class="sec--tight"><div class="wrap article" style="grid-template-columns:220px minmax(0,1fr)">
+  <nav class="toc-side" aria-label="Other policies"><b>Policies</b>{% for k, n in others %}<a href="{% url 'policy' k %}">{{ n }}</a>{% endfor %}</nav>
+  <article class="prose">{% for s in sections %}<h2>{{ s.heading }}</h2>{% for b in s.blocks %}{% if b.p %}<p>{{ b.p }}</p>{% elif b.list %}<ul>{% for x in b.list %}<li>{{ x }}</li>{% endfor %}</ul>{% elif b.table %}<div class="scroll-x"><table class="tbl"><thead><tr>{% for h in b.table.head %}<th scope="col">{{ h }}</th>{% endfor %}</tr></thead><tbody>{% for row in b.table.rows %}<tr>{% for c in row %}<td>{{ c }}</td>{% endfor %}</tr>{% endfor %}</tbody></table></div>{% endif %}{% endfor %}{% endfor %}</article>
+</div></section>
+{% endblock %}

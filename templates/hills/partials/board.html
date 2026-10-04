@@ -1,0 +1,14 @@
+{% load hills %}<div class="board" data-flap-board>
+  <div class="board__head"><span>Departures · shared and reserved</span><span>Fares indicative · check on the day</span></div>
+  <table>
+    <thead><tr><th scope="col">From</th><th scope="col">To</th><th scope="col">How</th><th scope="col">Time</th><th scope="col">Fare</th></tr></thead>
+    <tbody>{% for b in rows %}<tr>
+      <td><a href="{{ b.url }}"><span class="flap">{% for ch in b.from_code %}<span>{{ ch }}</span>{% endfor %}</span></a></td>
+      <td><a href="{{ b.url }}"><span class="flap">{% for ch in b.to_code %}<span>{{ ch }}</span>{% endfor %}</span></a></td>
+      <td class="board__mode">{{ b.mode }}</td>
+      <td class="board__mode">{{ b.time }}</td>
+      <td><span class="flap flap--fare">{% for ch in b.fare_code %}<span>{{ ch }}</span>{% endfor %}</span></td>
+    </tr>{% endfor %}</tbody>
+  </table>
+  <p class="board__foot">From our route pages. Fares change with fuel prices, season and demand: check current status before you travel.</p>
+</div>

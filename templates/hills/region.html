@@ -1,0 +1,131 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}{{ r.name }} on a budget · Places, trips and real costs · Darjeeling Himalayas{% endblock %}
+{% block description %}{{ r.meta_description }}{% endblock %}
+{% block og_title %}{{ r.name }} · Darjeeling Himalayas{% endblock %}
+{% block og_image %}{% with img=r|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block body_attrs %} data-land="{{ r.slug }}"{% endblock %}
+{% block fab_label %}Plan {{ r.short }}{% endblock %}{% block fab_land %}&land={{ r.slug }}{% endblock %}
+{% block crumbs %}{% endblock %}
+{% block content %}
+<header class="phead">
+  {% with img=r|first_img %}<div class="phead__img">{% if img %}<img src="{{ img|src:1920 }}" srcset="{{ img|srcset }}" sizes="100vw" alt="{{ r.name }}" fetchpriority="high">{% endif %}</div>
+  <div class="wrap phead__in">
+    {% include "hills/partials/crumbs.html" with crumbs_inline=1 %}
+    <div class="phead__body">
+      <span class="lbadge lbadge--lg">{% icon r.slug %}</span>
+      <p class="eyebrow" style="margin-top:18px">{{ r.palette }}</p>
+      <h1 class="h-hero">{{ r.name }}</h1>
+      <p class="lede">{{ r.tagline }}</p>
+      <div class="milestones">
+        {% if r.min_alt %}<span class="milestone"><span class="milestone__cap">Altitude</span><span class="milestone__val">{{ r.min_alt|intcomma_plain }}–{{ r.max_alt|intcomma_plain }}<small>m</small></span></span>{% endif %}
+        {% if r.per_day_from %}<span class="milestone"><span class="milestone__cap">From</span><span class="milestone__val">{{ r.per_day_from|inr }}<small>/day</small></span></span>{% endif %}
+        {% if r.best_label %}<span class="milestone"><span class="milestone__cap">Best</span><span class="milestone__val" style="font-size:1.05rem">{{ r.best_label }}</span></span>{% endif %}
+      </div>
+    </div>
+  </div>
+  {% if img %}<p class="phead__credit">Photo: <a href="{{ img.source }}" rel="noopener" target="_blank">{{ img|short_credit }}</a>, Wikimedia Commons</p>{% endif %}{% endwith %}
+</header>
+
+<section class="sec--tight">
+  <div class="wrap"><div class="brief">{% icon "mist" %}<div><b>In brief</b><p>{{ r.summary }}</p></div></div></div>
+</section>
+
+{% if r.story %}
+<section class="sec--tight">
+  <div class="wrap">
+    <article class="story" data-deva="{{ r.places.0.name_local|default:'' }}">
+      <p class="story__eyebrow">{% icon "story" %}The story of {{ r.short }}</p>
+      <h2 class="h-1">{{ r.story.title }}</h2>
+      <div class="story__body">{% for p in r.story.paras %}<p>{{ p }}</p>{% endfor %}</div>
+    </article>
+  </div>
+</section>
+{% endif %}
+
+<section class="sec">
+  <div class="wrap split">
+    <div>
+      <p class="eyebrow">About {{ r.short }}</p>
+      {% for p in r.intro %}<p>{{ p }}</p>{% endfor %}
+      <h2 class="h-2" style="margin:36px 0 18px">Six reasons to go</h2>
+      <div class="hl-list">{% for h in r.highlights %}<div><b>{{ h.title }}</b><p>{{ h.text }}</p></div>{% endfor %}</div>
+    </div>
+    <aside style="display:grid;gap:22px">
+      <dl class="kv">{% for k, v in r.facts %}<div><dt>{{ k }}</dt><dd>{{ v }}</dd></div>{% endfor %}</dl>
+      <div><p class="eyebrow">Month by month</p>{% include "hills/partials/mbar.html" with bar=r.bar label=r.best_label %}</div>
+      {% if r.money %}<div class="costs"><div class="costs__head">{% icon "rupee" %}What a day really costs</div><p style="margin:14px 0 0">{{ r.money }}</p></div>{% endif %}
+    </aside>
+  </div>
+</section>
+
+<section class="sec sec--paper2" aria-labelledby="places-h">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">Where to go</p><h2 class="h-1" id="places-h">Places in {{ r.short }}</h2></div></div>
+    <div class="grid grid--4">{% for p in r.top_places %}{% include "hills/partials/card_place.html" %}{% endfor %}</div>
+  </div>
+</section>
+
+{% if map_points %}
+<section class="sec" aria-labelledby="map-h">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">The map</p><h2 class="h-2" id="map-h">How the places sit on the hills</h2></div></div>
+    {% atlas map_points region=r.slug %}
+  </div>
+</section>
+{% endif %}
+
+{% if r.journeys %}
+<section class="sec sec--paper2" aria-labelledby="trips-h">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">Trips with the fare printed</p><h2 class="h-1" id="trips-h">{{ r.short }} trips</h2></div>
+      <div class="filters" data-filter-group="#land-trips" style="margin:0"><button type="button" data-key="tier" data-value="" aria-pressed="true">All</button><button type="button" data-key="tier" data-value="Shoestring" aria-pressed="false">Shoestring</button><button type="button" data-key="tier" data-value="Value" aria-pressed="false">Value</button><button type="button" data-key="tier" data-value="Comfort" aria-pressed="false">Comfort</button></div></div>
+    <div class="tickets" id="land-trips">{% for j in r.journeys %}{% include "hills/partials/ticket.html" %}{% endfor %}</div>
+  </div>
+</section>
+{% endif %}
+
+<section class="sec" aria-labelledby="months-h">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">When to go</p><h2 class="h-1" id="months-h">{{ r.short }}, month by month</h2></div></div>
+    <div class="grid grid--4">{% for m in months %}<a class="gcard" href="{% url 'region_month' r.slug m.slug %}"><span class="gcard__cat">{% if m.rating == 2 %}Best{% elif m.rating == 1 %}Good{% else %}Think twice{% endif %}</span><b>{{ m.name }}</b><p>{{ m.weather }}</p></a>{% endfor %}</div>
+  </div>
+</section>
+
+{% if experiences %}
+<section class="sec sec--paper2 sec--contour" aria-labelledby="exp-h">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">Things to do</p><h2 class="h-1" id="exp-h">One good morning in each place</h2></div>
+      {% if kinds %}<div class="chips">{% for k, n in kinds %}<a class="chip" href="{% url 'region_kind' r.slug k %}">{% icon k %}{{ n }}</a>{% endfor %}</div>{% endif %}</div>
+    <div class="grid grid--3">{% for e in experiences %}{% include "hills/partials/card_exp.html" %}{% endfor %}</div>
+  </div>
+</section>
+{% endif %}
+
+<section class="sec">
+  <div class="wrap split">
+    <div>
+      <p class="eyebrow">Getting there</p><h2 class="h-2" style="margin-bottom:16px">Reaching {{ r.short }}</h2><p>{{ r.getting_there }}</p>
+      {% if r.permits %}<p class="eyebrow" style="margin-top:28px">Permits</p><p>{{ r.permits }}</p>{% endif %}
+      {% if r.routes %}<div class="chips" style="margin-top:20px">{% for rt in r.routes %}<a class="chip" href="{{ rt.url }}">{% icon "route" %}{{ rt.from_obj.name }} to {{ rt.to_obj.name }}</a>{% endfor %}</div>{% endif %}
+    </div>
+    <div>
+      {% if r.stays %}<p class="eyebrow">Where to sleep</p><div class="grid grid--2">{% for s in r.stays|slice:":4" %}{% include "hills/partials/card_stay.html" %}{% endfor %}</div>{% endif %}
+    </div>
+  </div>
+</section>
+
+{% if r.guides or r.festivals or styles %}
+<section class="sec sec--paper2">
+  <div class="wrap">
+    {% if r.guides %}<div class="sec__head"><div><p class="eyebrow">Read before you go</p><h2 class="h-1">{{ r.short }} guides</h2></div></div>
+    <div class="grid grid--3">{% for g in r.guides %}{% include "hills/partials/card_guide.html" %}{% endfor %}</div>{% endif %}
+    {% if r.festivals %}<p class="eyebrow" style="margin-top:44px">Festivals</p><div class="chips">{% for f in r.festivals %}<a class="chip" href="{{ f.url }}">{% icon "flag" %}{{ f.name }} · {{ f.when|truncatechars:34 }}</a>{% endfor %}</div>{% endif %}
+    {% if styles %}<p class="eyebrow" style="margin-top:30px">Ways to travel here</p><div class="chips">{% for t in styles %}<a class="chip" href="{% url 'region_theme' r.slug t.slug %}">{% icon "leaf" %}{{ t.name }}</a>{% endfor %}</div>{% endif %}
+  </div>
+</section>
+{% endif %}
+
+<section class="sec"><div class="wrap wrap--narrow">{% include "hills/partials/faq.html" with faqs=r.faqs faq_title="Questions about "|add:r.short %}</div></section>
+{% include "hills/partials/nudge.html" with nudge_slug=r.slug %}
+{% endblock %}
+{% block cta %}{% include "hills/partials/cta.html" with cta_land=r.slug %}{% endblock %}

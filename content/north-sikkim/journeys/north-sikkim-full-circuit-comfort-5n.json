@@ -1,0 +1,79 @@
+{
+  "slug": "north-sikkim-full-circuit-comfort-5n",
+  "title": "North Sikkim at a safe pace, by private car",
+  "region": "north-sikkim",
+  "nights": 5,
+  "themes": ["snow-and-passes", "kanchenjunga-views", "family-trips", "photography"],
+  "tier": "Comfort",
+  "travel_mode": "Reserved car",
+  "stops": [{"place": "singhik", "nights": 1}, {"place": "lachen", "nights": 2}, {"place": "lachung", "nights": 2}],
+  "start": "Gangtok (pickup from your hotel)",
+  "end": "Gangtok",
+  "price_from_inr": 37500,
+  "cost_split": [
+    {"item": "Reserved SUV with driver and permits, 6 days, half share", "inr": 18000},
+    {"item": "Better hotels, 5 nights with dinner and breakfast", "inr": 15000},
+    {"item": "Zero Point add-on, half share", "inr": 2000},
+    {"item": "Lunches, tea and snacks", "inr": 1500},
+    {"item": "Boot rental, oxygen can, tips", "inr": 1000}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Balanced",
+  "max_altitude_m": 5183,
+  "meta_description": "North Sikkim in 5 nights by private car: Singhik, 2 nights in Lachen, Gurudongmar, 2 in Lachung, Yumthang and Zero Point, from ₹37,500 per person.",
+  "summary": "The full North Sikkim circuit, done the way we would want our parents to do it: a private car, a gentle first night at Singhik, two nights in Lachen to acclimatise before Gurudongmar, and two in Lachung for Yumthang and Zero Point. About ₹37,500 per person for two sharing, from Gangtok. Check current status before you travel.",
+  "intro": [
+    "The standard 3-day tour packs Gurudongmar and Yumthang into one breathless rush, and many people come home with headaches and little else. This trip costs more because it moves slower. A private car means you stop where you want. A first night at Singhik, at about 1,560 m, splits the long drive. Two nights in Lachen give your body a day to adjust before the climb to about 5,180 m.",
+    "Then two nights in Lachung let you see the village as well as Yumthang and Zero Point. Rooms are better than on shared tours, with heating where available. The price assumes two people sharing the car and a room; a family of four in one vehicle pays noticeably less per person. Since 2023, closures on the Lachen road in particular are common. Check current status before you travel."
+  ],
+  "highlights": [
+    "Kanchenjunga sunrise from Singhik on the first morning",
+    "A spare acclimatisation day in Lachen with Thangu and Chopta",
+    "Gurudongmar Lake at dawn with less risk",
+    "Yumthang's rhododendrons and snow at Zero Point",
+    "Your own car, your own stops, better rooms"
+  ],
+  "days": [
+    {"day": 1, "title": "Gangtok to Singhik via Kabi and Phodong", "place": "singhik", "overnight": "Singhik", "drive": "≈ 70 km · 4 h with stops", "text": "Your driver collects you from your Gangtok hotel at 9 am with permits ready. Stop at Kabi Lungchok, where the Lepcha chief Thekong Tek and the Tibetan prince Khye Bumsa swore blood brotherhood in the 13th century, and at the Seven Sisters waterfall. Visit Phodong Monastery, an early 18th-century Kagyu gompa, before lunch in Mangan. Reach Singhik by mid-afternoon, at about 1,560 m, and watch the light on the Teesta gorge. A short day designed to ease you north.", "meals": "Dinner", "spend": "₹250 lunch + ₹100 donations"},
+    {"day": 2, "title": "Singhik sunrise, then up to Lachen", "place": "lachen", "overnight": "Lachen", "drive": "≈ 60 km · 3–4 h", "text": "Be at Singhik's viewpoint before sunrise for Kanchenjunga and Siniolchu. After breakfast drive north to Chungthang, where the Lachen and Lachung rivers meet, and see what the 2023 flood did to the Teesta III dam and the town. Continue up the Lachen Chu to Lachen, about 2,750 m, by early afternoon. Walk slowly up to Lachen Monastery, Ngodrub Choling, built in 1858. Drink plenty of water and eat a proper dinner.", "meals": "Breakfast, Dinner", "spend": "₹250 lunch"},
+    {"day": 3, "title": "Acclimatisation day: Thangu and Chopta", "place": "chopta-valley", "overnight": "Lachen", "drive": "≈ 70 km return · 4–5 h", "text": "Today you climb high and sleep low. After breakfast, drive 30 km up to Thangu, about 3,900 m, for tea, then on to Chopta Valley at about 4,000 m, where you walk very slowly on the meadows or beside the winter ice. Watch everyone for headaches or nausea; anyone with strong symptoms should skip tomorrow's lake. Return to Lachen by early afternoon, rest, and lay out warm clothes. Sleep by 8 pm; the driver will knock at 3 am.", "meals": "Breakfast, Dinner", "spend": "₹200 tea and snacks at Thangu"},
+    {"day": 4, "title": "Gurudongmar at dawn, then Lachung", "place": "gurudongmar", "overnight": "Lachung", "drive": "≈ 130 km · 9–10 h including the lake", "text": "Leave Lachen at 3–4 am, stay awake on the drive, and reach Gurudongmar around 7 am. Spend 20–40 minutes at the sacred lake, walking slowly along the shore among the prayer flags. Return to Lachen for breakfast, then drive down to Chungthang and up the Lachung valley, arriving mid-afternoon. With your own car you can stop at the confluence and on the Lachung road for photographs. Check in to a heated room and rest.", "meals": "Breakfast, Dinner", "spend": "₹250 lunch + ₹700 oxygen can (optional)"},
+    {"day": 5, "title": "Yumthang and Zero Point", "place": "yumthang", "overnight": "Lachung", "drive": "≈ 94 km return · 5–6 h", "text": "Leave at 6 am for Yumthang Valley, 24 km up through the Shingba Rhododendron Sanctuary, then on to Zero Point at about 4,700 m for snow. After Gurudongmar, it will feel easier. Stop at the Yumthang hot spring on the way down and be back in Lachung for lunch. In the afternoon, walk up to Lachung Monastery, founded in 1880, or wander the orchard lanes on the east bank. Last dinner in the Dzumsa village.", "meals": "Breakfast, Dinner", "spend": "₹2,000 Zero Point share + ₹200 boot rental"},
+    {"day": 6, "title": "Lachung to Gangtok", "place": "lachung", "overnight": "Gangtok (not included)", "drive": "≈ 118 km · 6–7 h", "text": "A relaxed start after breakfast. Drive down the Lachung valley to Chungthang and south along the Teesta, with a lunch stop in Mangan or Singhik. Use the private car to stop wherever you missed something on the way up. Reach Gangtok by late afternoon. If you have an onward train or flight, keep it for the next day: a landslide can easily add three or four hours to this drive.", "meals": "Breakfast", "spend": "₹250 lunch + ₹300 tip for the driver"}
+  ],
+  "stays": ["singhik-tourist-lodge", "lachung-yarlam-resort"],
+  "includes": [
+    "Reserved SUV with driver for 6 days, fuel and permits",
+    "Five nights in better hotels or homestays with dinner and breakfast",
+    "Thangu and Chopta, Gurudongmar, Yumthang and Zero Point (subject to permits)"
+  ],
+  "excludes": [
+    "Transport between NJP/Bagdogra and Gangtok",
+    "Gangtok hotel nights",
+    "Lunches and snacks",
+    "Tips for the driver",
+    "Room heaters where charged extra"
+  ],
+  "save_money": [
+    "Travel as four in one car; the vehicle cost per person falls by almost half.",
+    "Ask for good homestays instead of named hotels in Lachen; the difference in comfort is small.",
+    "Go in March or early November, outside the peak weeks, when car and room rates drop."
+  ],
+  "good_to_know": [
+    "Foreign nationals cannot visit Gurudongmar, Chopta or Zero Point; ask for a Lachung-focused version.",
+    "Chopta and Thangu must be on your permit; confirm with the agent in writing.",
+    "Driver tips of ₹300–500 a day are customary for good service.",
+    "The Lachen road has had long closures since 2023; check current status before you travel."
+  ],
+  "faqs": [
+    {"q": "Why spend two nights in Lachen?", "a": "Because Gurudongmar is roughly 2,400 m higher than Lachen. With one night, your body has almost no time to adjust, and headaches and sickness are common. A spare day spent at Thangu and Chopta, then sleeping back in Lachen, reduces the risk and makes the lake visit far more pleasant."},
+    {"q": "How much does a private car for North Sikkim cost?", "a": "For 6 days from Gangtok with driver, fuel and permits, roughly ₹30,000–40,000 per vehicle in 2025–26, depending on the car and season. Split between two people that is about ₹15,000–20,000 each; between four, about half that. Zero Point is extra."},
+    {"q": "Is this trip suitable for older travellers?", "a": "It is designed to be gentler than the standard tour, with a low first night and an acclimatisation day. People over 60 should still consult a doctor about Gurudongmar and can skip the lake while the rest go. Yumthang and Chopta are good alternatives."},
+    {"q": "Can we do this trip with children?", "a": "Yes, with care. The slower pace helps. Children under five should not go to Gurudongmar or Zero Point; an adult can stay with them in Lachen or at Yumthang. Pack warm clothes, snacks and motion-sickness medicine, and keep the car well ventilated."},
+    {"q": "What kind of hotels are used?", "a": "Better small hotels and well-run homestays with heated rooms where available, attached bathrooms and reliable hot water. North Sikkim has no luxury properties; even the best rooms are simple by city standards. Ask for named hotels such as Yarlam Resort in Lachung for more comfort."},
+    {"q": "Can foreigners take this trip?", "a": "Not in this form. Foreign nationals cannot visit Gurudongmar, Zero Point and, under current rules, may not be allowed to Chopta or Thangu. A Comfort-tier Lachung and Yumthang trip with Singhik and Dzongu works instead. Check current status before you travel."},
+    {"q": "What if the Lachen road is closed?", "a": "Your agent should switch you to more nights in Lachung and the lower valleys, such as Singhik, Mangan and Dzongu. Agree in advance how the price changes if Gurudongmar is cancelled. Do not book this trip in the monsoon."},
+    {"q": "Which car is best for North Sikkim?", "a": "Local operators use Bolero, Scorpio, Xylo and Innova vehicles. For two or three people, any of them is fine; for families, an Innova is more comfortable. Ask for a newer vehicle and a driver who regularly runs the Lachen and Lachung routes."},
+    {"q": "Should we tip the driver?", "a": "It is customary. For a good driver on a 6-day trip, ₹300–500 a day is normal, given at the end. Drivers in North Sikkim work long hours on hard roads and often help with luggage, permits and finding rooms."}
+  ]
+}

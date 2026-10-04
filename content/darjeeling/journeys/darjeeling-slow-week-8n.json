@@ -1,0 +1,73 @@
+{
+  "slug": "darjeeling-slow-week-8n",
+  "title": "A slow week: Darjeeling, Lepchajagat, Mungpoo",
+  "region": "darjeeling",
+  "nights": 8,
+  "themes": ["tea-country", "wildlife-birds", "kanchenjunga-views", "toy-train"],
+  "tier": "Comfort",
+  "travel_mode": "Reserved car",
+  "stops": [{"place": "darjeeling", "nights": 4}, {"place": "lepchajagat", "nights": 2}, {"place": "mungpoo", "nights": 2}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 45000,
+  "cost_split": [
+    {"item": "Reserved car for transfers, Tiger Hill and day outings", "inr": 11000},
+    {"item": "Darjeeling hotel, 4 nights in a better room with breakfast", "inr": 12000},
+    {"item": "Lepchajagat forest resort, 2 nights with meals", "inr": 6000},
+    {"item": "Mungpoo homestay, 2 nights with meals", "inr": 5000},
+    {"item": "Steam joyride, ropeway, entry fees and donations", "inr": 3500},
+    {"item": "Lunches, dinners in town and tea", "inr": 7500}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2567,
+  "meta_description": "8 slow nights from ₹45,000: four in Darjeeling with the steam train and Tiger Hill, two in Lepchajagat's Lepcha forest and two in Tagore's Mungpoo.",
+  "summary": "A week for people who hate packing. Four nights in Darjeeling to walk its history at an easy pace, two in the forest at Lepchajagat for birds and dawn views, and two in Mungpoo, where Tagore stayed four times and India's first quinine factory began in 1864. About ₹45,000 per person, twin sharing.",
+  "intro": [
+    "Most visitors give Darjeeling two days. With four you start to see the layers: the Lepcha hill country before 1835, when the Chogyal of Sikkim granted the hill to the East India Company; the sanatorium and the tea gardens that followed Dr Archibald Campbell's China seeds around 1841; the railway of 1881; the Tibetan refugees of 1959, who set up the self-help centre at Hill Side; and Tenzing Norgay's institute of 1954. Four nights let you walk them at the pace of the town, with afternoons in a tea room.",
+    "Then two quieter places. Lepchajagat, the place of the Lepchas, sits at about 2,120 m in pine, oak and rhododendron forest on the Ghoom–Mirik road. Mungpoo, lower and warmer, grew cinchona for quinine from 1864, and between 1938 and 1940 Rabindranath Tagore stayed there four times with Maitreyi Devi and Dr Manmohan Sen; his rooms are now the Rabindra Bhavan museum. We keep one car with you throughout and never move two days running."
+  ],
+  "highlights": [
+    "Four unhurried nights in Darjeeling, with Tiger Hill and the steam train",
+    "The Tibetan Refugee Self Help Centre and Happy Valley tea garden",
+    "Dawn and birdsong in the Lepcha forest at Lepchajagat",
+    "Tagore's rooms at Rabindra Bhavan in Mungpoo",
+    "The cinchona slopes of India's first quinine plantation"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Darjeeling", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 70 km · 3 h by reserved car", "text": "Your car meets you at NJP or Bagdogra for the climb through Kurseong and Ghoom, about three hours. Check in to a hotel near the Mall with a better room, heaters and a view north if you can get one. Do nothing more strenuous today than a walk to Chowrasta and along the Mall loop. Look for the statue of Bhanubhakta Acharya, the poet who rendered the Ramayana in Nepali, and drink your first pot of Darjeeling tea where it grows.", "meals": "Dinner", "spend": "₹2,250 car share + ₹600 dinner"},
+    {"day": 2, "title": "Observatory Hill and the old town", "place": "darjeeling", "overnight": "Darjeeling", "drive": "", "text": "Start on Observatory Hill, where the Mahakal shrine is shared by Hindu and Buddhist priests and tradition places the Buddhist shrine of Dorje-ling that gave the town its name. Walk down to Chowk Bazaar and on to Lloyd Botanic Garden, laid out in 1878 on land given by the Lloyd family. In the afternoon, find Sister Nivedita's memorial at the cremation ground below the railway station; she died in Darjeeling on 13 October 1911. Tea at Glenary's on Nehru Road ends the day.", "meals": "Breakfast, dinner", "spend": "Small garden fee + ₹400 tea and cake"},
+    {"day": 3, "title": "Tiger Hill dawn and the mountaineers", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 30 km round trip by car · leaves about 4 am", "text": "Take your car to Tiger Hill at about 4 am for the dawn over Kanchenjunga, returning through Ghoom monastery, founded in 1850, and the Batasia Loop. Sleep after breakfast. In the afternoon visit the Himalayan Mountaineering Institute, founded on 4 November 1954, with Tenzing Norgay's memorial and the Everest Museum, and the zoo next door, opened in 1958, where red pandas and snow leopards are bred. Keep the evening quiet; Keventer's terrace is good for an early supper.", "meals": "Breakfast, dinner", "spend": "Tiger Hill fees + ₹100–150 HMI and zoo"},
+    {"day": 4, "title": "Steam train, tea and carpets", "place": "darjeeling", "overnight": "Darjeeling", "drive": "Short hops by reserved car", "text": "Ride the steam joyride, roughly ₹1,500–1,800 on IRCTC, round the Batasia Loop to Ghoom and back. After lunch drive down Lebong Cart Road to Happy Valley Tea Estate, then to the Tibetan Refugee Self Help Centre, set up in October 1959, where weavers knot carpets on the looms. If the weather is calm, ride the ropeway, opened in 1968, down towards the Rangeet valley tea gardens; check current status before you travel. Buy tea to take home tonight.", "meals": "Breakfast, dinner", "spend": "₹1,500–1,800 joyride + ₹200–300 ropeway"},
+    {"day": 5, "title": "Ghoom and the road to Lepchajagat", "place": "lepchajagat", "overnight": "Lepchajagat", "drive": "≈ 19 km · 1 h by reserved car", "text": "Leave after a late breakfast. Stop at Ghoom for Samten Choling and the small railway museum at the station, at 2,258 m the highest on the line. Then take the Mirik road west into the forest to Lepchajagat, at about 2,120 m. Check in to the WBFDC Nature and Wilderness Resort, six rooms, two with balconies, booked on the WBFDC portal up to 90 days ahead. Walk the forest edge before the afternoon mist comes up, and sleep early.", "meals": "Breakfast, dinner", "spend": "₹750 car share + donations"},
+    {"day": 6, "title": "Dawn, birds and Jorepokhri", "place": "lepchajagat", "overnight": "Lepchajagat", "drive": "Optional ≈ 10 km each way by car", "text": "Walk to the village viewpoint for Kanchenjunga at first light, then spend the early morning on the forest paths with binoculars. After breakfast, drive to Sukhia Pokhari and Jorepokhri, the twin ponds declared India's first salamander sanctuary in 1985. Recent reporting says paving and tourist works have changed them so much that the newts no longer breed there, and we would rather tell you than sell you a sighting. Come back for lunch and a long misty afternoon with a book.", "meals": "Breakfast, lunch, dinner", "spend": "₹750 car share + small entry fee"},
+    {"day": 7, "title": "Across the hills to Mungpoo", "place": "mungpoo", "overnight": "Mungpoo", "drive": "≈ 40 km · 2–2.5 h by reserved car via Ghoom", "text": "Drive back through Ghoom and down the hill road your driver says is open to Mungpoo, at roughly 1,100–1,200 m and noticeably warmer. Check in to a village homestay. In the afternoon walk the lanes of the cinchona plantation, begun in 1864 as the first in India to make quinine, and now run by the state Directorate of Cinchona and Other Medicinal Plants. The slopes of cinchona trees look nothing like tea; ask your hosts which family members still work for the directorate.", "meals": "Breakfast, dinner", "spend": "₹1,750 car share"},
+    {"day": 8, "title": "Tagore's Mungpoo", "place": "mungpoo", "overnight": "Mungpoo", "drive": "", "text": "Spend the morning at Rabindra Bhavan, the house where Tagore stayed with Maitreyi Devi and her husband Dr Manmohan Sen, the factory chemist: in May–June 1938, twice in 1939, and from 21 April 1940, when his birthday was celebrated here. His furniture, photographs, paintings and letters remain. The museum has been closed for repairs at times, so check current status before you travel. Maitreyi Devi wrote about the visits in Mongpute Rabindranath; read a few pages on the porch this afternoon.", "meals": "Breakfast, lunch, dinner", "spend": "Small museum donation"},
+    {"day": 9, "title": "Down by the Teesta to NJP", "place": "mungpoo", "overnight": "", "drive": "≈ 70 km · 3 h by reserved car via Rambi and Sevoke", "text": "Leave after breakfast for Rambi on the Teesta, then follow the river south to Sevoke and Siliguri. Teesta valley roads, including NH10, have had long closures and diversions since the October 2023 flood: check current status before you travel. If the river road is shut, your driver will return over the hills to the Hill Cart Road, which adds an hour or more. Aim to reach NJP or Bagdogra by early afternoon.", "meals": "Breakfast", "spend": "₹2,250 car share + ₹300 lunch"}
+  ],
+  "stays": ["darjeeling-dekeling-hotel", "darjeeling-meghbalika-tourist-lodge", "lepchajagat-wbfdc-nature-resort"],
+  "includes": ["Reserved car for all transfers, Tiger Hill and the day outings", "Darjeeling hotel, 4 nights in a better room with breakfast, twin sharing", "WBFDC forest resort at Lepchajagat, 2 nights with meals", "Mungpoo homestay, 2 nights with meals", "Steam joyride, ropeway, entry fees and donations"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Lunches in Darjeeling beyond the estimate", "Pashupati market detour", "Tea bought to take home", "Tips"],
+  "save_money": [
+    "Four nights in one Darjeeling hotel often earns a better nightly rate than two short stays; ask when you book directly.",
+    "Book the WBFDC rooms at Lepchajagat the day the 90-day window opens; if they are gone, a village homestay costs less.",
+    "Plan this week for late February to April or November: clear enough for views, and cheaper than the October and May peaks."
+  ],
+  "good_to_know": [
+    "WBFDC bookings for Lepchajagat open about 90 days ahead on the WBFDC portal, and there are only six rooms.",
+    "Rabindra Bhavan has been under repair at times; check current status before you travel.",
+    "Teesta valley roads have had long closures since October 2023: check current status before you travel.",
+    "Lepchajagat is cold and misty most afternoons; Mungpoo is about 900 m lower and warmer. Pack for both."
+  ],
+  "faqs": [
+    {"q": "Why spend four nights in Darjeeling?", "a": "Because the town has more history than two days can hold: Observatory Hill, the tea gardens, the 1881 railway, the 1954 mountaineering institute, the Tibetan refugee centre from 1959, Sister Nivedita's memorial and the old tea rooms. Four nights also give you two chances at a clear dawn, which matters more than any single sight."},
+    {"q": "How much does this slow week cost?", "a": "About ₹45,000 per person, twin sharing, from NJP back to NJP, indicative for 2025–26. That covers a reserved car throughout, four nights in a better Darjeeling room with breakfast, two nights at the Lepchajagat forest resort and two in a Mungpoo homestay with meals, the steam joyride, ropeway, entry fees and food."},
+    {"q": "How do we book the Lepchajagat forest resort?", "a": "The WBFDC Lepchajagat Nature and Wilderness Resort has six rooms, two with balconies, and is booked on the West Bengal Forest Development Corporation's online portal, which opens about 90 days ahead. Rooms go quickly for October and the holidays. If it is full, village homestays in Lepchajagat are a good alternative."},
+    {"q": "Is Mungpoo worth two nights?", "a": "For a slow trip, yes. One day goes to Rabindra Bhavan and the story of Tagore's four visits; the other to the cinchona plantation and the lanes of a working government village. Mungpoo is warmer than Darjeeling and very quiet. If the museum is closed for repair, one night is enough; check current status before you travel."},
+    {"q": "Is this trip good for older travellers?", "a": "It is designed for them: one car throughout, no moves on consecutive days, short drives and easy walks. Ask Darjeeling hotels about steps and lifts, and skip Tiger Hill if a 4 am start is too much, since the view from the Mall is fine on clear mornings. Carry regular medicines and warm layers."},
+    {"q": "What birds might we see at Lepchajagat?", "a": "The forest of pine, oak and rhododendron holds many Himalayan species, from small warblers and tits to laughingthrushes and, with luck, pheasants at the forest edge. Early mornings are best, before the mist rises. We do not promise particular species; bring binoculars and ask your hosts where birds have been seen lately."},
+    {"q": "Can we see Tagore's room at Mungpoo?", "a": "Rabindra Bhavan keeps the rooms where Tagore stayed as a guest of Maitreyi Devi and Dr Manmohan Sen, with his furniture, photographs, paintings and letters. Visits are usually short and quiet. The museum has been closed for repairs at times, so check current status before you travel, and ask before taking photographs inside."},
+    {"q": "When is the best time for this week?", "a": "October to early December for clear dawns, and March to April for rhododendrons, orchids and warmer days. November and late February are quieter and slightly cheaper. Avoid June to September if you want views, and check Teesta road conditions before any trip; landslides are frequent in the monsoon."},
+    {"q": "Can we do the week in reverse?", "a": "Yes, if the Teesta road is open: come up from Sevoke and Rambi to Mungpoo first, then cross to Lepchajagat and finish in Darjeeling before going down the Hill Cart Road. Starting low and warm suits some travellers. If the Teesta road is closed, keep the order as written."}
+  ]
+}

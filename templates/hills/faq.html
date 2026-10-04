@@ -1,0 +1,11 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Questions about travel in Darjeeling, Sikkim and the Dooars · Darjeeling Himalayas{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:20px"><div class="phead__body" style="margin-top:0">
+  <p class="eyebrow">FAQ</p><h1 class="h-1">Questions people ask</h1>
+  <div class="chips" style="margin-top:20px">{% for g in groups %}<a class="chip" href="#g{{ forloop.counter }}">{{ g.name }}</a>{% endfor %}</div>
+</div></div></header>
+<section class="sec--tight"><div class="wrap wrap--narrow">
+  {% for g in groups %}<div id="g{{ forloop.counter }}" style="margin-bottom:46px">{% include "hills/partials/faq.html" with faqs=g.faqs faq_title=g.name faq_id=forloop.counter %}{% if g.url %}<a class="link-arrow" href="{{ g.url }}" style="margin-top:14px">{{ g.name }} {% icon "arrow" %}</a>{% endif %}</div>{% endfor %}
+</div></section>
+{% endblock %}

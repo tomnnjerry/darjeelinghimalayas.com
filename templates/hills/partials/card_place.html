@@ -1,0 +1,6 @@
+{% load hills %}<div class="pcard rv" data-item data-land="{{ p.region }}" data-region="{{ p.region }}" data-kind="{{ p.kind|slugify }}">
+  {% photo p|first_img alt=p.name sizes="(max-width: 700px) 100vw, 25vw" credit=False %}
+  <span class="pcard__meta"><span>{{ p.kind|default:p.region_obj.short }}</span>{% if p.altitude_m %}<span class="pcard__alt">{{ p.altitude_m|intcomma_plain }} m</span>{% endif %}</span>
+  <a class="pcard__link" href="{{ p.url }}"><span class="pcard__name">{{ p.name }}</span>{% if p.name_local %}<span class="pcard__deva" lang="ne">{{ p.name_local }}</span>{% endif %}</a>
+  <span class="pcard__tag">{{ p.tagline }}</span>
+</div>

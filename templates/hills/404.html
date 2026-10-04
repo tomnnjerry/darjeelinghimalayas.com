@@ -1,0 +1,10 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Road closed · Darjeeling Himalayas{% endblock %}
+{% block content %}
+<section class="sec"><div class="wrap wrap--narrow" style="text-align:center">
+  <span class="milestone" style="margin:0 auto"><span class="milestone__cap">Road</span><span class="milestone__val">404</span></span>
+  <h1 class="h-1" style="margin-top:24px">Landslide on this road</h1>
+  <p class="lede" style="margin:16px auto 0">The page you wanted is not here. Try the search, or take one of these roads instead.</p>
+  <div class="chips" style="justify-content:center;margin-top:24px"><a class="chip" href="{% url 'home' %}">Home</a><a class="chip" href="{% url 'lands' %}">The hills</a><a class="chip" href="{% url 'journeys' %}">Trips</a><a class="chip" href="{% url 'fares' %}">Jeep fares</a><button class="chip" type="button" data-search-open style="border:0;cursor:pointer">Search</button></div>
+</div></section>
+{% endblock %}

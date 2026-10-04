@@ -1,0 +1,67 @@
+{
+  "slug": "kalimpong-lava-lolegaon-long-weekend-3n",
+  "title": "Lava and Lolegaon long weekend by car",
+  "region": "kalimpong",
+  "nights": 3,
+  "themes": ["long-weekends", "family-trips", "wildlife-birds", "kanchenjunga-views"],
+  "tier": "Value",
+  "travel_mode": "Reserved car",
+  "stops": [{"place": "lava", "nights": 2}, {"place": "lolegaon", "nights": 1}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 12500,
+  "cost_split": [
+    {"item": "Reserved small car for 4 days, NJP to NJP, half share", "inr": 5500},
+    {"item": "WBFDC forest lodges at Lava and Lolegaon, 3 nights with dinner and breakfast", "inr": 5500},
+    {"item": "Lunches, tea and snacks", "inr": 800},
+    {"item": "Neora Valley entry, share of guide and vehicle fee", "inr": 700}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Easy",
+  "max_altitude_m": 2195,
+  "meta_description": "3 nights in Lava and Lolegaon from ₹12,500 by reserved car: Neora Valley forest, Kolakham and Changey Falls, the Lolegaon canopy walk and a Jhandi Dara dawn.",
+  "summary": "A three-night long weekend by reserved car for about ₹12,500 per person, twin sharing. Two nights in Lava at about 2,195 m for its monastery, a guided morning in Neora Valley National Park and Changey Falls near Kolakham, then a night in Lolegaon for the canopy walk and Kanchenjunga at dawn from Jhandi Dara.",
+  "intro": [
+    "Lava and Lolegaon are forest villages on the ridges east of Kalimpong, 24 km apart. Lava sits at about 2,195 m beside the Neora reservoir, where Kagyu Thekchen Ling Monastery opened on 6 June 1990 under the 3rd Jamgon Kongtrul Rinpoche. It is the gateway to Neora Valley National Park, set up in 1986, which climbs from 183 m to about 3,200 m and borders Sikkim and Bhutan. Lolegaon, at 1,675 m, is a Lepcha village the forest corporation opened to visitors in the 1990s. Nearby Kolakham is, by local accounts, also called Rai Gaon, after its founder Ujir Man Rai Samsuhang.",
+    "We built this for families and couples with a Friday-to-Monday window who would rather not wait for jeeps. One small car stays with you for four days, so luggage, children and early starts are easy. The route up from NJP depends on the roads: NH10 up the Teesta has had repeated closures since October 2023, and drivers then use the Gorubathan–Lava road (NH717A), go via Gajoldoba and Odlabari, or loop round by Darjeeling and Peshok. Check current status before you travel. Both nights' lodges are WBFDC forest compounds with simple rooms and canteen meals."
+  ],
+  "highlights": [
+    "Kagyu Thekchen Ling Monastery beside the Neora reservoir at Lava",
+    "A guided morning in Neora Valley National Park",
+    "Changey Falls, 900 m on foot from the road beyond Kolakham",
+    "The Heritage forest canopy walk at Lolegaon, about 180 m long",
+    "Kanchenjunga at sunrise from Jhandi Dara"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Lava by reserved car", "place": "lava", "overnight": "Lava", "drive": "≈ 4–5 h by reserved car, depending on route", "text": "Your driver meets you at NJP or Bagdogra. The usual way follows NH10 up the Teesta past Sevoke and Teesta Bazar, climbs to Kalimpong and runs on through Algarah to Lava. NH10 has had repeated landslide and flood closures since October 2023; when it shuts, drivers take the Gorubathan–Lava road (NH717A), the newer alternative from the Dooars side, or go via Gajoldoba and Odlabari, so check current status before you travel. Check in at the WBFDC Lava Eco Tourism Centre and order dinner from the canteen. Before dark, walk to Kagyu Thekchen Ling Monastery beside the Neora reservoir, opened on 6 June 1990.", "meals": "Dinner", "spend": "₹250 lunch on the road"},
+    {"day": 2, "title": "Neora Valley, Kolakham and Changey Falls", "place": "lava", "overnight": "Lava", "drive": "≈ 30 km of local roads by reserved car", "text": "Collect your forest permit and a local guide at the Lava range office for a morning in Neora Valley National Park; expect roughly ₹150–300 entry per person, ₹600–1,000 for the guide and a vehicle fee. The park is home to red panda, clouded leopard and satyr tragopan, though birds are the likelier sighting. It closes roughly mid-June to mid-September, so check current status before you travel. After lunch, drive 8 km to Kolakham, a village at about 1,981 m that local accounts say was founded by Ujir Man Rai Samsuhang. About 4 km on, walk 900 m from the road to Changey Falls.", "meals": "Breakfast, dinner", "spend": "₹150–300 entry + guide share + ₹250 lunch"},
+    {"day": 3, "title": "Lava to Lolegaon and the canopy walk", "place": "lolegaon", "overnight": "Lolegaon", "drive": "≈ 24 km · 1 h by reserved car", "text": "If it is a Tuesday, look round the Lava haat before you leave. The drive to Lolegaon is only 24 km, down to 1,675 m through forest. Check in at the WBFDC Lolegaon Eco Tourism Centre, and after lunch walk the Heritage forest canopy walk, a hanging bridge of about 180 m slung between old oak and cypress. Children enjoy it most when it is quiet, so go after the day-trippers leave. For sunset, walk about 1 km to Kafer viewpoint. Lolegaon is a Lepcha village; ask at the lodge whether any local Lepcha dishes are cooking that evening.", "meals": "Breakfast, dinner", "spend": "₹250 lunch + any canopy walk fee"},
+    {"day": 4, "title": "Jhandi Dara dawn and the drive down", "place": "lolegaon", "overnight": "", "drive": "≈ 124 km · 4 h by reserved car", "text": "Drive or walk 4–5 km to Jhandi Dara before dawn and watch Kanchenjunga catch the light; October to December gives the clearest mornings, so pack warm layers for the wait. After breakfast, drive down to NJP or Bagdogra, about 124 km and 4 hours. Your driver will choose the road on the day: NH10 has had repeated closures since October 2023, and the alternatives run via the Gorubathan–Lava road, Gajoldoba and Odlabari, or Darjeeling and Peshok. Check current status before you travel, and book trains or flights from mid-afternoon onwards to leave time for a diversion.", "meals": "Breakfast", "spend": "₹250 lunch on the road"}
+  ],
+  "stays": ["lava-wbfdc-eco-tourism-centre", "lolegaon-wbfdc-eco-tourism-centre"],
+  "includes": ["Reserved small car with driver for 4 days, NJP or Bagdogra and back", "2 nights at the WBFDC Lava Eco Tourism Centre with dinner and breakfast", "1 night at the WBFDC Lolegaon Eco Tourism Centre with dinner and breakfast", "Neora Valley entry and a share of guide and vehicle fees", "Lunches and tea"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Driver's tip", "Camera fees, if charged", "Extra sightseeing beyond the plan"],
+  "save_money": [
+    "Fill the car: with four people in one small car, each person's share of the transport falls from about ₹5,500 to under ₹3,000.",
+    "Book the WBFDC lodges early and pre-order meals from the canteen rather than paying for restaurant meals in the village.",
+    "Team up with other guests at the Lava range office to split the Neora Valley guide fee of ₹600–1,000 a day."
+  ],
+  "good_to_know": [
+    "NH10 has had repeated closures since October 2023; drivers divert via the Gorubathan–Lava road (NH717A), Gajoldoba and Odlabari, or Darjeeling and Peshok, so check current status before you travel.",
+    "Neora Valley National Park closes in the monsoon, roughly mid-June to mid-September; permits and guides come from the Lava range office.",
+    "Lava's weekly haat is held on Tuesdays; check current status before you travel.",
+    "Lava at about 2,195 m is cold from December to February and sometimes gets snow.",
+    "Confirm with the car operator whether tolls, parking and the driver's food and stay are included."
+  ],
+  "faqs": [
+    {"q": "Is three nights enough for Lava and Lolegaon?", "a": "Yes, for the main things: a monastery visit and Neora Valley in Lava, Changey Falls near Kolakham, the canopy walk and a Jhandi Dara sunrise in Lolegaon. With a reserved car there is little waiting. Add a night if you want Rishyap, about 10 km by road from Lava at 2,591 m, or a slower second day in Lolegaon."},
+    {"q": "How much does this long weekend cost?", "a": "About ₹12,500 per person, twin sharing, from NJP or Bagdogra back again, indicative for 2025–26. Half of a reserved small car for four days is the largest share at about ₹5,500; the WBFDC lodges with dinner and breakfast come to a similar amount. Four people in one car bring the per-person price down by about ₹2,500."},
+    {"q": "How far is Lava from NJP and how long does it take?", "a": "Allow 4–5 hours by reserved car, depending on the road in use. The usual route follows NH10 up the Teesta, climbs to Kalimpong and runs 30–34 km on via Algarah. NH10 has had repeated closures since October 2023, and drivers then use the Gorubathan–Lava road, Gajoldoba and Odlabari, or Darjeeling and Peshok. Check current status before you travel."},
+    {"q": "Is this trip suitable for children and older parents?", "a": "Yes, with care. The car stays with you, walks are short, and the canopy walk and Changey Falls each involve under 1 km on foot; wear shoes with grip, as forest paths stay damp. Lava at about 2,195 m is cold at night, so pack warm layers. The Jhandi Dara sunrise can be done by car, and Neora Valley can be skipped by anyone who tires easily."},
+    {"q": "Do I need a permit for Neora Valley?", "a": "Yes. Get a forest permit and a local guide at the Lava range office, and pay a vehicle fee. Expect roughly ₹150–300 entry per person and ₹600–1,000 a day for a guide. The park closes in the monsoon, roughly mid-June to mid-September, and fees and rules change, so check current status before you travel."},
+    {"q": "Where do we stay on this trip?", "a": "We use the West Bengal Forest Development Corporation's lodges: the WBFDC Lava Eco Tourism Centre, with cottages and tents in a forest compound, and the WBFDC Lolegaon Eco Tourism Centre. Both cost roughly ₹2,000–3,000 a room, and meals are ordered from the canteen. Village homestays in both places charge about ₹1,300–2,200 per person with dinner and breakfast."},
+    {"q": "What is Kolakham known for?", "a": "Kolakham is a village at about 1,981 m, 8 km from Lava, on the edge of Neora Valley National Park, with a view of Kanchenjunga on clear days. Local accounts say it was founded by Ujir Man Rai Samsuhang, which is why it is also called Rai Gaon. Changey Falls lies about 4 km away, a 900 m walk from the road."},
+    {"q": "When is the best time for Lava and Lolegaon?", "a": "October and November bring the clearest mountain views and dry roads. March to May is mild, with spring flowers in the forest and fair mornings. December to February is cold and often clear, and Lava sometimes sees snow. June to September is wet, Neora Valley is closed and landslides slow every road, so we do not plan this trip then."},
+    {"q": "Can we do this trip by shared jeep instead?", "a": "Partly. Shared jeeps run Siliguri to Kalimpong for ₹200–300 and Kalimpong to Lava for ₹120–180, though Lava jeeps are few and mostly leave in the morning. Beyond Lava you will need a car for Lolegaon, about ₹1,800–2,500. Expect an extra night in Kalimpong on the way up and more waiting; the saving is real but costs time."}
+  ]
+}

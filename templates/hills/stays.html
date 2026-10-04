@@ -1,0 +1,12 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Homestays, lodges and trekkers' huts in the Darjeeling and Sikkim hills · Darjeeling Himalayas{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:20px"><div class="phead__body" style="margin-top:0">
+  <p class="eyebrow">Where you sleep</p><h1 class="h-1">Homestays, lodges and huts</h1>
+  <p class="lede">Government lodges, trekkers' huts, family guesthouses and a few old hotels with history. Real places only, with indicative rates. Village homestays are described on each place page.</p>
+</div></div></header>
+<section class="sec--tight"><div class="wrap">
+  {% for r in regions %}{% if r.stays %}<div data-land="{{ r.slug }}" style="margin-bottom:50px"><h2 class="h-2" style="display:flex;align-items:center;gap:12px;margin-bottom:20px"><span class="lbadge lbadge--sm">{% icon r.slug %}</span>{{ r.name }}</h2>
+  <div class="grid grid--4">{% for s in r.stays %}{% include "hills/partials/card_stay.html" %}{% endfor %}</div></div>{% endif %}{% endfor %}
+</div></section>
+{% endblock %}

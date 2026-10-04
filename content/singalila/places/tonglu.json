@@ -1,0 +1,173 @@
+{
+  "slug": "tonglu",
+  "name": "Tonglu",
+  "name_local": "",
+  "region": "singalila",
+  "kind": "viewpoint",
+  "wiki": "",
+  "image_query": "Tonglu Singalila trekkers hut",
+  "lat": 27.03,
+  "lng": 88.08,
+  "altitude_m": 3070,
+  "tagline": "Hooker's rhododendron hill and an open Indian summit",
+  "meta_description": "Tonglu on the Singalila Ridge: the 3,070 m summit Joseph Hooker climbed in 1848, GTA trekkers' hut, Dhotrey forest trail, views and costs.",
+  "summary": "Tonglu is a broad grassy top at about 3,070 m on the Indian side of the Singalila Ridge, just above Tumling. It has a GTA trekkers' hut, a 360-degree view from Kanchenjunga to Darjeeling, and a forest trail down to Dhotrey that makes a fine short trek. Joseph Hooker botanised here in 1848.",
+  "local_story": {
+    "title": "Where Hooker found his rhododendrons",
+    "paras": [
+      "In 1848 the young botanist Joseph Dalton Hooker, later director of Kew Gardens, arrived in Darjeeling to collect plants of the Sikkim Himalaya. One of his first excursions was up 'Tonglo', the nearest high summit on the Singalila Ridge, through forests he described in his Himalayan Journals as dripping with moss and full of rhododendrons and magnolias. The seeds and descriptions he sent back to Britain helped start the Victorian craze for Himalayan rhododendrons in country-house gardens.",
+      "Tonglu kept that role as a first high point. The British used the ridge as a hill walk from Darjeeling, and in 1905 the Kanchenjunga expedition of Jules Jacot-Guillarmod and Aleister Crowley marched north along it. Today the summit belongs to Singalila National Park, with a government trekkers' hut now run by the Gorkhaland Territorial Administration, and an SSB post watching a border that lies a few hundred metres west."
+    ]
+  },
+  "did_you_know": [
+    "Joseph Dalton Hooker described an excursion up 'Tonglo' from Darjeeling in his Himalayan Journals, published in 1854; it was among his first Himalayan collecting trips.",
+    "Tonglu at about 3,070 m is on the Indian side of the ridge, while Tumling, a short walk away, is in Nepal.",
+    "A direct forest trail links Tonglu with Dhotrey, about 6 km below, making a shorter way onto the ridge than walking from Maneybhanjan."
+  ],
+  "intro": [
+    "Tonglu is the first place on the trek where you stand on top of something. The Land Rover track and the trail from Meghma both arrive on a wide, open summit with a trekkers' hut and a view in every direction: Kanchenjunga north, Darjeeling and the Ghoom ridge east, the Ilam hills of Nepal west, the plains haze south. On the clearest autumn days you can pick out Everest and Makalu too.",
+    "It is a quieter alternative to Tumling for the first night, and the meeting point for the short Dhotrey trail. If you want a weekend on the ridge without doing the full trek, come up from Dhotrey through the forest, sleep at Tonglu or Tumling, and go down via Meghma and Chitrey to Maneybhanjan the next day."
+  ],
+  "facts": [
+    ["Best months", "Oct – Dec · Mar – May"],
+    ["Nights we suggest", "1"],
+    ["From Maneybhanjan", "≈ 11 km · 4.5–5 h on foot"],
+    ["Altitude", "≈ 3,070 m"],
+    ["Known for", "Open summit, Hooker history, Dhotrey trail"],
+    ["Network", "Patchy Indian signal"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1",
+  "costs": [
+    ["Trekkers' hut bed", "≈ ₹300–800 pp (indicative)"],
+    ["Lodge room at nearby Tumling", "₹1,500–2,800 a room"],
+    ["Dal-bhat dinner", "₹200–300"],
+    ["Tea and biscuits", "₹50–80"],
+    ["Shared jeep Maneybhanjan to Dhotrey", "≈ ₹80–150 a seat"],
+    ["Guide share for a pair", "≈ ₹750–1,000 pp a day"]
+  ],
+  "highlights": [
+    {"title": "A 360-degree summit", "text": "Unlike Tumling, which looks mainly north, Tonglu's open top shows the whole circle: Kanchenjunga, the Darjeeling ridge, the Ilam hills, and on clear days Everest and Makalu. It is the best panorama before Sandakphu and only an hour beyond the first night's lodges."},
+    {"title": "Hooker's hill", "text": "Joseph Hooker climbed Tonglo in 1848 and described its moss forests and rhododendrons. In April the shrub rhododendrons and primulas still colour the upper slopes, and the forest below is full of the species he recorded."},
+    {"title": "The GTA trekkers' hut", "text": "A government trekkers' hut on the summit offers simple dorm beds at low rates. It is plain, cold and cheap, with a caretaker who cooks basic meals. Booking channels change, so ask in Darjeeling or Maneybhanjan."},
+    {"title": "The Dhotrey forest trail", "text": "A direct path drops about 500 m through oak, rhododendron and bamboo to Dhotrey, a village with homestays and a jeep road. It is the shortest way onto the ridge and a quieter alternative to the Maneybhanjan start."},
+    {"title": "Sunset over Nepal", "text": "Tonglu's western edge looks straight out over Ilam. On clear evenings the sun drops behind ridge after ridge of Nepali hills while Kanchenjunga turns pink in the north. Stay until the colour goes, then walk back with a torch."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot from Maneybhanjan", "text": "Walk via Chitrey and Meghma, taking the left fork above Meghma: about 11 km and 4.5–5 hours with a climb of around 900 m. A licensed guide is required."},
+    {"mode": "On foot from Dhotrey", "text": "Take a jeep from Maneybhanjan to Dhotrey (about 1 hour), then walk up the forest trail: roughly 6 km and 3–4 hours. Quieter and shadier than the main route."},
+    {"mode": "Land Rover", "text": "Land Rovers on the Sandakphu track pass close to Tonglu and Tumling, about 1.5 hours from Maneybhanjan. Agree a drop with the owners' association."}
+  ],
+  "where_to_stay": "The GTA trekkers' hut on Tonglu's summit is the only bed on the top: dorm-style rooms, thick blankets, very basic toilets and simple meals from the caretaker, at low government rates. Its condition and booking method vary, so ask in Darjeeling or at Maneybhanjan before relying on it. For more comfort, sleep in the family lodges at Tumling, 20–40 minutes away, and walk up to Tonglu for sunset or sunrise.",
+  "stays": ["singalila-gta-trekkers-hut-tonglu"],
+  "tips": [
+    "Confirm the trekkers' hut is open and has a caretaker before you plan to sleep there.",
+    "Carry a warm layer even in April; wind on the open summit makes it feel 5 °C colder.",
+    "Use the Dhotrey trail to go up and the main trail via Chitrey to come down for a varied loop.",
+    "Walk up from Tumling for sunrise if you slept there; the 360-degree view is worth the early start.",
+    "Do not walk the Dhotrey forest trail after dark; it is steep and easy to lose."
+  ],
+  "themes": ["treks", "kanchenjunga-views", "wildlife-birds", "photography", "long-weekends"],
+  "nearby": ["tumling", "dhotrey", "chitrey", "gairibas"],
+  "experiences": [
+    {
+      "slug": "tonglu-hookers-rhododendron-hill",
+      "title": "Walk Hooker's rhododendron slopes",
+      "kind": "trek",
+      "duration": "2 hours",
+      "best_time": "Mid-March to early May",
+      "cost": "Included in your guide fee",
+      "image_query": "Rhododendron Singalila National Park bloom",
+      "wiki": "Joseph Dalton Hooker",
+      "summary": "Retrace part of the 1848 walk of botanist Joseph Hooker through the forests below Tonglu, where red tree rhododendrons, pink and white shrubs and magnolias still flower in spring. Go slowly, look up and down, and let your guide name what he knows.",
+      "body": [
+        "Hooker reached Darjeeling in April 1848 and soon walked up to Tonglu, the nearest high summit. He wrote of forests of oak, magnolia and rhododendron hung with moss and ferns, and of cold, wet nights on the ridge. His collections from Sikkim and these hills introduced many rhododendron species to British gardens, where they became a Victorian fashion.",
+        "The forest you walk through between Meghma and Tonglu, or up from Dhotrey, is the same kind of forest. In late March and April the tall red Rhododendron arboreum flowers first, lower down; higher up come pinks and whites on smaller trees and shrubs. In some years magnolias show white high in the canopy. Primulas and other small flowers grow in the open grass on top.",
+        "Walk with your guide at flower pace, not trek pace. Two hours is enough to see a good range. Do not pick flowers or break branches; this is a national park and rhododendrons recover slowly at altitude."
+      ],
+      "good_for": ["photographers", "seniors", "couples", "students"],
+      "faqs": [
+        {"q": "When do rhododendrons bloom near Tonglu?", "a": "Usually from mid-March to late April, with red tree rhododendrons first and higher species later. Timing shifts by a couple of weeks with the winter. Bloom moves uphill toward Sandakphu and Phalut into May."},
+        {"q": "Did Joseph Hooker really climb Tonglu?", "a": "Yes. Hooker's Himalayan Journals describe an excursion from Darjeeling to 'Tonglo' on the Singalila Ridge soon after he arrived in 1848. He later travelled widely in Sikkim and eastern Nepal, collecting rhododendrons that changed British gardening."},
+        {"q": "Can I see magnolias on the Singalila trek?", "a": "Sometimes. Magnolia campbellii and other magnolias grow in the forests of the Darjeeling hills, flowering white or pink in early spring before their leaves. Look for them in late February to March, lower on the ridge, though sightings are not guaranteed."}
+      ]
+    },
+    {
+      "slug": "tonglu-sunset-over-nepal",
+      "title": "Sunset over Nepal from Tonglu",
+      "kind": "viewpoint",
+      "duration": "1 hour",
+      "best_time": "4–5.30 pm, Oct–Dec",
+      "cost": "Free",
+      "image_query": "Tonglu sunset Singalila Ridge",
+      "wiki": "",
+      "summary": "Watch the sun set over the ridges of Ilam from Tonglu's open summit while Kanchenjunga turns pink to the north and the lights of Darjeeling come on to the east. One of the most complete sunsets on the trek.",
+      "body": [
+        "Tonglu stands high and free of trees, so you see the sunset and its effect at the same time. Westward, the forested ridges of Nepal step away in fading blues. Northward, the Kanchenjunga range catches the last light long after the valleys are dark. Eastward, the Darjeeling ridge picks up a gold edge, then begins to twinkle.",
+        "In October and November the air is clear and the colours sharp; in December it is cold enough that you will want a flask. Find a sheltered spot near the hut or a rock out of the wind. Photographers should frame the peaks in the north rather than the sun itself; the alpenglow on Kanchenjunga is the real show.",
+        "If you are staying at Tumling, leave Tonglu as soon as the colour fades and walk back with a torch; it takes 20–40 minutes and the path is easy but dark. Your guide will set the time."
+      ],
+      "good_for": ["couples", "photographers", "solo"],
+      "faqs": [
+        {"q": "What time is sunset at Tonglu?", "a": "Around 4.45 pm in November and December, about 5.15 pm in October and up to 6.15 pm in May. Arrive 30–45 minutes before for the best colour on Kanchenjunga. Times are approximate; ask your guide."},
+        {"q": "Is it safe to walk back from Tonglu after sunset?", "a": "The short ridge path from Tonglu to Tumling is easy, but carry a head torch and walk with your guide. Do not take the forest trail to Dhotrey in the dark. Temperatures drop quickly, so put on warm layers before you set off."},
+        {"q": "Can I see Everest at sunset from Tonglu?", "a": "Occasionally, on very clear evenings, Everest, Lhotse and Makalu appear far to the west, but they are small and often lost in the sun's glare. Kanchenjunga to the north is the main sunset view."}
+      ]
+    },
+    {
+      "slug": "tonglu-forest-trail-to-dhotrey",
+      "title": "The forest trail between Tonglu and Dhotrey",
+      "kind": "trek",
+      "duration": "2.5–4 hours",
+      "best_time": "Morning, Oct–May",
+      "cost": "Included in your guide fee",
+      "image_query": "Dhotrey forest trail Singalila",
+      "wiki": "",
+      "summary": "A steep, shaded 6 km trail links Tonglu with the village of Dhotrey through oak, rhododendron and bamboo. Walk up it as a quiet start to the trek, or down it as a short exit, with birds and the odd red panda chance on the way.",
+      "body": [
+        "Dhotrey sits about 500 m below Tonglu on the eastern side of the ridge, reached by jeep from Maneybhanjan. The trail from the village climbs steadily through mixed forest: tall oaks and chestnuts, rhododendrons, then dense bamboo near the top, before breaking out onto Tonglu's open summit.",
+        "Uphill it takes 3–4 hours; downhill 2.5–3. It is quieter than the main Maneybhanjan trail and much shadier, which makes it pleasant in April and May. Birders like it for laughingthrushes, minivets, tits and, with luck, pheasants. Red pandas live in this forest too, though sightings are rare and need a quiet early start.",
+        "The path can be muddy after rain and steep in places. Your licensed guide is needed here as on the main route, and park entry applies. Many trekkers use it for a two-night loop: up from Dhotrey to Tonglu, a night at Tumling, then down via Meghma and Chitrey to Maneybhanjan."
+      ],
+      "good_for": ["students", "solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "How long is the Dhotrey to Tonglu trek?", "a": "About 6 km, usually 3–4 hours uphill and 2.5–3 hours down, with roughly 500 m of height change. It is steep in parts but shaded. A licensed guide and park entry are required, as on the main Sandakphu route."},
+        {"q": "Is the Dhotrey route easier than starting from Maneybhanjan?", "a": "It is shorter to the ridge and quieter, but just as steep in places. It saves the long walk via Chitrey and Meghma. Many first-time trekkers prefer it because the forest shade keeps the climb cool."},
+        {"q": "How do I get to Dhotrey?", "a": "By jeep from Maneybhanjan, about 1 hour on a hill road, or by reserved car from Darjeeling in about 2 hours. Shared jeeps are few, mostly in the morning. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "tonglu-high-pasture-birding",
+      "title": "Morning birding on Tonglu's high pastures",
+      "kind": "wildlife",
+      "duration": "2 hours",
+      "best_time": "6–8 am, Oct–May",
+      "cost": "Included in your guide fee",
+      "image_query": "Singalila National Park birds",
+      "wiki": "Singalila National Park",
+      "summary": "Walk the forest edge below Tonglu at first light for the birds of Singalila National Park: laughingthrushes, rosefinches, minivets and, if you are lucky, a blood pheasant or satyr tragopan crossing the path.",
+      "body": [
+        "Singalila is one of the better birding areas in the eastern Himalaya, with species from the warm oak forest up to the subalpine fir. Tonglu is a good place to start because the forest edge, bamboo thickets and open grass meet here, so you get a mix of birds in a short distance.",
+        "Go out at first light with your guide and walk slowly down the Dhotrey or Meghma trail. Listen for laughingthrushes in the undergrowth, look for flocks of tits and warblers moving through the canopy, and scan the grass for rosefinches and pipits. Pheasants, including the blood pheasant and the satyr tragopan, are shy but sometimes cross the trail in the early morning.",
+        "Bring binoculars and a field guide or app. Keep voices low and wear dull colours. Two hours before breakfast is usually the most rewarding; after 9 am activity drops and trekker traffic rises."
+      ],
+      "good_for": ["photographers", "solo", "seniors", "students"],
+      "faqs": [
+        {"q": "What birds can I see around Tonglu?", "a": "Laughingthrushes, minivets, tits, warblers, rosefinches and pipits are common. With luck you may see blood pheasants, satyr tragopans or kalij pheasants near the forest edge early in the morning. Higher on the ridge, birders look for the fire-tailed myzornis."},
+        {"q": "Do Singalila guides know birds?", "a": "Some do, very well; others mainly know the route. If birding matters, ask the guide office at Maneybhanjan for a guide with birding experience, or arrange one through a Darjeeling operator in advance. Bring your own binoculars."},
+        {"q": "What is the best season for birding in Singalila?", "a": "April and May are best for breeding birds and song, with many species at higher altitude. October to December is good for clear light and some winter visitors. The park is closed from mid-June to mid-September."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Tonglu in India?", "a": "Yes. Tonglu is on the Indian side of the Singalila Ridge in Darjeeling district, inside Singalila National Park. Tumling, about 1 km away, is in Nepal. The border runs just west of the summit."},
+    {"q": "What is the altitude of Tonglu?", "a": "About 3,070 m. It is the first summit above 3,000 m on the Sandakphu trek. Some trekkers feel mild altitude effects here; drink water and climb steadily."},
+    {"q": "Can I stay at Tonglu?", "a": "There is a GTA trekkers' hut on the summit with basic dorm beds. Its condition and booking method vary, so confirm in Darjeeling or Maneybhanjan before relying on it. Otherwise, sleep at Tumling nearby."},
+    {"q": "How do I get to Tonglu?", "a": "Walk from Maneybhanjan via Chitrey and Meghma (about 11 km), walk up from Dhotrey through the forest (about 6 km), or ride a Land Rover on the Sandakphu track for about 1.5 hours. All routes need a licensed guide."},
+    {"q": "Is Tonglu good for a short trek?", "a": "Yes. A two-night loop from Darjeeling, up from Dhotrey to Tonglu, a night at Tumling or Tonglu, and down to Maneybhanjan via Chitrey, gives forest, views and a Kanchenjunga sunrise without the full trek."},
+    {"q": "Can I see Kanchenjunga from Tonglu?", "a": "Yes, clearly on autumn mornings, along with the Darjeeling ridge to the east. On the clearest days Everest and Makalu also show to the west. Sunrise and sunset are both good."},
+    {"q": "Is there food at Tonglu?", "a": "The trekkers' hut caretaker can cook simple meals if told in advance, and Tumling's lodges are 20–40 minutes away. Carry snacks. Do not rely on finding food on the summit outside the main season."},
+    {"q": "Is Tonglu snowbound in winter?", "a": "It can be after snowfalls in January and February, when the summit and track may be white for days. The view is superb, but walking and Land Rover travel are slower. Ask at Maneybhanjan before setting out."},
+    {"q": "Are there red pandas near Tonglu?", "a": "Red pandas live in the bamboo and fir forests of Singalila National Park, including the slopes around Tonglu and Dhotrey. Sightings are rare. Your best chance is a quiet early-morning walk with a guide who knows the forest."}
+  ]
+}

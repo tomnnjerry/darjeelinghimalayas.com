@@ -1,0 +1,175 @@
+{
+  "slug": "yuksom",
+  "name": "Yuksom",
+  "name_local": "युक्सम",
+  "region": "west-sikkim",
+  "kind": "village",
+  "wiki": "Yuksom",
+  "image_query": "Yuksom village West Sikkim",
+  "lat": 27.37,
+  "lng": 88.22,
+  "altitude_m": 1780,
+  "tagline": "Sikkim's first capital and the trailhead for Goecha La",
+  "meta_description": "Yuksom guide: the 1642 coronation throne at Norbugang, Dubdi Monastery, the Dzongri and Goecha La trek, permits, jeep fares and budget stays.",
+  "summary": "Yuksom, at about 1,780 m in West Sikkim, is where the first Chogyal of Sikkim was crowned in 1642, and the starting point of the Dzongri and Goecha La trek into Khangchendzonga National Park. Stay one or two nights for the village and its monasteries, or a night either side of an 8–10 day trek.",
+  "local_story": {
+    "title": "Three lamas, one throne, 1642",
+    "paras": [
+      "Yuksom's name is usually explained as 'meeting place of the three lamas'. The traditional account is that three Tibetan lamas of the Nyingma school, Lhatsun Chempo, Kathok Kuntu Zangpo and Ngadak Sempa Chempo, came over the mountains into this valley, which Buddhists call Demazong, the hidden valley of rice blessed by Guru Rinpoche. They sought out a layman named Phuntsog Namgyal, and in 1642, at a place called Norbugang, they consecrated him as the first Chogyal, the 'religious king', of Sikkim. The Namgyal dynasty that began here ruled Sikkim until 1975.",
+      "The coronation site still stands at Norbugang, a short walk from the bazaar: a stone throne with a chorten beside it and an old pine behind. Below it lies Kathok Lake, whose water is traditionally used in consecration rites. Yuksom stayed the royal seat until 1670, when the second Chogyal, Tensung Namgyal, moved the court to Rabdentse near Pelling. Tashi Tenka, a terrace above the village, is remembered as the site of the old palace. In 1701, under the third Chogyal, Chakdor Namgyal, Dubdi Monastery was built on the ridge above, and it is often called Sikkim's oldest.",
+      "Since 1977 Yuksom has also been the gateway to Khangchendzonga National Park, which in July 2016 became India's first 'mixed' UNESCO World Heritage Site, listed for both nature and culture. That double listing fits the village. In April and October the main street fills with trekkers, guides, porters and pack animals heading for Dzongri and Goecha La, and in the evenings you hear Nepali, Bhutia, Hindi and Bengali at the same tea stalls. Out of season Yuksom slips back into being a farming village of cardamom, maize and quiet lanes."
+    ]
+  },
+  "did_you_know": [
+    "Dubdi Monastery, built in 1701 under the third Chogyal Chakdor Namgyal, stands about 45 minutes' steep walk above Yuksom and is often called Sikkim's oldest monastery.",
+    "Khangchendzonga National Park, entered from Yuksom, became India's first 'mixed' UNESCO World Heritage Site in July 2016, recognised for both natural and cultural value.",
+    "Yuksom was Sikkim's capital for only 28 years, from the coronation of 1642 until the court moved to Rabdentse in 1670."
+  ],
+  "intro": [
+    "Yuksom sits at the end of the road north of Pelling, about 35–40 km and 1.5–2 hours away, on a shelf of farmland above the Rathong Chu valley. The village is small: one main street of lodges, shops and eateries, the forest office and the national park check post, and lanes leading off to Norbugang, Kathok Lake and the path up to Dubdi. Everything worth seeing is within walking distance, which makes Yuksom one of the easiest places in Sikkim to enjoy without a car or a guide.",
+    "Most visitors come for one of two reasons. Trekkers use it as the base for Dzongri and Goecha La, the classic high route towards Kanchenjunga, and spend a night here sorting permits, guides and porters. Everyone else comes for the history of the 1642 coronation and stays a night or two for the slow pace. We suggest at least one full day: Dubdi in the morning, Norbugang and Kathok Lake in the late afternoon. Indians need no permit for the village; the trek needs park permits and a licensed guide."
+  ],
+  "facts": [
+    ["Best months", "Mar – May · Oct – Nov"],
+    ["Nights we suggest", "1–2, plus trek days"],
+    ["From Siliguri", "≈ 165 km · 6–7 h"],
+    ["Altitude", "1,780 m"],
+    ["Known for", "Norbugang throne, Dubdi, Goecha La trek"],
+    ["Network", "Jio and Airtel in the village; little or none on the trek"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1–2",
+  "costs": [
+    ["Shared jeep Pelling–Yuksom", "₹150–250 a seat (few, mornings)"],
+    ["Shared jeep Jorethang–Yuksom via Tashiding", "₹200–300 a seat (indicative)"],
+    ["Homestay or lodge with dinner and breakfast", "₹1,500–2,500 pp"],
+    ["Licensed trek guide", "₹1,500–2,500 a day"],
+    ["Porter", "₹800–1,200 a day"],
+    ["Goecha La group trek, 8–10 days from Yuksom", "₹16,000–28,000 pp (indicative)"],
+    ["Thali in the bazaar · tea", "₹150–250 · ₹20–30"]
+  ],
+  "highlights": [
+    {"title": "Norbugang Coronation Throne", "text": "The stone throne where Phuntsog Namgyal was consecrated first Chogyal of Sikkim in 1642, with a chorten and an old pine beside it. It is a short walk from the bazaar through a small park. Come in the late afternoon, when the light is soft and the tour cars have left."},
+    {"title": "Dubdi Monastery", "text": "Built in 1701 under the third Chogyal and often called Sikkim's oldest monastery, Dubdi sits on a forested ridge about 45 minutes' steep walk above the village. The climb is the first test for many Goecha La trekkers, and the quiet at the top is the reward."},
+    {"title": "Kathok Lake", "text": "A small, still lake below Norbugang, ringed with prayer flags. Its water is traditionally used in consecration rites, linking it to the coronation story of 1642. It takes ten minutes to walk round and is a good place to sit at dusk when the village goes quiet."},
+    {"title": "Dzongri and Goecha La trek", "text": "Yuksom is the trailhead for the classic trek via Sachen, Tshoka and Dzongri to Goecha La View Point 1 at about 4,600 m, usually 8–10 days return. A licensed guide, registration and park permits are compulsory; check current status before you travel."},
+    {"title": "Tashi Tenka and the old capital", "text": "Tashi Tenka, a terrace above the village, is remembered as the site of the first royal palace. There is little to see beyond the ground itself, but the view over the valley and the farmland explains why the lamas and the first king chose this shelf of land."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep from Pelling", "text": "A few shared jeeps run between Pelling or Geyzing and Yuksom, usually leaving in the morning and returning in the afternoon, ₹150–250 a seat for about 35–40 km and 1.5–2 hours. Seats fill fast in season, so book through your hotel or at the stand the evening before. Fares are indicative."},
+    {"mode": "Shared jeep from Jorethang", "text": "Jeeps also run from Jorethang to Yuksom via Legship and Tashiding, taking about 4 hours. From Siliguri, take a jeep to Jorethang (₹250–350), then change. Departures are mostly before noon, so leave Siliguri early or break the journey in Jorethang or Tashiding. Check timings locally."},
+    {"mode": "Reserved car", "text": "A small car from NJP or Bagdogra costs roughly ₹6,000–8,000 for about 165 km and 6–7 hours. From Pelling, a day car to Yuksom and back with stops at Khecheopalri and the waterfalls costs about ₹3,000–4,000. The Teesta valley roads have had closures since the October 2023 flood, so check current status before you travel."}
+  ],
+  "where_to_stay": "Yuksom has many small lodges, guesthouses and homestays along the main street and the lanes towards Norbugang, mostly run by local families and priced for trekkers. Expect ₹1,500–2,500 per person with dinner and breakfast in a homestay, or a simple double room for a similar price without meals. Rooms are hardest to find in early October and in April, when trek groups book whole lodges, so reserve ahead then. On the Goecha La trail, the Sikkim government trekkers' huts at Tshoka and Dzongri give basic dormitory shelter, though in busy weeks most groups sleep in tents arranged by their agency.",
+  "stays": ["yuksom-goecha-la-trekkers-huts"],
+  "tips": [
+    "Carry enough cash from Pelling or Gyalshing; do not count on an ATM in Yuksom working when you need it.",
+    "Book your trek guide and permits through a registered agency before you arrive in April or October, when local guides are fully booked.",
+    "Spend at least one night in Yuksom before starting the trek, both to rest after the drive and to finish paperwork at the park office.",
+    "Walk to Dubdi early in the morning, when it is cooler and the path is dry, and carry water because there is none on the way.",
+    "Leave spare luggage at your Yuksom lodge during the trek; most lodges will store a bag for trekkers who are returning."
+  ],
+  "themes": ["treks", "monasteries", "solo-backpacking", "homestays", "snow-and-passes"],
+  "nearby": ["tashiding", "khecheopalri", "pelling"],
+  "experiences": [
+    {
+      "slug": "yuksom-norbugang-coronation-throne",
+      "title": "Norbugang throne and Kathok Lake at dusk",
+      "kind": "culture",
+      "duration": "1–1.5 hours",
+      "best_time": "4–6 pm, all year",
+      "cost": "Free or a small fee (check)",
+      "image_query": "Norbugang Coronation Throne Yuksom",
+      "wiki": "",
+      "summary": "Walk from the bazaar to the stone throne where Sikkim's first Chogyal was consecrated in 1642, then down to Kathok Lake, whose water is used in consecration rites. A short, flat stroll that holds the whole founding story of Sikkim.",
+      "body": [
+        "Norbugang is about ten minutes' walk from the Yuksom bazaar along a lane signposted from the main street. The site sits in a small park among old trees: a raised stone throne, a chorten and a tall pine. Here, according to the traditional account, the three Tibetan lamas, Lhatsun Chempo, Kathok Kuntu Zangpo and Ngadak Sempa Chempo, consecrated Phuntsog Namgyal as the first Chogyal of Sikkim in 1642. The dynasty founded that day ruled until 1975, when Sikkim became a state of India.",
+        "Take time to read the plaques and look at the throne itself, which is surprisingly small and plain. Local people walk clockwise around the chorten, and you should do the same. Photographs of the throne are fine, but do not sit or climb on it. In the late afternoon the light comes through the pines at a low angle and the park is usually empty except for a few village children and a caretaker sweeping leaves.",
+        "From Norbugang, walk down to Kathok Lake, a few minutes away. It is a small, still pond ringed with prayer flags and named after Kathok Kuntu Zangpo, one of the three lamas. Its water is traditionally used in consecration and other rites, which is why it is kept clean and quiet. Sit on the bank as the light goes. Then walk back through the village for dinner, past houses where you can often smell cardamom drying in season."
+      ],
+      "good_for": ["couples", "families", "seniors", "first-timers", "students"],
+      "faqs": [
+        {"q": "How far is Norbugang from Yuksom bazaar?", "a": "It is about ten minutes on foot along a signposted lane from the main street, on a gentle slope. Kathok Lake is a few minutes further on. Both can be seen in an hour at an easy pace, which makes this the best first outing on the evening you arrive. No car or guide is needed."},
+        {"q": "Is there an entry fee at Norbugang?", "a": "Entry has usually been free or a token amount, though small fees for heritage sites in Sikkim change from time to time. Carry ₹50 in change in case. The park is open in daylight hours; arrive before about 5 pm in winter so you see the throne and the lake before dark."},
+        {"q": "Why is Kathok Lake considered sacred?", "a": "The lake is linked to Kathok Kuntu Zangpo, one of the three lamas who crowned the first Chogyal in 1642, and its water is traditionally used in consecration rites. Visitors are asked not to wash, swim, throw coins or litter there. Walk quietly, keep to the path around it and leave the prayer flags untouched."}
+      ]
+    },
+    {
+      "slug": "yuksom-dubdi-monastery-walk",
+      "title": "Steep morning walk up to Dubdi Monastery",
+      "kind": "monastery",
+      "duration": "2–2.5 hours return",
+      "best_time": "7–10 am, Oct–May",
+      "cost": "Free · donation welcome",
+      "image_query": "Dubdi Monastery Yuksom Sikkim",
+      "wiki": "Dubdi Monastery",
+      "summary": "Climb about 45 minutes through forest above Yuksom to Dubdi Monastery, built in 1701 under the third Chogyal and often called Sikkim's oldest. A good warm-up before a trek, and a quiet morning for anyone else, with views back over the village.",
+      "body": [
+        "The path to Dubdi starts at the upper end of the village and climbs steeply through oak and other broadleaf forest, with stone steps in places and prayer flags at the bends. It takes most people about 45 minutes up and 30 minutes down. There is no water or tea stall on the way, so carry a bottle and start early, before the sun reaches the slope. Many trekkers walk up the day before Goecha La to test their legs and their boots.",
+        "Dubdi, also written Dubdee, was built in 1701 under the third Chogyal, Chakdor Namgyal, and is often described as the oldest monastery in Sikkim. The name is usually translated as 'the retreat'. It is a small stone building with a sloping roof in a clearing on the ridge, with a few chortens and a house for the caretaker. The hall may be locked outside prayer times; ask in the village before you climb whether anyone will be there to open it.",
+        "Even if the hall is shut, the walk is worth it for the setting. You look back over the roofs and fields of Yuksom, the valley of the Rathong Chu and the forested hills that lead towards Khangchendzonga National Park. Sit on the low wall and listen; the only sounds are usually birds and flags. Walk down slowly, because the stone steps are slippery when damp, and have a late breakfast in the bazaar before heading to Norbugang."
+      ],
+      "good_for": ["solo", "students", "couples", "photographers"],
+      "faqs": [
+        {"q": "How difficult is the walk to Dubdi Monastery?", "a": "It is short but steep: about 45 minutes up and 30 minutes down on a forest path with stone steps. Anyone of average fitness can manage it at a slow pace. Wear shoes with grip and carry water, since there is nothing on the way. Older visitors with knee trouble may find the descent harder than the climb."},
+        {"q": "Is Dubdi Monastery open every day?", "a": "Dubdi is a small, quiet monastery without fixed visitor hours, and the prayer hall is sometimes locked when no monk or caretaker is around. Ask at your lodge or in the bazaar before you climb. Even if it is closed, the courtyard, chortens and views over Yuksom make the walk worthwhile."},
+        {"q": "Is Dubdi really the oldest monastery in Sikkim?", "a": "It is often called the oldest, dated to 1701. Some other sites have earlier founding dates in tradition, such as Tashiding (1641) and Sanga Choeling (1697), so the claim depends on how you count and which buildings survive. What is clear is that Dubdi belongs to the first generations of Sikkim's royal monasteries."}
+      ]
+    },
+    {
+      "slug": "yuksom-dzongri-goecha-la-trek",
+      "title": "Dzongri and Goecha La trek from Yuksom",
+      "kind": "trek",
+      "duration": "8–10 days return",
+      "best_time": "Apr–May and Oct–Nov",
+      "cost": "₹16,000–28,000 pp with an agency (indicative)",
+      "image_query": "Goecha La trek Kanchenjunga Sikkim",
+      "wiki": "Goecha La",
+      "summary": "The classic high trek of Sikkim climbs from Yuksom through Sachen, Tshoka and Dzongri to Goecha La View Point 1 at about 4,600 m, facing Kanchenjunga. Plan 8–10 days, a licensed guide and park permits, and train for long climbs at altitude.",
+      "body": [
+        "The trail leaves Yuksom past the national park check post and follows the Prek Chu valley through forest to Sachen and up to Tshoka, at about 3,000 m, a small settlement settled by Tibetan families. The next day climbs through rhododendron forest to Dzongri, around 4,000 m, where most groups rest a day and walk up Dzongri Top before dawn for a wide view of Kanchenjunga, Kabru, Pandim and their neighbours. In April the rhododendrons below Dzongri are in flower.",
+        "From Dzongri the route drops to Kokchurang, follows the river to Thansing and climbs to Lamuney, the last camp below the moraine. On summit day you start in the dark and reach Goecha La View Point 1, at about 4,600 m, by sunrise, with the face of Kanchenjunga filling the sky. The pass itself, around 4,900 m, lies further on, but in recent seasons most groups have been allowed only to View Point 1. Rules change, so check current status before you travel.",
+        "This is a serious trek with long climbs and real altitude, so train for six to eight weeks and acclimatise properly. A licensed guide and registration are compulsory, park entry permits are issued at the forest office in Yuksom, and foreign nationals need a Restricted Area Permit and must go in a group through a registered agency. Most people join an organised group, which includes tents, food, guide and porters or pack animals. Carry warm layers, rain gear and a good sleeping bag."
+      ],
+      "good_for": ["students", "solo", "couples"],
+      "faqs": [
+        {"q": "Can a beginner do the Goecha La trek?", "a": "A fit beginner can, with preparation. The trek climbs to about 4,600 m over 8–10 days, with several long, steep days. Train for six to eight weeks with stair climbs, uphill walking and cardio, and join a reputable group with a sensible acclimatisation day at Dzongri. People with heart or lung conditions should consult a doctor first."},
+        {"q": "What permits are needed for Dzongri and Goecha La?", "a": "Everyone needs park entry permits from the Khangchendzonga National Park office or forest office in Yuksom and must trek with a licensed guide. Foreign nationals also need a Sikkim Restricted Area Permit and must trek in a group through a registered agency. Fees and rules change, and access beyond View Point 1 has been limited, so check current status before you travel."},
+        {"q": "Can we trek only to Dzongri?", "a": "Yes. A shorter trek from Yuksom to Dzongri and back, with the dawn walk up Dzongri Top, usually takes 4–6 days. It still needs a licensed guide and park permits. It suits people with less time or less fitness, and the Dzongri Top view of Kanchenjunga, Kabru and Pandim is among the finest in Sikkim."}
+      ]
+    },
+    {
+      "slug": "yuksom-tashi-tenka-village-walk",
+      "title": "Tashi Tenka and the old capital on foot",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "7–10 am or 3–5 pm, Oct–May",
+      "cost": "Free",
+      "image_query": "Yuksom West Sikkim village fields",
+      "wiki": "",
+      "summary": "A slow walk from the bazaar to Tashi Tenka, remembered as the site of Sikkim's first royal palace, and back through fields and lanes. There is little to see in stone, but the setting, the farms and a tea stop make it a good half-morning.",
+      "body": [
+        "Tashi Tenka is a terrace on the slope above the village, remembered as the place where the first Chogyals had their palace in the decades after 1642. Ask in the bazaar for the path; locals will point you up the lanes. Do not expect walls or towers. What you find is mostly open ground and the view, which is the point: from here you see how Yuksom sits on its shelf of farmland, with the Rathong Chu valley below and forest climbing towards the snow.",
+        "Come down by a different lane through the fields. Depending on the season you will pass maize, millet and vegetable plots, and the large cardamom grown under the shade of trees on the damper slopes, which is harvested from late summer into autumn. Families here are Bhutia, Lepcha and Nepali, and many combine farming with work on the trek, as guides, cooks, porters or lodge keepers. A polite question about the crop usually starts a conversation.",
+        "Finish with tea and something hot in the bazaar: momos, a bowl of thukpa or a plate of sel roti if someone is frying it that morning. If you have a full day, link this walk with Norbugang and Kathok Lake in the afternoon. Wear walking shoes, carry water and a light rain jacket, and ask before photographing people or walking through a private courtyard. Dogs are friendly but follow trekkers everywhere."
+      ],
+      "good_for": ["couples", "families", "solo", "seniors"],
+      "faqs": [
+        {"q": "What is left of the old palace at Tashi Tenka?", "a": "Very little stands today. Tashi Tenka is remembered as the site of the first royal palace, but you mainly see terraced ground and the view over the valley. Go for the setting and the story rather than ruins. For standing royal remains, visit Rabdentse near Pelling, the capital that followed from 1670."},
+        {"q": "Do we need a guide for the Yuksom village walk?", "a": "No. Yuksom is small and the lanes are safe, and locals will happily point the way to Tashi Tenka, Norbugang and Kathok Lake. A guide can add stories and introductions to farming families, and a day's guide costs roughly ₹1,500–2,500. Ask at your homestay if you would like one."},
+        {"q": "What local food should we try in Yuksom?", "a": "Try a home-cooked thali with local greens, dal and rice, momos, thukpa, and sel roti, the ring-shaped rice bread fried for breakfast. In winter some homes make gundruk, fermented leafy greens, and you may be offered churpi, a local cheese. Homestay dinners are usually the best and cheapest place to taste them."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do we reach Yuksom from Pelling or Siliguri?", "a": "From Pelling, take one of the few morning shared jeeps, ₹150–250 a seat, about 1.5–2 hours for 35–40 km, or hire a car. From Siliguri, take a jeep to Jorethang (₹250–350) and change to a Yuksom jeep via Tashiding. A reserved car from NJP costs about ₹6,000–8,000. Fares are indicative; check road status before you travel."},
+    {"q": "Is Yuksom worth visiting if we are not trekking?", "a": "Yes. Yuksom is where Sikkim's first king was crowned in 1642, and the coronation throne, Kathok Lake, Dubdi Monastery and Tashi Tenka are all within walking distance. It is quieter than Pelling, with cheaper homestays and a slower pace. One full day and two nights is enough to see it without rushing."},
+    {"q": "What is the best time to visit Yuksom?", "a": "For trekking, April–May and October–November are best, with clear skies after the monsoon in autumn and rhododendrons in spring. For the village alone, any month from October to May works; winter nights are cold but days are clear. June to September brings heavy rain, leeches and landslides on the road."},
+    {"q": "Do we need a permit to visit Yuksom?", "a": "Indian citizens need no permit for Yuksom village. Foreign nationals need a Sikkim Restricted Area Permit. Anyone going into Khangchendzonga National Park, including the Dzongri and Goecha La trek, needs park permits from the office in Yuksom and a licensed guide. Rules and fees change, so check current status before you travel."},
+    {"q": "Is there an ATM in Yuksom?", "a": "Do not rely on one. Even when a machine exists in a small village like Yuksom, it may be out of cash or offline. Draw enough money in Gyalshing, Pelling or Jorethang for your stay and for guide and porter tips. UPI works in many shops when the network is up, but cash is still king here."},
+    {"q": "How many days does the Goecha La trek take from Yuksom?", "a": "Usually 8–10 days return, including an acclimatisation day at Dzongri. A typical route runs Yuksom to Sachen, Tshoka, Dzongri, Kokchurang or Thansing, Lamuney, then Goecha La View Point 1 and back. Add a night in Yuksom before and after for paperwork and rest, so plan about 12 days from NJP."},
+    {"q": "How much does the Goecha La trek cost?", "a": "With an organised group from Yuksom, expect roughly ₹16,000–28,000 per person for 8–10 days, covering guide, cook, tents, food and permits. Getting to and from Yuksom, nights there, gear hire and tips are extra. Going with your own guide and porter can cost less but needs more planning. Figures are indicative for 2025–26."},
+    {"q": "Is there mobile network on the Goecha La trek?", "a": "Yuksom has Jio and Airtel signal, though it can be patchy in bad weather. On the trek there is little or no signal after the first day, and you should assume you are out of contact until you return. Tell family your dates, and let your guide carry the group's emergency plan."},
+    {"q": "Can we combine Yuksom with Pelling and Tashiding?", "a": "Yes, they form a natural loop. Spend two nights in Pelling, then one or two in Yuksom, and come down via Tashiding Monastery, about 19 km south, before heading to Jorethang and Siliguri. A five-night trip covers all three without rushing. Shared jeeps link them, but timings are few and early."}
+  ]
+}

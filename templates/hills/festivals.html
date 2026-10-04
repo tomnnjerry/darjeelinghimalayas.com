@@ -1,0 +1,11 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Festival calendar: Losar, Dashain, Tihar, Saga Dawa and more · Darjeeling Himalayas{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:20px"><div class="phead__body" style="margin-top:0">
+  <p class="eyebrow">Festival calendar</p><h1 class="h-1">Three calendars, a festival most months</h1>
+  <p class="lede">Tibetan, Hindu and Gregorian dates meet in these hills. Most move with the moon each year, so check current status before you travel.</p>
+</div></div></header>
+<section class="sec--tight"><div class="wrap">
+  {% for m in by_month %}{% if m.festivals %}<div style="display:grid;grid-template-columns:160px 1fr;gap:20px;padding:22px 0;border-top:1px dashed var(--rule)"><h2 class="h-3">{{ m.name }}</h2><div class="chips">{% for f in m.festivals %}<a class="chip" href="{{ f.url }}" data-land="{{ f.region }}">{% icon "flag" %}{{ f.name }}{% if f.place_obj %} · {{ f.place_obj.name }}{% endif %}</a>{% endfor %}</div></div>{% endif %}{% endfor %}
+</div></section>
+{% endblock %}

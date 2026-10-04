@@ -1,0 +1,68 @@
+{
+  "slug": "darjeeling-toy-train-and-tiger-hill-3n",
+  "title": "Toy train and Tiger Hill",
+  "region": "darjeeling",
+  "nights": 3,
+  "themes": ["toy-train", "kanchenjunga-views", "long-weekends", "photography"],
+  "tier": "Value",
+  "travel_mode": "Mixed",
+  "stops": [{"place": "darjeeling", "nights": 3}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 13000,
+  "cost_split": [
+    {"item": "Toy train first class, NJP to Darjeeling", "inr": 1600},
+    {"item": "Steam joyride to Ghoom and back", "inr": 1700},
+    {"item": "Tiger Hill car share and reserved car down to NJP", "inr": 2800},
+    {"item": "Hotel near Chowrasta, 3 nights with breakfast", "inr": 4200},
+    {"item": "Lunches, dinners and tea", "inr": 2000},
+    {"item": "Entry fees: Tiger Hill, Batasia, Ghoom, HMI and zoo", "inr": 700}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2567,
+  "meta_description": "3 nights in Darjeeling from ₹13,000: up from NJP on the toy train, Tiger Hill at dawn, a steam joyride to Ghoom and the mountaineering institute.",
+  "summary": "The railway trip. Ride the Darjeeling Himalayan Railway up from the plains, see Kanchenjunga at dawn from Tiger Hill, take the steam joyride round the Batasia Loop to Ghoom, and drive down in a reserved car. Three nights in a hotel near Chowrasta, about ₹13,000 per person.",
+  "intro": [
+    "The Darjeeling Himalayan Railway reached the town in 1881 on track 610 mm wide, climbing about 2,000 m from the plains with loops and zig-zag reverses instead of tunnels. It became a UNESCO World Heritage Site in 1999. Its highest point is Ghoom, 2,258 m, and the most photographed bend is the Batasia Loop, built in 1919, where the track circles over itself below a war memorial. On this trip you ride the line twice: the long way up from New Jalpaiguri, and the short steam joyride from Darjeeling to Ghoom.",
+    "The full ride from NJP takes most of a day, and services change with landslides, track work and the season. If the through train is not running when you travel, we switch the first day to a reserved car and keep the joyride: check current status before you travel. The rest of the trip is about the view. Tiger Hill, 2,567 m, is the highest point near Darjeeling, and from October to early December the dawn over Kanchenjunga is usually clear."
+  ],
+  "highlights": [
+    "The toy train climb from NJP to Darjeeling, a UNESCO line since 1999",
+    "Kanchenjunga at dawn from Tiger Hill",
+    "A steam joyride round the Batasia Loop to Ghoom",
+    "Ghoom station, 2,258 m, and its small railway museum",
+    "Tenzing Norgay's memorial and the Everest Museum at HMI"
+  ],
+  "days": [
+    {"day": 1, "title": "Up from NJP on the toy train", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 88 km by rail · 7–8 h", "text": "Board the toy train at New Jalpaiguri in the morning; book first class on IRCTC for roughly ₹1,400–1,700. The line runs flat across the plains, then climbs through tea and forest, crossing and recrossing the road through Rongtong, Tindharia and Kurseong. Expect slow running, long halts and a lot of waving from the roadside. You reach Darjeeling by late afternoon or early evening. If the service is suspended, take a reserved car up instead. Walk from the station to your hotel near Chowrasta and eat early.", "meals": "On your own", "spend": "₹1,400–1,700 train ticket + ₹300 snacks on board"},
+    {"day": 2, "title": "Tiger Hill dawn and the three points", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 30 km round trip by reserved car · leaves about 4 am", "text": "Share a reserved car for the classic three-point tour, ₹1,500–2,200 a car: Tiger Hill at dawn, Ghoom monastery and the Batasia Loop. From the top at 2,567 m Kanchenjunga turns pink first, and on very clear days Everest, Lhotse and Makalu show to the west. Tiger Hill sits in Senchal Wildlife Sanctuary, declared in 1915. After a late breakfast, walk to the Himalayan Mountaineering Institute and the zoo, which share a ticket. Spend the evening on the Mall with a pot of tea at a tea room.", "meals": "Breakfast", "spend": "₹750–1,100 car share + ₹200 fees + ₹100–150 HMI and zoo"},
+    {"day": 3, "title": "Steam joyride to Ghoom", "place": "darjeeling", "overnight": "Darjeeling", "drive": "", "text": "Take the steam joyride, booked on IRCTC for roughly ₹1,500–1,800. The engine works hard round the Batasia Loop, where the train pauses so you can walk round the Gorkha War Memorial, then climbs to Ghoom, where a stop lets you see the DHR museum at the station. Back in town after about two hours, walk to Observatory Hill and the Mahakal shrine, then down to Chowk Bazaar for momos. If you like engines, stand by the Darjeeling loco shed in the late afternoon.", "meals": "Breakfast", "spend": "₹1,500–1,800 steam joyride + ₹400 food"},
+    {"day": 4, "title": "Down to NJP by reserved car", "place": "darjeeling", "overnight": "", "drive": "≈ 70 km · 3 h by reserved car", "text": "Have breakfast on the Keventer's terrace at Clubside or at Glenary's on Nehru Road, both long-running institutions, and buy tea to take home. Share a reserved car down, ₹3,000–4,000 a small car, which lets you stop at Ghoom, at a tea garden on the way, or at Kurseong. Watch for the toy train crossing the road below Ghoom one last time. Leave by late morning for an evening train or flight; traffic near Siliguri can add an hour.", "meals": "Breakfast", "spend": "₹1,500–2,000 car share + ₹300 breakfast"}
+  ],
+  "stays": ["darjeeling-dekeling-hotel", "darjeeling-meghbalika-tourist-lodge"],
+  "includes": ["Toy train first class NJP to Darjeeling", "Steam joyride ticket", "Shared reserved car for the Tiger Hill three-point tour", "Reserved car share from Darjeeling to NJP", "Hotel near Chowrasta, 3 nights with breakfast, twin sharing", "Entry fees at Tiger Hill, Batasia, Ghoom, HMI and zoo"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Lunches and dinners beyond the estimate", "Ropeway", "Camera fees where charged", "Tips"],
+  "save_money": [
+    "Book the toy train and joyride on IRCTC as soon as bookings open; last-minute seats are rare in season, and missing them means paying for a reserved car.",
+    "Share the Tiger Hill car with another couple from your hotel: four people pay half what two do for the same vehicle.",
+    "Choose a room on the town side without a mountain view and walk to Chowrasta for the morning view instead."
+  ],
+  "good_to_know": [
+    "Through trains between NJP and Darjeeling are sometimes suspended or cut short by landslides and track work: check current status before you travel.",
+    "The steam joyride is popular and sells out; the diesel joyride runs the same route for less.",
+    "Tiger Hill has vehicle passes and limits in busy months; check current status before you travel.",
+    "Carry warm clothes for the dawn trip even in April: Tiger Hill is often near freezing before sunrise."
+  ],
+  "faqs": [
+    {"q": "Does the toy train run all the way from NJP to Darjeeling?", "a": "When the line is open, yes: the through journey covers about 88 km and takes seven to eight hours. Services are often changed or cut short after landslides and during track work, especially after the monsoon. Book on IRCTC and check current status before you travel. If it is not running, we use a reserved car for the first day."},
+    {"q": "What is the difference between steam and diesel joyrides?", "a": "Both run the same round trip of about two hours from Darjeeling to Ghoom and back, with stops at the Batasia Loop and Ghoom station. The steam joyride is pulled by a heritage steam engine and costs roughly ₹1,500–1,800; the diesel version costs roughly ₹1,000–1,300. Steam sells out first in season."},
+    {"q": "How much does this 3-night trip cost?", "a": "About ₹13,000 per person, twin sharing, from NJP back to NJP, indicative for 2025–26. That includes the toy train up in first class, the steam joyride, a shared Tiger Hill car, a reserved car share down, three nights near Chowrasta with breakfast, simple meals and entry fees. Peak weeks raise room rates."},
+    {"q": "What time do Tiger Hill cars leave?", "a": "Usually around 4 am, earlier in summer when the sun rises sooner. The drive is about 11 km via Ghoom and Jorebunglow, and the cars return via Ghoom monastery and the Batasia Loop by about 8 am. Book the car the evening before through your hotel or the jeep stand. Wear everything warm you own."},
+    {"q": "Is the Tiger Hill dawn worth it if it is cloudy?", "a": "Only if the sky is likely to clear. Ask your hotel the night before: drivers know the weather and some will not go when cloud is thick. From October to early December and in March and April the odds are good. In the monsoon the summit is usually in cloud, and we would skip it."},
+    {"q": "Can I see Everest from Tiger Hill?", "a": "On very clear mornings, yes, though it is a small peak far to the west, alongside Lhotse and Makalu. Kanchenjunga, 8,586 m and the third-highest mountain on Earth, dominates the view to the north. Bring binoculars or a zoom lens if you want to pick out Everest."},
+    {"q": "Is this trip good for children?", "a": "Yes, though the long toy train ride tests small children. Many families take the train only from Kurseong or Ghoom, or switch to the joyride. The zoo, the mountaineering museum and the joyride suit children. Bring snacks and warm layers for Tiger Hill, and be ready to skip the 4 am start if they are tired."},
+    {"q": "Where should we stay in Darjeeling for this trip?", "a": "Near Chowrasta, so you can walk to the station, the Mall and the Tiger Hill pickup. Dekeling Hotel on Gandhi Road is a Tibetan family-run hotel a few minutes below Chowrasta, and the state-run Meghbalika, the old Darjeeling Tourist Lodge on Bhanu Sarani, is close too. Book early for October and May."},
+    {"q": "Can we take the toy train back down instead?", "a": "You can, if the through service is running, but it means a long day and an early start. Many travellers take the train down only as far as Kurseong and switch to a shared jeep or car. We use a car on the last day so you reach NJP in good time for an evening train."}
+  ]
+}

@@ -1,0 +1,28 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Budget builder: what a Darjeeling or Sikkim trip really costs · Darjeeling Himalayas{% endblock %}
+{% block description %}Pick a hill, a budget and the nights to see an indicative cost per person for beds, food, jeeps and permits in Darjeeling, Sikkim and the Dooars.{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:20px"><div class="phead__body" style="margin-top:0">
+  <p class="eyebrow">Budget builder</p><h1 class="h-1">What will it really cost?</h1>
+  <p class="lede">Rough numbers from our own trips, per person, twin sharing, from Siliguri and back. Use it to set a budget, then ask us for a quote with real dates.</p>
+</div></div></header>
+<section class="sec--tight"><div class="wrap split" data-budget='{{ rates_json }}'>
+  <div class="tool form">
+    <fieldset style="border:0;padding:0;margin:0"><legend class="h-s" style="margin-bottom:10px">How do you travel?</legend>
+      <div class="checks"><label><input type="radio" name="tier" value="Shoestring">Shoestring</label><label><input type="radio" name="tier" value="Value" checked>Value</label><label><input type="radio" name="tier" value="Comfort">Comfort</label></div></fieldset>
+    <div class="field"><label for="b-land">Which hill</label><select id="b-land" name="land">{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select></div>
+    <div class="field"><label for="b-n">Nights: <span data-out-nights>4 nights</span></label><input id="b-n" class="range" type="range" name="nights" min="1" max="12" value="4"></div>
+    <div class="field"><label for="b-p">Travellers: <span data-out-people>2</span></label><input id="b-p" class="range" type="range" name="people" min="1" max="10" value="2"></div>
+    <p class="small muted">Shoestring: shared jeeps, dorms and simple homestays. Value: good homestays and some reserved cars. Comfort: a car of your own and rooms with a view.</p>
+  </div>
+  <div class="ledger">
+    <div class="ledger__head"><b>{% icon "ticket" %} Your estimate</b><span class="small muted">per person</span></div>
+    <div data-out-rows></div>
+    <div class="ledger__total"><span class="h-s">Per person</span><b data-out-pp>₹0</b></div>
+    <div class="ledger__row"><span>For everyone</span><i></i><b data-out-total>₹0</b></div>
+    <div class="ledger__row"><span>About a day</span><i></i><b data-out-day>₹0</b></div>
+    <p class="ledger__note">Indicative only. Permit-tour areas (North Sikkim, Nathu La) and festival weeks cost more. Check current status before you travel.</p>
+    <a class="btn btn--foil btn--block" data-out-plan href="{% url 'plan' %}" data-cta="budget-plan" style="margin-top:14px">Get a real quote for this</a>
+  </div>
+</div></section>
+{% endblock %}

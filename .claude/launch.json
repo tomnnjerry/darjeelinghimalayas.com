@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "talesofluxury",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["manage.py", "runserver", "8015", "--noreload"],
+      "port": 8015
+    }
+  ]
+}

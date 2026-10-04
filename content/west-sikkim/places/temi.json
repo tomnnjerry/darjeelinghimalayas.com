@@ -1,0 +1,174 @@
+{
+  "slug": "temi",
+  "name": "Temi",
+  "name_local": "",
+  "region": "west-sikkim",
+  "kind": "tea garden",
+  "wiki": "Temi Tea Garden",
+  "image_query": "Temi Tea Garden Sikkim",
+  "lat": 27.24,
+  "lng": 88.42,
+  "altitude_m": 1500,
+  "tagline": "Sikkim's own tea estate on the slopes of Tendong Hill",
+  "meta_description": "Temi Tea Garden, South Sikkim: history since 1969, tea walks, factory visits, November cherry blossom, homestays, costs and how to get there.",
+  "summary": "Temi is Sikkim's government tea estate, set up in 1969 on the slopes of Tendong Hill in Namchi district and certified organic. Rows of tea run down the hill between about 1,200 m and 1,800 m, lined with cherry trees that flower pink in November. Visit as a half day from Ravangla or stay a night in a nearby homestay.",
+  "local_story": {
+    "title": "A kingdom's tea garden on the Lepcha hill",
+    "paras": [
+      "Across the border in Darjeeling, tea had been planted since the 1850s, but the kingdom of Sikkim had no tea estate of its own. That changed in 1969, when Sikkim was still ruled by the Chogyal, Palden Thondup Namgyal, and his government set up a tea garden at Temi on the southern slopes of Tendong Hill. Six years later, in 1975, Sikkim became a state of India, and the garden passed to the new state government. It covers about 177 ha and was, for decades, the only tea estate in Sikkim.",
+      "The bushes run down the hill in long contour rows from about 1,800 m to about 1,200 m, looking across the Teesta valley. Workers, many of them women from the villages around the estate, pluck by hand from spring to late autumn, and the leaf goes to the garden's own factory on the hill. The estate moved to organic cultivation and is certified organic, which fits a state that was declared India's first fully organic state in 2016. Temi tea is sold under the garden's own name, and its first flush is plucked in March and April.",
+      "Above the garden rises Tendong Hill, which Lepcha elders say rose up to save their people from a great flood, a story remembered every 8 August. Along Temi's roads and paths stand Himalayan cherry trees, which flower not in spring but in autumn, turning the edges of the estate pink in November. In recent years Sikkim has promoted this season with a cherry blossom festival at Temi. The estate itself remains a working farm first: visitors walk the roads and paths, not the tea rows."
+    ]
+  },
+  "did_you_know": [
+    "Temi Tea Garden was set up in 1969, when Sikkim was still a kingdom ruled by the Chogyal; Sikkim became a state of India in 1975.",
+    "Sikkim was declared India's first fully organic state in January 2016, and Temi's tea is certified organic.",
+    "Himalayan cherry (Prunus cerasoides) flowers in autumn, not spring, so the cherry trees along Temi's roads turn pink around November."
+  ],
+  "intro": [
+    "Temi is one estate, one long hillside of tea and a few small settlements around it, about 18 km from Ravangla and 30 km from Namchi. The road loops down through the garden, so you can stop, walk the estate roads and watch plucking in season. There is a factory on the hill, a viewpoint or two and, on clear days, snow peaks to the north. The air is mild at around 1,500 m, warmer than Ravangla and cooler than the valleys below.",
+    "Most visitors stop for an hour or two on the drive between Ravangla, Namchi and Gangtok. That works, but a night nearby gives you the early morning, when mist lifts off the rows and the pluckers start work. Come in March and April for the first flush, in October and November for clear air and cherry blossom, and in the monsoon if you love green and do not mind rain. Winter is quiet: plucking stops and the bushes rest."
+  ],
+  "facts": [
+    ["Best months", "Mar – May · Oct – Nov"],
+    ["Nights we suggest", "0–1"],
+    ["From Siliguri", "≈ 4–4.5 h by road"],
+    ["Altitude", "≈ 1,200–1,800 m"],
+    ["Known for", "Organic tea, cherry blossom in November"],
+    ["Network", "Fair on the main road, patchy in the garden"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "0–1",
+  "costs": [
+    ["Reserved car from Ravangla, half day", "₹1,500–2,500 a car"],
+    ["Shared jeep seat Ravangla or Namchi towards Temi", "₹60–120; few services, check"],
+    ["Reserved car Gangtok–Temi", "₹3,000–4,000 a car (indicative)"],
+    ["Packet of Temi tea", "roughly ₹200–600 per 100 g by grade"],
+    ["Homestay near Temi with dinner and breakfast", "₹1,500–2,500 pp"],
+    ["Tea and snacks at a roadside stall", "₹50–150"]
+  ],
+  "highlights": [
+    {"title": "Walking the estate roads", "text": "The road and footpaths through the garden give long views over contour rows of tea and the Teesta valley. Early morning is quietest and coolest. Stay on roads and marked paths, never walk into the rows, and give way to workers carrying leaf baskets."},
+    {"title": "Plucking season", "text": "From March to November, workers pluck the top two leaves and a bud by hand, filling baskets carried on the head. First flush in March and April gives the lightest, most prized tea. Ask before photographing anyone, and do not interrupt work."},
+    {"title": "The tea factory", "text": "The estate's factory on the hill withers, rolls, oxidises and dries the leaf the same day it is plucked. Visits and tastings have been allowed at times, with rules that change by season and management decision, so ask at the estate office and check current status."},
+    {"title": "Cherry blossom in November", "text": "Himalayan cherry trees along Temi's roads flower pink in autumn, usually around November, against green tea and blue sky. Sikkim has held a cherry blossom festival here in recent years; dates change, so check before you travel."},
+    {"title": "Views to the snow peaks", "text": "On clear autumn and winter mornings, the snow peaks of the Kanchenjunga range show to the north above the hills, with the Teesta valley below. Afternoon haze often hides them, so come early if the view matters."}
+  ],
+  "how_to_reach": [
+    {"mode": "Reserved car", "text": "The easiest way. Temi is about 18 km, 45 minutes, from Ravangla and about 30 km, roughly 1–1.5 hours, from Namchi. A half-day car from Ravangla costs about ₹1,500–2,500. From Gangtok the drive via Singtam takes about 2.5 hours and a car costs roughly ₹3,000–4,000. Many travellers stop at Temi on the way between Gangtok and Ravangla."},
+    {"mode": "Shared jeep", "text": "Shared jeeps on some routes between Ravangla, Namchi and Gangtok pass close to Temi, but services are few and timings irregular. Ask at the Ravangla or Namchi stand the evening before, expect a fare of about ₹60–120 for the short hop, and plan how you will get back. Check current status before you travel."},
+    {"mode": "From Siliguri", "text": "There is no regular direct shared jeep to Temi. Take a jeep from Siliguri to Ravangla (about ₹300–400) or Namchi (about ₹250–350), then a local car. A reserved car from NJP or Bagdogra to Temi takes about 4–4.5 hours."}
+  ],
+  "where_to_stay": "Temi has few beds, which keeps it quiet. A small resort inside the estate, usually called the Cherry Resort, has rooms near the tea, though opening and booking arrangements change; check current status before you travel. Family homestays in the villages around the garden offer simple rooms, home cooking and early walks, for about ₹1,500–2,500 per person with dinner and breakfast. Many travellers instead sleep in Ravangla, 45 minutes away, where there are more budget hotels and Mt Narsing Village Resort, and come to Temi for the morning.",
+  "stays": [],
+  "tips": [
+    "Arrive by 8 am for mist lifting off the rows, soft light and the best chance of a clear view to the north.",
+    "Stay on the road and marked paths, because walking into tea rows damages bushes and annoys workers.",
+    "Ask before photographing pluckers, and never pose children or workers for pictures with money.",
+    "Buy tea from the estate outlet or trusted shops in Ravangla and Namchi, and check the pack date and flush.",
+    "Combine Temi with Ravangla in one day, or stop on the drive between Gangtok and Ravangla to save on car hire."
+  ],
+  "themes": ["tea-country", "photography", "homestays", "family-trips"],
+  "nearby": ["ravangla", "namchi"],
+  "experiences": [
+    {
+      "slug": "temi-tea-garden-morning-walk",
+      "title": "An early walk through Temi's tea rows",
+      "kind": "tea",
+      "duration": "1.5–2 hours",
+      "best_time": "7–9 am, Mar–May and Oct–Nov",
+      "cost": "Free",
+      "image_query": "Temi Tea Garden rows Sikkim",
+      "wiki": "Temi Tea Garden",
+      "summary": "Walk the estate road through Sikkim's government tea garden in the first light, with mist lifting off long contour rows, pluckers starting work and, on clear mornings, snow peaks above the hills. Free, quiet and the best way to understand what makes Temi different from a roadside photo stop.",
+      "body": [
+        "Temi's tea runs down the southern slopes of Tendong Hill in long contour rows between about 1,800 m and 1,200 m, set up by the Sikkim government in 1969. The main road loops through the garden, and smaller estate roads and paths branch off it. Start near the top in the early morning and walk downhill slowly, and you see the shape of the estate: shade trees, drainage lines, workers' paths and the factory on the hill. A car can collect you lower down.",
+        "From March to November, plucking starts early. Workers, many of them women from the villages around the estate, move along the rows picking the top two leaves and a bud, dropping them into baskets carried on the back or head. First flush in March and April is the most delicate. In the monsoon, growth is fast and the bushes shine. Keep to the road, step aside for anyone carrying leaf, and always ask before you take a photograph of a person.",
+        "On clear mornings in October, November and early spring, look north for the snow peaks over the hills, and south-east down to the Teesta valley. By mid-morning cloud and haze often rise from the valleys, so the first two hours matter. There is no fee to walk on the public road through the garden. Carry water and a light jacket, wear shoes with grip for wet paths, and end with a cup of Temi tea at a roadside stall."
+      ],
+      "good_for": ["couples", "families", "photographers", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "Is there an entry fee for Temi Tea Garden?", "a": "There is usually no fee to walk along the public road that runs through Temi Tea Garden. Factory visits, guided walks or tastings, when offered, may carry a small charge and depend on estate rules that change by season. Ask at the estate office or your hotel, and check current status before you travel."},
+        {"q": "When is the best time to see tea plucking at Temi?", "a": "Plucking runs from about March to November. First flush in March and April is the most prized; second flush follows in May and June; the monsoon months bring fast growth; and autumn plucking runs into November. Mornings are the busiest. From December to February the bushes rest and little plucking happens."},
+        {"q": "Can I walk inside the tea rows at Temi?", "a": "Please do not. Walking into the rows damages bushes and gets in the way of workers, and the estate prefers visitors to keep to roads and marked paths. The road through the garden gives plenty of close views and good photographs. Ask at the estate office if you want a guided walk deeper into the garden."}
+      ]
+    },
+    {
+      "slug": "temi-tea-factory-tasting",
+      "title": "Tea factory visit and tasting at Temi",
+      "kind": "tea",
+      "duration": "1 hour",
+      "best_time": "Mornings, Mar–Nov",
+      "cost": "Free or small fee; rules vary",
+      "image_query": "Temi tea factory Sikkim",
+      "wiki": "",
+      "summary": "When the estate allows it, see how Temi's leaf becomes tea in its hill factory, from withering troughs to rolling and drying, then taste first, second and autumn flushes side by side. Arrangements change, so treat it as a bonus to ask about rather than a fixed sight.",
+      "body": [
+        "Leaf plucked in the morning reaches the estate's factory the same day. Orthodox tea making follows a set order: the leaf is spread in withering troughs to lose moisture, rolled to break its cells, left to oxidise, which turns it from green to copper, then dried with hot air and sorted into grades. In the plucking season you can smell the factory from the road, a mix of cut grass and malt. Visits depend on the estate and are easiest outside the busiest processing hours.",
+        "Visitor access to the factory and tastings at Temi has changed over the years with management and safety rules. Some seasons it has been possible to look in with permission or join a short tasting at the estate's sales counter; at other times only the shop has been open. Ask at the estate office or through your Ravangla hotel the day before, and check current status before you travel. Do not walk into the factory without permission.",
+        "If you can taste, compare flushes. First flush, from March and April, is light and floral; second flush, from May and June, is fuller and more fruity; autumn flush is mellow and good with milk. Buy from the estate counter or trusted shops in Ravangla and Namchi, and check the flush and pack date. Packets cost roughly ₹200–600 per 100 g by grade, indicative, and make a light, useful souvenir."
+      ],
+      "good_for": ["families", "couples", "seniors", "students"],
+      "faqs": [
+        {"q": "Can visitors enter the Temi tea factory?", "a": "Sometimes. Visitor access to the factory has varied over the years with the estate's management and safety rules. At times visitors could look in with permission or join a short tasting; at others only the sales counter was open. Ask at the estate office or through your hotel a day ahead, and check current status before you travel."},
+        {"q": "What does Temi tea taste like?", "a": "Temi makes orthodox teas. First flush, plucked in March and April, is light, floral and pale. Second flush, from May and June, is fuller and slightly fruity. Autumn flush is mellow and takes milk well. Brew lighter grades for 3–4 minutes without milk to taste the difference between flushes."},
+        {"q": "Where can I buy genuine Temi tea?", "a": "Buy from the estate's own sales counter when it is open, or from trusted shops in Ravangla, Namchi and Gangtok that stock Temi's sealed packs. Check the label for the garden name, flush and packing date. Indicative prices run about ₹200–600 per 100 g depending on grade, with first flush at the top."}
+      ]
+    },
+    {
+      "slug": "temi-cherry-blossom-november",
+      "title": "Cherry blossom season at Temi in November",
+      "kind": "viewpoint",
+      "duration": "2–3 hours",
+      "best_time": "Early November, mornings",
+      "cost": "Free; festival events may charge",
+      "image_query": "Prunus cerasoides cherry blossom Sikkim",
+      "wiki": "",
+      "summary": "In autumn the Himalayan cherry trees along Temi's roads flower pink against green tea and clear November skies. Time a visit for the bloom, walk the estate roads in the morning and, if it is on, look in on the cherry blossom festival Sikkim has held here in recent years.",
+      "body": [
+        "Japanese cherries bloom in spring, but the Himalayan cherry, Prunus cerasoides, flowers in autumn. Around Temi, cherry trees stand along the estate roads and at the edges of the tea, and for a few weeks, usually in late October and November, they turn pink. Against the dark green rows and the clear blue skies of a Himalayan autumn, it is one of the prettiest seasons in South Sikkim, and bees and sunbirds work the flowers in the morning sun.",
+        "Sikkim has promoted this season in recent years with a cherry blossom festival at Temi, with music, food stalls and local crafts over a few days. Dates and programmes change each year and the festival may not run every year, so check current status before you travel. On festival days the road gets busy with cars; on ordinary bloom days, the estate is quiet enough to walk for an hour with hardly anyone else around.",
+        "The bloom depends on weather, so ask your Ravangla or Namchi hotel, or a homestay near Temi, how the trees look before you go. Morning light is softer and views of the snow peaks are clearer, so try to arrive by 8 or 9 am. A half-day car from Ravangla costs about ₹1,500–2,500. Do not break branches or climb trees for photographs, and keep to the road where workers are plucking."
+      ],
+      "good_for": ["photographers", "couples", "families", "seniors"],
+      "faqs": [
+        {"q": "When do the cherry trees bloom at Temi?", "a": "Usually from late October through November. Temi's cherry trees are Himalayan cherries, Prunus cerasoides, which flower in autumn rather than spring. The exact peak shifts by a week or two each year with weather. Ask a hotel or homestay nearby how the bloom looks before you set out, and plan a flexible day if you can."},
+        {"q": "Is there a cherry blossom festival at Temi?", "a": "Sikkim has held a cherry blossom festival at Temi Tea Garden in recent years, usually in November, with music, food stalls and local crafts. Dates, programmes and whether it runs at all change each year, so check with Sikkim Tourism or local news before you travel, and book rooms in Ravangla early if it coincides with holidays."},
+        {"q": "Is Temi worth visiting outside the cherry season?", "a": "Yes. March to May brings the first flush and fresh green rows, October gives clear views, and the monsoon makes the estate deep green, though wet. Only December to February is quieter, when plucking stops. The cherry season is a bonus, not the only reason to come; the morning tea walk works in most months."}
+      ]
+    },
+    {
+      "slug": "temi-village-homestay-kitchen",
+      "title": "Dinner and a night in a homestay near Temi",
+      "kind": "food",
+      "duration": "Overnight",
+      "best_time": "Mar–May and Oct–Nov",
+      "cost": "₹1,500–2,500 pp with dinner and breakfast",
+      "image_query": "Sikkim homestay kitchen food",
+      "wiki": "",
+      "summary": "Sleep in a family homestay in one of the villages around the tea estate, eat a home-cooked Sikkimese dinner of rice, dal, greens and pickles, and walk into the garden at first light. Simple, warm and a good way to see Temi without the day-trip rush.",
+      "body": [
+        "The villages around Temi are home to many of the families whose members work in the tea garden or farm the slopes nearby. A number of households take guests in a spare room or two, with simple beds, a shared or attached bathroom and a kitchen at the centre of the house. Staying here turns Temi from a quick photo stop into a place: you hear the morning sounds of the estate, and your hosts can explain how plucking, wages and seasons work.",
+        "Dinner is home food. Expect rice, dal, a seasonal green such as mustard leaves, nettle or squash shoots, potatoes cooked with dalle chilli, pickles and often chicken or pork, or a dish with churpi, the local cheese. Gundruk, dried fermented greens, may turn up as a sour soup. Breakfast is usually roti or sel roti with tea, and the tea is often Temi's own. Tell your host about allergies, strict vegetarian needs or a mild-spice preference when you book.",
+        "Homestay rates near Temi run about ₹1,500–2,500 per person with dinner and breakfast, indicative, paid in cash. Book by phone through a known contact, your Ravangla hotel or a Sikkim tour desk, and confirm the location, since villages are spread out. Ask your host to arrange a car for onward travel. Bring a torch, slippers and a warm layer for evenings, and keep noise low after dark; it is a working family home."
+      ],
+      "good_for": ["families", "couples", "solo", "students", "seniors"],
+      "faqs": [
+        {"q": "Are there homestays near Temi Tea Garden?", "a": "Yes, several families in the villages around the estate take guests, with simple rooms and home-cooked meals. Standards and contacts change, so book through a known contact, your hotel in Ravangla or a Sikkim tour desk, and confirm the exact location. Expect about ₹1,500–2,500 per person per night with dinner and breakfast, paid in cash."},
+        {"q": "What food is served in Temi homestays?", "a": "Home-style Sikkimese and Nepali hill food: rice, dal, seasonal greens such as mustard leaves or nettle, potato curry with local chilli, pickles, and often chicken, pork or a churpi dish. Breakfast is usually roti or sel roti with tea. Vegetarian meals are easy to arrange if you tell your hosts in advance."},
+        {"q": "Should I stay at Temi or Ravangla?", "a": "Stay in Ravangla for more hotel choice, shared jeeps and easy access to Buddha Park and Ralang. Stay near Temi for quiet nights, home cooking and early walks in the tea garden before day visitors arrive. The two are about 45 minutes apart, so many travellers sleep in one and visit the other."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Temi Tea Garden?", "a": "Temi Tea Garden is in Namchi district, the old South Sikkim, on the southern slopes of Tendong Hill. It is about 18 km, 45 minutes, from Ravangla, about 30 km from Namchi and roughly 2.5 hours by road from Gangtok via Singtam. It overlooks the Teesta valley, between about 1,200 m and 1,800 m."},
+    {"q": "Is Temi Tea Garden worth visiting?", "a": "Yes, for a quiet morning or a night nearby. It is Sikkim's government tea estate, set up in 1969 and certified organic, with long contour rows, a working factory and cherry trees that bloom in November. It pairs naturally with Ravangla and Namchi. If you have seen many Darjeeling gardens, keep the visit short."},
+    {"q": "How do I get to Temi from Gangtok?", "a": "By reserved car via Singtam, about 2.5 hours, costing roughly ₹3,000–4,000. Shared jeeps between Gangtok and Ravangla or Namchi may pass near Temi, but services are few, so ask at the Gangtok stand the day before and check current status. Many travellers stop at Temi on the drive from Gangtok to Ravangla."},
+    {"q": "How much time do I need at Temi?", "a": "Two to three hours is enough for a walk through the garden, tea at a stall and a look at the factory or shop if open. Stay a night nearby if you want the early morning light, plucking at its busiest and a quieter estate. Most travellers combine Temi with Ravangla in a single day."},
+    {"q": "When was Temi Tea Garden established?", "a": "Temi Tea Garden was set up in 1969 by the government of Sikkim, which was then still a kingdom ruled by the Chogyal. When Sikkim became a state of India in 1975, the estate stayed with the state government. It covers about 177 ha on the slopes of Tendong Hill and was for decades Sikkim's only tea estate."},
+    {"q": "Is Temi tea organic?", "a": "Yes, Temi Tea Garden is certified organic, and Sikkim as a whole was declared India's first fully organic state in January 2016. The estate grows and processes orthodox tea, with first flush in March and April. Look for the garden's own sealed packs, and check the flush and packing date before you buy."},
+    {"q": "What is the best time to visit Temi?", "a": "March to May for the first and second flush and fresh green rows, and October to November for clear skies and cherry blossom. June to September is wet but very green. From December to February plucking stops and mornings can be cold, though views are often clear. Go early in the day in any season."},
+    {"q": "Can I stay inside Temi Tea Garden?", "a": "There has been a small resort inside the estate, usually called the Cherry Resort, but opening and booking arrangements change, so check current status before you travel. Otherwise, stay in a family homestay in the villages around the garden or in Ravangla, 45 minutes away, which has more budget hotels and better transport links."},
+    {"q": "Is Temi suitable for a family trip?", "a": "Yes. The estate road is easy walking, the views are wide, and the visit fits into half a day from Ravangla or Namchi. There are few facilities inside the garden, so carry water and snacks and use toilets in Ravangla or at your hotel. Children enjoy watching plucking in season, from the roadside."}
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "kalimpong-teesta-to-the-ridges-6n",
+  "title": "Teesta Bazar up to the Sillery Gaon ridge",
+  "region": "kalimpong",
+  "nights": 6,
+  "themes": ["monasteries", "homestays", "photography"],
+  "tier": "Value",
+  "travel_mode": "Mixed",
+  "stops": [{"place": "teesta-bazar", "nights": 1}, {"place": "kalimpong", "nights": 2}, {"place": "pedong", "nights": 1}, {"place": "sillery-gaon", "nights": 2}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 21500,
+  "cost_split": [
+    {"item": "Shared jeeps and car shares, NJP to Teesta Bazar, Kalimpong, Pedong, Sillery Gaon and back", "inr": 3900},
+    {"item": "Rooms in Teesta Bazar and Kalimpong, 3 nights, half a double", "inr": 4500},
+    {"item": "Homestays in Pedong and Sillery Gaon, 3 nights with dinner and breakfast", "inr": 5700},
+    {"item": "Meals in Teesta Bazar and Kalimpong, lunches, tea and snacks", "inr": 4800},
+    {"item": "Teesta rafting run, in season", "inr": 1200},
+    {"item": "Half a Kalimpong half-day car, entry fees and donations", "inr": 1400}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Balanced",
+  "max_altitude_m": 1830,
+  "meta_description": "6 nights from ₹21,500: a Teesta rafting run, Kalimpong's monasteries and haat, Pedong's Lepcha fort, then two homestay nights at Sillery Gaon above the river.",
+  "summary": "Six nights that climb from river to ridge for about ₹21,500 per person. One night by the Teesta with a rafting run in season, two in Kalimpong for its monasteries and market, one at Pedong on the old Tibet trade road, and two in Sillery Gaon, looking down on the river you started beside.",
+  "intro": [
+    "This journey climbs the way the land's history runs. Teesta Bazar sits at about 200 m on the river's right bank, where the Kalimpong road leaves NH10. Kalimpong, 16 km above at 1,247 m, passed from Bhutan to the British under the Treaty of Sinchula in November 1865 and joined Darjeeling district in 1866. For the next century it was India's main market for Tibetan wool, carried by mule caravans over Jelep La and down through Rhenock and Pedong. The 1962 war closed the pass and the trade ended. Pedong, at 1,240 m, and Sillery Gaon, about 1,830 m, sit along that old line.",
+    "We travel by shared jeep where seats run and use short car shares for the ridge villages. Teesta Bazar was badly hit by the October 2023 Teesta flood, set off when South Lhonak lake in Sikkim burst, and NH10 through it has closed again and again since. If it is shut, reach Teesta Bazar via Darjeeling and Peshok, or reverse the plan and go up to Kalimpong first by Gajoldoba and Odlabari or the Gorubathan–Lava road. Check current status before you travel. Rafting, run here since 1991, also stops in the monsoon and after floods."
+  ],
+  "highlights": [
+    "A Grade I–III rafting run on the Teesta, in season",
+    "The Lepcha tale of Rongnyu and Rangeet, the river lovers",
+    "Zang Dhok Palri on Durpin, consecrated by the 14th Dalai Lama in 1976",
+    "Damsang fort ruins, the stronghold of Lepcha chief Gaeboo Achyok",
+    "Ramitey Dara, where the Teesta is said to make 14 turns"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP down to the river at Teesta Bazar", "place": "teesta-bazar", "overnight": "Teesta Bazar", "drive": "≈ 2.5–3 h by shared jeep from Siliguri", "text": "Take an auto from NJP or Bagdogra to the Siliguri jeep stands and buy a Kalimpong-bound seat for ₹200–300; ask to be dropped at Teesta Bazar. At Sevoke the road crosses the Coronation Bridge, built in 1937–41 and named for the coronation of George VI. From there NH10 follows the Teesta. It has had landslide and flood closures since October 2023, and the way round is usually via Darjeeling and Peshok, so check current status before you travel. Choose a simple room set well back from the bank. In the evening, ask people in the market about the 2023 flood, which hit this stretch of river hard.", "meals": "Dinner", "spend": "₹200–300 jeep seat + ₹300 dinner"},
+    {"day": 2, "title": "A Teesta run, then up to Kalimpong", "place": "kalimpong", "overnight": "Kalimpong", "drive": "≈ 16 km · 45 min by shared jeep", "text": "Rafting on the Teesta began here in 1991, started by the hill council of the day, the DGHC. Runs are Grade I–III and 3–12 km long, for about ₹800–1,500 a person, and go only when the water is safe: they stop in the monsoon and after floods, so check current status before you travel. Downstream, near Melli, the Teesta meets the Rangeet. Lepcha folklore makes them lovers: Rongnyu, the Teesta, followed Parilbu the snake, while Rangeet followed Tutfo the bird, who dawdled, and the two met at Pozok, today's Peshok. After lunch, take a shared jeep 16 km up to Kalimpong.", "meals": "Breakfast", "spend": "₹800–1,500 rafting + ₹80–120 jeep seat + ₹250 lunch"},
+    {"day": 3, "title": "Durpin, Thongsa and the wool-market town", "place": "kalimpong", "overnight": "Kalimpong", "drive": "Half-day local car, ₹1,800–2,500", "text": "Share a half-day car to Durpin hill, 1,372 m. Zang Dhok Palri Phodang was established there in 1957 by Dudjom Rinpoche and consecrated by the 14th Dalai Lama in 1976; it holds the 108 volumes of the Kangyur. Then see Thongsa Gompa, built by the Bhutanese in 1692 and the town's oldest monastery, a reminder that Bhutan held Kalimpong until 1865. Tibetan refugees and monks settled here after 1959, and their monasteries and kitchens are part of the town. If it is a Wednesday or Saturday, spend the afternoon at the haat bazaar, and confirm the day locally. Momos cost ₹60–120 a plate.", "meals": "Breakfast", "spend": "Half of ₹1,800–2,500 car + ₹250 lunch + ₹300 dinner"},
+    {"day": 4, "title": "Pedong and the fort of Gaeboo Achyok", "place": "pedong", "overnight": "Pedong", "drive": "≈ 20 km · 1 h by shared jeep", "text": "Take a shared jeep east to Pedong, 1,240 m, for ₹80–120. Two to three km from the bazaar are the ruins of Damsang Gadi, the fort of the Lepcha chief Gaeboo Achyok, usually dated to about 1690 and built to hold off the Bhutanese Drukpas; it fell to ruin after 1864. Lepcha lore says spirits carried smooth round stones up from the Reshi river to build its walls. Then visit Sangchen Dorjee Monastery, built in the early 1700s under Bhutanese rule, and Cross Hill, raised in 1882 by Father Auguste Desgodins for missionaries who died or vanished trying to reach Tibet. Sleep in a Pedong homestay.", "meals": "Breakfast, dinner", "spend": "₹80–120 jeep seat + ₹200 lunch"},
+    {"day": 5, "title": "Up the ridge to Sillery Gaon", "place": "sillery-gaon", "overnight": "Sillery Gaon", "drive": "≈ 5–6 km · 30 min by car share", "text": "After a slow breakfast, take a car share for the 5–6 km climb to Sillery Gaon, about 1,830 m. The local story is that the village takes its name from the sillery plant. In British days the slopes nearby were planted with cinchona, the tree whose bark gave quinine; ask your host to show you the old plantation land on an afternoon walk. Homestays here are family houses with a few rooms, and dinner is whatever the family cooks that day, usually rice, dal and a local green. Sit out for the sunset. There is little else to do, and that is why we give it two nights.", "meals": "Breakfast, dinner", "spend": "₹600–900 car share + ₹200 lunch"},
+    {"day": 6, "title": "Dawn walk to Ramitey Dara", "place": "sillery-gaon", "overnight": "Sillery Gaon", "drive": "", "text": "Walk about 3 km to Ramitey Dara in the early morning, before cloud rises from the valley. From the top the Teesta is said to make 14 turns below you; some people count 11, and the light decides how many you see. It is the same river you rafted on day 2, now far below. Across on the Sikkim side, not far off, ran the old Silk Route from Rhenock towards Zuluk and Jelep La, part of the trade line that fed Kalimpong's wool market. Come back for a late breakfast and give the afternoon to the village: tea in the yard, a lane walk and an early night.", "meals": "Breakfast, dinner", "spend": "₹200 lunch"},
+    {"day": 7, "title": "Sillery Gaon back down to the plains", "place": "sillery-gaon", "overnight": "", "drive": "≈ 5–6 h by car share and shared jeeps via Pedong and Kalimpong", "text": "Leave after breakfast. A car share takes you down to Pedong, where shared jeeps run to Kalimpong for ₹80–120, and from the Kalimpong motor stand jeeps leave for Siliguri at ₹200–300 a seat. The direct road down is NH10, which has closed repeatedly since October 2023. The other roads run via Gajoldoba and Odlabari, round by Darjeeling and Peshok, or along the newer Bagrakote–Lava–Pedong road, which can save the climb back through Kalimpong if you hire a car from Pedong. Check current status before you travel, and book an evening train or flight so a slow road does not cost you a ticket.", "meals": "Breakfast", "spend": "₹600–900 car share + ₹80–120 + ₹200–300 jeep seats"}
+  ],
+  "stays": [],
+  "includes": ["Shared jeep seats Siliguri–Teesta Bazar–Kalimpong–Pedong and back", "Car shares between Pedong and Sillery Gaon", "Half of a Kalimpong half-day sightseeing car", "3 nights in simple rooms at Teesta Bazar and Kalimpong, twin sharing", "3 nights in Pedong and Sillery Gaon homestays with dinner and breakfast", "One Teesta rafting run, in season", "Meals in Teesta Bazar and Kalimpong, lunches and tea"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Reserved cars for the whole trip", "Paragliding or other paid activities in Kalimpong", "Tips for hosts, guides and rafting crews"],
+  "save_money": [
+    "Ride the Kalimpong-bound shared jeep to Teesta Bazar rather than hiring a car; the seat costs ₹200–300.",
+    "Join other travellers at your Kalimpong hotel to split the ₹1,800–2,500 half-day car to Durpin and Thongsa.",
+    "Walk to Damsang fort and Ramitey Dara with your homestay's directions instead of booking a guide for each."
+  ],
+  "good_to_know": [
+    "NH10 has had repeated closures since October 2023; diversions run via Gajoldoba and Odlabari, Darjeeling and Peshok, or the Bagrakote–Lava–Pedong road, so check current status before you travel.",
+    "Teesta rafting is seasonal and stops in the monsoon and after floods; check current status before you travel.",
+    "Kalimpong's haat bazaar is usually on Wednesdays and Saturdays; confirm locally.",
+    "Pedong and Sillery Gaon have few shops and rare card machines, so carry cash.",
+    "Teesta Bazar at about 200 m is warm; Sillery Gaon at 1,830 m is cold at night, so pack for both."
+  ],
+  "faqs": [
+    {"q": "Is rafting at Teesta Bazar running now?", "a": "Rafting at Teesta Bazar is seasonal. Runs are Grade I–III, 3–12 km long, and cost about ₹800–1,500 a person when the river is safe. They stop in the monsoon and after floods, and the October 2023 Teesta flood hit this stretch hard. Ask in Teesta Bazar the day before, and check current status before you travel. If it is off, the rest of the trip still works."},
+    {"q": "What is the Lovers' Meet story of the Teesta and Rangeet?", "a": "It is Lepcha folklore. The Teesta, called Rongnyu, and the Rangeet were lovers who set off to meet. Rongnyu followed Parilbu the snake, while Rangeet followed Tutfo the bird, who dawdled on the way. They met at Pozok, today's Peshok, where the two rivers join near Melli. The confluence is called Triveni or Lovers' Meet, and it too was hit by the 2023 flood."},
+    {"q": "How do we get from Kalimpong to Pedong?", "a": "Shared jeeps run from the Kalimpong motor stand to Pedong, 20 km east, for ₹80–120 a seat, taking about an hour. They leave through the day, more often in the morning. A reserved car costs more but lets you stop at viewpoints. From Pedong, Sillery Gaon is a further 5–6 km uphill, usually by a car your homestay arranges."},
+    {"q": "What is Damsang fort near Pedong?", "a": "Damsang Gadi is the ruined fort of the Lepcha chief Gaeboo Achyok, usually dated to about 1690 and built to resist the Bhutanese Drukpas. It fell to ruin after 1864. The ruins lie 2–3 km from Pedong. Lepcha lore says spirits carried round stones up from the Reshi river to build it. Every 20 December, Lepchas gather there for Gaeboo Achyok's birth anniversary."},
+    {"q": "What is Ramitey Dara?", "a": "Ramitey Dara is a viewpoint about 3 km on foot from Sillery Gaon. From the top, the Teesta is often said to make 14 turns through the valley below; some people count 11. Go early, before cloud rises from the river, and wear shoes with grip, as the path is steep in parts. Ask your host for directions or a village companion."},
+    {"q": "How much does this six-night trip cost?", "a": "About ₹21,500 per person, twin sharing, from NJP or Bagdogra back again, indicative for 2025–26. That covers shared jeeps and car shares, three nights in simple rooms at Teesta Bazar and Kalimpong, three homestay nights with dinner and breakfast, other meals, one rafting run and a share of a half-day car in Kalimpong. Solo travellers pay more for rooms."},
+    {"q": "Is NH10 open to Teesta Bazar?", "a": "NH10, from Sevoke up the Teesta through Teesta Bazar, has had repeated landslide and flood closures since October 2023. When it shuts, Teesta Bazar is usually reached via Darjeeling and Peshok, while Kalimpong traffic also uses Gajoldoba and Odlabari or the Gorubathan–Lava road. If needed, we swap the first two nights. Ask at the jeep stand, and check current status before you travel."},
+    {"q": "Where do we stay along the way?", "a": "At Teesta Bazar we use a simple room set back from the river, and in Kalimpong a budget hotel at about ₹1,200–2,500 a room. Pedong and Sillery Gaon have family homestays at about ₹1,300–2,200 per person with dinner and breakfast. We do not name the village homestays here; your jeep driver or our team can suggest current ones."},
+    {"q": "When is the best time for this trip?", "a": "March to May and October to November are best: rafting usually runs, and the ridge mornings at Sillery Gaon are clearer. December to February is cold on the ridge but dry. We avoid June to August, when monsoon rain brings landslides, stops rafting and hides the valley in cloud. September can work late in the month, so check current status before you travel."}
+  ]
+}

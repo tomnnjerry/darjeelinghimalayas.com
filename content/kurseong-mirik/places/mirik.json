@@ -1,0 +1,122 @@
+{
+  "slug": "mirik", "name": "Mirik", "name_local": "मिरिक", "region": "kurseong-mirik",
+  "kind": "hill station",
+  "wiki": "Mirik", "image_query": "Mirik lake Sumendu footbridge",
+  "lat": 26.887, "lng": 88.187, "altitude_m": 1495,
+  "tagline": "A lake made from a marsh, in a valley named for a fire",
+  "meta_description": "Mirik on a budget: Sumendu Lake, Bokar Monastery, Rameetay Dara, tea and oranges, shared jeeps from Siliguri at ₹150–200, rooms and when to go.",
+  "summary": "Mirik is a small hill town at 1,495 m, 52 km from Siliguri and 49 km from Darjeeling, built around Sumendu Lake, which opened in 1979. Above it stands Bokar Monastery, founded in 1984. Around it lie tea estates and orange orchards. Shared jeeps from Siliguri cost ₹150–200; budget rooms start around ₹1,200.",
+  "local_story": {"title": "Mir-Yok, the place burnt by fire", "paras": [
+    "Mirik's name is Lepcha. It comes from Mir-Yok, usually translated as 'place burnt by fire', which may remember an old clearing of the forest by burning for cultivation; no one now knows for sure. For a long time the valley was farmland and marsh, with tea estates such as Thurbo, Soureni and Gopaldhara planted on the slopes around it from the late nineteenth century and orange orchards in the warmer pockets below.",
+    "In 1974 work began on turning the marsh at the bottom of the valley into a lake as part of a plan to create a new hill resort. Sumendu Lake was opened in April 1979, with a 3.5 km road round it and a footbridge across, and hotels grew up at Krishnanagar on the far shore. A few years later, in 1984, the Tibetan Buddhist teacher Bokar Rinpoche (1940–2004), a master of the Kagyu tradition, founded a small retreat centre on the hill above the town. It grew into Bokar Ngedhon Chokhorling, the monastery that now overlooks Mirik."
+  ]},
+  "did_you_know": [
+    "Work on Sumendu Lake began in 1974 on a marsh, and the lake was opened in April 1979 with a 3.5 km road around it.",
+    "Bokar Monastery began in 1984 as a small retreat centre founded by Bokar Rinpoche; it grew into a large monastery as students asked to join.",
+    "Mirik town had 11,363 residents at the 2011 census; the wider Mirik area has around 58,000 people."
+  ],
+  "intro": [
+    "Mirik is the gentle option in the Darjeeling hills. Lower and warmer than Darjeeling, it centres on a lake ringed by tall Japanese cedars, with a footbridge across, rowing boats and a walking road around it. The town spreads up the slopes in tiers, and above everything the gold roofs of Bokar Monastery catch the morning sun.",
+    "It works well for families and for anyone who wants a calm base. Walk the lake at dawn before the day-trip cars arrive, climb to Bokar for the morning prayers, then spend an afternoon on the tea slopes or the orange orchards around the town. On the road up from Siliguri, stop at the Tingling and Soureni viewpoints for some of the best tea-garden views in the hills. Two nights is right; three if you want to walk."
+  ],
+  "facts": [["Best months", "Oct – Dec · Mar – May"], ["Nights we suggest", "2"], ["From Siliguri", "≈ 52 km · 2–2.5 h"], ["Altitude", "1,495 m"], ["Known for", "Sumendu Lake, Bokar Monastery, tea and oranges"], ["Network", "Jio, Airtel and BSNL good in town"]],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "nights": "2",
+  "costs": [["Shared jeep from Siliguri", "₹150–200 a seat"], ["Shared jeep to Darjeeling", "₹150–200 a seat"], ["Budget hotel double room", "₹1,200–2,500"], ["Rowing boat on the lake, about 20 minutes", "₹150–300 a boat"], ["Momos and tea by the lake", "₹100–180"], ["Car for local sightseeing, half day", "₹1,500–2,200"]],
+  "highlights": [
+    {"title": "Sumendu Lake", "text": "A lake about 1.25 km long made from a marsh in the 1970s and opened in 1979, with a 3.5 km walking road around it under tall cedars, rowing boats and a footbridge across to Krishnanagar. Walk it before 9 am for quiet."},
+    {"title": "Bokar Monastery", "text": "The Kagyu monastery on the hill above Mirik, founded by Bokar Rinpoche in 1984. Visit during morning prayers, walk the prayer wheels clockwise and look out over the lake and the valley."},
+    {"title": "Rameetay Dara", "text": "A viewpoint near Bokar Monastery that is the high ground of Mirik, with views down to the lake and across the valley towards Nepal. Best on clear mornings."},
+    {"title": "Tea and orange slopes", "text": "Thurbo, Soureni and Gopaldhara estates surround the town, and orange orchards ripen from November to January in the warmer pockets. Walk the estate roads for views and quiet."},
+    {"title": "Devi Sthan", "text": "A small Hindu shrine on the edge of the lake, reached by the lakeside path, where local families make offerings. Remove your shoes and ask before photographing inside."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "From Siliguri, jeeps to Mirik leave from the stands near Siliguri Junction and Hill Cart Road, ₹150–200 a seat, about 2–2.5 hours via Matigara, Dudhia, Tingling and Soureni. From Darjeeling, jeeps go via Sukhia Pokhari for ₹150–200, about 2 hours."},
+    {"mode": "Reserved car", "text": "A car from NJP or Bagdogra costs about ₹2,200–3,000; from Darjeeling ₹2,500–3,200. Stop at Tingling and Soureni viewpoints on the way up from Siliguri."},
+    {"mode": "Bus", "text": "A few state buses run between Siliguri and Mirik. They are slower and cheaper than jeeps; ask at the Tenzing Norgay bus terminus for current timings."}
+  ],
+  "where_to_stay": "Krishnanagar, on the far side of the lake, has most of Mirik's hotels, from small budget places at ₹1,200–2,500 a double to larger family hotels. The main bazaar side is busier and closer to the jeep stand. For space and quiet, the GTA-run Swiss Cottages sit on the high ground above the lake. For a cheaper and more local stay, look at homestays in the villages and tea estates around Mirik, typically ₹1,200–1,800 per person with meals.",
+  "stays": ["mirik-gta-swiss-cottages"],
+  "tips": [
+    "Walk the lake before 9 am; day-trippers from Siliguri arrive by late morning.",
+    "Go to Bokar Monastery for morning prayers and dress modestly.",
+    "Agree boat and pony prices before you start.",
+    "Book early for Puja, Diwali and Christmas weekends, when Mirik fills with Bengal families.",
+    "Buy oranges and tea from growers on the estate roads rather than lakeside stalls."
+  ],
+  "themes": ["family-trips", "monasteries", "tea-country", "long-weekends", "budget-honeymoons"],
+  "nearby": ["sourenee", "tingling", "gopaldhara"],
+  "experiences": [
+    {"slug": "mirik-sumendu-lake-dawn-walk", "title": "Dawn walk round Sumendu Lake",
+     "kind": "viewpoint", "duration": "1.5 hours", "best_time": "6–8 am, any dry month", "cost": "Free · boat ₹150–300",
+     "image_query": "Sumendu lake Mirik morning", "wiki": "",
+     "summary": "Walk the 3.5 km road round Mirik's lake at first light, under the cedars and across the footbridge, before the day-trip crowds arrive. Watch the town wake up and the monastery roofs catch the sun.",
+     "body": [
+       "Sumendu Lake was a marsh until 1974, when work began on turning it into a lake for a new hill resort. It opened in 1979. Today a road of about 3.5 km goes round it, with tall Japanese cedars along the shore and a footbridge connecting the bazaar side to Krishnanagar.",
+       "Start at the footbridge around 6 am. Walk clockwise, past the Devi Sthan shrine and the garden on the bazaar side, then along the quieter wooded shore. Local walkers, schoolchildren and joggers share the path; ponies wait for later customers.",
+       "If you want to go out on the water, the rowing boats start later in the morning. Agree the price and time first, and wear the life jacket."
+     ],
+     "good_for": ["families", "couples", "seniors", "first-timers"],
+     "faqs": [
+       {"q": "How long is the walk around Mirik lake?", "a": "About 3.5 km on a mostly level road, which takes 45 minutes to an hour at an easy pace, longer with stops. It suits most ages. Go early in the morning for quiet; by late morning cars and day-trippers fill the lakeside."},
+       {"q": "How much does boating at Mirik lake cost?", "a": "Rowing boats cost roughly ₹150–300 a boat for about 20 minutes, as an indication for 2025–26. Rates vary by season and boat type. Agree the price and duration before you get in and make sure life jackets are provided."},
+       {"q": "When was Mirik lake made?", "a": "Work began in 1974 on a marshy valley floor, and the lake, called Sumendu, was opened in April 1979 as the centre of a new hill resort. The town's hotels at Krishnanagar grew up afterwards on the far shore."}
+     ]},
+    {"slug": "mirik-bokar-monastery-prayers", "title": "Morning prayers at Bokar Monastery",
+     "kind": "monastery", "duration": "1.5 hours", "best_time": "Early morning, any month", "cost": "Free · donation welcome",
+     "image_query": "Bokar monastery Mirik", "wiki": "",
+     "summary": "Climb to the Kagyu monastery founded by Bokar Rinpoche in 1984 and sit quietly at the back during morning prayers. Walk the prayer wheels clockwise and look down over the lake from the courtyard.",
+     "body": [
+       "Bokar Rinpoche (1940–2004) was a senior teacher of the Kagyu school of Tibetan Buddhism who left Tibet and settled in India. In 1984 he founded a small retreat centre on the hill above Mirik. Students and lay people asked him to accept monks, and the centre grew into the large monastery you see now, known as Bokar Ngedhon Chokhorling.",
+       "Arrive early, when monks gather for prayers. Remove your shoes where asked, sit at the back, and do not photograph inside the prayer hall unless allowed. Outside, walk the row of prayer wheels clockwise, as the monks do.",
+       "From the courtyard you look down over the town and the lake. The walk up from the lake takes 30–40 minutes; a car takes 10."
+     ],
+     "good_for": ["seniors", "solo", "families", "photographers"],
+     "faqs": [
+       {"q": "Who founded Bokar Monastery?", "a": "Bokar Rinpoche, a Kagyu teacher of Tibetan Buddhism, founded it in 1984. It began as a small retreat centre and grew as monks joined. After his death in 2004, Khenpo Lodro Donyo Rinpoche continued to guide it, and a new Bokar Rinpoche has since been recognised."},
+       {"q": "Is there an entry fee at Bokar Monastery?", "a": "No. Entry is free, and donations are welcome. Dress modestly, remove shoes where asked and keep your voice low. Photography inside the prayer hall may not be allowed; ask first."},
+       {"q": "How far is Bokar Monastery from Mirik lake?", "a": "It is on the hill above the town, a 30–40 minute uphill walk from the lake or about 10 minutes by car. The road continues to the Rameetay Dara viewpoint nearby, so the two make a good morning together."}
+     ]},
+    {"slug": "mirik-rameetay-dara-view", "title": "Rameetay Dara above the lake",
+     "kind": "viewpoint", "duration": "1 hour", "best_time": "7–9 am, Oct–Mar", "cost": "Free",
+     "image_query": "Rameetay Dara viewpoint Mirik", "wiki": "",
+     "summary": "Walk on from Bokar Monastery to Rameetay Dara, the high ground of Mirik, for a view over the lake, the tea slopes and the valley towards Nepal. Short, easy and best on a clear morning.",
+     "body": [
+       "Rameetay Dara is the ridge near Bokar Monastery, the highest ground around Mirik at roughly 1,770 m. Locals use the name for both the viewpoint and the slope around it.",
+       "From the top you look down on Sumendu Lake and the town, across the tea gardens and orange orchards of the valley, and west into the hills of Nepal. On the clearest winter mornings the snow peaks show to the north.",
+       "Walk up from Bokar in 10–15 minutes. There is little shade or shelter, so carry water and a hat in spring."
+     ],
+     "good_for": ["photographers", "couples", "families"],
+     "faqs": [
+       {"q": "What can I see from Rameetay Dara?", "a": "Mirik town and Sumendu Lake below, the surrounding tea estates and orange orchards, and the hills of Nepal to the west. On very clear winter mornings you may see snow peaks to the north. Morning light is best."},
+       {"q": "How do I get to Rameetay Dara?", "a": "Walk up from the lake to Bokar Monastery in 30–40 minutes, then continue 10–15 minutes to the viewpoint. A car can take you most of the way. It makes a natural pair with morning prayers at Bokar."},
+       {"q": "Is Rameetay Dara crowded?", "a": "Less than the lake. Morning visitors are mostly locals and a few travellers coming from the monastery. Weekends in the holiday season bring more cars. Go early for quiet and the best light."}
+     ]},
+    {"slug": "mirik-tea-and-orange-slopes-walk", "title": "Tea slopes and orange orchards",
+     "kind": "tea", "duration": "3 hours", "best_time": "Morning, Mar–May and Oct–Jan", "cost": "Free · guide ₹600–1,000",
+     "image_query": "Mirik tea garden slopes", "wiki": "",
+     "summary": "Walk out of Mirik along the estate roads into the tea gardens and, in winter, the orange orchards. Watch plucking in season, buy fruit from growers, and see how the valley lives off the land.",
+     "body": [
+       "Mirik's valley is ringed by tea estates such as Thurbo and Soureni, with Gopaldhara higher up, and orange orchards fill the warmer pockets below. Estate roads leave the town in several directions and make good walks.",
+       "In the plucking season, March to November, you will see pluckers at work and leaf being carried to the weighing points. From November to January, orange trees around the villages are heavy with fruit, and families sell it from their doors.",
+       "Go with a local guide or ask your hotel which roads are open to walkers. Keep to roads and paths, ask before photographing workers, and never pick tea or fruit."
+     ],
+     "good_for": ["couples", "photographers", "solo", "students"],
+     "faqs": [
+       {"q": "Which tea gardens are near Mirik?", "a": "Thurbo, Soureni, Gopaldhara, Singbulli, Okayti and Phuguri are among the estates around Mirik. Some sit right on the road from Siliguri, with the Tingling and Soureni viewpoints overlooking their slopes. Factory visits depend on each estate's rules; ask locally."},
+       {"q": "When are oranges in season around Mirik?", "a": "From about November to January, peaking in December. Orchards in the lower, warmer parts of the Mirik valley produce the well-known Darjeeling mandarin. Buy from growers for the best price and freshest fruit."},
+       {"q": "Can I walk into the tea gardens at Mirik?", "a": "You can walk the estate roads and public paths. Do not walk between the bushes or pick leaves, and ask before entering factory areas. A local guide can show you routes that are open and explain the work."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "Is Mirik worth visiting?", "a": "Yes, for a calm two-night stay. It has a lake to walk round, a large Kagyu monastery, tea estates and orange orchards, and on the road up some of the best tea-garden views in the hills. It is quieter and cheaper than Darjeeling, and good for families and older travellers."},
+    {"q": "What does Mirik mean?", "a": "The name comes from the Lepcha words Mir-Yok, usually translated as 'place burnt by fire'. It may refer to forest cleared by burning for farming in the past, but there is no firm record of the origin."},
+    {"q": "How do I reach Mirik from Siliguri?", "a": "Take a shared jeep from the stands near Siliguri Junction or Hill Cart Road, ₹150–200 a seat, about 2–2.5 hours via Dudhia, Tingling and Soureni. A reserved car from NJP or Bagdogra costs about ₹2,200–3,000. A few state buses also run."},
+    {"q": "How far is Mirik from Darjeeling?", "a": "About 49 km by road via Sukhia Pokhari, roughly 2 hours. Shared jeeps cost about ₹150–200 a seat, and a reserved car about ₹2,500–3,200. Many travellers combine the two on a loop from Siliguri."},
+    {"q": "What is the best time to visit Mirik?", "a": "October to December for clear weather and, from November, oranges. March to May for spring and the tea season, though April and May bring holiday crowds. July and August are very wet and views are rare."},
+    {"q": "How many days are enough for Mirik?", "a": "Two nights is ideal: one day for the lake, Bokar Monastery and Rameetay Dara, one for tea slopes, orchards or Gopaldhara. One night works if you are passing through between Siliguri and Darjeeling."},
+    {"q": "Where should I stay in Mirik?", "a": "Krishnanagar, across the lake from the bazaar, has most hotels, from about ₹1,200 a double. The bazaar side is closer to the jeep stand. The GTA's Swiss Cottages sit on the hill above the lake. Village and tea-estate homestays around Mirik include meals for about ₹1,200–1,800 per person."},
+    {"q": "Is Mirik good for families with children?", "a": "Yes. The lake walk is level, there are boats and ponies, food is easy and drives from Siliguri are short. Keep children close near the water and on the lakeside road, which has some traffic."},
+    {"q": "Is Mirik crowded?", "a": "On weekends and holidays, especially Puja, Diwali, Christmas and the May school holidays, the lake gets busy with day-trippers from Siliguri from late morning. Early mornings and weekdays outside holidays are quiet."}
+  ]
+}

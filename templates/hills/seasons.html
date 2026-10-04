@@ -1,0 +1,14 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}When to visit Darjeeling, Sikkim and the Dooars: the season almanac · Darjeeling Himalayas{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:20px"><div class="phead__body" style="margin-top:0">
+  <p class="eyebrow">Season almanac</p><h1 class="h-1">Which hill in which month</h1>
+  <p class="lede">Darker squares are the best months. Click any square for that month's weather, picks and trips.</p>
+</div></div></header>
+<section class="sec--tight"><div class="wrap">{% include "hills/partials/almanac.html" %}</div></section>
+<section class="sec"><div class="wrap grid grid--3">
+  <div class="gcard"><span class="gcard__cat">{% icon "viewpoint" %}Clear views</span><b>October to early December</b><p>Post-monsoon air gives the clearest Kanchenjunga mornings. Busy around Durga Puja and Diwali.</p></div>
+  <div class="gcard"><span class="gcard__cat">{% icon "kalimpong" %}Flowers</span><b>March to May</b><p>Rhododendrons on the Singalila and in Yumthang, magnolias, warm days. Haze builds by May.</p></div>
+  <div class="gcard"><span class="gcard__cat">{% icon "leaf" %}Cheap and green</span><b>June to September</b><p>Monsoon rain, landslides, closed Dooars parks, lower prices and the greenest tea gardens.</p></div>
+</div></section>
+{% endblock %}

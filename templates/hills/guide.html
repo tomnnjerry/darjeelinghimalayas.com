@@ -1,0 +1,41 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}{{ g.title }} · Darjeeling Himalayas{% endblock %}
+{% block description %}{{ g.meta_description }}{% endblock %}
+{% block body_attrs %} data-land="{{ r.slug }}"{% endblock %}
+{% block fab_land %}&land={{ r.slug }}{% endblock %}
+{% block content %}
+<header class="phead phead--plain">
+  <div class="wrap phead__in" style="padding-top:28px">
+    <div class="phead__body" style="margin-top:0">
+      <p class="eyebrow">{{ r.short }} guide · {{ g.category }} · {{ g.read_min }} min read</p>
+      <h1 class="h-1">{{ g.title }}</h1>
+      <p class="lede">{{ g.summary }}</p>
+      <p class="small muted" style="margin-top:14px">By {{ SITE.byline }}</p>
+    </div>
+  </div>
+</header>
+<section class="sec--tight">
+  <div class="wrap article">
+    <nav class="toc-side" aria-label="Contents"><b>Contents</b>{% for s in g.sections %}<a href="#{{ s.anchor }}">{{ s.heading }}</a>{% endfor %}<a href="#faq-h-guide">Questions</a></nav>
+    <article class="prose">
+      {% with img=g|first_img %}{% if img %}{% photo img alt=g.title sizes="(max-width: 860px) 100vw, 60vw" cls="photo--ridge" ratio="ratio-169" %}{% endif %}{% endwith %}
+      <div class="takeaways" style="margin-top:24px"><b>In brief</b>{{ g.summary }}</div>
+      {% for s in g.sections %}
+      <h2 id="{{ s.anchor }}">{{ s.heading }}</h2>
+      {% for x in s.paras %}<p>{{ x }}</p>{% endfor %}
+      {% if s.list %}<ul>{% for x in s.list %}<li>{{ x }}</li>{% endfor %}</ul>{% endif %}
+      {% if s.table %}<div class="scroll-x"><table class="tbl"><thead><tr>{% for h in s.table.head %}<th scope="col">{{ h }}</th>{% endfor %}</tr></thead><tbody>{% for row in s.table.rows %}<tr>{% for c in row %}<td>{{ c }}</td>{% endfor %}</tr>{% endfor %}</tbody></table></div>{% endif %}
+      {% if forloop.counter == 3 %}<div class="midcta"><div><b class="h-3">Want this as a plan with prices?</b><p>A local planner turns it into a route for your dates.</p></div><a class="btn btn--foil btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}&land={{ r.slug }}" data-cta="guide-mid">Get my quote</a></div>{% endif %}
+      {% endfor %}
+      <div style="margin-top:50px">{% include "hills/partials/faq.html" with faqs=g.faqs faq_id="guide" %}</div>
+    </article>
+    <aside class="prail__side" style="position:sticky;top:96px;display:grid;gap:18px">
+      {% if g.related_objs %}<div><p class="eyebrow">Places in this guide</p><div class="inline-links">{% for p in g.related_objs|slice:":5" %}<a class="inline-link" href="{{ p.url }}">{% with img=p|first_img %}{% if img %}<img src="{{ img|src:500 }}" alt="" loading="lazy">{% else %}<span></span>{% endif %}{% endwith %}<span><small>{{ p.kind }}</small><b>{{ p.name }}</b></span>{% icon "arrow" %}</a>{% endfor %}</div></div>{% endif %}
+      {% include "hills/partials/quick_form.html" with qf_id="guide" qf_land=r.slug %}
+    </aside>
+  </div>
+</section>
+{% if more %}<section class="sec sec--paper2"><div class="wrap"><div class="sec__head"><div><p class="eyebrow">Keep reading</p><h2 class="h-2">More {{ r.short }} guides</h2></div></div><div class="grid grid--3">{% for g in more %}{% include "hills/partials/card_guide.html" %}{% endfor %}</div></div></section>{% endif %}
+{% include "hills/partials/nudge.html" with nudge_slug=r.slug %}
+{% endblock %}
+{% block cta %}{% include "hills/partials/cta.html" with cta_land=r.slug %}{% endblock %}

@@ -1,0 +1,10 @@
+{% load hills %}<div class="scroll-x">
+  <table class="almanac">
+    <thead><tr><th scope="col">Hill</th>{% for m in months_short %}<th scope="col"{% if forloop.counter0 == month_i %} class="is-now"{% endif %}>{{ m }}</th>{% endfor %}</tr></thead>
+    <tbody>{% for r in regions %}<tr data-land="{{ r.slug }}">
+      <th scope="row"><span class="almanac__land"><span class="lbadge lbadge--sm">{% icon r.slug %}</span><a href="{{ r.url }}">{{ r.short }}</a></span></th>
+      {% for c in r.bar %}<td data-v="{{ c.v }}"{% if forloop.counter0 == month_i %} class="is-now"{% endif %} title="{{ r.short }} in {{ c.full }}"><a href="{% url 'region_month' r.slug c.full|lower %}" aria-label="{{ r.short }} in {{ c.full }}"></a></td>{% endfor %}
+    </tr>{% endfor %}</tbody>
+  </table>
+</div>
+<div class="mbar-key"><span><i style="background:var(--ink)"></i>Best</span><span><i style="background:#D9CFC0"></i>Good</span><span><i style="background:var(--paper-2)"></i>Avoid or closed</span></div>

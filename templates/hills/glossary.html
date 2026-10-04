@@ -1,0 +1,14 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Hill words: a glossary of Nepali, Lepcha and Tibetan place words · Darjeeling Himalayas{% endblock %}
+{% block description %}What bhanjyang, pokhari, gaon, dara, gompa, chorten, chhurpi and other words on Darjeeling and Sikkim signboards and menus mean.{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:20px"><div class="phead__body" style="margin-top:0">
+  <p class="eyebrow">Hill words</p><h1 class="h-1">Read the signboards</h1>
+  <p class="lede">Half the place names in these hills are descriptions. Learn a few words and the map starts talking: Maneybhanjan is the pass of the prayer wall, Sukhia Pokhari a pond.</p>
+</div></div></header>
+<section class="sec--tight"><div class="wrap">
+  {% for g in groups %}<h2 class="h-2" style="margin:30px 0 18px">{{ g.name }}</h2>
+  <div class="glossary">{% for w in g.words %}<div><b>{{ w.0 }}</b>{% if w.1 %}<span class="deva" lang="ne">{{ w.1 }}</span>{% endif %}<p>{{ w.2 }}</p></div>{% endfor %}</div>{% endfor %}
+  <p class="notice" style="margin-top:30px">Spellings vary between signboards, maps and languages. We use the spelling you are most likely to see locally.</p>
+</div></section>
+{% endblock %}

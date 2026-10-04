@@ -1,0 +1,171 @@
+{
+  "slug": "samanden",
+  "name": "Samanden",
+  "name_local": "",
+  "region": "singalila",
+  "kind": "village",
+  "wiki": "",
+  "image_query": "Samanden village Singalila trek",
+  "lat": 27.18,
+  "lng": 88.07,
+  "altitude_m": 2500,
+  "tagline": "A farming hamlet in a green bowl between two rivers",
+  "meta_description": "Samanden on the Phalut descent: a roadless farming hamlet between Gorkhey and Rammam, homestay nights, village walks, costs and how to get there.",
+  "summary": "Samanden is a small roadless farming hamlet at roughly 2,500 m, set in a green hollow above the river valleys between Gorkhey and Rammam. A few houses take trekkers as homestay guests. It is a short, pretty stage on the Phalut descent and one of the quietest nights in the whole Singalila region.",
+  "local_story": {
+    "title": "A village that kept its old rhythm",
+    "paras": [
+      "Samanden sits in a bowl of fields and pasture on the slope between the Gorkhey valley and Rammam. It has no road, no market and no shop worth the name. Families grow potatoes, maize, millet, vegetables and fodder on terraces cut into the slope, keep cattle and goats, and carry everything else up from Rimbik and Srikhola. The village is small enough that trekkers usually stay with one of a handful of families.",
+      "Because the Singalila trek mostly turns down at Sandakphu, only those who go on to Phalut pass through, and many of them walk straight past to Rammam. Spending a night here is the closest you get on this trek to the old pattern of Himalayan travel, when walkers slept in whichever farmhouse had space and ate what the family ate. We tell its story plainly because there is no grand history to tell: it is a working hill village, and that is the point."
+    ]
+  },
+  "did_you_know": [
+    "Samanden has no motor road; the nearest jeep point is Srikhola, roughly half a day's walk away via Rammam.",
+    "The walk from Gorkhey to Samanden is short, usually 1.5–2 hours, with a stiff climb out of the Gorkhey valley.",
+    "Terraced fields at Samanden grow potatoes and maize at around 2,500 m, much higher than the rice terraces of the lower Darjeeling hills."
+  ],
+  "intro": [
+    "You climb out of the Gorkhey valley on a steep path through forest and fields and come over a rise into Samanden: a few scattered houses with tin roofs, prayer flags, terraced fields and haystacks, all in a hollow ringed by forest. Cows look up as you pass. Children wave. There is nothing to buy and nothing to see in the tourist sense, and it is one of the most pleasant stops on the trek.",
+    "A night in Samanden is a night in a family home. The rooms are simple, the toilet is outside, and dinner is dal-bhat with vegetables from the field outside the window. In the morning, walk the terraces, then continue to Rammam and down to Srikhola for the jeep or a last night by the river."
+  ],
+  "facts": [
+    ["Best months", "Oct – Nov · Mar – May"],
+    ["Nights we suggest", "0–1"],
+    ["From Gorkhey", "≈ 1.5–2 h on foot"],
+    ["Altitude", "≈ 2,500 m"],
+    ["Known for", "Farm homestays, terraced fields, quiet"],
+    ["Network", "Weak or none"]
+  ],
+  "best_months": [1, 0, 1, 2, 2, 0, 0, 0, 0, 2, 2, 1],
+  "nights": "0–1",
+  "costs": [
+    ["Homestay bed", "₹500–1,000 pp"],
+    ["Dinner and breakfast", "₹400–600 pp"],
+    ["Tea", "₹30–50"],
+    ["Hot water bucket", "₹50–100"],
+    ["Guide share for a pair", "≈ ₹750–1,000 pp a day"]
+  ],
+  "highlights": [
+    {"title": "A village without a road", "text": "Samanden is reached only on foot. Without vehicles, the sounds are cowbells, wind and voices across the fields. It shows how the ridge villages lived before jeep tracks reached Srikhola and Rimbik."},
+    {"title": "Terraced farmland", "text": "The hollow is cut into terraces of potato, maize, millet and vegetables, with haystacks and cattle sheds. Walk the edges in the early morning when mist lifts off the fields."},
+    {"title": "A family homestay", "text": "Trekkers sleep in a few family homes. Rooms are basic, meals are home-cooked, and evenings are spent by the kitchen fire. It is the most personal night on the trek."},
+    {"title": "Forest on every side", "text": "Samanden's bowl is surrounded by oak, rhododendron and bamboo forest, which brings birds right to the village edge. Listen for laughingthrushes at dawn."},
+    {"title": "A short, gentle stage", "text": "Gorkhey to Samanden is only about 1.5–2 hours, so you can rest at Gorkhey in the morning and walk in the afternoon, or pass through Samanden to Rammam in one easy day."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot from Gorkhey", "text": "Climb out of the Gorkhey valley through forest and fields: about 1.5–2 hours with a steep start. A licensed guide is required on the trek."},
+    {"mode": "On foot from Rammam or Srikhola", "text": "From Rammam, about 1–1.5 hours; from Srikhola, half a day climbing via Rammam. Used by trekkers doing the route in reverse."}
+  ],
+  "where_to_stay": "There are no hotels in Samanden. A handful of families take trekkers in their homes, with simple rooms, quilts, an outside toilet and home-cooked dinner and breakfast, at roughly ₹500–1,000 per person for the bed plus meals. Your guide will arrange it, usually by phone the day before. If the village is full, Rammam, an hour or so further, has more beds.",
+  "stays": [],
+  "tips": [
+    "Let your guide phone ahead; homestay space is limited to a few rooms.",
+    "Walk on field edges and paths, never across crops.",
+    "Carry a little extra cash; there is no shop and no card payment.",
+    "Ask before photographing people or the inside of homes.",
+    "If you are not sleeping here, stop for tea and a short walk rather than rushing through."
+  ],
+  "themes": ["homestays", "treks", "off-season", "solo-backpacking"],
+  "nearby": ["gorkhey", "rammam", "phalut"],
+  "experiences": [
+    {
+      "slug": "samanden-terrace-morning-walk",
+      "title": "A morning walk through Samanden's terraces",
+      "kind": "culture",
+      "duration": "1 hour",
+      "best_time": "6.30–8 am, Oct–Nov and Mar–May",
+      "cost": "Free",
+      "image_query": "terraced fields Darjeeling village morning",
+      "wiki": "",
+      "summary": "Walk the field paths of Samanden as the village wakes: mist lifting off the terraces, cattle going out to graze, families at work in potato and maize fields. A slow hour that shows how a roadless hill farm works.",
+      "body": [
+        "Step out after tea and follow the paths between terraces. In autumn the maize has been harvested and stacked, and potatoes are being dug; in spring the fields are ploughed and planted. Haystacks stand on poles out of reach of cattle, and water runs in small channels from the forest.",
+        "Families start early. You may see someone carrying a doko, the conical bamboo basket used across these hills, loaded with fodder or firewood, or cattle being taken to the forest edge. Greet people with a namaste, keep to the paths and ask before taking photographs.",
+        "From the upper edge of the village, look back across the bowl to the forest beyond. An hour is enough. Then return for breakfast and pack for Rammam."
+      ],
+      "good_for": ["photographers", "couples", "seniors", "solo"],
+      "faqs": [
+        {"q": "What do farmers grow in Samanden?", "a": "Mainly potatoes and maize, with millet, vegetables and fodder. At around 2,500 m the season is short and the crops hardy. Families also keep cattle and goats. Rice and other supplies are carried in from lower villages."},
+        {"q": "Can I help with farm work in Samanden?", "a": "Sometimes families are happy to show you a task, but do not insist. Ask your guide to ask politely. Field work is hard and serious; watching respectfully is usually more welcome than joining in."},
+        {"q": "Is Samanden safe to walk around alone?", "a": "Yes, the village is small and friendly. Stay on paths, do not enter fields or sheds without asking and keep away from the forest edge alone at dusk. Let your guide know where you are going."}
+      ]
+    },
+    {
+      "slug": "samanden-homestay-night",
+      "title": "A night with a farming family in Samanden",
+      "kind": "culture",
+      "duration": "Overnight",
+      "best_time": "Oct–Nov, Mar–May",
+      "cost": "₹900–1,600 pp with dinner and breakfast",
+      "image_query": "Darjeeling hills homestay village house",
+      "wiki": "",
+      "summary": "Sleep in a family home in a roadless village, eat at their kitchen fire and wake to cowbells. A Samanden homestay night is the most personal of the trek and costs less than a lodge on the ridge.",
+      "body": [
+        "Homestays in Samanden are real homes. You may have a room in the main house or an extra room built for trekkers. Expect a wooden bed, a thick quilt, an outside toilet and a bucket of hot water if you ask. Power may be from a small solar panel; carry a torch.",
+        "The evening revolves around the kitchen. The family cooks on a wood stove, and you will be offered tea and perhaps a seat close to the fire. Dinner is dal-bhat with vegetables from their fields, often with a pickle or fresh greens. Ask questions; most families are happy to talk about the village, the trek and their children's schools.",
+        "In the morning, breakfast is eggs, bread or roti and tea. Pay in cash, including your guide's meals if agreed, and thank the family before you go. A small gift from the city, such as tea or biscuits, is welcome but not expected."
+      ],
+      "good_for": ["couples", "solo", "families", "students"],
+      "faqs": [
+        {"q": "How much does a homestay in Samanden cost?", "a": "Roughly ₹900–1,600 per person with dinner and breakfast, depending on the room and season. Prices are indicative and paid in cash. Your guide will agree the rate when booking."},
+        {"q": "Are Samanden homestays comfortable?", "a": "They are simple and clean, but basic: shared outside toilets, no heating except the kitchen fire, and limited electricity. Bring a warm layer for sleeping and a head torch."},
+        {"q": "Do I need to book a homestay in Samanden?", "a": "Yes, through your guide, usually by phone a day ahead. There are only a few homes taking trekkers. If they are full, Rammam has more space about an hour away."}
+      ]
+    },
+    {
+      "slug": "samanden-trail-gorkhey-to-rammam",
+      "title": "Walk Gorkhey to Rammam via Samanden",
+      "kind": "trek",
+      "duration": "3–4 hours",
+      "best_time": "Morning, Oct–Nov and Mar–May",
+      "cost": "Included in your guide fee",
+      "image_query": "Rammam Samanden trek trail",
+      "wiki": "",
+      "summary": "A varied half-day walk: a steep climb out of the Gorkhey valley to Samanden's fields, a gentler stretch through forest and farmland, then the descent to Rammam. Villages, birds and views all the way.",
+      "body": [
+        "Leave Gorkhey after breakfast and cross the stream. The path climbs steeply through forest for the first hour, then breaks out into Samanden's terraces. Take a break here for tea or simply to look back over the Gorkhey valley.",
+        "From Samanden the trail contours and drops through fields and patches of forest toward Rammam. It is a pleasant, easy stretch with views across the valleys toward Sikkim. Look for birds in the forest edges and for the first signs of a larger village: more houses, a school, prayer flags across the path.",
+        "Rammam is a bigger village with several family lodges. If you have time and energy, continue down to Srikhola the same afternoon; otherwise, sleep at Rammam and walk to Srikhola the next morning."
+      ],
+      "good_for": ["students", "couples", "solo", "families"],
+      "faqs": [
+        {"q": "How long is the walk from Gorkhey to Rammam?", "a": "About 3–4 hours via Samanden, with a steep climb at the start and an easier second half. It is a short day by Singalila standards, so many trekkers continue to Srikhola."},
+        {"q": "Can I skip Samanden?", "a": "Some routes go from Gorkhey to Rammam more directly, but Samanden is on the common path and worth the stop. Ask your guide which way he plans to go."},
+        {"q": "Is the Gorkhey to Rammam walk difficult?", "a": "Moderate. The first hour out of the Gorkhey valley is steep; the rest is easy. After the ridge days it feels relaxed. Good boots and a light pack make it pleasant."}
+      ]
+    },
+    {
+      "slug": "samanden-kitchen-fire-supper",
+      "title": "Supper by a Samanden kitchen fire",
+      "kind": "food",
+      "duration": "1.5 hours",
+      "best_time": "6.30–8 pm",
+      "cost": "Included in homestay rate or ₹200–350",
+      "image_query": "Nepali kitchen dal bhat wood stove",
+      "wiki": "Dal bhat",
+      "summary": "Share the evening meal in a family kitchen: rice, dal, potato or squash curry, field greens and pickle, cooked on a wood stove and served with refills. The simplest and most local food of the trek.",
+      "body": [
+        "In Samanden the kitchen is the heart of the house, a smoky, warm room with a wood stove, blackened pots and a shelf of steel plates. You will probably eat there or in the next room, and the family will keep refilling your plate.",
+        "The meal is dal-bhat in its home form: rice, a thin lentil soup, a dry curry of potato or seasonal vegetables, cooked greens and a sharp pickle. In autumn there may be fresh maize or local beans; in spring, young greens. Meat is rare and must be ordered in advance if at all.",
+        "Eat with your right hand if you like, as the family may, or ask for a spoon. Finish what you take; food comes a long way up here. After dinner, tea is often offered. Lights go out early in roadless villages."
+      ],
+      "good_for": ["families", "couples", "solo", "students"],
+      "faqs": [
+        {"q": "Is food at Samanden vegetarian?", "a": "Almost always. Dal-bhat with vegetables is the standard meal; eggs are usually available. Meat is rare and needs advance notice. Tell your guide about any dietary needs a day ahead."},
+        {"q": "Is it rude to refuse refills in a homestay?", "a": "No. Say 'pugyo' (enough) or cover your plate with your hand. Families offer refills out of hospitality, and saying you are full is perfectly polite."},
+        {"q": "Can I drink the water in Samanden?", "a": "Drink boiled water or use a filter or purification tablets. Families will usually give you boiled water if you ask. Avoid untreated stream water."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Samanden?", "a": "Samanden is a small farming village at roughly 2,500 m between Gorkhey and Rammam, on the descent route from Phalut in Darjeeling district. It has no road and is reached only on foot."},
+    {"q": "Can I stay overnight in Samanden?", "a": "Yes, in a few family homestays. Rooms are basic with home-cooked meals. Your guide will book ahead, usually by phone. If there is no space, continue to Rammam, about an hour or so further."},
+    {"q": "How far is Samanden from Gorkhey?", "a": "About 1.5–2 hours on foot, with a steep climb out of the Gorkhey valley. It is a short stage, and many trekkers walk Gorkhey–Samanden–Rammam in one morning."},
+    {"q": "Is there a road to Samanden?", "a": "No. The nearest jeep point is Srikhola, roughly half a day's walk via Rammam. Everything in the village arrives on foot or by mule."},
+    {"q": "Is Samanden worth visiting?", "a": "Yes, for trekkers who enjoy village life. It is quiet, green and friendly, with no tourist infrastructure. A night here is the most personal experience of the Singalila trek."},
+    {"q": "What is the weather like in Samanden?", "a": "Mild compared to the ridge: around 5–15 °C in October and November, near freezing at night in winter, and warm in April and May with some afternoon showers."},
+    {"q": "Is there mobile network in Samanden?", "a": "Weak or none. Expect to be out of reach until Rammam or Srikhola. Let family know before you leave Sandakphu."},
+    {"q": "Do I need a guide for Samanden?", "a": "Yes. Samanden is on the Singalila trek route, and you will be with your licensed guide from Maneybhanjan. The guide also arranges homestays and knows the trails between villages."},
+    {"q": "Can I visit Samanden without doing the full trek?", "a": "You can walk up from Srikhola or Rimbik via Rammam in a day or two, with a guide, as a short village trek. It avoids the high ridge but gives you the river villages and forest."}
+  ]
+}

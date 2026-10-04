@@ -1,0 +1,15 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Shared jeep fares from Siliguri to Darjeeling, Gangtok, Kalimpong and more · Darjeeling Himalayas{% endblock %}
+{% block description %}Indicative shared and reserved jeep fares and road times between Siliguri, NJP, Bagdogra and the Darjeeling and Sikkim hills, from our route notes.{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:20px"><div class="phead__body" style="margin-top:0">
+  <p class="eyebrow">Jeep fare board</p><h1 class="h-1">What the road really costs</h1>
+  <p class="lede">Shared jeeps (Sumos, Boleros, Maxx) leave from stands in Siliguri, NJP and each hill town when every seat is sold. Reserved cars cost the whole vehicle. These fares come from our route pages.</p>
+</div></div></header>
+<section class="sec--tight"><div class="wrap">{% include "hills/partials/board.html" with rows=board %}</div></section>
+<section class="sec"><div class="wrap grid grid--3">
+  <div class="gcard"><span class="gcard__cat">{% icon "jeep" %}Shared</span><b>Ten seats, one price</b><p>Front seats sell first and sometimes cost a little more. Buy at the stand counter, not from touts. Luggage goes on the roof under a tarpaulin.</p></div>
+  <div class="gcard"><span class="gcard__cat">{% icon "route" %}Reserved</span><b>A car of your own</b><p>Agree the price, stops and waiting time before you leave. Rates rise in October and May and around festivals.</p></div>
+  <div class="gcard"><span class="gcard__cat">{% icon "clock" %}Timing</span><b>Leave by early afternoon</b><p>Most shared jeeps up the hill stop by mid-afternoon, and landslides slow the monsoon months. Check current status before you travel.</p></div>
+</div></section>
+{% endblock %}

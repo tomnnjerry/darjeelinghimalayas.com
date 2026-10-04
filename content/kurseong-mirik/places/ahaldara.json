@@ -1,0 +1,122 @@
+{
+  "slug": "ahaldara", "name": "Ahaldara", "name_local": "", "region": "kurseong-mirik",
+  "kind": "viewpoint",
+  "wiki": "", "image_query": "Ahaldara viewpoint Latpanchar Teesta",
+  "lat": 26.92, "lng": 88.42, "altitude_m": 1500,
+  "tagline": "A bare hilltop over the Teesta, with Kanchenjunga on clear mornings",
+  "meta_description": "Ahaldara viewpoint above Latpanchar: sunrise over the Teesta valley and Kalimpong, Kanchenjunga on clear mornings, how to get there and what it costs.",
+  "summary": "Ahaldara is a hilltop viewpoint at about 1,500 m, roughly 5 km above Latpanchar village. Cars stop below the top and a short walk leads to a 360-degree view: the Teesta valley, the Kalimpong ridges, the plains and, on clear mornings from October to March, Kanchenjunga. Entry is free; a car from Latpanchar costs ₹600–1,000.",
+  "local_story": {"title": "Looking down on the Teesta", "paras": [
+    "Ahaldara is the high shoulder of the Latpanchar ridge, the point where the hills above Mahananda sanctuary fall away towards the Teesta. Standing on top, you look straight down the valley that has shaped the whole of this corner of the Himalaya. The Teesta rises in the glaciers and lakes of North Sikkim, cuts south through the mountains past Rangpo and Teesta Bazar, and breaks out onto the plains at Sevoke before running on through Bangladesh to join the Brahmaputra.",
+    "Across the river are the ridges of Kalimpong, part of Darjeeling district until 2017, when Kalimpong became a district of its own. Further north, on clear winter mornings, the snow peaks of the Kanchenjunga massif rise behind the foothills. The Teesta itself has changed in recent years: the glacial lake burst of October 2023 in North Sikkim sent a flood down the valley that destroyed bridges and stretches of road. From Ahaldara the river looks calm. Its history says otherwise."
+  ]},
+  "did_you_know": [
+    "Kalimpong, whose ridges fill the view across the Teesta from Ahaldara, became a separate district of West Bengal in 2017; before that it was part of Darjeeling district.",
+    "The Teesta below Ahaldara rises in North Sikkim and joins the Brahmaputra (Jamuna) in Bangladesh; its whole course is a little over 400 km.",
+    "In October 2023 a glacial lake outburst at South Lhonak Lake in North Sikkim sent a flood down the Teesta that damaged roads and bridges as far down as the plains."
+  ],
+  "intro": [
+    "Ahaldara is not a town or even a village; it is a bare hilltop with grass, a few trees and an enormous view. That is the point. You drive up from Latpanchar, walk the last stretch to the top, and the land opens on every side: the Teesta valley far below, Kalimpong's ridges across it, the plains of Siliguri spreading south, and the snow peaks to the north when the air is clear.",
+    "Come for sunrise, between October and March, when the chance of a clear sky is best. In April and May haze from the plains softens the view, and from June to September cloud often fills the valley entirely. Stay in Latpanchar or Sittong and make it an early-morning trip; there is nothing to buy at the top, so bring tea in a flask."
+  ],
+  "facts": [["Best months", "Oct – Mar"], ["Nights we suggest", "Visit from Latpanchar or Sittong"], ["From Siliguri", "≈ 50 km · 2.5 h"], ["Altitude", "≈ 1,500 m"], ["Known for", "Teesta valley and Kanchenjunga views"], ["Network", "Jio and Airtel often work on the top"]],
+  "best_months": [2, 2, 1, 1, 1, 0, 0, 0, 0, 2, 2, 2],
+  "nights": "Day trip",
+  "costs": [["Car from Latpanchar, return", "₹600–1,000"], ["Car from Sittong, return", "₹1,200–1,800"], ["Entry", "Free"], ["Flask of tea from your homestay", "₹50–100"], ["Car from Siliguri via Ahaldara and Latpanchar", "₹3,000–3,800"]],
+  "highlights": [
+    {"title": "Sunrise over the Teesta", "text": "Arrive before dawn and watch the light spread over the Teesta valley and the Kalimpong hills. Valley mist below the ridge makes the best mornings, especially in November and December."},
+    {"title": "Kanchenjunga on clear days", "text": "On the clearest mornings from October to March, the Kanchenjunga massif shows to the north above the nearer ridges. Go early: cloud often rises out of the valley by 9 am."},
+    {"title": "The plains at night and dawn", "text": "To the south the lights of Siliguri and Sevoke glow before dawn, and the river channels show silver as the sun comes up."},
+    {"title": "A short walk to the top", "text": "Cars stop below the summit, and a path of a few hundred metres climbs to the open top. Easy for most people; take a torch before sunrise."},
+    {"title": "Birds on the way down", "text": "The road from Ahaldara back to Latpanchar passes forest edges where you can see barbets, sunbirds and, with luck, hornbills in the early morning."}
+  ],
+  "how_to_reach": [
+    {"mode": "Reserved car", "text": "From Latpanchar it is about 5 km to the car park below the top, 15–20 minutes, ₹600–1,000 return with waiting. From Sittong, ₹1,200–1,800 return. Arrange the car the night before through your homestay."},
+    {"mode": "On foot", "text": "Fit walkers can walk up from Latpanchar in about 1.5–2 hours on the road. In the dark before sunrise, it is better to drive up and walk down after."},
+    {"mode": "From Siliguri", "text": "There is no public transport to the top. Hire a car from Siliguri for about ₹3,000–3,800 for a day that includes Latpanchar and Ahaldara. Teesta valley roads have had closures since October 2023; check current status before you travel."}
+  ],
+  "where_to_stay": "There are no stays on the hilltop itself. Stay in a family homestay at Latpanchar, 5 km below (₹1,200–1,800 per person with meals), or at Sittong, a little further, where there is more choice. Both make an Ahaldara sunrise easy with a car booked the night before. Ask your host for a flask of tea and a packed breakfast for the trip.",
+  "stays": [],
+  "tips": [
+    "Go at sunrise between October and March for the best chance of a clear view.",
+    "Carry a torch, warm layers and a flask; it is windy and cold before dawn.",
+    "Take your rubbish back down; there are no bins on the top.",
+    "Do not fly drones without permission; the area overlooks a wildlife sanctuary.",
+    "If the valley is full of cloud at dawn, wait 30 minutes; it often breaks."
+  ],
+  "themes": ["kanchenjunga-views", "photography", "wildlife-birds"],
+  "nearby": ["latpanchar", "sittong", "namthing-pokhri"],
+  "experiences": [
+    {"slug": "ahaldara-sunrise-teesta", "title": "Sunrise from Ahaldara",
+     "kind": "viewpoint", "duration": "2 hours", "best_time": "Sunrise, Oct–Mar", "cost": "Free · car ₹600–1,000 from Latpanchar",
+     "image_query": "Ahaldara sunrise Teesta valley", "wiki": "Teesta River",
+     "summary": "Drive up from Latpanchar in the dark, walk to the open top and watch first light reach the Kanchenjunga massif to the north and the Teesta valley below. The best free sight in this land on a clear winter morning.",
+     "body": [
+       "Leave your homestay about 45 minutes before sunrise. The car stops below the top; walk up the path by torchlight, and find a spot facing north and east.",
+       "As the sky lightens, the ridges of Kalimpong appear across the Teesta, and the valley floor is often full of mist. If the air is clear, the snow peaks to the north turn pink before anything else. Then the sun clears the hills to the east, and the river below catches the light.",
+       "Stay an hour. The light changes fast, and the valley mist moves. By 8 or 9 am cloud usually rises, and the show is over until the next day."
+     ],
+     "good_for": ["photographers", "couples", "families", "solo"],
+     "faqs": [
+       {"q": "What time should I reach Ahaldara for sunrise?", "a": "Aim to be on the top 20–30 minutes before sunrise: around 4.45 am in May and June, and around 5.45–6 am in December and January. Leave Latpanchar about 45 minutes before that, allowing for the drive and the short walk."},
+       {"q": "Is Kanchenjunga visible from Ahaldara?", "a": "On clear mornings from October to March, usually yes, to the north beyond the nearer ridges. Haze from April to May and cloud from June to September often hide it. Plan two mornings in Latpanchar or Sittong if the view matters to you."},
+       {"q": "Is the walk to the top of Ahaldara difficult?", "a": "No. It is a short walk of a few hundred metres on a path from where cars stop. Most people manage it in 10–15 minutes. It is uneven in places, so carry a torch before dawn and wear proper shoes."}
+     ]},
+    {"slug": "ahaldara-afternoon-valley-view", "title": "Afternoon light over Kalimpong",
+     "kind": "viewpoint", "duration": "1.5 hours", "best_time": "3–5 pm, Oct–Feb", "cost": "Free",
+     "image_query": "Teesta valley Kalimpong view hills", "wiki": "",
+     "summary": "If you cannot face a dawn start, go late in the afternoon. Low sun lights the Kalimpong ridges across the Teesta and the river below, and the plains glow to the south.",
+     "body": [
+       "Afternoons at Ahaldara are quieter than sunrise. In winter, when the air is dry, the low sun picks out the folds of the Kalimpong hills across the valley and the bends of the Teesta far below.",
+       "Bring a map or open one on your phone and trace the river: north towards Sikkim, south towards Sevoke, where it leaves the hills for the plains. Across the valley, look for the villages and roads on the Kalimpong side.",
+       "Snow peaks are less likely in the afternoon, but the colour and the space are worth it. Leave before dusk; the road down is narrow."
+     ],
+     "good_for": ["seniors", "families", "couples"],
+     "faqs": [
+       {"q": "Is Ahaldara worth visiting in the afternoon?", "a": "Yes, in winter. From October to February the air is often clear enough for good afternoon views over the Teesta valley and Kalimpong. Snow peaks are less likely than at dawn. In the monsoon and pre-monsoon, afternoons are often cloudy."},
+       {"q": "What can I see from Ahaldara?", "a": "The Teesta valley and river directly below, the ridges of Kalimpong across it, the Siliguri plains and Sevoke to the south, and on clear mornings the Kanchenjunga massif to the north. The view is open in nearly every direction from the top."},
+       {"q": "How long should I spend at Ahaldara?", "a": "An hour to an hour and a half is enough for most people, including the short walk up and down. Photographers at sunrise often stay two hours to watch the light and the mist change."}
+     ]},
+    {"slug": "ahaldara-walk-from-latpanchar", "title": "Walk up to Ahaldara from Latpanchar",
+     "kind": "trek", "duration": "3–4 hours return", "best_time": "7 am start, Oct–Apr", "cost": "Free",
+     "image_query": "Latpanchar road forest walk", "wiki": "",
+     "summary": "Skip the car and walk the 5 km road from Latpanchar village to the Ahaldara top, through cinchona plantations and forest edge, with birds along the way and the view as a reward.",
+     "body": [
+       "The road from Latpanchar to Ahaldara climbs steadily through plantation and forest. On foot it takes about 1.5–2 hours up, and the slow pace lets you notice what a car misses: birds in the trees, flowers in the cuttings, cinchona trees by the road.",
+       "Start after breakfast in the dry season, carry water and a snack, and aim to be on top by mid-morning before cloud rises. Walk back down the same way or arrange for your homestay car to fetch you.",
+       "This is a road walk, not a trail. Keep to the side and watch for occasional vehicles on bends."
+     ],
+     "good_for": ["solo", "students", "couples"],
+     "faqs": [
+       {"q": "How far is Ahaldara from Latpanchar village?", "a": "About 5 km by road to the car park below the top, then a short walk to the summit. On foot it takes about 1.5–2 hours up and 1–1.5 hours down. By car it is 15–20 minutes."},
+       {"q": "Is the road to Ahaldara safe to walk?", "a": "Yes, in daylight. It is a quiet road with light traffic. Walk facing oncoming vehicles, be careful on blind bends and avoid walking it in the dark. Carry water, as there are no shops on the way."},
+       {"q": "Can I see birds on the walk to Ahaldara?", "a": "Yes. The road passes forest edges and plantations where barbets, sunbirds, bulbuls, laughingthrushes and sometimes hornbills appear, especially in the morning. Bring binoculars and walk slowly."}
+     ]},
+    {"slug": "ahaldara-star-gazing-winter", "title": "Winter night sky over the Teesta",
+     "kind": "adventure", "duration": "1.5 hours", "best_time": "Moonless nights, Nov–Feb", "cost": "Car ₹800–1,200 from Latpanchar",
+     "image_query": "night sky stars Himalaya hills", "wiki": "",
+     "summary": "On a dry, moonless winter night, go up to Ahaldara with your homestay driver and look at the stars over the Teesta valley. Far from big towns, the sky above is darker than in Darjeeling or Siliguri.",
+     "body": [
+       "Ahaldara's open top and distance from big towns make it a good spot for the night sky in winter, when the air is dry and clear. To the south the glow of Siliguri lights the horizon, but overhead and to the north the sky is dark.",
+       "Go on a night near the new moon, between November and February. Arrange the trip with your homestay driver, who should wait for you, and go as a group. Take warm clothes, a torch with a red setting and a mat to lie on.",
+       "Respect the place: no fires, no loud music, and take everything back down with you. If the sky clouds over, come back for sunrise instead."
+     ],
+     "good_for": ["students", "couples", "photographers"],
+     "faqs": [
+       {"q": "Is it safe to go to Ahaldara at night?", "a": "Go only with your homestay driver or a local, as a group, and with the car waiting. The top is open and quiet, the path is uneven, and it is very cold in winter. Tell your host when you expect to be back."},
+       {"q": "When is the best time for stars at Ahaldara?", "a": "Dry winter nights from November to February, close to the new moon, give the darkest skies. The monsoon and pre-monsoon months are usually too cloudy or hazy. Check the moon phase before you plan."},
+       {"q": "Can I camp at Ahaldara?", "a": "We do not suggest it. The top is close to a wildlife sanctuary, there are no facilities, and rules on camping are not clear. Ask the forest department or local authorities before planning any overnight stay on the hill."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "Where is Ahaldara?", "a": "Ahaldara is a hilltop viewpoint about 5 km above Latpanchar village in Darjeeling district, West Bengal, overlooking the Teesta valley. It lies near the top of Mahananda Wildlife Sanctuary, about 50 km from Siliguri."},
+    {"q": "What is the best time to visit Ahaldara?", "a": "October to March, at sunrise, for the clearest views of the Teesta valley and Kanchenjunga. April and May are hazier. From June to September cloud often fills the valley and the roads are wet, so visibility is poor."},
+    {"q": "Is there an entry fee at Ahaldara?", "a": "No entry fee has been charged at the viewpoint in recent years. You pay only for transport, about ₹600–1,000 return by car from Latpanchar. Rules can change, so check current status before you travel."},
+    {"q": "Can I stay at Ahaldara?", "a": "There are no stays on the hilltop. Stay in Latpanchar, 5 km below, or Sittong, a little further, and visit at sunrise. Both have family homestays at about ₹1,200–1,800 per person with meals."},
+    {"q": "Can I see Kanchenjunga from Ahaldara?", "a": "Yes, on clear mornings, mostly between October and March. The massif appears to the north beyond the nearer ridges. Clouds often rise from the Teesta valley by mid-morning, so sunrise gives the best chance."},
+    {"q": "How do I get to Ahaldara from Siliguri?", "a": "There is no public transport to the top. Hire a car from Siliguri for a Latpanchar and Ahaldara day, about ₹3,000–3,800, or stay in Latpanchar or Sittong and take a local car up. Teesta valley roads have had closures since October 2023; check current status before you travel."},
+    {"q": "Is Ahaldara suitable for older visitors?", "a": "Mostly yes. Cars reach close to the top, and the final walk is a few hundred metres on an uneven path. Go slowly, use a stick if needed, and avoid the cold pre-dawn wind if you have heart or breathing problems."},
+    {"q": "What does Ahaldara overlook?", "a": "The Teesta valley below, the Kalimpong hills across the river, the Siliguri plains and Sevoke to the south, and on clear days the Kanchenjunga massif to the north. On the near side you look down over the forests of Mahananda Wildlife Sanctuary."},
+    {"q": "How long does a visit to Ahaldara take?", "a": "Allow about 2 hours from Latpanchar including the drive, the short walk and an hour on top. From Sittong allow about 3 hours. Photographers at sunrise often stay longer."}
+  ]
+}

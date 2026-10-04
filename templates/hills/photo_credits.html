@@ -1,0 +1,11 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Photo credits · Darjeeling Himalayas{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:20px"><div class="phead__body" style="margin-top:0">
+  <p class="eyebrow">Photo credits</p><h1 class="h-1">Who took the pictures</h1>
+  <p class="lede">Every photo on this site comes from Wikimedia Commons under a free licence. Thank you to every photographer below. Click a row for the original file and its full licence.</p>
+</div></div></header>
+<section class="sec--tight"><div class="wrap scroll-x"><table class="tbl credits"><thead><tr><th scope="col">Photo</th><th scope="col">Author</th><th scope="col">Licence</th><th scope="col">Used for</th></tr></thead><tbody>
+{% for i in images %}<tr><td><a href="{{ i.source }}" rel="noopener" target="_blank"><img src="{{ i|src:500 }}" alt="" loading="lazy" width="96" style="width:96px;height:64px;object-fit:cover;border-radius:4px"></a></td><td>{{ i.author|striptags|truncatechars:80 }}</td><td>{% if i.license_url %}<a href="{{ i.license_url }}" rel="noopener" target="_blank">{{ i.license }}</a>{% else %}{{ i.license }}{% endif %}</td><td class="small">{{ i.used_for }}</td></tr>{% empty %}<tr><td colspan="4">Photos are being gathered.</td></tr>{% endfor %}
+</tbody></table></div></section>
+{% endblock %}

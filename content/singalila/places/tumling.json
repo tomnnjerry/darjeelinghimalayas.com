@@ -1,0 +1,172 @@
+{
+  "slug": "tumling",
+  "name": "Tumling",
+  "name_local": "",
+  "region": "singalila",
+  "kind": "trek stop",
+  "wiki": "Tumling",
+  "image_query": "Tumling Sandakphu trek Kanchenjunga",
+  "lat": 27.04,
+  "lng": 88.07,
+  "altitude_m": 2970,
+  "tagline": "A Nepali hamlet with the first big Kanchenjunga dawn",
+  "meta_description": "Tumling on the Sandakphu trek: a Nepal-side hamlet with Kanchenjunga sunrise, family lodges, costs, border rules and how to reach it from Maneybhanjan.",
+  "summary": "Tumling is a hamlet of a dozen or so houses at about 2,970 m on the Nepal side of the Singalila Ridge, 10–11 km above Maneybhanjan. It is the usual first night of the Sandakphu trek, with family lodges, wood-stove dining rooms and a dawn view of the whole Kanchenjunga range.",
+  "local_story": {
+    "title": "First night in Nepal, without crossing a gate",
+    "paras": [
+      "Tumling belongs to Nepal's Ilam district, but you reach it on an Indian trail and pay in Indian rupees. Along this stretch the international border follows the crest of the ridge so closely that houses, fields and lodges sit a few metres either side of it, and trekkers drift from one country to the other without noticing. The hamlet's families, many of them Gurung, have farmed potatoes and kept cattle here for generations, and turned to lodges as trekking grew.",
+      "The lodges came with the trekkers. Tumling became the natural first stop, an easy day from Maneybhanjan with the first clear look at the Himalaya. Shikhar Lodge and a few other family houses now fill on October weekends, and their dining rooms, with the wood stove in the middle and the family's kitchen beside it, are where most Sandakphu trekkers have their first ridge dinner."
+    ]
+  },
+  "did_you_know": [
+    "Tumling is administratively part of Ilam district in Nepal, yet the only motor link is the Land Rover track from Maneybhanjan in India.",
+    "From Tumling the Kanchenjunga range fills the northern skyline; walk about 15 minutes up the ridge and Everest's summit can appear far to the west.",
+    "The resident population of Tumling is very small; Wikipedia records about 15 people, mostly from Gurung families."
+  ],
+  "intro": [
+    "Tumling is where the Sandakphu trek turns from a forest climb into a ridge walk. You come up from Meghma onto open grassy slopes, see a cluster of tin-roofed lodges and prayer flags, and, if the cloud is kind, the white wall of Kanchenjunga far to the north. Most trekkers arrive by lunchtime, drop their packs and spend the afternoon on the terraces with tea.",
+    "The next morning is the reason to sleep here. Sunrise lights the whole Kanchenjunga range from the right, peak by peak, while the valleys of Nepal and Darjeeling lie under cloud. Breakfast is porridge, eggs and Tibetan bread, and then the trail runs on through Nepal toward Jaubari and Gairibas, or along the Indian side by Tonglu."
+  ],
+  "facts": [
+    ["Best months", "Oct – Dec · Mar – May"],
+    ["Nights we suggest", "1"],
+    ["From Maneybhanjan", "≈ 10.5 km · 4–5 h on foot · 1.5 h by Land Rover"],
+    ["Altitude", "≈ 2,970 m"],
+    ["Known for", "Kanchenjunga sunrise, family lodges, Nepal border"],
+    ["Network", "Patchy; Nepali networks often stronger"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1",
+  "costs": [
+    ["Dorm or shared bed in a lodge", "₹400–700 pp"],
+    ["Private twin room", "₹1,500–2,800 a room"],
+    ["Dal-bhat dinner", "₹200–300"],
+    ["Breakfast (porridge, eggs, bread)", "₹150–250"],
+    ["Bucket of hot water", "₹50–100"],
+    ["Tea", "₹30–50"]
+  ],
+  "highlights": [
+    {"title": "Kanchenjunga at dawn", "text": "Tumling's terraces face north, and on clear mornings the Kanchenjunga range rises above the cloud with Kabru, Pandim and their neighbours. The light comes from the east and catches the summits first. It is many trekkers' first big Himalayan sunrise, and often the clearest of the trip."},
+    {"title": "Everest from the ridge above", "text": "A short walk up the trail toward Tonglu or Jaubari opens the western horizon. On sharp autumn mornings Everest, Lhotse and Makalu show as small white points far to the west. Your guide will know the best spot; go before breakfast."},
+    {"title": "Wood-stove dining rooms", "text": "Evenings at Tumling are spent around the stove in a lodge dining room, drying socks, drinking tea and eating dal-bhat cooked in the family kitchen next door. It is the warmest room on the ridge and the best place to swap trail news."},
+    {"title": "Two routes on", "text": "From Tumling the main trail crosses into Nepal and drops through Jaubari to Gairibas, while a quieter route keeps to India via Tonglu. Both reach Gairibas and then Kalipokhri. Pick according to where you want to sleep the next night."},
+    {"title": "An easy Land Rover stop", "text": "Tumling is only about 1.5 hours from Maneybhanjan by Land Rover, which makes it a good first night for families or anyone who cannot do a full trek but wants to sleep high and see the mountains."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Maneybhanjan, walk via Chitrey and Meghma: about 10.5 km and 4–5 hours with a 800 m climb. The first 3 km to Chitrey are steep; the rest is moderate. A licensed guide is required."},
+    {"mode": "Land Rover", "text": "Land Rovers from the Maneybhanjan stand reach Tumling in about 1.5 hours on the cobbled track. A drop to Tumling costs less than the full Sandakphu run; agree the rate with the owners' association, and check current status before you travel."}
+  ],
+  "where_to_stay": "Tumling has a handful of family-run lodges on both sides of the track, all simple: dorm beds and twin rooms with thick quilts, shared toilets, and a dining room with a wood stove. Shikhar Lodge is the best known and fills early in October. Expect ₹400–700 for a bed in a shared room or ₹1,500–2,800 for a private twin, with meals paid separately. Book ahead through your guide or a phone call for weekends in autumn and April.",
+  "stays": ["singalila-shikhar-lodge-tumling"],
+  "tips": [
+    "Ask for a room facing north so you can watch the sunrise from your window on cold mornings.",
+    "Carry your ID; there are SSB posts nearby and the hamlet is on Nepali soil.",
+    "Order dinner when you arrive; kitchens cook for everyone at once around 7 pm.",
+    "Hot water is heated on wood or gas, so a bucket costs ₹50–100; one between two is enough.",
+    "If you feel a headache at Tumling, rest, drink water and do not climb further until it eases."
+  ],
+  "themes": ["treks", "kanchenjunga-views", "homestays", "photography", "family-trips"],
+  "nearby": ["tonglu", "chitrey", "gairibas", "maneybhanjan"],
+  "experiences": [
+    {
+      "slug": "tumling-kanchenjunga-sunrise",
+      "title": "Kanchenjunga sunrise from Tumling",
+      "kind": "viewpoint",
+      "duration": "1 hour",
+      "best_time": "5.15–6.30 am, Oct–Dec and Mar–Apr",
+      "cost": "Free",
+      "image_query": "Kanchenjunga sunrise Tumling",
+      "wiki": "Kangchenjunga",
+      "summary": "Wake before dawn, wrap up and stand on the lodge terrace as the first light hits Kanchenjunga, about 70–75 km to the north. On clear mornings the whole range turns pink, then gold, then white, while the valleys of Nepal stay under cloud.",
+      "body": [
+        "Your lodge host will knock or the trekkers next door will wake you around 5 am. Step out in the dark with a torch, a down jacket and a cup of tea if the kitchen is up. The northern sky lightens first behind the Kanchenjunga massif, still grey against blue, while Darjeeling's lights fade to the east.",
+        "Then the top of Kanchenjunga catches the sun, a single bright point, and the light spreads down and across: Kabru, Pandim, Simvo and the long spine of peaks that guides call the Sleeping Buddha. In ten minutes the whole range is lit. Below, cloud sits in the valleys like a sea, broken only by the darker ridges of Sikkim.",
+        "Stay until the sun reaches you, then walk 10–15 minutes up the trail toward the ridge top if your guide agrees; on the best days Everest and Makalu show far to the west. By 7 am cloud may already be rising. Breakfast, pack, and the ridge is yours."
+      ],
+      "good_for": ["photographers", "couples", "families", "first-timers"],
+      "faqs": [
+        {"q": "Can you see Everest from Tumling?", "a": "Sometimes, on very clear mornings, from a short way up the ridge above the hamlet rather than from the lodges. Everest, Lhotse and Makalu appear as small peaks far to the west. Kanchenjunga, much closer, is the main view. Sandakphu gives a far better Everest view."},
+        {"q": "What is the best month for the Tumling sunrise?", "a": "October to December gives the clearest mornings, with November usually best. March and early April are also good at dawn, before the pre-monsoon haze. From late April to May, views are often hazy, and the park closes in the monsoon."},
+        {"q": "How cold is Tumling at sunrise?", "a": "In November and December, dawn is usually around −3 to 3 °C, sometimes colder with wind. In January and February it can be well below freezing. A down jacket, cap, gloves and warm socks make the wait comfortable."}
+      ]
+    },
+    {
+      "slug": "tumling-night-on-the-nepal-border",
+      "title": "A night on the Nepal side of the ridge",
+      "kind": "culture",
+      "duration": "Evening and overnight",
+      "best_time": "Oct–Dec, Mar–May",
+      "cost": "₹400–700 bed · ₹200–300 dinner",
+      "image_query": "Tumling lodge Singalila Nepal",
+      "wiki": "Ilam District",
+      "summary": "Sleep in a family lodge in a Nepali hamlet you reached on an Indian trail. Spend the evening around the stove with the family who run it, eat dal-bhat from their kitchen and learn how life works on a border that runs through the backyard.",
+      "body": [
+        "Tumling is in Ilam district, Nepal, though its lodges see more Indian trekkers than Nepali officials. The families here, many of them Gurung, farm potatoes and keep cattle on the slopes below the ridge, and have run lodges since trekking took off. Ask your host which side of the border their fields are on; the answer is often both.",
+        "Evenings centre on the dining room. A wood or sawdust stove heats the space, wet socks hang above it, and the family kitchen opens onto it so you can watch dal-bhat cooking in pressure cookers. Dinner is usually rice, dal, a vegetable curry of potato or squash, saag, pickle and, if you ask, an egg or chicken.",
+        "Lights go out early. Power may come from a small solar panel or a line from the Indian side, and it can be patchy, so carry a head torch and a power bank. Sleep under a heavy quilt and be ready for the 5 am knock for sunrise."
+      ],
+      "good_for": ["couples", "solo", "students", "families"],
+      "faqs": [
+        {"q": "Is it legal to stay overnight in Tumling, Nepal?", "a": "Yes, on the established trek. Indians and foreigners on the Singalila trek routinely sleep at Tumling with their guide and park papers. Indians should carry a passport or voter ID; foreigners carry a passport with an Indian visa. Do not travel further into Nepal from here. Check current status before you travel."},
+        {"q": "What food do Tumling lodges serve?", "a": "Dal-bhat with vegetable curry and pickle is the standard dinner; noodle soup, chowmein, momos and eggs are usually available. Breakfast is porridge, Tibetan bread or toast, eggs and tea. Meat is sometimes on offer if ordered early. Prices are a little higher than Maneybhanjan."},
+        {"q": "Is there electricity at Tumling?", "a": "Usually, but it can be intermittent and is sometimes from solar. Charging points are limited and some lodges charge a small fee. Carry a power bank and keep your phone warm at night; batteries drain quickly in the cold."}
+      ]
+    },
+    {
+      "slug": "tumling-ridge-walk-to-tonglu",
+      "title": "Ridge walk from Tumling to Tonglu",
+      "kind": "trek",
+      "duration": "1–1.5 hours return",
+      "best_time": "Early morning or late afternoon, Oct–May",
+      "cost": "Included in your guide fee",
+      "image_query": "Tonglu ridge Singalila trail",
+      "wiki": "",
+      "summary": "A short walk along the ridge from Tumling to the Indian top of Tonglu, about 3,070 m, gives wider views over Darjeeling, Sikkim and Nepal than the lodges below. Do it in the afternoon light or for sunrise.",
+      "body": [
+        "Tonglu sits a little above and to the east of Tumling, on the Indian side of the border, with the GTA trekkers' hut and a wide grassy top. The path between them is short and only moderately steep. From the top you look east to Darjeeling, north to Kanchenjunga and west into the forested valleys of Ilam.",
+        "This is the hill Joseph Hooker climbed from Darjeeling in 1848 to collect rhododendrons. In April and May the slopes still flower, with smaller shrub rhododendrons and primulas on the open ground. In autumn the grass turns gold and the light at 4 pm is long and soft.",
+        "If you are sleeping at Tumling, make it your afternoon walk; if at Tonglu, walk down to Tumling for tea. Either way, go with your guide, keep to the path, and turn back before dark, as the temperature drops quickly once the sun has gone."
+      ],
+      "good_for": ["photographers", "couples", "seniors", "families"],
+      "faqs": [
+        {"q": "How far is Tonglu from Tumling?", "a": "Only about 1–1.5 km by the ridge path, 20–40 minutes one way with a short climb. Many trekkers walk between them for the view. Tonglu is on the Indian side, Tumling in Nepal, and both are used as first-night stops."},
+        {"q": "Is Tonglu or Tumling better for the view?", "a": "Tonglu, being higher and more open, gives a wider panorama, including a better look east to Darjeeling. Tumling's lodges are more comfortable and have the Kanchenjunga view from the terraces. Stay at Tumling and walk up to Tonglu for the best of both."},
+        {"q": "Can I see the sunset from Tonglu?", "a": "Yes. The western horizon over Nepal is open from Tonglu, and on clear evenings the sun sets beyond the Ilam hills while Kanchenjunga turns pink. Bring a torch for the walk back to Tumling, and leave as soon as the colour fades."}
+      ]
+    },
+    {
+      "slug": "tumling-lodge-kitchen-supper",
+      "title": "Dal-bhat by the stove in a Tumling lodge",
+      "kind": "food",
+      "duration": "1.5 hours",
+      "best_time": "6.30–8 pm",
+      "cost": "₹200–350 a meal",
+      "image_query": "dal bhat Nepal lodge dinner",
+      "wiki": "Dal bhat",
+      "summary": "Eat the ridge's standard dinner the way the families eat it: rice, dal, potato curry, saag and chilli pickle, with seconds offered. Sit by the stove, ask about the dishes and learn the habit of refills that keeps trekkers going up here.",
+      "body": [
+        "Dal-bhat is the fuel of every Himalayan trail, and Tumling's lodges cook it well. A full plate holds a mound of rice, a bowl of lentil dal, a dry curry of potato or squash, cooked greens and a pickle of radish, tomato or the small round dalle chilli. In most lodges the rice and dal are refilled on request at no extra cost.",
+        "Order around 5 pm so the kitchen knows how many to cook; dinner usually comes at 7. If you want variety, noodle soup, fried rice, momos and eggs are on most menus, but they cost more and fill you less. Hot lemon with honey, or black tea, are good evening drinks at altitude.",
+        "Eat in the dining room, not your bedroom; it is warmer and the family can clear up. The guides usually eat in the kitchen. Afterwards, settle the bill for the day before bed so you can leave early, and ask for a flask of hot water for the night."
+      ],
+      "good_for": ["students", "solo", "families", "couples"],
+      "faqs": [
+        {"q": "How much does dinner cost at Tumling?", "a": "A plate of dal-bhat costs about ₹200–300, with refills of rice and dal usually free. Noodle soup or fried rice costs ₹120–200, and eggs ₹30–40 each. Prices rise a little as you go higher on the ridge. All are indicative."},
+        {"q": "Can lodges at Tumling cater to vegetarians?", "a": "Easily. Dal-bhat is vegetarian by default, as are most noodle and potato dishes. Jain or no-onion-garlic meals need advance notice and may be simpler. Tell your guide in Maneybhanjan so he can let the lodges know."},
+        {"q": "Is the water safe to drink at Tumling?", "a": "Drink boiled water or use a filter or purifying tablets. Lodges will fill a bottle with boiled water for a small charge. Bottled water is available but costly and adds plastic to the ridge. Avoid untreated spring water."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Tumling in India or Nepal?", "a": "Tumling is in Nepal, in Ilam district, right on the border. Trekkers reach it on the Indian trail from Maneybhanjan and there is no gate. Indians carry a passport or voter ID; foreigners carry a passport with an Indian visa. Check current status before you travel."},
+    {"q": "How far is Tumling from Maneybhanjan?", "a": "About 10.5 km on foot via Chitrey and Meghma, usually 4–5 hours with a climb of roughly 800 m. By Land Rover it takes about 1.5 hours on the cobbled track. Most trekkers walk it on the first day."},
+    {"q": "Where should I stay in Tumling?", "a": "Shikhar Lodge is the best-known lodge and a few other family lodges stand nearby. All offer dorm beds or twin rooms with quilts and shared toilets. Book ahead for October weekends and April; at other times you can usually find a bed on arrival."},
+    {"q": "Can I see Kanchenjunga from Tumling?", "a": "Yes. Tumling has one of the best Kanchenjunga sunrises on the trek, with the full range to the north on clear mornings. Visibility is best from October to December and on early mornings in March and April."},
+    {"q": "Can families with children stay at Tumling?", "a": "Yes. Tumling is the most family-friendly night on the ridge: reachable by Land Rover in 1.5 hours, at a moderate 2,970 m, with simple but warm lodges. Pack extra warm clothes for children, as nights are cold from November to February."},
+    {"q": "What is the altitude of Tumling?", "a": "About 2,970 m. Some trekkers feel a mild headache here on the first night. Drink water, avoid alcohol, and rest. If symptoms worsen, do not go higher; descend to Maneybhanjan."},
+    {"q": "Is there network at Tumling?", "a": "Patchy. Indian networks sometimes work, but Nepali networks often dominate, which can lead to roaming charges. Turn off data roaming. Some lodges have Wi-Fi when the power is on."},
+    {"q": "What comes after Tumling on the Sandakphu trek?", "a": "The main route drops through Jaubari in Nepal to Gairibas at 2,621 m, then climbs to Kaiyakatta and Kalipokhri at about 3,186 m. A quieter alternative stays on the Indian side via Tonglu. Most trekkers sleep at Kalipokhri or Gairibas on day two."},
+    {"q": "Can I do a short trek to Tumling only?", "a": "Yes. A two-night trip from Darjeeling, walking from Maneybhanjan to Tumling and returning via Tonglu and Dhotrey, is a fine short trek with Kanchenjunga views. You still need a licensed guide and park entry."}
+  ]
+}

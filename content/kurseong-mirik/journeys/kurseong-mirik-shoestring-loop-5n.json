@@ -1,0 +1,204 @@
+{
+ "slug": "kurseong-mirik-shoestring-loop-5n",
+ "title": "Kurseong, Sittong and Mirik on a shoestring",
+ "region": "kurseong-mirik",
+ "nights": 5,
+ "themes": [
+  "solo-backpacking",
+  "homestays",
+  "tea-country",
+  "food-trails"
+ ],
+ "tier": "Shoestring",
+ "travel_mode": "Mixed",
+ "stops": [
+  {
+   "place": "kurseong",
+   "nights": 2
+  },
+  {
+   "place": "sittong",
+   "nights": 1
+  },
+  {
+   "place": "mirik",
+   "nights": 2
+  }
+ ],
+ "start": "NJP railway station or Bagdogra airport",
+ "end": "NJP railway station or Bagdogra airport",
+ "price_from_inr": 11500,
+ "cost_split": [
+  {
+   "item": "Shared jeeps, village jeeps and one pooled car",
+   "inr": 2300
+  },
+  {
+   "item": "Homestays, 5 nights with dinner and breakfast",
+   "inr": 7000
+  },
+  {
+   "item": "Lunches, tea and street food",
+   "inr": 1500
+  },
+  {
+   "item": "Small fees, tastings and guides",
+   "inr": 700
+  }
+ ],
+ "best_months": [
+  2,
+  1,
+  2,
+  2,
+  2,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  2
+ ],
+ "pace": "Balanced",
+ "max_altitude_m": 2000,
+ "meta_description": "Kurseong, Sittong and Mirik in 5 nights from ₹11,500: shared jeeps, family homestays, Netaji's house, oranges, Tingling tea views and Mirik lake.",
+ "summary": "A backpacker's loop through the middle hills on about ₹2,000 a day. Two nights in Kurseong, one in the orange village of Sittong, two in Mirik, travelling by shared jeep and sleeping in family homestays with meals. From about ₹11,500 per person.",
+ "intro": [
+  "This is the cheapest way we know to see the best of this land. You use shared jeeps for almost every leg, stay in family homestays with dinner and breakfast included, and walk to most sights. The only car is a pooled one out of Sittong.",
+  "It suits students, solo travellers and couples who do not mind basic rooms and early jeeps. You still see the big things: Netaji's house, the toy train bazaar, Makaibari, Sittong's orchards, the Tingling tea bowl and Mirik's lake and monastery."
+ ],
+ "highlights": [
+  "Toy train bazaar and Eagle's Crag",
+  "Netaji's house at Giddapahar",
+  "A night in Sittong's orchards",
+  "Tingling tea viewpoint",
+  "Mirik lake and Bokar Monastery"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Siliguri to Kurseong",
+   "place": "kurseong",
+   "overnight": "Kurseong",
+   "drive": "≈ 35–50 km · 1.5–2 h by shared jeep",
+   "text": "Shared jeep from Siliguri to Kurseong, ₹150–200. Check into a homestay, then walk the bazaar and watch for the toy train. Climb Eagle's Crag for sunset and eat momos and thukpa near the station.",
+   "meals": "Dinner",
+   "spend": "₹200 jeep + ₹150 lunch + ₹120 momos"
+  },
+  {
+   "day": 2,
+   "title": "Netaji's house and Makaibari",
+   "place": "kurseong",
+   "overnight": "Kurseong",
+   "drive": "On foot and local jeeps",
+   "text": "Walk up to Giddapahar for Netaji's house, about an hour each way, checking opening days first. After lunch, take a local jeep down the Pankhabari road to Makaibari and walk the garden roads; ask at the factory about a short visit in season.",
+   "meals": "Breakfast, Dinner",
+   "spend": "₹80 jeeps + ₹150 lunch + ₹200 tasting"
+  },
+  {
+   "day": 3,
+   "title": "Village jeep to Sittong",
+   "place": "sittong",
+   "overnight": "Sittong",
+   "drive": "≈ 25 km · 1.5–2 h by village jeep",
+   "text": "Take the afternoon village jeep from Kurseong to Sittong over the Bagora ridge; ask at the stand in the morning for the time. Spend the morning before it walking up Dow Hill Road into the forest. In Sittong, walk the orchards at dusk and eat with your host family.",
+   "meals": "Breakfast, Dinner",
+   "spend": "₹150 jeep + ₹150 lunch"
+  },
+  {
+   "day": 4,
+   "title": "Sittong to Mirik",
+   "place": "mirik",
+   "overnight": "Mirik",
+   "drive": "≈ 4–5 h by pooled car or jeeps via Siliguri",
+   "text": "Walk part of the way down towards the Riyang river at dawn and buy oranges in season. Then leave for Mirik: either share a car with other homestay guests, or take the morning village jeep to Siliguri and a Mirik jeep from there, via Dudhia, Tingling and Sourenee. Ask the Mirik driver to pause at Tingling.",
+   "meals": "Breakfast, Dinner",
+   "spend": "₹600–900 transport + ₹150 lunch"
+  },
+  {
+   "day": 5,
+   "title": "Mirik lake and Bokar",
+   "place": "mirik",
+   "overnight": "Mirik",
+   "drive": "",
+   "text": "Walk round Sumendu Lake at dawn. Climb to Bokar Monastery for prayers and on to Rameetay Dara. In the afternoon, walk out along an estate road into the tea and orange slopes.",
+   "meals": "Breakfast, Dinner",
+   "spend": "₹150 lunch + donation"
+  },
+  {
+   "day": 6,
+   "title": "Mirik to Siliguri",
+   "place": "mirik",
+   "overnight": "",
+   "drive": "≈ 52 km · 2–2.5 h by shared jeep",
+   "text": "Take a morning shared jeep down to Siliguri, ₹150–200, and continue to NJP or Bagdogra by auto or taxi. Keep a buffer for traffic.",
+   "meals": "Breakfast",
+   "spend": "₹200 jeep + ₹150 lunch"
+  }
+ ],
+ "stays": [
+  "makaibari-village-homestays"
+ ],
+ "includes": [
+  "Shared jeep seats between NJP/Siliguri and the hills",
+  "Homestay or budget rooms on twin sharing",
+  "Dinner and breakfast at homestays",
+  "Our day-by-day plan with fares and contacts"
+ ],
+ "excludes": [
+  "Flights and trains to NJP or Bagdogra",
+  "Lunches unless stated",
+  "Toy train tickets unless stated",
+  "Tips, porters and personal shopping",
+  "Anything not listed under includes"
+ ],
+ "save_money": [
+  "Use UPI or cash at homestays and avoid booking platforms' fees where hosts allow direct booking.",
+  "Eat lunch at bazaar stalls for ₹100–150 rather than hotel restaurants.",
+  "Travel midweek and outside Puja, Diwali and May holidays."
+ ],
+ "good_to_know": [
+  "Village jeeps to and from Sittong are few; confirm times the day before.",
+  "Sittong to Mirik is the hardest leg on public transport; start early.",
+  "Homestay rooms are simple; carry a light sleeping sheet if you like."
+ ],
+ "faqs": [
+  {
+   "q": "Is the price per person?",
+   "a": "Yes. ₹11,500 is per person on twin sharing for Indian nationals, from NJP or Bagdogra and back, as an indicative 2025–26 figure. Solo travellers pay more for rooms and cars; groups of four sharing a car pay less. We round to the nearest ₹500."
+  },
+  {
+   "q": "Can we start from Bagdogra airport instead of NJP?",
+   "a": "Yes. Bagdogra is about 30 minutes from Siliguri and a little further from NJP. Shared autos and taxis link the airport to the Siliguri jeep stands. With a reserved car, the fare from Bagdogra is about the same as from NJP."
+  },
+  {
+   "q": "Can we change the number of nights?",
+   "a": "Yes. Add a night where you want more time, usually in the village stops, or drop one on a tight schedule. Keep at least two nights in any place where you want a clear dawn view, since weather can spoil one morning."
+  },
+  {
+   "q": "Can I really do this trip on ₹2,000 a day?",
+   "a": "Yes, in 2025–26, if you use shared jeeps, stay in homestays with meals and eat lunch at stalls. The pooled car out of Sittong is the biggest single cost. Solo travellers pay a little more for single rooms."
+  },
+  {
+   "q": "Is this trip safe for solo women?",
+   "a": "Solo women generally find these hills safe and the homestays welcoming. Shared jeeps are normal for everyone. Use ordinary care after dark, avoid walking forest roads alone late in the day, and keep family informed."
+  },
+  {
+   "q": "What if I miss the village jeep to Sittong?",
+   "a": "Hire a car from Kurseong for about ₹1,800–2,500, or share one with other travellers. Your Sittong homestay can often arrange a pick-up. Ask for jeep times the day before to avoid this."
+  },
+  {
+   "q": "Can I swap Sittong for Makaibari?",
+   "a": "Yes. A night with a Makaibari tea family is easier to reach from Kurseong and costs about the same. You lose the orange orchards and the village jeep adventure, but gain a dawn plucking walk."
+  },
+  {
+   "q": "What should I pack for a shoestring trip?",
+   "a": "A small backpack, layers for cold nights, a light rain jacket, good shoes, a torch, a water bottle and cash. Leave big suitcases behind; jeeps have little space on the roof."
+  },
+  {
+   "q": "When is the best season for this loop?",
+   "a": "November to January for oranges and clear views, and March to May for spring and tea. Avoid July and August, when jeeps are slowed by landslides and village paths are slippery."
+  }
+ ]
+}

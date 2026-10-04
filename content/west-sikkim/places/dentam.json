@@ -1,0 +1,174 @@
+{
+  "slug": "dentam",
+  "name": "Dentam",
+  "name_local": "",
+  "region": "west-sikkim",
+  "kind": "valley",
+  "wiki": "",
+  "image_query": "Dentam valley West Sikkim",
+  "lat": 27.262,
+  "lng": 88.13,
+  "altitude_m": 1500,
+  "tagline": "Paddy terraces, cardamom kilns and farm kitchens west of Pelling",
+  "meta_description": "Dentam, West Sikkim: a farming valley of rice terraces and cardamom on the road to Uttarey. How to reach, homestay costs, food and when to go.",
+  "summary": "Dentam is a farming valley at about 1,500 m in Sikkim's Gyalshing district, roughly an hour west of Pelling on the road to Uttarey. Come for terraced rice that turns gold in October, large cardamom drying in smoky kilns, farm kitchens and birdlife. Homestays cost about ₹1,500–2,500 per person with meals.",
+  "local_story": {
+    "title": "A rice valley on the road to the border",
+    "paras": [
+      "Dentam's first farmers were Lepcha and Limboo families, who shared these western valleys long before the Namgyal dynasty was founded at Yuksom in 1642. Under the Chogyals the west was the heart of the kingdom, with its capitals at Yuksom and then Rabdentse, a day's walk or two from here. The late eighteenth century brought Gorkha armies from Nepal, who overran much of western Sikkim, and the land was secured again only after Nepal's war with the British; the Treaty of Titalia in 1817 restored to Sikkim the lands between the Mechi and Teesta rivers.",
+      "The valley's present shape dates from the late nineteenth century, when Nepali-speaking farmers were settled across southern and western Sikkim, especially after John Claude White became the first British Political Officer in 1889. They cut the wet-rice terraces that now step down the slopes and brought new crops and skills. Over the twentieth century large cardamom, grown in damp shade under alder trees, became the main cash crop of valleys like this one, and Sikkim grew into India's largest producer. Dentam today is a small market and subdivision headquarters serving the farms around it.",
+      "Beyond Dentam the road climbs west towards Uttarey and the Singalila ridge, which forms the border with Nepal. Local people speak of an old foot route over the ridge that villagers on both sides used, and the road from Dentam is now how travellers reach it, crossing a deep gorge on the way. In recent years a small dairy in the area is said to have made cheese from local milk; we could not confirm whether it still does, so ask in the market rather than counting on it."
+    ]
+  },
+  "did_you_know": [
+    "Large cardamom is dried over wood fires in kilns called bhatti, which is why Sikkim's black cardamom tastes smoky; Sikkim grows more of it than any other Indian state.",
+    "Sikkim joined India on 16 May 1975, ending 333 years of Namgyal rule that began with the coronation of the first Chogyal at Yuksom in 1642.",
+    "Hard churpi, made from cow or yak milk, is dried until stone-hard and chewed slowly for an hour or more; soft churpi goes into curries and chilli relishes."
+  ],
+  "intro": [
+    "Most travellers pass through Dentam on the way to Uttarey and never stop, and we think that is a mistake. The valley sits at about 1,500 m, lower and warmer than Pelling, with a small market on the road and farm villages spread across the slopes above and below. In September and October the rice terraces turn from green to gold, cardamom pods dry in smoky kilns, and every kitchen seems to be making something from the harvest. It is the best place in West Sikkim to see how a farming valley actually works.",
+    "Come for one or two nights in a homestay, walk the terraces, eat well and move on to Uttarey or back to Pelling. There is no big sight here, no monastery to queue at, and that is the appeal. Dentam is roughly an hour west of Pelling and reached by shared jeep from Gyalshing. It suits slow travellers, food lovers, birders and anyone who wants a quieter night between Pelling and the border country. Indians need no permit; foreign nationals need the Sikkim Restricted Area Permit, so check current status before you travel."
+  ],
+  "facts": [
+    ["Best months", "Mar – Apr · Sep – Nov"],
+    ["Nights we suggest", "1–2"],
+    ["From Siliguri", "≈ 150 km · 6–7 h via Gyalshing"],
+    ["Altitude", "about 1,500 m"],
+    ["Known for", "Rice terraces, large cardamom, farm food"],
+    ["Network", "Usually works in the market; weak in outer villages"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 2, 2, 2, 1],
+  "nights": "1–2",
+  "costs": [
+    ["Shared jeep Siliguri–Gyalshing/Pelling", "₹450–600 a seat"],
+    ["Shared jeep Gyalshing–Dentam", "about ₹80–150 a seat (check)"],
+    ["Reserved car Pelling–Dentam", "₹1,800–2,500 one way (indicative)"],
+    ["Homestay with dinner and breakfast", "₹1,500–2,500 pp"],
+    ["Thali in the market", "₹150–250"],
+    ["Tea / momos", "₹20–30 / ₹80–150"]
+  ],
+  "highlights": [
+    {"title": "Gold rice terraces in autumn", "text": "Rice is transplanted in the monsoon and harvested in October and November. From late September the terraces around Dentam turn from green to gold, and in harvest weeks you can watch families cutting, threshing and stacking straw by hand. It is the valley's best season for photographs and walks."},
+    {"title": "Cardamom kilns", "text": "Large cardamom grows in damp, shady plots under alder trees on the valley slopes. After harvest, from roughly August to November, the pods are dried over wood fires in kilns called bhatti. Ask your host to take you to one; the smell of the smoke stays with you."},
+    {"title": "Farm kitchens", "text": "Dentam's homestays cook from the valley: local rice, gundruk and sinki, the fermented greens and radish, soft churpi in chilli relish, nettle soup, sel roti at festivals, and dalle khursani, the small round chilli that burns more than it looks. Ask to watch and help."},
+    {"title": "Birds of the valley", "text": "Farmland mixed with forest at 1,500 m is good bird country. Early mornings bring bulbuls, minivets, drongos, flycatchers and sunbirds to the terraces and hedges. Bring binoculars and walk slowly along the road or a farm path before the sun gets high."},
+    {"title": "A village dairy", "text": "A small dairy in the area is said to have made cheese from local milk in recent years. We could not confirm whether it still operates or welcomes visitors, so ask in Dentam market or at your homestay before going looking for it."},
+    {"title": "Gateway to Uttarey", "text": "Dentam is the last market town before Uttarey and the Singalila border country. Stock up on cash, snacks and anything you need here, and break the journey with a night in the valley rather than rushing through on the way to the border hills."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Take a morning shared jeep from Siliguri to Gyalshing or Pelling (about 5–6 h, ₹450–600 a seat), or go via Jorethang and change. From Gyalshing, a few shared jeeps run to Dentam and on towards Uttarey (about 1–1.5 h, roughly ₹80–150). Most leave in the morning and around midday, so ask at the Gyalshing stand the day before."},
+    {"mode": "Reserved car", "text": "From Pelling a small car takes about an hour and costs roughly ₹1,800–2,500 one way. From NJP or Bagdogra expect about ₹6,000–7,500 and 6–7 hours via Jorethang and Gyalshing. Fares are indicative; agree the price before you set off, and check current road status in the monsoon."}
+  ],
+  "where_to_stay": "Dentam has a modest number of family homestays in and around the market and in the farm villages on the slopes above and below the road. Homestays charge roughly ₹1,500–2,500 per person with dinner and breakfast; rooms are clean and basic, with hot water often by bucket. Choose a village homestay over a market lodge if you want the terraces outside your window and a family kitchen. Many travellers also base themselves at Uttarey or Hee Bermiok and visit Dentam for a day, which works well.",
+  "stays": [],
+  "tips": [
+    "Visit from late September to November to see the rice terraces turn gold and the cardamom kilns at work.",
+    "Draw cash in Gyalshing or Pelling, since ATMs in Dentam are few and can run out.",
+    "Ask before walking through a cardamom plot or into a kiln; both are private and the plants are easily damaged.",
+    "Carry leech socks or salt if you walk farm paths between June and September.",
+    "Buy your onward jeep seat to Uttarey or Gyalshing the evening before, because the few morning jeeps fill quickly."
+  ],
+  "themes": ["homestays", "food-trails", "solo-backpacking", "photography", "wildlife-birds"],
+  "nearby": ["uttarey", "hee-bermiok", "pelling"],
+  "experiences": [
+    {
+      "slug": "dentam-rice-terrace-walk",
+      "title": "Dentam rice terrace walk at harvest",
+      "kind": "culture",
+      "duration": "2–3 hours",
+      "best_time": "8–11 am, late Sep–Nov",
+      "cost": "Free · tip a local guide ₹300–500",
+      "image_query": "rice terraces West Sikkim",
+      "wiki": "",
+      "summary": "Walk down through Dentam's terraced fields when the rice turns gold, from late September to November, watching families cut, thresh and stack the harvest by hand. A village guide or your host's family member makes it a conversation about farming rather than just a view.",
+      "body": [
+        "Rice in Dentam is a monsoon crop. Seedlings are raised in nursery beds, then transplanted into flooded terraces in June and July, often by groups of neighbours working field to field. Through August the valley is deep green. By late September the grain starts to ripen and the slopes turn yellow, then gold, and from October into November families cut the rice by sickle, beat it on wooden frames or stone, and stack the straw for cattle feed through the winter.",
+        "These terraces were mostly cut by Nepali-speaking farmers who settled western Sikkim from the late nineteenth century, building on the older farming of Lepcha and Limboo families. Each terrace is levelled and banked by hand, and water is led down from streams along narrow channels. Walk with someone from the village and ask how the water is shared, which fields belong to whom, and what is planted after the rice; often it is mustard, wheat or vegetables through the dry winter months.",
+        "Start after breakfast, when the dew has dried, and allow two to three hours. Ask your host for a family member or neighbour to walk with you, and pay ₹300–500 for their time. Keep to the terrace edges and never walk across a planted field. Shoes with grip are essential; the bunds are narrow and can be slippery. Bring water and a hat, since the valley can feel warm by late morning even in November."
+      ],
+      "good_for": ["photographers", "students", "families", "solo"],
+      "faqs": [
+        {"q": "When are Dentam's rice fields golden?", "a": "From late September through October, depending on the year and the height of the field. Harvest usually runs from October into November, when you will see families cutting and threshing by hand. Before that, July and August are green and full of water, but the monsoon makes walking muddy and the views are often clouded."},
+        {"q": "Do we need a guide for the terrace walk?", "a": "Not strictly, but it is far better with one. Ask your homestay host for a family member or neighbour to walk with you for ₹300–500. They know which paths are public, whose fields you are crossing and how the farming year works, which turns a scenic walk into a real conversation about the valley."},
+        {"q": "Is the terrace walk hard?", "a": "It is moderate rather than hard. You walk on narrow, uneven bunds and steep farm paths, often downhill first and back up afterwards. Allow two to three hours with stops. Wear shoes with grip, carry water, and turn back early if knees or balance are a concern. Children manage well with a hand to hold."}
+      ]
+    },
+    {
+      "slug": "dentam-cardamom-kiln-visit",
+      "title": "Cardamom plots and a smoky bhatti kiln",
+      "kind": "food",
+      "duration": "1.5–2 hours",
+      "best_time": "Morning, Aug–Nov",
+      "cost": "Free · tip the farmer ₹200–300",
+      "image_query": "large cardamom Sikkim drying",
+      "wiki": "Black cardamom",
+      "summary": "Walk into a shaded cardamom plot with a Dentam farmer, see the red pods at the base of the plants, and visit a bhatti kiln where the harvest is dried over wood fires. Sikkim grows more large cardamom than any other Indian state, and this is where it starts.",
+      "body": [
+        "Large cardamom, the black cardamom of Indian kitchens, is a different plant from the small green cardamom of the south. It grows as tall, leafy clumps in damp shade, and in Sikkim farmers usually plant it under Himalayan alder trees, which shade the plots and enrich the soil. The pods grow in tight red clusters at the base of the plant, close to the ground, so harvest means crouching and cutting by hand. Sikkim is India's largest producer, and the crop has supported hill families for generations.",
+        "After harvest, from roughly August to November depending on the height of the field, the pods go into a bhatti, a simple kiln where they are spread on a rack and dried over a wood fire for a day or more. The smoke gives Sikkim cardamom its strong, smoky taste, prized in garam masala and meat dishes. Ask the farmer how many days the drying takes, how the price has moved in recent years, and how disease has affected the plants; these are live worries in every valley.",
+        "Go with your homestay host, who can ask a neighbour to show you around, and offer ₹200–300 for their time. Walk only where you are led, because the plants and their shallow roots are easily damaged. Do not take pods without asking. If you want to buy cardamom, ask the family directly; it will be fresher than anything in the plains, though prices follow the market and are not cheap."
+      ],
+      "good_for": ["students", "solo", "families", "photographers"],
+      "faqs": [
+        {"q": "When is the cardamom harvest in Dentam?", "a": "Large cardamom is harvested from roughly August to November, earlier in lower fields and later higher up. Drying in bhatti kilns follows the harvest, so September to November is the best time to see the whole process. Outside these months you can still visit a plot and see an empty kiln, but there is less to watch."},
+        {"q": "Can we buy cardamom from the farmers?", "a": "Usually yes, if you ask politely through your host. Farmers sell at prices linked to the market, which swing a lot from year to year, so do not expect plains-shop bargains. You will get fresh, properly dried pods, and the money goes straight to the family. Carry it in a sealed bag."},
+        {"q": "What is the difference between large and small cardamom?", "a": "Large or black cardamom (Amomum subulatum) has big, dark, wrinkled pods dried over smoke, with a strong, smoky flavour used in savoury dishes. Small green cardamom (Elettaria cardamomum) comes mostly from south India, is sun- or air-dried, and has a sweeter, floral taste used in tea and desserts."}
+      ]
+    },
+    {
+      "slug": "dentam-farm-kitchen-evening",
+      "title": "A farm kitchen evening in Dentam",
+      "kind": "food",
+      "duration": "2–3 hours",
+      "best_time": "5–8 pm, Sep–Apr",
+      "cost": "Included with homestay dinner",
+      "image_query": "Sikkim homestay kitchen gundruk",
+      "wiki": "Gundruk",
+      "summary": "Spend an evening in your homestay kitchen helping cook a Dentam farm dinner: local rice, gundruk or sinki, nettle soup, churpi relish and dalle chilli. You learn how hill families preserve food through the winter, and you eat far better than in any restaurant.",
+      "body": [
+        "Hill kitchens in Sikkim are built around preserving. Gundruk is leafy greens, often mustard or radish leaves, wilted, fermented and sun-dried; sinki is the same idea made from radish root. Both keep for months and turn into sour, savoury soups and pickles in winter. Kinema is fermented soybean, eaten mostly by Limboo and Rai families. Churpi comes hard, for chewing, or soft, mashed with chilli, tomato and onion into a relish. Ask your host which of these they make at home; every family has its own way.",
+        "The evening usually begins at the hearth around 5 pm. You might help wash local rice, strip nettle leaves with tongs for sisnu soup, or grind dalle khursani chillies on a stone. During festivals such as Dashain and Tihar, families fry sel roti, a ring-shaped rice bread. Some households brew chhang or tongba, fermented millet served in a bamboo mug and topped with hot water. Drink it slowly; it is stronger than it seems.",
+        "Tell your host when you book that you would like to cook with the family, and ask in the morning so they can plan. There is no extra charge in most homestays, but offer to help wash up. Say early if you are vegetarian or avoid alcohol; hosts are used to both. Eat what is offered, take small portions first, and remember that dalle khursani is fierce. A gift of tea or sweets from the plains is always welcome."
+      ],
+      "good_for": ["families", "couples", "solo", "students"],
+      "faqs": [
+        {"q": "What should we try to eat in Dentam?", "a": "Try local rice with gundruk or sinki soup, sisnu (nettle) soup, soft churpi in a chilli relish, seasonal vegetables from the farm and a little dalle khursani chilli. In Limboo and Rai homes you may meet kinema, fermented soybean. At festivals families fry sel roti. Most homestays include dinner, so ask your host to cook what they eat."},
+        {"q": "Is homestay food in Dentam suitable for vegetarians?", "a": "Yes. Everyday farm food is largely vegetarian: rice, dal, greens, fermented vegetables, potatoes and churpi. Meat, usually chicken or pork, is more common at festivals or on request. Tell your host when you book, and they will cook accordingly. Jain or no-onion diets are harder, so explain clearly in advance."},
+        {"q": "Is tongba or chhang safe to drink?", "a": "Home-brewed millet drinks are part of local hospitality and are generally safe in moderation, but they are alcoholic and stronger than they taste. Drink slowly, do not mix with other alcohol, and skip it if you are driving, unwell or taking medication. Saying no politely is perfectly acceptable."}
+      ]
+    },
+    {
+      "slug": "dentam-valley-birding-morning",
+      "title": "Early birding on Dentam's farm edges",
+      "kind": "wildlife",
+      "duration": "2–3 hours",
+      "best_time": "6–9 am, Oct–May",
+      "cost": "Free · local guide ₹500–1,000 if available",
+      "image_query": "scarlet minivet Sikkim",
+      "wiki": "",
+      "summary": "Walk the road and farm paths at first light, where forest meets terraces at about 1,500 m, and look for minivets, bulbuls, drongos, sunbirds and flycatchers. Easy, cheap and quiet, and a good reason to be up before the jeeps start running.",
+      "body": [
+        "Dentam's mix of farmland, hedges, stream gullies and forest patches at about 1,500 m suits many common Himalayan birds. On a typical morning you may see red-vented and Himalayan bulbuls on wires, scarlet minivets moving through the treetops, black and ashy drongos hawking insects over the fields, sunbirds at flowering shrubs and verditer flycatchers in turquoise flashes. Sightings are never guaranteed, and names vary with season, but the variety is real and you do not need to walk far.",
+        "Start at first light, about 5.30–6 am from October to February and earlier in spring, when birds are most active and the valley is quiet. Walk slowly along the road out of the market, then take a farm path down towards a stream, where water and cover bring birds together. Stop often and listen. Spring, from March to May, adds breeding calls and summer visitors, while winter brings birds down from higher forests.",
+        "Bring binoculars and a field guide or app. Ask your host whether anyone in the village guides birders; if so, ₹500–1,000 for a morning is fair. Wear muted colours, keep voices low and do not play recorded calls to lure birds during the breeding season. Stay on paths and ask before entering private land. Come back for breakfast by 9 am, when the light gets harsh and the birds quieten."
+      ],
+      "good_for": ["photographers", "solo", "couples", "seniors"],
+      "faqs": [
+        {"q": "Which birds can we see around Dentam?", "a": "Common species at this height include red-vented and Himalayan bulbuls, scarlet minivets, black and ashy drongos, sunbirds, verditer flycatchers, tits and laughingthrushes. What you see depends on season, weather and luck. Winter brings some birds down from higher forests, and spring adds breeding calls and summer visitors."},
+        {"q": "Is there a birding guide in Dentam?", "a": "There is no formal guide service we can vouch for. Some villagers know local birds well, so ask your homestay host whether anyone guides; ₹500–1,000 for a morning is a fair offer. Otherwise go alone with binoculars and a field guide or app, keeping to the road and public farm paths."},
+        {"q": "What is the best season for birding in Dentam?", "a": "October to May is best. Winter mornings from November to February are clear and birds from higher forests move down, while March to May brings breeding activity, song and summer visitors. The monsoon is wet and leech-heavy, and birds are harder to see through rain and mist."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Dentam worth visiting?", "a": "Yes, for one or two nights if you like farm villages, food and walking. Dentam has no headline sight, but in autumn its rice terraces turn gold, cardamom dries in smoky kilns and homestay kitchens are full of harvest food. It also breaks the journey to Uttarey. Sightseers in a hurry may prefer Pelling."},
+    {"q": "How far is Dentam from Pelling?", "a": "Roughly an hour by road, west of Pelling and Gyalshing on the way to Uttarey. A reserved car costs about ₹1,800–2,500 one way. By shared jeep, go to Gyalshing first and catch one of the few jeeps to Dentam, usually in the morning or around midday. Fares are indicative, so confirm at the stand."},
+    {"q": "How do we reach Dentam from NJP or Siliguri?", "a": "Take a morning shared jeep from Siliguri to Gyalshing or Pelling (about 5–6 h, ₹450–600 a seat), or go via Jorethang and change. From Gyalshing, shared jeeps run to Dentam for roughly ₹80–150. A reserved car from NJP or Bagdogra costs about ₹6,000–7,500 and takes 6–7 hours. Check current road status in the monsoon."},
+    {"q": "Should we stay in Dentam or Uttarey?", "a": "Stay in Uttarey if you want cooler air, forest and walks towards the Singalila ridge; stay in Dentam for the farming valley, rice terraces and food. Dentam is lower and warmer at about 1,500 m, Uttarey higher at about 2,000 m. With three nights, split them, and see the gorge bridge on the road between."},
+    {"q": "When is the best time to visit Dentam?", "a": "Late September to November is our favourite: gold rice terraces, the cardamom harvest and clear skies. March and April are also pleasant, with spring flowers. December to February is dry and cool. June to August is wet, leech-heavy and prone to landslides, so check current status before you travel in the monsoon."},
+    {"q": "Do we need a permit for Dentam?", "a": "Indian citizens do not need a permit. Foreign nationals need the Sikkim Restricted Area Permit, which covers Dentam and the road to Uttarey. Going beyond Uttarey towards the Nepal border on the Singalila ridge may need separate permission from the border post. Rules change, so check current status before you travel."},
+    {"q": "Are there ATMs and shops in Dentam?", "a": "Dentam has a small market with grocery shops, tea stalls and simple eateries, enough for snacks and basics. ATMs are few and can run out, so draw cash in Gyalshing or Pelling. Many homestays accept UPI, but mobile data can be weak in the outer villages, so carry enough cash for your stay."},
+    {"q": "How many days should we spend in Dentam?", "a": "One night is enough to walk the terraces and eat a farm dinner; two nights let you add birding, a cardamom kiln visit and a slow morning. Many travellers do one night in Dentam and two in Uttarey, or base at Hee Bermiok and visit for the day."},
+    {"q": "How much does a night in Dentam cost?", "a": "A village homestay costs roughly ₹1,500–2,500 per person with dinner and breakfast. Add ₹150–250 for a lunch thali, ₹20–30 for tea and a few hundred rupees for a local guide or tips. The shared jeep from Gyalshing is about ₹80–150. All figures are indicative for 2025–26."}
+  ]
+}

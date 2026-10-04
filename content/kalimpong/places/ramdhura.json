@@ -1,0 +1,110 @@
+{
+  "slug": "ramdhura", "name": "Ramdhura", "name_local": "", "region": "kalimpong",
+  "kind": "village",
+  "wiki": "Ramdhura", "image_query": "Ramdhura Kalimpong village view",
+  "lat": 27.125, "lng": 88.568, "altitude_m": 1525,
+  "tagline": "Pine-ridge village over the Teesta valley, close to Kalimpong",
+  "meta_description": "Ramdhura near Kalimpong, about 1,525 m: Kanchenjunga sunrise, Teesta valley views, pine and cinchona walks to Icchey Gaon, homestays, costs and access.",
+  "summary": "Ramdhura is a small village at about 1,525 m (5,000 ft), around 15 km from Deolo and Kalimpong, with pine forest, cinchona slopes and a view over the Teesta valley to Kanchenjunga. It is the easiest homestay village to reach from Kalimpong. One or two nights, often paired with Icchey Gaon.",
+  "local_story": {"title": "Ram's village above the river",
+    "paras": ["Ramdhura's name joins Ram, the hero of the Ramayana, with dhura, used locally for a village or settlement on a ridge. Nobody we asked could say exactly why the village took Ram's name, and we have found no written account, so we leave it as a name with a story still waiting to be told. The village sits on a pine-covered ridge north-east of Kalimpong, above the deep valley of the Teesta.",
+              "Like its neighbours Icchey Gaon and Sillery Gaon, Ramdhura has lived for generations from farming and the colonial-era cinchona plantations that cover parts of these slopes, planted by the British to produce quinine against malaria. Pine forest gives the ridge its look, with the needles thick on the paths and the smell of resin in the warm afternoons.",
+              "Tourism here is small and recent. Families have opened homestays along the ridge, mostly to visitors who want a village night within an hour of Kalimpong. From the right spot at dawn, the sun rises over the hills while Kanchenjunga lights up across the Teesta valley."]},
+  "did_you_know": [
+    "Ramdhura sits at about 1,525 m (5,000 ft), roughly 280 m above Kalimpong town, and about 15 km from Deolo hill.",
+    "Icchey Gaon, at about 1,770 m, is only about 2.5 km from Ramdhura, so many visitors walk between the two.",
+    "Ramdhura is about 86 km from New Jalpaiguri railway station and 89 km from Bagdogra airport by road."
+  ],
+  "intro": ["Ramdhura is a ridge of pine trees and family homestays above the Teesta valley, close enough to Kalimpong to reach in under an hour and far enough to feel like a village. The main reasons to come are the dawn over Kanchenjunga, the walks through pine and cinchona to Icchey Gaon and the view down to the Teesta.",
+            "It is a good first homestay for people who have not stayed in one before, and a sensible base for older travellers who do not want long drives. Expect simple rooms, home food and early nights, at about ₹1,400–2,000 per person with meals. Pair it with Icchey Gaon, 2.5 km away, and Sillery Gaon and Pedong further on."],
+  "facts": [["Best months", "Oct – Dec · Mar – May"], ["Nights we suggest", "1–2"], ["From Kalimpong", "≈ 15–18 km · 45 min–1 h"], ["Altitude", "≈ 1,525 m"], ["Known for", "Teesta valley view, Kanchenjunga dawn, pine walks"], ["Network", "Jio/Airtel fair"]],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1–2",
+  "costs": [["Reserved car from Kalimpong", "₹1,200–1,800 one way"], ["Reserved car from NJP or Bagdogra", "₹4,000–5,500 a car"], ["Homestay with dinner and breakfast", "₹1,400–2,000 pp"], ["Lunch at the homestay", "₹150–250"], ["Village guide for a half-day walk", "₹500–800"]],
+  "highlights": [
+    {"title": "Kanchenjunga over the Teesta", "text": "From the ridge the view runs across the Teesta valley to the hills of Sikkim and the Kanchenjunga range. Clear dawns from October to April are the time; afternoons usually cloud over."},
+    {"title": "Walk to Icchey Gaon", "text": "About 2.5 km along the ridge through pine and cinchona to the neighbouring village, with views on the way. Easy, about 45 minutes each way, and good in the late afternoon."},
+    {"title": "Pine and cinchona slopes", "text": "Pine forest and colonial-era cinchona, grown for quinine, shape the ridge. Paths are soft with needles and the air smells of resin. Ask your hosts about plantation work."},
+    {"title": "Close to Kalimpong", "text": "Under an hour from Kalimpong by car, so you can visit Deolo, Durpin and the haat during the day and come back to the quiet of the village at night."},
+    {"title": "Gentle village life", "text": "Small farms, kitchen gardens and a few shops. A good first homestay, with hosts used to welcoming first-timers and families."}
+  ],
+  "how_to_reach": [
+    {"mode": "Reserved car", "text": "From Kalimpong a car costs about ₹1,200–1,800 one way and takes 45 minutes to an hour. From NJP or Bagdogra, about ₹4,000–5,500 and 3.5–4 hours via Kalimpong. NH10 has had closures since October 2023; check current status before you travel."},
+    {"mode": "Shared jeep and car", "text": "There is no regular shared jeep to Ramdhura. Take a shared jeep to Kalimpong (₹200–300 from Siliguri) and then a local car, or ask your homestay to arrange a pickup from Kalimpong."},
+    {"mode": "From Icchey Gaon or Sillery Gaon", "text": "Icchey Gaon is about 2.5 km away, easy on foot. Sillery Gaon and Pedong are a short drive further east; a car costs about ₹800–1,500."}
+  ],
+  "where_to_stay": "Ramdhura has family homestays along the ridge, many with rooms facing the Teesta valley and Kanchenjunga, at about ₹1,400–2,000 per person with dinner and breakfast. Rooms are simple but generally clean, with geysers in the better ones; ask about attached bathrooms and heating in winter. There are no hotels. Icchey Gaon, 2.5 km away, has similar homestays, and Kalimpong, under an hour away, has government lodges such as Morgan House and Deolo Tourist Lodge.",
+  "stays": [],
+  "tips": ["Ask for a room facing the Teesta valley for the dawn view.",
+           "Combine a night in Ramdhura with a night in Icchey Gaon or Sillery Gaon, walking between them.",
+           "Visit Kalimpong's haat on a Wednesday or Saturday as a day trip from Ramdhura.",
+           "Carry a torch for evening walks; village lanes are dark.",
+           "Roads can be slippery after rain: check current status before you travel."],
+  "themes": ["homestays", "kanchenjunga-views", "family-trips", "long-weekends"],
+  "nearby": ["icchey-gaon", "sillery-gaon", "delo", "kalimpong"],
+  "experiences": [
+    {"slug": "ramdhura-teesta-valley-dawn", "title": "Dawn over the Teesta valley at Ramdhura",
+     "kind": "viewpoint", "duration": "1 hour", "best_time": "Pre-dawn, Oct–Apr", "cost": "Free from your homestay",
+     "image_query": "Teesta valley Kalimpong morning mist", "wiki": "Teesta River",
+     "summary": "From Ramdhura's ridge, watch dawn colour the Kanchenjunga range across the Teesta valley, with mist lying in the river gorge below and the hills of Sikkim between.",
+     "body": ["Ramdhura's ridge looks north and north-west over the Teesta valley. At dawn, the gorge below often fills with mist, the hills of Sikkim stand out in layers, and on clear days the Kanchenjunga range catches the first light far beyond. It is a view with depth: river, ridges, then snow.",
+              "Ask your hosts to wake you 30 minutes before sunrise, around 5.30 am in October and March and after 6 am in winter. Many homestays have a terrace or garden with the view; otherwise walk a few minutes along the ridge. Bring a warm layer, a cup of tea and patience.",
+              "October to early December gives the clearest dawns, with February and March next. In April and May haze is more common, and from June to September the valley is usually lost in cloud, though the monsoon mist has its own beauty. Use a zoom lens for the peaks and a wide lens for the valley."],
+     "good_for": ["couples", "photographers", "seniors", "families"],
+     "faqs": [
+       {"q": "Can you see Kanchenjunga from Ramdhura?", "a": "Yes, on clear days, mostly from October to April and best at dawn. The range is visible beyond the Teesta valley and the hills of Sikkim. From June to September cloud usually hides it."},
+       {"q": "Is Ramdhura or Deolo better for sunrise?", "a": "Deolo is higher and a classic sunrise point but has day crowds and needs a taxi. Ramdhura gives a quieter dawn from your homestay, with the Teesta valley in the foreground. If you are staying in the village, Ramdhura wins."},
+       {"q": "What should I bring for a dawn view in Ramdhura?", "a": "A warm jacket, cap and gloves in winter, a torch, and a camera with a zoom lens. A flask of tea helps. Most homestays will make tea early if you ask the night before."}
+     ]},
+    {"slug": "ramdhura-icchey-gaon-ridge-walk", "title": "Ridge walk from Ramdhura to Icchey Gaon",
+     "kind": "trek", "duration": "1.5–2 hours return", "best_time": "3–5.30 pm or 7–10 am, Oct–May", "cost": "Free",
+     "image_query": "pine forest path Kalimpong", "wiki": "",
+     "summary": "Walk about 2.5 km along the ridge from Ramdhura to Icchey Gaon through pine and cinchona, with views over the Teesta valley. An easy, pleasant walk for most ages.",
+     "body": ["The two villages are about 2.5 km apart along the ridge, connected by a road and village paths. The walk passes through pine plantations with soft needle-covered ground, cinchona slopes and small farms, with the Teesta valley opening to the north. It climbs gently, about 250 m, from Ramdhura to Icchey Gaon.",
+              "Allow about 45 minutes each way at an easy pace, more if you stop for photos and tea. Late afternoon is lovely, with golden light on the pines; morning gives clearer views of the mountains. The route is easy to follow, but ask locals for the paths that cut off the road loops.",
+              "This is a good walk for families and older travellers who want some exercise without a real trek. Wear comfortable shoes. If you are staying in one village and the other has a homestay you like, you can walk across with a day pack and send your bags by car."],
+     "good_for": ["families", "seniors", "couples", "first-timers"],
+     "faqs": [
+       {"q": "How far is Icchey Gaon from Ramdhura?", "a": "About 2.5 km along the ridge, around 45 minutes on foot each way, or 10 minutes by car. Icchey Gaon is a little higher, at about 1,770 m against Ramdhura's 1,525 m."},
+       {"q": "Is the Ramdhura–Icchey Gaon walk difficult?", "a": "No, it is easy, with a gentle climb of about 250 m on roads and village paths. Most people, including older children and fit seniors, manage it comfortably. Paths can be slippery after rain."},
+       {"q": "Can I stay in both Ramdhura and Icchey Gaon?", "a": "Yes. Many travellers spend one night in each and walk between them, sending bags by car for about ₹400–700. It gives you two different viewpoints and two homestay families."}
+     ]},
+    {"slug": "ramdhura-forest-birding-morning", "title": "Morning birds in Ramdhura's pine and oak",
+     "kind": "wildlife", "duration": "2 hours", "best_time": "6–8.30 am, Mar–May and Oct–Dec", "cost": "Free · guide ₹500–1,000",
+     "image_query": "Himalayan bird pine forest", "wiki": "",
+     "summary": "Walk the lanes around Ramdhura at first light for the birds of the middle hills: barbets, bulbuls, minivets, sunbirds, tits and woodpeckers, in a mix of pine, oak and farm edges.",
+     "body": ["Ramdhura's mix of habitats, pine plantation, patches of broadleaf forest, cinchona, gardens and farmland, is good for birds of the middle hills. At first light, mixed flocks move along the forest edges: tits, minivets, warblers and white-eyes, with barbets calling from the taller trees and sunbirds at flowering shrubs.",
+              "Walk slowly along the village lanes and the ridge road towards Icchey Gaon. Stop where the forest meets fields, where activity is highest. Listen for woodpeckers drumming and the loud calls of laughingthrushes in the undergrowth. Spring, from March to May, is the best season, when birds are singing and breeding.",
+              "A local guide, about ₹500–1,000, knows where the flocks gather. Carry binoculars and wear dull colours. In the monsoon, birding is harder with rain and leeches, but some species are easier to see as they breed."],
+     "good_for": ["photographers", "seniors", "solo", "students"],
+     "faqs": [
+       {"q": "Is Ramdhura good for birdwatching?", "a": "Yes, for common birds of the middle hills: barbets, bulbuls, minivets, tits, sunbirds, warblers and woodpeckers. It is not a specialist birding site like Neora Valley or Lava, but an easy morning walk can produce a good list."},
+       {"q": "When is the best season for birds in Ramdhura?", "a": "March to May, when birds sing and breed and many trees flower. October to December is also good, with clear mornings. Start at first light; activity drops by about 9 am."},
+       {"q": "Where can I see more Himalayan birds near Ramdhura?", "a": "For a richer list, go to Lava, Rishyap and the edge of Neora Valley National Park, about 1.5–2 hours away, where higher forest brings laughingthrushes, sibias and, rarely, the satyr tragopan."}
+     ]},
+    {"slug": "ramdhura-kitchen-garden-and-farm", "title": "Kitchen gardens and farm life in Ramdhura",
+     "kind": "food", "duration": "Half day", "best_time": "Oct–Nov and Mar–Apr", "cost": "Included with homestay · tip welcome",
+     "image_query": "Darjeeling hills kitchen garden squash", "wiki": "",
+     "summary": "Spend a morning in your host family's garden and fields: squash, mustard greens, ginger, chillies, oranges in winter. Then help cook a hill lunch from what you picked.",
+     "body": ["Most homestays in Ramdhura are farming households, and the food on your plate often comes from a few metres away. Ask your hosts to show you the kitchen garden: squash vines on frames, mustard and radish greens, beans, chillies, ginger and turmeric, and fruit trees, with oranges ripening in winter. Some families keep cows and chickens.",
+              "Kalimpong district and Sikkim together grow a large share of India's ginger, and you may see it growing on the terraces. Cardamom grows in shaded patches. Depending on the season, you could help with picking, digging or drying.",
+              "Then join the cooking: dal, rice, a vegetable curry, greens fried with garlic and a pickle. These visits are informal and depend on the family's work that day, so ask kindly. A tip or buying some home-grown ginger, oranges or pickles is a good way to say thank you."],
+     "good_for": ["families", "students", "couples", "solo"],
+     "faqs": [
+       {"q": "Do Ramdhura homestays grow their own food?", "a": "Many do. Most homestay families farm, with kitchen gardens of squash, greens, beans, chillies and ginger, and some fruit trees and livestock. Ask your hosts to show you around; most are happy to."},
+       {"q": "When is orange season near Kalimpong?", "a": "Oranges ripen roughly from November to January in the Kalimpong and Darjeeling hills. You will see them in village gardens, at the haat bazaar and on roadside stalls. They are small, sweet and cheap in season."},
+       {"q": "Can I buy farm produce in Ramdhura?", "a": "Often, yes: ginger, oranges in season, pickles and sometimes cardamom, depending on the family. Ask your hosts rather than picking. Buying a little is a welcome way to support the household."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "How far is Ramdhura from Kalimpong?", "a": "About 15–18 km, a 45-minute to one-hour drive. A reserved car costs about ₹1,200–1,800 one way. There is no regular shared jeep, so most visitors book a car or ask their homestay for a pickup."},
+    {"q": "Is Ramdhura worth visiting?", "a": "Yes, for a quiet village night close to Kalimpong. Ramdhura has a view over the Teesta valley to Kanchenjunga, easy pine walks and welcoming homestays. It suits first-timers, families and seniors who want a village without long drives."},
+    {"q": "What does a Ramdhura homestay cost?", "a": "About ₹1,400–2,000 per person per night with dinner and breakfast. Lunch is extra, around ₹150–250. Rates rise in October, December and on long weekends. Most hosts accept cash or UPI."},
+    {"q": "Ramdhura or Icchey Gaon: where should I stay?", "a": "They are 2.5 km apart and similar. Ramdhura is a little lower and closer to Kalimpong; Icchey Gaon is higher, at about 1,770 m, with a wider view. Many travellers stay one night in each and walk between them."},
+    {"q": "What is the best time to visit Ramdhura?", "a": "October to December for clear dawns and dry weather, and March to May for mild days and spring birds. January and February are cold but clear. From June to September it is wet and misty."},
+    {"q": "Is Ramdhura good for families?", "a": "Yes. It is close to Kalimpong, walks are easy, and homestays are used to families. Choose one with attached bathrooms and hot water. Day trips to Deolo, Durpin and Kalimpong's nurseries keep children busy."},
+    {"q": "How do I get to Ramdhura from NJP?", "a": "By reserved car, about 86 km and 3.5–4 hours via Kalimpong, for ₹4,000–5,500. On a budget, take a shared jeep to Kalimpong and a local car from there. NH10 has had closures since October 2023, so check current status before you travel."},
+    {"q": "What can I do in Ramdhura?", "a": "Watch the dawn over the Teesta valley and Kanchenjunga, walk the ridge to Icchey Gaon, spend a morning in your hosts' garden, go birding, and take day trips to Kalimpong, Deolo, Pedong, Sillery Gaon and Damsang fort."},
+    {"q": "Is Ramdhura near Sillery Gaon?", "a": "Yes, they are in the same cluster of villages north-east of Kalimpong, a short drive apart via Icchey Gaon and Pedong. Many trips combine Ramdhura, Icchey Gaon and Sillery Gaon over three or four nights."}
+  ]
+}

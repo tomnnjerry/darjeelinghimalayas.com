@@ -1,0 +1,76 @@
+{
+  "slug": "north-sikkim-gurudongmar-gentle-climb-3n",
+  "title": "Gurudongmar with a gentler climb",
+  "region": "north-sikkim",
+  "nights": 3,
+  "themes": ["snow-and-passes", "kanchenjunga-views", "photography"],
+  "tier": "Value",
+  "travel_mode": "Mixed",
+  "stops": [{"place": "singhik", "nights": 1}, {"place": "lachen", "nights": 2}],
+  "start": "Gangtok (Vajra stand)",
+  "end": "Gangtok",
+  "price_from_inr": 13000,
+  "cost_split": [
+    {"item": "Shared jeep to Mangan and taxi to Singhik", "inr": 600},
+    {"item": "Reserved car with permits for 3 days, shared by four", "inr": 5500},
+    {"item": "Rooms, 3 nights with dinner and breakfast", "inr": 5700},
+    {"item": "Lunches, tea and snacks", "inr": 500},
+    {"item": "Coat rental, oxygen can, tips", "inr": 700}
+  ],
+  "best_months": [0, 1, 1, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Balanced",
+  "max_altitude_m": 5183,
+  "meta_description": "Gurudongmar in 3 nights from Gangtok: a Singhik night, 2 nights in Lachen, the lake at dawn and Chopta Valley, from ₹13,000 per person in a group of four.",
+  "summary": "For people who want Gurudongmar but not the 3 am shock on the first morning. A shared jeep to Singhik for a Kanchenjunga sunrise, a car to Lachen with an afternoon to settle, then the lake at dawn with Chopta Valley on the way back. About ₹13,000 per person for a group of four. Check current status before you travel.",
+  "intro": [
+    "The usual Gurudongmar tour drives you 6–8 hours from Gangtok to Lachen and wakes you at 3 am to climb another 2,400 m. This trip softens both. Night one is at Singhik, at about 1,560 m, reached cheaply by shared jeep, with a Kanchenjunga sunrise as a bonus. Your reserved car picks you up there and reaches Lachen by early afternoon, so you have time to rest and walk before the lake.",
+    "On the lake day you add Chopta Valley on the way back and return to Lachen to sleep, rather than driving on to Lachung. The trip skips Lachung and Yumthang, which keeps the price and the hours in the car down. It is priced for four people sharing a car, such as two couples or a group of friends. Check current status before you travel."
+  ],
+  "highlights": [
+    "Kanchenjunga and Siniolchu at sunrise from Singhik",
+    "An unhurried afternoon at Lachen Monastery",
+    "Gurudongmar Lake at dawn",
+    "Chopta Valley's meadows or winter ice",
+    "A second night in Lachen instead of a long drive"
+  ],
+  "days": [
+    {"day": 1, "title": "Gangtok to Singhik by shared jeep", "place": "singhik", "overnight": "Singhik", "drive": "≈ 70 km · 3 h by shared jeep and taxi", "text": "Take a shared jeep from Gangtok's Vajra stand to Mangan, about ₹200–300 and 2.5–3 hours, passing Kabi Lungchok and Phodong. Your agent should have your North Sikkim permit ready for the next day; confirm by phone. From Mangan take a taxi 4 km up to Singhik and check in. Walk the Lepcha village in the afternoon and ask about Kongchen Konglo, the Lepcha name for Kanchenjunga. Sleep early for the sunrise.", "meals": "Dinner", "spend": "₹250 jeep + ₹300 taxi + ₹150 lunch"},
+    {"day": 2, "title": "Sunrise, then up to Lachen", "place": "lachen", "overnight": "Lachen", "drive": "≈ 60 km · 3–4 h by reserved car", "text": "Be at the viewpoint 20 minutes before sunrise. After breakfast, your reserved car arrives from Gangtok or Mangan with permits. Drive to Chungthang, stop at the confluence where the Teesta begins, and continue up the Lachen Chu to Lachen at about 2,750 m by early afternoon. Walk slowly up to Lachen Monastery, built in 1858, and look down over the village. Drink 3–4 litres of water today, eat well and skip alcohol.", "meals": "Breakfast, Dinner", "spend": "₹250 lunch + ₹100 donation"},
+    {"day": 3, "title": "Gurudongmar at dawn and Chopta Valley", "place": "gurudongmar", "overnight": "Lachen", "drive": "≈ 140 km return · 8–9 h", "text": "Leave at 3–4 am. Tea at Thangu, then across the plateau as the sky lightens to reach Gurudongmar around 7 am. Spend 20–40 minutes at the sacred lake, walking slowly. On the way back, detour to Chopta Valley for half an hour of meadows or, in winter, frozen river; your permit must include it. Return to Lachen by early afternoon, eat, and sleep in the afternoon. No long drive today, which is the point of this trip.", "meals": "Breakfast, Dinner", "spend": "₹200 tea at Thangu + ₹200 coat rental"},
+    {"day": 4, "title": "Lachen to Gangtok", "place": "lachen", "overnight": "Gangtok (not included)", "drive": "≈ 129 km · 6–8 h by reserved car", "text": "A normal breakfast at a normal hour. Drive down the Lachen valley to Chungthang, then south along the Teesta past Singhik and Mangan, with a lunch stop on the way. If there is time, stop at Phodong Monastery or the Seven Sisters waterfall. Reach Gangtok in the late afternoon or evening. Keep onward travel for the next day; road works around Chungthang can add hours.", "meals": "Breakfast", "spend": "₹250 lunch + ₹200 driver tip share"}
+  ],
+  "stays": ["singhik-tourist-lodge"],
+  "includes": [
+    "Reserved car with driver and North Sikkim permit for days 2–4",
+    "One night in Singhik and two in Lachen, with dinner and breakfast",
+    "Gurudongmar and Chopta Valley visits (subject to permits and roads)"
+  ],
+  "excludes": [
+    "Shared jeep and taxi on day 1 (paid locally)",
+    "Transport between NJP/Bagdogra and Gangtok",
+    "Lunches and snacks",
+    "Driver tips"
+  ],
+  "save_money": [
+    "Fill the car with four people; with two, the per-person price rises by about ₹5,500.",
+    "Take the shared jeep to Singhik instead of starting the car from Gangtok on day 1.",
+    "Use family homestays in Lachen rather than the few larger hotels."
+  ],
+  "good_to_know": [
+    "Arrange the car pickup at Singhik and the permit dates with the Gangtok agent before you leave.",
+    "Foreign nationals cannot join this trip; Gurudongmar is closed to them.",
+    "Children under five and anyone with heart or lung disease should skip the lake.",
+    "Since 2023 the Lachen road has had long closures; check current status before you travel."
+  ],
+  "faqs": [
+    {"q": "Why start at Singhik instead of going straight to Lachen?", "a": "It splits a 6–8 hour drive into two easy days and lets your body rise in steps: about 1,560 m at Singhik, 2,750 m at Lachen, then the lake. You also get a Kanchenjunga sunrise. The shared jeep to Singhik is cheap, which offsets the extra night."},
+    {"q": "Can a Gangtok agent pick me up from Singhik?", "a": "Yes, most registered agents can arrange for your reserved car and permit to meet you in Singhik or Mangan. Agree the time and place in writing, keep the driver's number, and confirm the evening before. A small extra charge may apply."},
+    {"q": "How much does this trip cost for two people?", "a": "With two people sharing the car instead of four, the car cost per person roughly doubles, bringing the total to about ₹18,500–19,000 per person. Joining another couple through the agent, or travelling as friends, makes the trip much cheaper."},
+    {"q": "Is Gurudongmar safer with this itinerary?", "a": "Safer, not safe. Sleeping at Singhik, arriving at Lachen early and returning there after the lake all reduce strain compared with the standard tour. You still climb to about 5,180 m quickly. Watch for symptoms and turn back if anyone is seriously unwell."},
+    {"q": "Why skip Lachung and Yumthang?", "a": "To keep the trip shorter and calmer. Lachung and Yumthang are in the other valley and add at least one night. If you want both valleys, choose our 5-night private circuit, which includes two nights in Lachen and two in Lachung."},
+    {"q": "Is Chopta Valley always included?", "a": "Only if your permit covers it and the road is open. Some agents include Chopta on the Gurudongmar day, others charge extra or cannot add it. Confirm in writing when you book, and accept that snow or army instructions may cancel it on the day."},
+    {"q": "When is the best time for this trip?", "a": "April to May and October to November. In April and May the lake is thawing and days are milder; in October and November the water is deep blue and skies clear. January and February are very cold, with frequent snow closures. Avoid June to August."},
+    {"q": "What should we wear for Gurudongmar?", "a": "Thermal inners, a fleece, a windproof down jacket, warm trousers, a woollen cap, gloves, warm socks and boots, sunglasses and sunscreen. Rent long coats in Lachen if needed. The wind at the lake is below freezing even in May."},
+    {"q": "What if someone gets altitude sickness?", "a": "Go down at once; descent is the treatment. The driver will turn back from the plateau, and Lachen is about 2,400 m lower than the lake. Army medical posts can help in emergencies. Carry basic medicines and ask your doctor about acetazolamide before the trip."}
+  ]
+}

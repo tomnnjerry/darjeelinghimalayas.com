@@ -1,0 +1,10 @@
+{% extends "hills/base.html" %}
+{% block title %}The Hill Post · Darjeeling Himalayas{% endblock %}
+{% block content %}
+<section class="sec"><div class="wrap wrap--narrow">
+  {% if ok %}<p class="eyebrow">Subscribed</p><h1 class="h-1">You are on the Hill Post list</h1><p class="lede" style="margin-top:14px">One email a month. Unsubscribe from any email with one click.</p>
+  <script>window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:"sign_up"});</script>
+  {% else %}<p class="eyebrow">Not quite</p><h1 class="h-1">That email did not work</h1><p class="lede" style="margin-top:14px">Please go back and check the address.</p>{% endif %}
+  <a class="btn btn--ink" href="{% url 'journal' %}" style="margin-top:20px">Read the stories</a>
+</div></section>
+{% endblock %}

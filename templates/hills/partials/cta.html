@@ -1,0 +1,13 @@
+{% load hills %}<section class="sec cta-band dark" data-land="{{ cta_land|default:'darjeeling' }}" aria-labelledby="cta-h">
+  <div class="wrap cta-band__in">
+    <div>
+      <p class="eyebrow">Plan with a local</p>
+      <h2 class="h-1" id="cta-h">Tell us your dates. We send the <span class="hl foil-text">real cost</span></h2>
+      <p class="lede" style="margin-top:18px">Where you want to go, how many of you, and roughly what you want to spend a day. A planner who lives in these hills replies within one working day with a route and every rupee written down.</p>
+      <ul class="ticks" style="margin-top:22px">
+        <li>No payment to start</li><li>Shared jeep or private car, your choice</li><li>Homestays we have slept in</li><li>Change anything, any time before you book</li>
+      </ul>
+    </div>
+    {% include "hills/partials/quick_form.html" with qf_id="cta-band" %}
+  </div>
+</section>

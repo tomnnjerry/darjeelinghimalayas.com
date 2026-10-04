@@ -1,0 +1,172 @@
+{
+  "slug": "srikhola",
+  "name": "Srikhola",
+  "name_local": "",
+  "region": "singalila",
+  "kind": "river town",
+  "wiki": "",
+  "image_query": "Srikhola bridge river Sandakphu trek",
+  "lat": 27.13,
+  "lng": 88.08,
+  "altitude_m": 1900,
+  "tagline": "A riverside lodge stop where the trail meets the road",
+  "meta_description": "Srikhola on the Sandakphu trek: the river village at about 1,900 m below Gurdum, its bridge and lodges, the descent from Sandakphu, costs and jeeps to Rimbik.",
+  "summary": "Srikhola is a small village at about 1,900 m on the banks of the Sri Khola stream, where the Singalila trails from Sandakphu and Rammam come down to the jeep road. A bridge, a few riverside lodges and the sound of water make it the warmest and most relaxed night of the trek, about 2 hours from Rimbik.",
+  "local_story": {
+    "title": "Where the ridge trails come down to the water",
+    "paras": [
+      "Khola means stream or small river in Nepali, and Srikhola takes its name from the Sri Khola, one of the rivers that the Singalila National Park lists among the waters flowing through it. For trekkers, it is the bottom of the descent. Two trails arrive here: the steep drop from Sandakphu through Gurdum, losing about 1,700 m in a day, and the gentler path from Phalut via Gorkhey and Rammam.",
+      "For years Srikhola was a walking stop with the road ending at Rimbik. The jeep road now continues to Srikhola, so this is where many trekkers finish the walking part of the trip. The village itself is small: lodges by the bridge, a few houses and fields on the slopes, prayer flags strung over the water. After days on cold ridges, its warmth and the noise of the river feel like the end of an expedition."
+    ]
+  },
+  "did_you_know": [
+    "Srikhola, at about 1,900 m, is the lowest overnight stop on the Singalila trek, roughly 1,700 m below Sandakphu.",
+    "The steep descent from Sandakphu to Srikhola passes Gurdum, a small village at about 2,300 m, according to Wikipedia's Sandakphu article.",
+    "Khola is the Nepali word for a stream or small river, and appears in many place names across the Darjeeling hills."
+  ],
+  "intro": [
+    "You hear Srikhola before you see it. The trail down from Gurdum or Rammam comes out of the forest above the river, and the roar of the water fills the valley. Then the bridge, the lodges on the bank and a jeep or two parked by the road. After days of thin air and cold nights, the warm valley floor at around 1,900 m is a welcome change.",
+    "Most trekkers coming down from Sandakphu sleep here before walking or driving the last stretch to Rimbik. It is worth it: the lodges by the river are simple and pleasant, dinner tastes better at low altitude, and you can sit by the water in the evening and look back up at the ridge you have walked."
+  ],
+  "facts": [
+    ["Best months", "Oct – Nov · Mar – May"],
+    ["Nights we suggest", "1"],
+    ["From Sandakphu", "≈ 14–16 km · 6–7 h downhill via Gurdum"],
+    ["Altitude", "≈ 1,900 m"],
+    ["Known for", "River, bridge, lodges, end of the trail"],
+    ["Network", "Patchy Indian signal"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1",
+  "costs": [
+    ["Lodge room by the river", "₹1,200–2,500 a room"],
+    ["Dorm or shared bed", "₹400–700 pp"],
+    ["Dinner and breakfast", "₹400–700 pp"],
+    ["Jeep to Rimbik", "≈ ₹50–100 a seat or ₹600–1,000 reserved"],
+    ["Tea", "₹20–40"]
+  ],
+  "highlights": [
+    {"title": "The bridge over the Sri Khola", "text": "A bridge spans the river right by the lodges, hung with prayer flags. Stand on it and watch the water pour down from the Singalila forests. It is the symbolic end of the trek for many walkers."},
+    {"title": "Riverside lodges", "text": "Several family lodges stand by the water. Rooms are simple but more comfortable than on the ridge, hot water is easier to get and the warmer air makes sleep better."},
+    {"title": "The Gurdum descent", "text": "The trail down from Sandakphu via Gurdum drops about 1,700 m through every forest belt, from fir to warm broadleaf. It is a hard, long downhill day, and the river at the bottom is the reward."},
+    {"title": "Warmer valley air", "text": "At around 1,900 m, Srikhola is far warmer than the ridge. In October and November you can sit outside in the evening in a fleece, a pleasure after nights below freezing."},
+    {"title": "The jeep road to Rimbik", "text": "The road reaches Srikhola from Rimbik, about 2 hours on foot or a short jeep ride. From Rimbik, morning jeeps go to Darjeeling, so Srikhola is the practical last night of the trek."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot from Sandakphu", "text": "Descend via Gurdum: about 14–16 km and 6–7 hours, losing roughly 1,700 m. Steep and long; poles are essential. A licensed guide is required."},
+    {"mode": "On foot from Rammam", "text": "About 2.5–3 hours downhill through forest on the longer Phalut route."},
+    {"mode": "Jeep from Rimbik", "text": "A jeep road links Rimbik and Srikhola. Shared jeeps are occasional; a reserved jeep costs roughly ₹600–1,000. Walking takes about 2 hours. Check current status before you travel."}
+  ],
+  "where_to_stay": "Srikhola has a handful of family-run lodges along the river and near the bridge, with twin rooms and dorm beds, shared or attached bathrooms, and home-cooked meals. Expect about ₹1,200–2,500 a room or ₹400–700 per person for a dorm bed, meals extra. It is the most comfortable night since Maneybhanjan. Book through your guide in October and April, when trekkers coming down from Sandakphu fill the beds.",
+  "stays": [],
+  "tips": [
+    "Use poles on the descent from Sandakphu; knees take a beating over 1,700 m.",
+    "Ask for a room facing the river; the sound of water is the best sleeping pill on the trek.",
+    "Confirm next morning's jeep time to Rimbik or Darjeeling the evening you arrive.",
+    "Wash clothes here if you are continuing; they will actually dry.",
+    "Carry leech protection in April, May and late September; the lower forest gets damp."
+  ],
+  "themes": ["treks", "homestays", "photography", "off-season"],
+  "nearby": ["rimbik", "rammam", "sandakphu"],
+  "experiences": [
+    {
+      "slug": "srikhola-descent-from-sandakphu-via-gurdum",
+      "title": "The big descent from Sandakphu via Gurdum",
+      "kind": "trek",
+      "duration": "6–7 hours",
+      "best_time": "Start 7.30 am, Oct–Nov and Mar–May",
+      "cost": "Included in your guide fee",
+      "image_query": "Gurdum Srikhola trail forest",
+      "wiki": "",
+      "summary": "Drop from 3,636 m to about 1,900 m in a single day, from bare summit to warm river valley, through fir, rhododendron, oak and bamboo, passing the small village of Gurdum. The hardest downhill of the trek and the fastest way off the ridge.",
+      "body": [
+        "Leave Sandakphu after breakfast and the morning view. The trail turns east off the summit and plunges steeply into fir and rhododendron forest. The first few hours are the steepest, on rocky and rooty paths, and in spring this upper forest is full of flowers.",
+        "The forest changes as you descend: firs give way to oak, maple and chestnut, then thick bamboo. About two thirds of the way down you reach Gurdum, a small village at about 2,300 m with fields and a few houses, where you can buy tea and rest your legs.",
+        "From Gurdum the trail continues down through forest and farmland to the river. You will be tired, especially in the knees, when you reach the bridge at Srikhola. Take your time, use poles and stop often. Plan your day so you arrive in the afternoon light."
+      ],
+      "good_for": ["students", "solo", "couples"],
+      "faqs": [
+        {"q": "How long is the Sandakphu to Srikhola descent?", "a": "About 14–16 km and 6–7 hours, losing roughly 1,700 m. It is steep and long, mostly downhill on rough paths through forest. Poles and good boots make a big difference."},
+        {"q": "Is Gurdum on the way to Srikhola?", "a": "Yes. Gurdum, a small village at about 2,300 m, is the main stop on the descent from Sandakphu, roughly two thirds of the way down. Tea and simple food are usually available."},
+        {"q": "Is going down to Srikhola easier than returning to Maneybhanjan?", "a": "It is shorter in days but harder on the knees. Returning to Maneybhanjan along the ridge is longer and repeats the route. The Srikhola descent shows new forest and ends near a jeep road."}
+      ]
+    },
+    {
+      "slug": "srikhola-bridge-and-river-evening",
+      "title": "An evening by the river at Srikhola",
+      "kind": "viewpoint",
+      "duration": "1–2 hours",
+      "best_time": "4–6 pm, Oct–Nov and Mar–May",
+      "cost": "Free",
+      "image_query": "Srikhola river bridge prayer flags",
+      "wiki": "",
+      "summary": "Sit by the Sri Khola as the light fades, with prayer flags over the bridge and the river loud below. It is the trek's natural place to stop, stretch, wash and look back up at the forest you came down.",
+      "body": [
+        "After the descent, drop your pack at the lodge and walk to the bridge. The river runs fast and white over boulders, cold even in May. Prayer flags are strung across the water and on the bridge rails, and the forest rises steeply on both banks.",
+        "Find a rock by the bank and sit. Wash your face and feet in the cold water if you like, away from the main channel. Watch for redstarts and wagtails on the stones. As the sun leaves the valley floor, the air cools quickly.",
+        "This is a good time to sort your gear, settle the bill with your lodge and talk to your guide about the morning: walk to Rimbik, or take a jeep, and which departure to catch for Darjeeling."
+      ],
+      "good_for": ["couples", "solo", "photographers", "families"],
+      "faqs": [
+        {"q": "Is it safe to bathe in the Sri Khola river?", "a": "Only at the edges in calm water, and briefly; the river is cold and fast. Never swim in the main channel. After rain, stay away from the bank, as the water rises quickly."},
+        {"q": "Can I photograph the bridge at Srikhola?", "a": "Yes. The bridge with its prayer flags and the river below is a classic trek photograph. Late afternoon light is soft, though the valley falls into shade early."},
+        {"q": "Is Srikhola warm in the evening?", "a": "Warmer than anywhere on the ridge. In October and November evenings are around 8–14 °C; in winter they can drop to near freezing. A fleece and jacket are usually enough."}
+      ]
+    },
+    {
+      "slug": "srikhola-riverside-lodge-dinner",
+      "title": "A low-altitude feast at a riverside lodge",
+      "kind": "food",
+      "duration": "1.5 hours",
+      "best_time": "6.30–8 pm",
+      "cost": "₹250–450 a meal",
+      "image_query": "Darjeeling hills lodge dinner thukpa momo",
+      "wiki": "Momo (food)",
+      "summary": "Back below 2,000 m, appetite returns. Order the big dinner at a Srikhola lodge: dal-bhat with extra vegetables, momos if the kitchen makes them, perhaps chicken, and a hot drink by the stove.",
+      "body": [
+        "Something happens to appetite at lower altitude. After days of eating out of habit on the ridge, at Srikhola you will actually be hungry. Lodges here have a better supply line from Rimbik, so menus can be a little longer: dal-bhat, fried rice, noodles, momos if ordered early, and sometimes chicken.",
+        "Order early, sit near the stove and swap trek stories with other groups. Ask about local vegetables and pickles; at this altitude more grows, from squash and beans to greens. A hot lemon or ginger tea finishes it well.",
+        "If you have finished the hard part of the trek, this is the night to celebrate, within reason. Settle the bill before bed and, if you are taking an early jeep, ask for breakfast at a time that suits it."
+      ],
+      "good_for": ["students", "solo", "couples", "families"],
+      "faqs": [
+        {"q": "What food is available in Srikhola?", "a": "Dal-bhat, noodles, fried rice, eggs and often momos or chicken if ordered early. Menus are slightly longer than on the ridge because supplies come up by jeep from Rimbik."},
+        {"q": "Is Srikhola cheaper than Sandakphu for food?", "a": "Yes, somewhat. A dal-bhat dinner costs about ₹250–350, compared with ₹300–400 at Sandakphu. Prices are indicative and paid in cash."},
+        {"q": "Can I get alcohol in Srikhola?", "a": "Some lodges sell beer or local spirits. If your trek is finished, a drink is fine; if you are climbing back up the next day, skip it. Drink water too."}
+      ]
+    },
+    {
+      "slug": "srikhola-river-valley-birding",
+      "title": "Birding the Sri Khola valley at dawn",
+      "kind": "wildlife",
+      "duration": "1.5 hours",
+      "best_time": "6–7.30 am, Mar–May and Oct–Nov",
+      "cost": "Included in your guide fee",
+      "image_query": "plumbeous water redstart river Himalaya",
+      "wiki": "",
+      "summary": "At about 1,900 m Srikhola lies in warm broadleaf forest beside a fast river, a different bird world from the ridge. Walk the bank and the road toward Rimbik at dawn for river specialists and colourful forest birds.",
+      "body": [
+        "Start at the bridge at first light. On the rocks, look for plumbeous and white-capped redstarts, forktails and grey wagtails; brown dippers sometimes dive in the faster water. Kingfishers occasionally pass along the river.",
+        "Then walk slowly along the road toward Rimbik, where forest edges and fields alternate. Minivets, bulbuls, barbets, sunbirds and drongos are active in the early morning, and in spring cuckoos call from the slopes. The road is quiet at dawn before the first jeeps.",
+        "An hour and a half is enough before breakfast. Combine this with the walk to Rimbik if you are going on foot; you will see more birds walking than in a jeep."
+      ],
+      "good_for": ["photographers", "seniors", "solo"],
+      "faqs": [
+        {"q": "What birds can I see at Srikhola?", "a": "River birds such as redstarts, forktails, wagtails and dippers, plus forest birds like minivets, barbets, bulbuls, sunbirds and drongos. The mix differs from the high ridge, so it adds variety to a trek list."},
+        {"q": "Is walking from Srikhola to Rimbik good for birds?", "a": "Yes, especially early in the morning. The road passes forest, fields and streams, with good chances of mid-altitude birds. It takes about 2 hours on foot; go slowly with binoculars."},
+        {"q": "When is the best time for birding at Srikhola?", "a": "Early mornings from March to May for song and breeding birds, and October to November for clear weather. Dawn to about 8 am is the most active period."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Srikhola?", "a": "Srikhola is a river village at about 1,900 m below the Singalila Ridge, in Darjeeling district. Trails from Sandakphu (via Gurdum) and from Phalut (via Rammam) come down here, and a jeep road links it to Rimbik."},
+    {"q": "How far is Srikhola from Rimbik?", "a": "About 6–7 km by road, roughly 2 hours on foot or a short jeep ride. From Rimbik, shared jeeps run to Darjeeling, mostly in the morning."},
+    {"q": "Where can I stay in Srikhola?", "a": "In a handful of family-run lodges by the river and the bridge, with twin rooms and dorm beds. Rooms cost about ₹1,200–2,500, dorm beds ₹400–700 per person, meals extra. Book via your guide in peak season."},
+    {"q": "Is Srikhola worth a night?", "a": "Yes. It is the warmest and most relaxed night of the trek, by the river, and breaks the long descent from Sandakphu before the jeep journey to Darjeeling."},
+    {"q": "Can I start the Sandakphu trek from Srikhola?", "a": "Yes, by climbing via Gurdum to Sandakphu, but it is a very steep ascent of about 1,700 m in a day. Most trekkers use it as the descent. You still need a guide and park entry arranged in advance."},
+    {"q": "Is there mobile network in Srikhola?", "a": "Patchy Indian network in parts of the village. Coverage is better at Rimbik. Expect to reconnect fully once you are on the jeep road."},
+    {"q": "Can I get a jeep from Srikhola to Darjeeling?", "a": "Occasionally there are direct jeeps; more often you go to Rimbik first and take a morning shared jeep to Darjeeling. A reserved jeep from Srikhola is possible but costs more. Check current status before you travel."},
+    {"q": "What is the weather like in Srikhola?", "a": "Mild: about 8–18 °C in October and November, cooler in winter and warm in spring. It is damp in the monsoon, and leeches can appear in the lower forest in April, May and September."},
+    {"q": "Are there leeches at Srikhola?", "a": "In damp months, yes: late April, May and from mid-September after the monsoon. Wear long trousers tucked into socks and carry salt. In October to March leeches are rare."}
+  ]
+}

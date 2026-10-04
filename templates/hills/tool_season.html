@@ -1,0 +1,14 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Season finder: where to go in the Darjeeling and Sikkim hills this month · Darjeeling Himalayas{% endblock %}
+{% block content %}
+<header class="phead phead--plain"><div class="wrap phead__in" style="padding-top:20px"><div class="phead__body" style="margin-top:0">
+  <p class="eyebrow">Season finder</p><h1 class="h-1">Where is it good this month?</h1>
+  <p class="lede">Pick a month and, if you like, a hill. Places at their best come first.</p>
+</div></div></header>
+<section class="sec--tight"><div class="wrap" data-season>
+  <div class="filters"><select name="month" aria-label="Month">{% for m in months %}<option value="{{ forloop.counter0 }}"{% if forloop.counter0 == now %} selected{% endif %}>{{ m }}</option>{% endfor %}</select>
+  <select name="sland" aria-label="Hill"><option value="">Every hill</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.short }}</option>{% endfor %}</select></div>
+  <div class="grid grid--3" data-season-out></div>
+  <script type="application/json" id="season-data">{{ data|safe }}</script>
+</div></section>
+{% endblock %}

@@ -1,0 +1,69 @@
+{
+  "slug": "darjeeling-honeymoon-takdah-tinchuley-5n",
+  "title": "Darjeeling, Takdah and Tinchuley for two",
+  "region": "darjeeling",
+  "nights": 5,
+  "themes": ["budget-honeymoons", "tea-country", "homestays", "kanchenjunga-views"],
+  "tier": "Comfort",
+  "travel_mode": "Reserved car",
+  "stops": [{"place": "darjeeling", "nights": 2}, {"place": "takdah", "nights": 2}, {"place": "tinchuley", "nights": 1}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 30000,
+  "cost_split": [
+    {"item": "Reserved car for every leg, Tiger Hill and the village days", "inr": 8000},
+    {"item": "Darjeeling hotel, 2 nights in a room with a view, breakfast", "inr": 5000},
+    {"item": "Takdah heritage bungalow homestay (2 nights) and Tinchuley homestay (1 night), with meals", "inr": 9500},
+    {"item": "Steam joyride and Tiger Hill fees", "inr": 2000},
+    {"item": "Lunches, dinners in town and tea", "inr": 5500}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2567,
+  "meta_description": "A 5-night Darjeeling honeymoon from ₹30,000 per person: Tiger Hill, the steam train, two nights in an old Takdah army bungalow and a Tinchuley sunrise.",
+  "summary": "A honeymoon that moves little and looks a lot. Two nights in Darjeeling with a mountain-facing room, Tiger Hill and the steam train, two nights in one of Takdah's old army bungalows among the orchids and tea, and a last night in Tinchuley above the Teesta valley. About ₹30,000 per person, twin sharing.",
+  "intro": [
+    "Takdah was a British army cantonment in the early 1900s, and the officers' bungalows built along its ridge still stand among the forest and tea. Some are now heritage homestays, with wooden floors, fireplaces and gardens, and they are why this trip exists: a room with a past, for about the price of an ordinary hotel. Close by is the government orchid centre, best from February to April, and Rungli Rungliot tea garden, whose name, the local story says, means thus far and no further.",
+    "Three kilometres away, Tinchuley takes its name, people say, from three hilltops shaped like clay ovens, and its Gumbadara viewpoint looks at Kanchenjunga and down into the Teesta valley. We start in Darjeeling, where we pay for a better room with a view, and keep one car with you throughout so you never wait for a jeep. Two nights in each of the first two places leaves time to do nothing, which is the point of a honeymoon."
+  ],
+  "highlights": [
+    "A mountain-facing room in Darjeeling and Tiger Hill at dawn",
+    "The steam joyride round the Batasia Loop to Ghoom",
+    "Two nights in an early-1900s Takdah army bungalow",
+    "Takdah's orchid centre and the Rungli Rungliot tea slopes",
+    "Sunrise at Tinchuley's Gumbadara viewpoint"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Darjeeling", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 70 km · 3 h by reserved car", "text": "Your car meets you at NJP or Bagdogra for the climb up the Hill Cart Road through Kurseong and Ghoom. Check in to a hotel near the Mall and ask for a north-facing room: on a clear morning you will wake to Kanchenjunga, 8,586 m, filling the window. Walk to Chowrasta at dusk, then along the Mall loop, and finish with dinner in town. The name Darjeeling is usually traced to dorje-ling, the place of the thunderbolt; the hill above you holds the shrine.", "meals": "Dinner", "spend": "₹1,750 car share + ₹1,000 dinner for two"},
+    {"day": 2, "title": "Tiger Hill and the steam train", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 30 km round trip by car · leaves about 4 am", "text": "Take your car to Tiger Hill, 2,567 m, at about 4 am for the dawn over Kanchenjunga, and come back past Ghoom monastery and the Batasia Loop. Sleep after breakfast. In the afternoon ride the steam joyride, roughly ₹1,500–1,800 on IRCTC: the engine works hard round the Batasia Loop, built in 1919, then climbs to Ghoom, the highest station on the line. End the day with tea at Glenary's on Nehru Road and a walk up Observatory Hill.", "meals": "Breakfast, dinner", "spend": "₹1,500–1,800 joyride + Tiger Hill fees"},
+    {"day": 3, "title": "Lamahatta and on to Takdah", "place": "takdah", "overnight": "Takdah", "drive": "≈ 30 km · 1.5–2 h by reserved car with a Lamahatta stop", "text": "Leave Darjeeling by the Peshok road from Ghoom and stop at Lamahatta, at about 1,740 m, for an hour among the tall dhupi trees and prayer flags of its eco-park; the uphill trail to its small lake takes 30–45 minutes if you feel like it. Continue to Takdah and check in to a heritage bungalow homestay, one of the officers' houses from the early-1900s cantonment. Ask for a fire in the evening. Dinner will be home-cooked and served in the old dining room.", "meals": "Breakfast, dinner", "spend": "₹1,500 car share + ₹50–100 Lamahatta entry"},
+    {"day": 4, "title": "Orchids, tea and the old cantonment", "place": "takdah", "overnight": "Takdah", "drive": "", "text": "Walk to the government orchid centre after breakfast; from February to April the nursery is in flower. Follow the ridge road past the other cantonment bungalows, then down among the tea of Rungli Rungliot, whose name, the local story says, means thus far and no further, and Gielle tea estate nearby. Takdah is quiet enough that you hear the forest. Take a picnic lunch from your hosts, read on the lawn in the afternoon, and walk again when the evening light falls on the hills.", "meals": "Breakfast, lunch, dinner", "spend": "Small orchid centre fee + tips"},
+    {"day": 5, "title": "To Tinchuley for the sunset", "place": "tinchuley", "overnight": "Tinchuley", "drive": "≈ 3 km · 15 minutes by car", "text": "A short move: Tinchuley is only about 3 km away, at about 1,770 m. Check in to a homestay with a room facing the valley, then wander through orange orchards, heavy with fruit in early winter, and past the small village monastery. In the late afternoon walk up to the Gumbadara viewpoint, which looks at Kanchenjunga and down into the Teesta valley, and stay for the light. Ask your hosts to explain the name: three hilltops like chulha, the clay ovens of a village kitchen.", "meals": "Breakfast, dinner", "spend": "₹250 car + ₹2,500 homestay with meals"},
+    {"day": 6, "title": "Gumbadara dawn and down to NJP", "place": "tinchuley", "overnight": "", "drive": "≈ 85 km · 3.5–4 h by reserved car via Peshok and Teesta, or via Ghoom", "text": "Go back up to Gumbadara for sunrise if the sky is clear, then leave after breakfast. The shorter route drops past Peshok tea estate, where you can stop at the Lovers' Meet viewpoint over the meeting of the Teesta and Rangeet, then follows the river south to Sevoke and Siliguri. Teesta valley roads have had long closures since the October 2023 flood, so check current status before you travel; if they are shut, your driver will return via Ghoom and the Hill Cart Road.", "meals": "Breakfast", "spend": "₹2,250 car share + ₹500 lunch for two"}
+  ],
+  "stays": ["darjeeling-dekeling-hotel"],
+  "includes": ["Reserved car for all legs, Tiger Hill and the village days", "Darjeeling hotel, 2 nights in a room with a view and breakfast", "Takdah heritage bungalow homestay with meals, 2 nights", "Tinchuley homestay with dinner and breakfast, 1 night", "Steam joyride and Tiger Hill fees"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Room heaters or fires charged extra by some hosts", "Ropeway and other Darjeeling sights", "Gifts and shopping", "Tips"],
+  "save_money": [
+    "Pay for the view in Darjeeling only, where it matters at dawn; in Takdah and Tinchuley the whole village has the view and every room shares it.",
+    "Travel in late February or March: orchids are in flower, mornings are often clear and rooms cost less than in October and November.",
+    "Keep the same car and driver for the whole trip; one booking costs less than separate transfers and saves the waiting."
+  ],
+  "good_to_know": [
+    "Heritage bungalow homestays at Takdah are old houses: expect creaky floors, cool rooms and limited power backup.",
+    "Teesta valley roads have had long closures since October 2023: check current status before you travel.",
+    "Toy train joyrides change with season and track work; book on IRCTC and check current status before you travel.",
+    "Mobile signal is patchy in Takdah and Tinchuley; tell family you may be out of reach for a day or two."
+  ],
+  "faqs": [
+    {"q": "Is Takdah good for a honeymoon?", "a": "Yes, if you want quiet. Takdah has old army bungalows from the early-1900s cantonment, some now heritage homestays, set among forest, tea and orchids. There is little to do except walk, read and eat, which is why couples like it. Combine it with Darjeeling for the town and Tinchuley for the view, as this trip does."},
+    {"q": "How much does this honeymoon cost?", "a": "About ₹30,000 per person, twin sharing, so about ₹60,000 for a couple, from NJP back to NJP, indicative for 2025–26. That covers a reserved car throughout, a Darjeeling room with a view, two nights in a Takdah heritage bungalow and one in Tinchuley with meals, the steam joyride, Tiger Hill fees and meals."},
+    {"q": "Which month is best for a hill honeymoon here?", "a": "October to early December gives the clearest views, with cold nights. February to April brings orchids at Takdah, warmer days and fewer crowds. January is cold but often clear. Avoid June to September if you want views: it rains most days and the roads to the Teesta suffer landslides."},
+    {"q": "Are the Takdah bungalows comfortable?", "a": "They are comfortable in an old-house way: large rooms, wooden floors, fireplaces in some, and gardens. They are not hotels, so hot water hours, heating and power backup vary. Ask about each before you book, especially in winter. Meals are home-cooked and usually included."},
+    {"q": "Can we see Kanchenjunga on this trip?", "a": "On clear mornings, several times: from your Darjeeling room or Chowrasta, from Tiger Hill at dawn, and from Tinchuley's Gumbadara viewpoint. Lamahatta shows it too. Views are most reliable from October to early December and in March and April, usually before 9 am."},
+    {"q": "Is Tiger Hill too crowded for a couple?", "a": "It can be, in October, late December and the May–June holidays. Go on a weekday if you can, stand at the open edge rather than in the pavilion, and leave a few minutes after sunrise, when most cars rush back. Vehicle passes and limits apply in busy months; check current status before you travel."},
+    {"q": "What is there to do in Tinchuley?", "a": "Walk. The Gumbadara viewpoint gives sunrise and sunset over Kanchenjunga and the Teesta valley, the orange orchards are heavy with fruit in early winter, a small monastery sits in the village, and paths lead to Takdah and down towards the valley. Most couples find one or two nights enough."},
+    {"q": "Can we add Peshok or Mungpoo?", "a": "Peshok is on the way down: the Lovers' Meet viewpoint over the Teesta and Rangeet confluence makes a good stop on the last morning, or a night if you add one. Mungpoo, where Tagore stayed, is a longer detour and fits better on its own trip. Keep the drives short; that is the point of a honeymoon."},
+    {"q": "Do we need to book in advance?", "a": "Yes, especially for the Takdah bungalows, which have few rooms, and for Darjeeling in October, the Puja holidays and May. Book the steam joyride on IRCTC as soon as it opens. Confirm meals, hot water and heating with each host, and share your arrival time so they can meet the car."}
+  ]
+}

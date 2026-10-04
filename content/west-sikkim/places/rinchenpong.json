@@ -1,0 +1,175 @@
+{
+  "slug": "rinchenpong",
+  "name": "Rinchenpong",
+  "name_local": "",
+  "region": "west-sikkim",
+  "kind": "village",
+  "wiki": "Rinchenpong",
+  "image_query": "Rinchenpong Monastery West Sikkim",
+  "lat": 27.237,
+  "lng": 88.267,
+  "altitude_m": 1700,
+  "tagline": "A 1730 monastery, a poisoned-pond story and Kanchenjunga at dawn",
+  "meta_description": "Rinchenpong, West Sikkim: the 1730 monastery and its Adi Buddha, the poison-lake story, heritage farmstay, costs, jeeps from Siliguri and when to go.",
+  "summary": "Rinchenpong is a ridge village of about 1,700 m in Sikkim's Soreng district, roughly 40 km and two hours from Pelling. Come for the 1730 monastery with its rare Adi Buddha image, the poison-lake story from the British campaign of 1860, a heritage farmstay and clear Kanchenjunga mornings from October to April.",
+  "local_story": {
+    "title": "A monastery, a retreat and a poisoned pond",
+    "paras": [
+      "Long before Sikkim had kings, these slopes belonged to Lepcha and Limboo families who cleared small fields in the forest and hunted along the ridges. After 1642, when Phuntsog Namgyal was consecrated the first Chogyal at Yuksom, the west of Sikkim became the heart of the new Buddhist kingdom, and monasteries rose on hilltops from Dubdi to Pemayangtse. Rinchenpong's own gompa followed in 1730. Its treasure is a statue of Adi Buddha, Kuntuzangpo, shown in yab-yum, the union of male and female, an image rarely displayed in Sikkim. Rinchen is the Tibetan word for precious.",
+      "The village also sits in the record of Sikkim's quarrel with British India. In 1849 Archibald Campbell, the superintendent of Darjeeling, and the botanist Joseph Hooker were seized and held by officials of the Sikkim court, and the British annexed the Sikkim Terai the next year. In late 1860 Campbell crossed into Sikkim with a small force and got as far as Rinchenpong before he was attacked and pushed back towards Darjeeling. A larger expedition in early 1861, with the envoy Ashley Eden, marched on the capital at Tumlong, and the Treaty of Tumlong that year opened Sikkim to British trade and roads.",
+      "Here history gives way to folklore. The local story is that during the campaign Lepcha fighters poisoned a pond on the ridge, and British soldiers who drank from it fell sick and had to fall back. People still point out the spot, called Bishey Pokhari, the poison lake. No British account we know of confirms the poisoning, so treat it as a village tale told with pride. Locally it is also said that Rabindranath Tagore once stayed at Rinchenpong, and a small park carries the name Rabindra Smriti Van. We have found no firm record of that visit either."
+    ]
+  },
+  "did_you_know": [
+    "Rinchenpong Monastery, built in 1730, keeps a statue of Adi Buddha (Kuntuzangpo) in yab-yum, the union of male and female, a form rarely displayed in Sikkim's monasteries.",
+    "In late 1860 a small British force under Archibald Campbell reached Rinchenpong before being driven back; a larger expedition the next year led to the Treaty of Tumlong in 1861.",
+    "Rinchenpong became part of the new Soreng district when it was carved out of the old West Sikkim district in 2021."
+  ],
+  "intro": [
+    "We send people to Rinchenpong when they want Pelling's mountain views without Pelling's hotel blocks. The village is spread along a forested ridge at about 1,700 m, with the monastery on the upper slope and terraces of maize, ginger and cardamom falling away below. On a clear morning between October and April the Kanchenjunga range fills the northern skyline. There is little to do in the sightseeing sense, and that is the point: walk to the gompa, find the poison lake, sit on a farmhouse step with tea and watch the light move across the snow.",
+    "Rinchenpong and Kaluk are neighbours a few kilometres apart, and travellers often mix them up. Our rule of thumb: stay in Kaluk if you want a choice of homestays and an orchard village to wander; come up to Rinchenpong for the monastery, the 1860 history and the heritage farm. Either makes a quiet two-night stop between Pelling and Darjeeling, reached through Jorethang. Indians need no permit. Foreign nationals need the Sikkim Restricted Area Permit, as for most of the state, so check current status before you travel."
+  ],
+  "facts": [
+    ["Best months", "Oct – Dec · Mar – Apr"],
+    ["Nights we suggest", "2"],
+    ["From Siliguri", "≈ 125 km · 5 h via Jorethang"],
+    ["Altitude", "about 1,700 m"],
+    ["Known for", "1730 monastery, poison-lake story, heritage farm"],
+    ["Network", "Patchy; ask your host which network works best"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "2",
+  "costs": [
+    ["Shared jeep Siliguri–Jorethang", "₹250–350 a seat"],
+    ["Shared jeep Jorethang–Kaluk/Rinchenpong", "about ₹150–200 a seat (check)"],
+    ["Reserved car from Pelling", "₹2,500–3,500 one way (indicative)"],
+    ["Village homestay with dinner and breakfast", "₹1,500–2,500 pp"],
+    ["Monastery visit", "Free · donation welcome"],
+    ["Thali / momos and tea", "₹150–250 / ₹80–150"]
+  ],
+  "highlights": [
+    {"title": "Rinchenpong Monastery", "text": "Built in 1730, less than a century after the first Chogyal was crowned at Yuksom. Ask to see the statue of Adi Buddha, Kuntuzangpo, in yab-yum, a form of the primordial Buddha that few Sikkim monasteries put on display. Mornings are best, when a monk or caretaker is usually about."},
+    {"title": "Bishey Pokhari, the poison lake", "text": "A small pond on the ridge tied to a local story from the British campaign of 1860–61: villagers say Lepcha fighters poisoned it and the soldiers who drank fell sick. It is folklore, not recorded history, but it is the story everyone here will tell you."},
+    {"title": "Kanchenjunga from the ridge", "text": "From the upper village the Kanchenjunga range stretches across the north. Clear dawns are most reliable from mid-October to December and again in March and early April. By 9 or 10 am cloud often rises from the valleys, so set an alarm for about 5.30 am."},
+    {"title": "Yangsum Heritage Farm", "text": "A family-run farmstay in an old farmhouse among its own terraced fields. It costs more than a plain homestay, but you eat from the farm, walk the fields with the family and get a slow, rooted sense of how a Sikkim farming household lives."},
+    {"title": "Rabindra Smriti Van", "text": "A small park named for the local belief that Rabindranath Tagore once stayed at Rinchenpong. We have found no firm record of the visit, but the walk there along the ridge, past farm terraces and prayer flags, is pleasant in its own right."},
+    {"title": "Footpaths down to Kaluk", "text": "Kaluk, the homestay village below, is a few kilometres away. Farmers' paths and the road connect the two, so you can stay in one and walk to the other, stopping at orange trees, cardamom plots and the occasional roadside tea shop."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Take a shared jeep from Siliguri to Jorethang (about 3 h, ₹250–350 a seat), then one of the fewer jeeps that run on to Kaluk and Rinchenpong (about 1.5–2 h, roughly ₹150–200). The onward jeeps leave mostly in the morning and early afternoon, so leave Siliguri by 8 am. Ask at the Siliguri stands the evening before about any direct service."},
+    {"mode": "Reserved car", "text": "A small car from NJP or Bagdogra costs about ₹5,000–6,500 and takes 5–6 hours via Melli and Jorethang. From Pelling it is about 40 km and two hours, roughly ₹2,500–3,500 one way. Fares are indicative; agree the price before you set off."},
+    {"mode": "From Darjeeling", "text": "Shared jeeps run from Darjeeling down to Jorethang (about 2.5 h, check the fare at the stand), where you change for Kaluk and Rinchenpong. A reserved car from Darjeeling takes 4–5 hours. Hill roads here can be cut by landslides in the monsoon, so check current status before you travel."}
+  ],
+  "where_to_stay": "Rinchenpong has a handful of family homestays and the Yangsum Heritage Farm, a family-run farmstay in an old farmhouse set among its fields, which we describe separately. Most of the homestays in this pocket are in Kaluk, a short drive below, so if Rinchenpong is full, stay there and walk up. Expect simple rooms, hot water by bucket on cold mornings and dinner and breakfast included, at roughly ₹1,500–2,500 per person. Book ahead for October, November and the Durga Puja and Diwali weeks, when families from Kolkata and Siliguri fill the village.",
+  "stays": ["rinchenpong-yangsum-heritage-farm"],
+  "tips": [
+    "Reach the monastery before 9 am, when the light is soft and a monk or caretaker is most likely to be there to open the main hall.",
+    "Draw cash in Siliguri or Jorethang, because ATMs in these villages are few and can run dry.",
+    "Pack a fleece even in April, since ridge mornings at 1,700 m can drop below 10 °C.",
+    "Ask before photographing inside the gompa; photography in the main shrine is often not allowed.",
+    "Treat Rinchenpong and Kaluk as one stop, staying in one and walking to the other, rather than two separate trips."
+  ],
+  "themes": ["monasteries", "homestays", "kanchenjunga-views", "long-weekends", "family-trips"],
+  "nearby": ["kaluk", "pelling", "barsey"],
+  "experiences": [
+    {
+      "slug": "rinchenpong-monastery-adi-buddha",
+      "title": "Rinchenpong Monastery and its Adi Buddha",
+      "kind": "monastery",
+      "duration": "1–1.5 hours",
+      "best_time": "7–10 am, Oct–May",
+      "cost": "Free · donation welcome",
+      "image_query": "Rinchenpong Monastery Sikkim",
+      "wiki": "",
+      "summary": "Walk up to Rinchenpong's 1730 gompa, one of the older monasteries of West Sikkim, to see its rare statue of Adi Buddha in yab-yum, sit quietly through the morning lamps if monks are present, and look north to Kanchenjunga from the monastery ground.",
+      "body": [
+        "The gompa was built in 1730, less than a century after the first Chogyal was crowned at Yuksom, in the decades when Sikkim's rulers and lamas were founding monasteries across the west of the kingdom. It is modest beside Pemayangtse or Tashiding, and it is best treated as a working village monastery rather than a museum. Monks and caretakers come and go, prayer flags are strung through the trees, and on some days the main hall stays shut until someone arrives with the key. Mornings give you the best chance of finding it open.",
+        "The reason to come is the statue of Adi Buddha, known in Tibetan as Kuntuzangpo and in Sanskrit as Samantabhadra, the primordial Buddha of the Nyingma tradition. Here he is shown in yab-yum, joined with his consort, a picture of wisdom and compassion as one. Such images are rarely displayed in Sikkim's monasteries, and many visitors walk past without noticing what they are looking at. Ask the caretaker to point it out, keep your voice low, walk clockwise and do not point your feet towards the altar.",
+        "Remove your shoes before you enter and leave a small donation in the box; ₹20–100 is usual. Photography inside the shrine is often not allowed, so ask first and accept a no. Give yourself time outside as well: on a clear morning from October to April the Kanchenjunga range spreads across the northern sky from the monastery ground. Pair the visit with the short walk to Bishey Pokhari, the poison lake, which your host can direct you to, and you have a gentle half-day."
+      ],
+      "good_for": ["couples", "solo", "seniors", "photographers"],
+      "faqs": [
+        {"q": "Is there an entry fee at Rinchenpong Monastery?", "a": "We know of no fixed entry fee; a donation of ₹20–100 in the box is customary. The main hall is sometimes locked when no monk or caretaker is present, so come in the morning and ask in the village if the door is shut. Remove your shoes, walk clockwise and ask before taking any photograph inside."},
+        {"q": "What is special about the Adi Buddha statue?", "a": "It shows Adi Buddha, called Kuntuzangpo in Tibetan, the primordial Buddha of the Nyingma school, in yab-yum, joined with his female consort. The pairing stands for wisdom and compassion united. Few monasteries in Sikkim display this form openly, which is why Rinchenpong's 1730 gompa is worth the climb even if you have already seen Pemayangtse."},
+        {"q": "Can we visit the monastery during the monsoon?", "a": "Yes, the monastery is open through the year, but June to August brings heavy rain, leeches on forest paths and cloud that hides the mountains. Roads between Jorethang, Kaluk and Rinchenpong can be cut by landslides in the monsoon, so check current status before you travel and keep a spare day in your plan."}
+      ]
+    },
+    {
+      "slug": "rinchenpong-poison-lake-walk",
+      "title": "The poison lake and the 1860 campaign",
+      "kind": "culture",
+      "duration": "1 hour",
+      "best_time": "Morning or late afternoon, Oct–May",
+      "cost": "Free",
+      "image_query": "Rinchenpong village West Sikkim",
+      "wiki": "",
+      "summary": "A short walk to Bishey Pokhari, the poison lake, where villagers say Lepcha fighters poisoned the water during the British campaign of 1860–61. The poisoning is folklore; the campaign is history. We explain which is which, and why the spot still matters to people here.",
+      "body": [
+        "Start with the history, which is solid. In 1849 Archibald Campbell, the British superintendent of Darjeeling, and the botanist Joseph Hooker were seized and held by officials of the Sikkim court while travelling in the kingdom. Britain answered by annexing the Sikkim Terai in 1850. Ten years later, in late 1860, Campbell crossed into Sikkim with a small force, reached Rinchenpong, and was attacked and forced back. A larger expedition in 1861, with the envoy Ashley Eden, went on to the capital at Tumlong and imposed the Treaty of Tumlong.",
+        "Now the folklore. The local story is that while the British were camped on this ridge, Lepcha fighters poisoned the pond they drew water from, and the soldiers who drank fell ill, which is why the force had to turn back. Nepali speakers call the place Bishey Pokhari, from bish, poison, and pokhari, pond. No British record we know of mentions a poisoning, and retreats have many causes, so we tell it as a village tale. It matters because it casts the Lepcha, Sikkim's oldest people, as defenders of their land.",
+        "Pokhari means pond or small lake, and that is what you find: a small body of water by the forest, not a scenic lake. Ask your host for directions or for a child of the house to walk you there, since signs are few. The paths can be muddy and full of leeches between June and September, so go in the dry months and wear shoes with grip. Do not drink or wash in the water, out of respect as much as caution."
+      ],
+      "good_for": ["families", "students", "solo", "first-timers"],
+      "faqs": [
+        {"q": "Is the poison lake story true?", "a": "The British campaign is documented: Campbell reached Rinchenpong in late 1860 and was forced back, and the Treaty of Tumlong followed in 1861. The poisoning is a local story with no confirmation we know of in British accounts. We present it as folklore that Rinchenpong people tell with pride, not as established history."},
+        {"q": "Is the water still poisonous?", "a": "There is no evidence that it is poisonous today, but you should not drink untreated water from any pond or stream in the hills. Villagers treat the spot with some respect, so do not wash, swim or throw anything into it. Look, listen to the story, and walk on to the monastery."},
+        {"q": "How do we find Bishey Pokhari?", "a": "Signs are few, so ask your homestay host or someone in the village to point the way or walk with you. It is a short walk on the ridge, under an hour there and back for most people. Wear shoes with grip, and avoid the monsoon months when paths turn muddy and leeches are common."}
+      ]
+    },
+    {
+      "slug": "rinchenpong-yangsum-heritage-farm",
+      "title": "A slow stay at Yangsum Heritage Farm",
+      "kind": "food",
+      "duration": "1–2 nights",
+      "best_time": "Oct–May",
+      "cost": "Farmstay rates vary; ask when booking",
+      "image_query": "Yangsum Heritage Farm Rinchenpong",
+      "wiki": "",
+      "summary": "Stay on a working family farm at Rinchenpong, in an old farmhouse among terraced fields, eat dinners built from what the farm and village grow, and walk the fields with the family. It costs more than a village homestay but gives you the slowest, most rooted version of the place.",
+      "body": [
+        "Yangsum Heritage Farm is a family-run farmstay at Rinchenpong, built around an old farmhouse and the fields the family still works. It is not a hotel with a farm theme. Days follow the farm calendar: planting in spring, the monsoon's green rush, harvests in autumn. Guests are welcome to walk the terraces, ask questions and watch the work, and on most stays the conversation over dinner is half the value. We list it among our stays because it is long-running and well regarded, but book directly and confirm what is included.",
+        "Food in a Sikkim farm kitchen follows the season and the family's choices, so treat this as a guide rather than a menu. You may meet gundruk, the fermented and dried leafy greens; sisnu, a soup of stinging nettle; ningro fern tips; soft churpi cheese in a chilli relish; local rice, maize and finger millet; and dalle khursani, the small round chilli that is hotter than it looks. Sikkim has been a fully organic state since 2016, so the vegetables are grown without chemical fertilisers or pesticides.",
+        "Book well ahead for October, November and the spring weeks, and ask the farm how to reach it from Kaluk or the Rinchenpong road. Expect to pay more than the ₹1,500–2,500 per person of a simple homestay, and ask for the current rate rather than relying on old figures online. Bring a torch, warm clothes for the evenings and some patience with hot water. It suits couples, families with older children and anyone who likes to slow down."
+      ],
+      "good_for": ["couples", "families", "seniors", "photographers"],
+      "faqs": [
+        {"q": "How much does Yangsum Heritage Farm cost?", "a": "Rates vary by room and season, so we do not quote a fixed figure. Expect it to cost more than a simple village homestay, which runs about ₹1,500–2,500 per person with dinner and breakfast in this area. Ask the farm directly for the current rate and what meals are included before you confirm."},
+        {"q": "Is the farm suitable for children and older travellers?", "a": "Yes for most families. The farmhouse is on a hillside, so expect steps and uneven paths between rooms, fields and the road. Older travellers with knee trouble should ask about the walk from where the car stops. Children usually enjoy the animals and the fields, but keep an eye on them near terrace edges."},
+        {"q": "Can we visit the farm without staying overnight?", "a": "It is a private family home and working farm, so do not drop in unannounced. If you are staying elsewhere in Rinchenpong or Kaluk and want a meal or a short visit, ask your host to call ahead. The farm may say no in busy weeks, and that should be respected."}
+      ]
+    },
+    {
+      "slug": "rinchenpong-ridge-walk-rabindra-smriti-van",
+      "title": "Ridge walk to Rabindra Smriti Van",
+      "kind": "viewpoint",
+      "duration": "1.5–2 hours",
+      "best_time": "6–8 am or 3–5 pm, Oct–Apr",
+      "cost": "Free",
+      "image_query": "Rinchenpong Kanchenjunga view Sikkim",
+      "wiki": "",
+      "summary": "An easy ridge walk past farm terraces to the small Rabindra Smriti Van park, named for the local belief that Tagore once stayed at Rinchenpong, with Kanchenjunga views along the way when the sky is clear. Go at dawn or late afternoon for the softest light.",
+      "body": [
+        "Rabindranath Tagore's stays in these hills are well recorded elsewhere. He came to Kalimpong, where he stayed at Gouripur House, and visited Mungpoo several times between 1938 and 1940 as the guest of the writer Maitreyi Devi. Rinchenpong people say he stayed here too, and a small park, Rabindra Smriti Van, keeps his name. We have not found a record that places him at Rinchenpong, so we treat it as a cherished local claim. It is worth knowing, because it tells you how much these villages wanted a place in that story.",
+        "The walk itself is gentle and mostly on village paths and quiet road. You pass maize and ginger terraces, plots of large cardamom in the shade of alder trees, and farmhouses with marigolds and drying chillies on the porch. In winter look for orange trees heavy with fruit. Birds are easy to find at this height: bulbuls, minivets and flycatchers in the scrub. Stop wherever the view opens to the north; the Kanchenjunga range is clearest from mid-October to December.",
+        "Allow 1.5–2 hours at an easy pace, including stops. Ask your host for the current route, since paths shift with farm work and the occasional landslide. Carry water and a warm layer for dawn, when it can be close to freezing on a clear December morning. The walk joins well with the monastery and the poison lake, so with an early start you can cover all three before lunch and spend the afternoon on a farmhouse step."
+      ],
+      "good_for": ["families", "couples", "seniors", "first-timers", "photographers"],
+      "faqs": [
+        {"q": "Did Tagore really visit Rinchenpong?", "a": "Local people say so, and the park is named after him, but we have found no firm record of a visit. Tagore's recorded stays in the region are at Kalimpong and at Mungpoo, which he visited several times between 1938 and 1940. Treat the Rinchenpong story as a local claim and enjoy the walk for what it is."},
+        {"q": "Is the ridge walk suitable for children?", "a": "Yes. It is mostly on village paths and quiet road with gentle gradients, and 1.5–2 hours covers it at a child's pace. Watch for terrace edges and the occasional jeep on the road. In the monsoon months the paths turn slippery and leeches appear, so plan the walk for October to May."},
+        {"q": "When is Kanchenjunga visible from Rinchenpong?", "a": "The clearest skies come from mid-October to December, with a second good window in March and early April before haze builds. Dawn is the best time; by 9 or 10 am cloud often rises from the valleys. From June to September the mountain is usually hidden for days or weeks at a time."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Rinchenpong worth visiting?", "a": "Yes, if you want a quiet village with real history rather than sights to tick off. You get a 1730 monastery with a rare Adi Buddha statue, the poison-lake story from the 1860 British campaign, a heritage farmstay and wide Kanchenjunga views on clear mornings. Two nights is right; come between October and April for the best weather."},
+    {"q": "How far is Rinchenpong from Pelling?", "a": "About 40 km by road, which takes around two hours. There are few direct shared jeeps on this stretch, so most people hire a car for about ₹2,500–3,500 one way, or travel via Gyalshing or Jorethang by shared jeep and change. Fares are indicative and roads can close after heavy rain, so check current status before you travel."},
+    {"q": "How do I reach Rinchenpong from NJP by shared jeep?", "a": "Go from NJP to the Siliguri jeep stands, take a shared jeep to Jorethang (about 3 h, ₹250–350 a seat), then a local jeep to Kaluk and Rinchenpong (about 1.5–2 h, roughly ₹150–200). The onward jeeps are fewer and leave mostly in the morning and early afternoon, so start from Siliguri by 8 am."},
+    {"q": "Should we stay in Rinchenpong or Kaluk?", "a": "Stay in Kaluk if you want more homestays to choose from and an orchard village to wander; stay in Rinchenpong for the monastery, the history and Yangsum Heritage Farm. They are a few kilometres apart, so you can easily stay in one and walk or drive to the other. Many travellers simply book whichever has a good room free."},
+    {"q": "Do we need a permit to visit Rinchenpong?", "a": "Indian citizens need no permit for Rinchenpong or the rest of West Sikkim. Foreign nationals need the Sikkim Restricted Area Permit, which can be obtained online or at entry points such as Rangpo and Melli, and which covers this area. Rules and procedures change, so check current status before you travel and carry copies of your passport and visa."},
+    {"q": "What is the best time to visit Rinchenpong?", "a": "October to December gives the clearest Kanchenjunga views and dry, cool days of roughly 10–20 °C. March and April are also good, with spring flowers and some haze. January and February are cold but often clear. June to September brings heavy rain, leeches and landslide risk on the roads, so we suggest avoiding the monsoon."},
+    {"q": "How many days do we need in Rinchenpong?", "a": "Two nights is ideal. That gives you one full day for the monastery, the poison lake and the ridge walk, plus a dawn for the mountain view, and a second dawn as insurance if the first is cloudy. Add a third night if you want to walk to Kaluk, rest on the farm or simply read in the sun."},
+    {"q": "Can we see Kanchenjunga from Rinchenpong?", "a": "Yes. On a clear day the Kanchenjunga range stretches across the northern skyline from the upper village and the monastery ground. Your best chances are at dawn between mid-October and December, and again in March and early April. By mid-morning cloud often rises from the valleys, and in the monsoon the peaks can stay hidden for weeks."},
+    {"q": "How much does a two-night trip to Rinchenpong cost?", "a": "From Siliguri, budget roughly ₹5,000–7,000 per person on shared jeeps: about ₹800–1,100 in jeep fares each way, ₹3,000–5,000 for two nights in a homestay with dinner and breakfast, and a few hundred rupees for lunches, tea and donations. A reserved car or a heritage farm stay raises this considerably. All figures are indicative for 2025–26."}
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "darjeeling-long-weekend-on-a-budget-2n",
+  "title": "Darjeeling long weekend on a budget",
+  "region": "darjeeling",
+  "nights": 2,
+  "themes": ["long-weekends", "solo-backpacking", "toy-train", "kanchenjunga-views"],
+  "tier": "Shoestring",
+  "travel_mode": "Shared jeeps",
+  "stops": [{"place": "darjeeling", "nights": 2}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 6000,
+  "cost_split": [
+    {"item": "Shared jeeps to Darjeeling and back, and a Tiger Hill seat", "inr": 1200},
+    {"item": "Hostel bed or shared budget room, 2 nights", "inr": 1600},
+    {"item": "Diesel toy train joyride to Ghoom", "inr": 1100},
+    {"item": "Momos, thalis and tea for 3 days", "inr": 1500},
+    {"item": "Entry fees: HMI and zoo, Batasia, Ghoom, Tiger Hill", "inr": 600}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Active",
+  "max_altitude_m": 2567,
+  "meta_description": "2 nights in Darjeeling from ₹6,000 by shared jeep: Tiger Hill at dawn, the toy train to Ghoom, the mountaineering institute and momos in Chowk Bazaar.",
+  "summary": "Two nights, one bag and about ₹6,000 per person. Shared jeeps up and down, a hostel bed or a shared budget room near Chowrasta, Kanchenjunga at dawn from Tiger Hill, the diesel toy train to Ghoom and back, and Tenzing Norgay's mountaineering institute in between.",
+  "intro": [
+    "Darjeeling began as a rest station for the sick. In 1828 Captain George Lloyd and J. W. Grant visited what they called the Old Goorkha station called Dorjeling and recommended it as a sanatorium, and on 1 February 1835 the Chogyal of Sikkim granted the hill tract to the East India Company. The name is usually traced to Tibetan dorje, the thunderbolt sceptre, and ling, a place. Tradition puts a Buddhist shrine on Observatory Hill, where Hindu and Buddhist priests still share the Mahakal temple. Two nights are enough to stand on that hill, see Kanchenjunga at dawn and ride the toy train.",
+    "We built this for students and anyone with a Friday-to-Sunday window. It runs on shared jeeps, which leave when full, and on the town's own legs: Darjeeling is a walking town, and most sights sit within 3 km of Chowrasta. The one early start is Tiger Hill, at about 4 am. The joyride on the last morning brings the Batasia Loop and Ghoom station, the highest on the line, before your jeep down to the plains."
+  ],
+  "highlights": [
+    "Kanchenjunga, 8,586 m, turning pink from Tiger Hill at 2,567 m",
+    "The toy train joyride round the Batasia Loop to Ghoom station",
+    "Tenzing Norgay's memorial and the Everest Museum at HMI",
+    "The shared Mahakal shrine on Observatory Hill",
+    "Momos and thukpa in the lanes above Chowk Bazaar"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Darjeeling by shared jeep", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 70 km · 3–3.5 h by shared jeep", "text": "Find a shared jeep outside NJP station or at the Siliguri stands near the Tenzing Norgay bus terminus; a seat costs ₹250–350. The road climbs through Kurseong to the saddle at Ghoom and drops into Darjeeling, with the toy train track crossing it again and again. Check in near Chowrasta, the open square at about 2,050 m, and walk the Mall loop as the lights come on. Pass the statue of Bhanubhakta Acharya, the poet who put the Ramayana into Nepali, and climb the short path to the Mahakal shrine on Observatory Hill.", "meals": "On your own", "spend": "₹250–350 jeep seat + ₹150 momos"},
+    {"day": 2, "title": "Tiger Hill dawn and the mountaineers", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 22 km return · shared jeep seat, leaves about 4 am", "text": "Book a shared seat the evening before through your hostel; jeeps leave around 4 am for Tiger Hill, about 11 km away at 2,567 m. Watch Kanchenjunga catch the first light, and on a very clear day look west for Everest, Lhotse and Makalu. Most jeeps stop at Ghoom monastery on the way back. After breakfast, walk to the Himalayan Mountaineering Institute, founded in 1954 after the first Everest ascent, where Tenzing Norgay was the first Director of Field Training and was cremated in 1986. The zoo next door shares the ticket and breeds red pandas.", "meals": "On your own", "spend": "₹250–400 Tiger Hill seat + ₹100–150 HMI and zoo + ₹300 food"},
+    {"day": 3, "title": "Toy train joyride and the jeep down", "place": "darjeeling", "overnight": "", "drive": "≈ 70 km · 3–3.5 h by shared jeep", "text": "Take the earliest diesel joyride you can book on IRCTC, roughly ₹1,000–1,300. The train runs out round the Batasia Loop, built in 1919 to ease the gradient, where the Gorkha War Memorial stands in the middle, and on to Ghoom station at 2,258 m, the highest on the line, with a small railway museum. Back in town, buy tea for home at a shop on Nehru Road, then catch a shared jeep down by early afternoon. Services change with the season: check current status before you travel.", "meals": "On your own", "spend": "₹1,000–1,300 joyride + ₹250–350 jeep seat"}
+  ],
+  "stays": ["darjeeling-tenzing-norgay-youth-hostel", "darjeeling-dekeling-hotel"],
+  "includes": ["Shared jeep seats NJP to Darjeeling and back", "Shared jeep seat to Tiger Hill", "Hostel bed or half a budget double room for 2 nights", "Diesel joyride ticket", "Entry fees at HMI and zoo, Batasia Loop, Ghoom and Tiger Hill"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Reserved cars", "Steam joyride upgrade", "Ropeway", "Shopping and tea to take home"],
+  "save_money": [
+    "Take the shared jeep from Siliguri rather than from inside the NJP station area, where touts quote reserved-car prices for the same ride.",
+    "A dorm bed at the Tenzing Norgay Youth Hostel at the top of town costs a fraction of a hotel room in October and May.",
+    "Eat where drivers and students eat, in the lanes above Chowk Bazaar: a plate of momos is ₹80–150 there and twice that on the Mall."
+  ],
+  "good_to_know": [
+    "Toy train joyrides, timings and fares change with season and track work: book on IRCTC and check current status before you travel.",
+    "Tiger Hill is crowded in October, late December and the May–June holidays; vehicle passes and limits apply, so check current status before you travel.",
+    "Clear mountain views are likeliest from October to early December and in March and April.",
+    "Leave the last day's jeep no later than early afternoon if you have an evening train; traffic near Siliguri can add an hour."
+  ],
+  "faqs": [
+    {"q": "Is two nights enough for Darjeeling?", "a": "Two nights cover the essentials if you start early: Tiger Hill at dawn, the Mall and Observatory Hill, the mountaineering institute and zoo, and a toy train joyride. You will not have time for tea garden walks or the villages around Ghoom. If you can add a night, use it for Happy Valley Tea Estate and the Tibetan Refugee Self Help Centre, both close to town."},
+    {"q": "How much does this weekend cost?", "a": "About ₹6,000 per person, twin sharing, from NJP back to NJP, indicative for 2025–26. That covers shared jeep seats, two nights in a hostel dorm or half a budget room, a diesel joyride, entry fees and simple meals. Peak weeks in October and May push room prices up, so book early or use the dorm."},
+    {"q": "How do I get from Bagdogra airport to Darjeeling cheaply?", "a": "Shared jeeps rarely wait at the airport. Take a shared auto or a cab into Siliguri, about 12–15 km, and pick up a shared jeep for Darjeeling there for ₹250–350 a seat. Jeeps leave when full and run mostly in daylight. A reserved small car straight from the airport costs about ₹3,000–4,000, which makes sense only for a group of three or four."},
+    {"q": "Can I go to Tiger Hill without hiring a car?", "a": "Yes. In season, hostels, hotels and the jeep stand sell shared seats to Tiger Hill for about ₹250–400, leaving around 4 am and usually stopping at Ghoom monastery and Batasia on the way back. Book the night before. There are small entry, parking and tower fees at the top, and vehicle rules change, so check current status before you travel."},
+    {"q": "How do I book the toy train joyride?", "a": "Book on the IRCTC website or app, as you would a normal train. Diesel joyrides cost roughly ₹1,000–1,300 and steam joyrides roughly ₹1,500–1,800, for a round trip of about two hours to Ghoom with stops at the Batasia Loop and Ghoom station. Seats sell out in season, and services change with weather and track work: check current status before you travel."},
+    {"q": "Where can I sleep cheaply in Darjeeling?", "a": "The Tenzing Norgay Youth Hostel at the top of town, run by the GTA, has a large dormitory and a few rooms. Small family hotels around Gandhi Road, Clubside and Laden La Road have rooms for about ₹1,500–3,000 outside peak weeks. Dekeling Hotel, a Tibetan family-run place below Chowrasta, is a dependable mid-budget choice. Split a double with a friend to stay within this budget."},
+    {"q": "When is the best time for a Darjeeling weekend?", "a": "October to early December brings the clearest views and cold, dry air. March to May is warmer, with rhododendrons and good views in the mornings. January and February are cold, often clear and quieter. From June to September the town is wet and misty, views are rare and landslides slow the jeeps, though rooms are cheaper."},
+    {"q": "Can I see Kanchenjunga from the town itself?", "a": "Yes, on a clear morning. From Chowrasta and the Mall the massif fills the northern skyline, and many budget rooms on the north side of the ridge have a window view. Tiger Hill adds height and a wider angle, and on very clear days the far peaks of Everest, Lhotse and Makalu to the west. Afternoons usually cloud over."},
+    {"q": "What should I pack for a winter weekend?", "a": "In December and January Darjeeling runs from about 2 °C at night to 9 °C by day, and budget rooms rarely have heating. Bring a down or fleece jacket, a woollen cap, gloves and warm socks for the 4 am Tiger Hill trip. Walking shoes with grip help on the steep lanes. A small torch and a power bank are useful during power cuts."}
+  ]
+}

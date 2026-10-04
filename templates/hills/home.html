@@ -1,0 +1,129 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Darjeeling Himalayas · Darjeeling, Sikkim and the Dooars at an honest price{% endblock %}
+{% block og_image %}{% with img=hero_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block content %}
+<section class="hero" aria-labelledby="hero-h">
+  <div class="hero__img">{% if hero_img %}<img src="{{ hero_img|src:1920 }}" srcset="{{ hero_img|srcset }}" sizes="100vw" alt="{{ hero_img.description|default:'Kanchenjunga above the Darjeeling hills' }}" fetchpriority="high">{% endif %}</div>
+  <div class="hero__shade" aria-hidden="true"></div>
+  <div class="mist mist--a" aria-hidden="true"></div><div class="mist mist--b" aria-hidden="true"></div>
+  <div class="wrap hero__in">
+    <div>
+      <p class="hero__kicker"><span>Darjeeling</span><span class="dot"></span><span>Sikkim</span><span class="dot"></span><span>Dooars</span></p>
+      <h1 class="h-hero" id="hero-h">The hills, <span class="hl">as locals</span> travel them</h1>
+      <p class="lede">Shared jeeps, the toy train and family homestays, from the rhino grass of the Dooars to the Kanchenjunga ridge. Every trip shows its full cost, line by line, before you pay a rupee.</p>
+    </div>
+    <form class="finder" action="{% url 'journeys' %}" method="get" data-cta-form="hero-finder">
+      <p class="finder__title"><span>Find a trip</span><span>{{ month }}</span></p>
+      <label for="f-land">Where</label>
+      <select id="f-land" name="region"><option value="">Anywhere in the hills</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select>
+      <label for="f-tier">Daily budget per person</label>
+      <select id="f-tier" name="tier"><option value="">Any budget</option><option value="Shoestring">Shoestring · about ₹1,500–2,500</option><option value="Value">Value · about ₹2,500–4,000</option><option value="Comfort">Comfort · about ₹4,000–6,500</option></select>
+      <label for="f-len">How long</label>
+      <select id="f-len" name="length"><option value="">Any length</option><option value="short">2–3 nights</option><option value="mid">4–6 nights</option><option value="long">7 nights or more</option></select>
+      <button class="btn btn--ink" type="submit" data-cta="hero-find">Show me trips {% icon "arrow" %}</button>
+      <p class="finder__note">Or <a href="{% url 'plan' %}?from=/" data-cta="hero-plan">ask a local planner</a> for a priced route.</p>
+    </form>
+  </div>
+  {% if hero_img %}<p class="hero__credit">Photo: <a href="{{ hero_img.source }}" rel="noopener" target="_blank">{{ hero_img|short_credit }}</a>, Wikimedia Commons</p>{% endif %}
+</section>
+
+{% include "hills/partials/trust.html" %}
+
+<section class="climb sec" aria-labelledby="climb-h">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">The climb</p><h2 class="h-1" id="climb-h">From 100 m to 5,183 m in eight chapters</h2><p class="lede">Scroll up the hills the way the road does: elephant grass and rhinos first, then tea, then monasteries, then the ridge where you see four of the five highest mountains on Earth.</p></div></div>
+    <div class="climb__grid">
+      <div class="alti" data-alti data-max="5400" aria-hidden="true">
+        <div class="alti__read" data-alti-read>0 m<small data-alti-name>Sea level</small></div>
+        <div class="alti__scale"><i class="alti__mark" data-alti-mark style="bottom:0"></i>
+          <div class="alti__ticks">{% for t in alti_ticks %}<span style="bottom:{{ t.pct }}%">{{ t.label }}</span>{% endfor %}</div></div>
+        <div class="alti__foot">Altimeter</div>
+      </div>
+      <div>
+        {% for r in climb %}
+        <article class="climb__ch" data-land="{{ r.slug }}" data-alt="{{ r.alt }}" data-alt-name="{{ r.short }}">
+          <div class="climb__media">
+            {% photo r|first_img alt=r.name sizes="(max-width: 900px) 100vw, 40vw" %}
+            <span class="lbadge lbadge--lg">{% icon r.slug %}</span>
+          </div>
+          <div>
+            <div class="climb__alt">{{ r.alt|intcomma_plain }}<small>m</small></div>
+            <p class="climb__palette">{{ r.palette }}</p>
+            <h3 class="h-2 climb__name"><a href="{{ r.url }}" style="color:inherit;text-decoration:none">{{ r.name }}</a></h3>
+            {% if r.story %}<p class="climb__story"><b>{{ r.story.title }}.</b> {{ r.story.paras.0|truncatewords:46 }}</p>{% else %}<p class="climb__story">{{ r.summary }}</p>{% endif %}
+            <div class="climb__row">
+              {% if r.per_day_from %}<span class="milestone"><span class="milestone__cap">From</span><span class="milestone__val">{{ r.per_day_from|inr }}<small>/day</small></span></span>{% endif %}
+              {% if r.best_label %}<span class="milestone"><span class="milestone__cap">Best</span><span class="milestone__val" style="font-size:1rem">{{ r.best_label }}</span></span>{% endif %}
+              <a class="btn btn--ground" href="{{ r.url }}">Read the {{ r.short }} story {% icon "arrow" %}</a>
+            </div>
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+
+{% if board %}
+<section class="sec sec--paper2" aria-labelledby="board-h">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">Siliguri jeep stand</p><h2 class="h-1" id="board-h">What the road really costs</h2><p class="lede">Shared jeeps leave when they are full, from stands in Siliguri and NJP. These are the indicative fares and times from our route notes, not a tour operator's mark-up.</p></div><a class="link-arrow" href="{% url 'fares' %}">The full fare board {% icon "arrow" %}</a></div>
+    {% include "hills/partials/board.html" with rows=board %}
+  </div>
+</section>
+{% endif %}
+
+<section class="sec" aria-labelledby="trips-h">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">Trips with the fare printed</p><h2 class="h-1" id="trips-h">Pick a ticket</h2><p class="lede">Every trip lists what goes where: jeeps, beds, food, permits. Shoestring, Value or Comfort, and changeable before you book.</p></div><a class="link-arrow" href="{% url 'journeys' %}">Every trip {% icon "arrow" %}</a></div>
+    <div class="tickets">{% for j in featured %}{% include "hills/partials/ticket.html" %}{% endfor %}</div>
+  </div>
+</section>
+
+{% if facts %}
+<section class="sec dark" data-land="singalila" aria-labelledby="dyk-h">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">Things the guidebooks skip</p><h2 class="h-1" id="dyk-h">Small facts, true stories</h2></div><a class="link-arrow" href="{% url 'journal' %}">Stories from the hills {% icon "arrow" %}</a></div>
+    <div class="grid grid--3">{% for f in facts %}<a class="gcard rv" href="{{ f.place.url }}" data-land="{{ f.place.region }}" style="background:rgba(255,255,255,.07);color:#fff;box-shadow:none"><span class="gcard__cat" style="color:var(--accent)">{% icon f.place.region %}{{ f.place.name }}{% if f.place.altitude_m %} · {{ f.place.altitude_m|intcomma_plain }} m{% endif %}</span><p style="color:#fff;font-size:1.12rem">{{ f.text }}</p></a>{% endfor %}</div>
+  </div>
+</section>
+{% endif %}
+
+<section class="sec" aria-labelledby="season-h">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">Season almanac</p><h2 class="h-1" id="season-h">Where it is clear in {{ month }}</h2><p class="lede">Darker squares are the best months. Clear Kanchenjunga mornings come mostly from October to early December and in March and April; the Dooars parks close for the monsoon.</p></div><a class="link-arrow" href="{% url 'seasons' %}">The full almanac {% icon "arrow" %}</a></div>
+    {% include "hills/partials/almanac.html" %}
+  </div>
+</section>
+
+<section class="sec sec--paper2 sec--contour" aria-labelledby="kinds-h">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">Things to do</p><h2 class="h-1" id="kinds-h">Mornings worth an early alarm</h2></div><a class="link-arrow" href="{% url 'experiences' %}">Every experience {% icon "arrow" %}</a></div>
+    <div class="grid grid--3">{% for e in exps %}{% include "hills/partials/card_exp.html" %}{% endfor %}</div>
+    <div class="chips" style="margin-top:28px">{% for k, n in kinds %}<a class="chip" href="{% url 'experience_kind' k %}">{% icon k %}{{ n }}</a>{% endfor %}</div>
+  </div>
+</section>
+
+<section class="sec" aria-labelledby="ways-h">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">Ways to travel</p><h2 class="h-1" id="ways-h">Choose how, not just where</h2></div><a class="link-arrow" href="{% url 'themes' %}">Every way to travel {% icon "arrow" %}</a></div>
+    <div class="grid grid--4">{% for t in themes|slice:":8" %}<a class="gcard rv" href="{{ t.url }}"><span class="gcard__cat">{% icon "leaf" %}Way to travel</span><b>{{ t.name }}</b><p>{{ t.tagline }}</p></a>{% endfor %}</div>
+  </div>
+</section>
+
+{% if posts %}
+<section class="sec sec--paper2" aria-labelledby="post-h">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">Stories from the hills</p><h2 class="h-1" id="post-h">Read before you pack</h2></div><a class="link-arrow" href="{% url 'journal' %}">All stories {% icon "arrow" %}</a></div>
+    <div class="grid grid--3">{% for d in posts %}{% include "hills/partials/card_post.html" %}{% endfor %}</div>
+  </div>
+</section>
+{% endif %}
+
+<section class="sec" aria-labelledby="hills-h">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">The eight hills</p><h2 class="h-1" id="hills-h">Each with its own colour</h2></div></div>
+    <div class="grid grid--4">{% for r in regions %}<a class="lcard rv" href="{{ r.url }}" data-land="{{ r.slug }}">{% with img=r|nth_img:1 %}{% if img %}<img src="{{ img|src:500 }}" srcset="{{ img|srcset }}" sizes="(max-width: 640px) 100vw, 25vw" alt="" loading="lazy">{% endif %}{% endwith %}<span class="lbadge">{% icon r.slug %}</span><span class="lcard__name">{{ r.short }}</span><span class="lcard__pal">{{ r.palette }}</span></a>{% endfor %}</div>
+  </div>
+</section>
+{% endblock %}

@@ -1,0 +1,110 @@
+{
+  "slug": "neora-valley", "name": "Neora Valley", "name_local": "", "region": "kalimpong",
+  "kind": "national park",
+  "wiki": "Neora Valley National Park", "image_query": "Neora Valley National Park forest",
+  "lat": 27.06, "lng": 88.7, "altitude_m": 3150,
+  "tagline": "Red panda forest from the Dooars to Rachela Danda",
+  "meta_description": "Neora Valley National Park from Lava: red pandas, Rachela Danda, permits, guides, fees, Mouchuki camp, monsoon closure and what a park day really costs.",
+  "summary": "Neora Valley National Park, declared in 1986, climbs from about 183 m near the Dooars to some 3,200 m at Rachela Danda on the Sikkim and Bhutan borders. Enter from Lava with a permit and guide for old forest, birds and a small chance of a red panda. It closes for the monsoon.",
+  "local_story": {"title": "The valley that waters Kalimpong",
+    "paras": ["Neora Valley is the wildest corner of the Kalimpong hills. The park was declared in 1986 to protect the forest around the upper Neora river, and it stretches from the edge of the Dooars plains at about 183 m to Rachela Danda, roughly 3,150–3,200 m, where West Bengal meets Sikkim and Bhutan's Samtse district. In that climb you pass from tropical forest through oak and magnolia to rhododendron, bamboo, hemlock and fir.",
+              "The Neora river that rises here is Kalimpong town's main source of water, which has given the town a practical reason to care about the forest. Because so much of the valley is steep and roadless, it has stayed thickly wooded, and wildlife that has gone from much of the Darjeeling hills survives here: Himalayan black bear, clouded leopard, leopard, serow, goral, sambar and the red panda.",
+              "For the Lepcha and other hill peoples, forests like Neora were sources of medicine, fodder and wild food long before they were national parks. Today villages such as Kolakham, Rishyap and Lava live on the park's edge, and many guides are villagers who grew up walking these slopes."]},
+  "did_you_know": [
+    "Neora Valley National Park spans roughly 183 m to 3,200 m in altitude, from near the Dooars plains to Rachela Danda on the Sikkim and Bhutan borders.",
+    "The park borders Pakyong district of Sikkim and Samtse district of Bhutan, and its Neora river supplies Kalimpong town's water.",
+    "The satyr tragopan, a crimson pheasant with white spots, lives in the park's higher forests and is one of its most sought-after birds."
+  ],
+  "intro": ["Neora Valley is the big forest behind Lava, and the reason serious birders and naturalists come to the Kalimpong hills. Most of it has no roads. Visitors enter on a few permitted routes from the Lava side, on foot or in a vehicle with a registered guide, or from the Samsing side in the Dooars to the forest camp at Mouchuki.",
+            "Go with the right expectations. The forest is thick and the animals are shy; you will hear far more than you see. A day in Neora is about old trees, moss, mist, birdsong and the chance of something special, not a safari tick-list. The park closes for the monsoon, roughly mid-June to mid-September, and rules on routes, permits and fees change: check current status before you travel."],
+  "facts": [["Best months", "Oct – Dec · Mar – May"], ["Nights we suggest", "2 at Lava or Kolakham"], ["From Kalimpong", "≈ 30–34 km to Lava gate · 1.5 h"], ["Altitude", "183–3,200 m"], ["Known for", "Red panda, satyr tragopan, old forest"], ["Network", "None inside the park"]],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 0, 2, 2, 1],
+  "nights": "2",
+  "costs": [["Park entry per person (Indian)", "₹150–300 (indicative)"], ["Registered guide per day", "₹600–1,000"], ["Vehicle entry or permit fee", "₹300–600 (indicative)"], ["Jeep hire for the park day from Lava", "₹2,500–3,500"], ["WBFDC Mouchuki camp room", "≈ ₹2,000 a room"]],
+  "highlights": [
+    {"title": "Old forest above Lava", "text": "Guided entries from the Lava side take you into oak, magnolia and rhododendron forest heavy with moss and orchids, rising towards bamboo and fir. Even without big animals, it is the best forest walk in the Kalimpong hills."},
+    {"title": "Red panda country", "text": "The higher bamboo and fir forest is one of the last good red panda habitats in Bengal. Sightings are rare and unpredictable, usually at dawn. Treat a sighting as luck, not a promise, and keep quiet."},
+    {"title": "Birds of the Neora forests", "text": "Satyr tragopan, laughingthrushes, sibias, fulvettas, woodpeckers, barbets and many flycatchers. March to May is best. A good bird guide doubles what you find."},
+    {"title": "Rachela Danda", "text": "The park's high point, about 3,150 m, on the tri-junction of Bengal, Sikkim and Bhutan, with views of the Chola range and Kanchenjunga on clear days. Access is restricted and changes; ask at the Lava range office."},
+    {"title": "Mouchuki forest camp", "text": "On the Dooars side, the forest corporation runs a small camp at Mouchuki, approached from Samsing. It is a base for forest walks in the park's lower and middle belt, in a different landscape from Lava."}
+  ],
+  "how_to_reach": [
+    {"mode": "From Lava (main gate)", "text": "Most visitors enter from Lava, about 30–34 km from Kalimpong. Arrange the permit, registered guide and vehicle through the forest range office in Lava the day before. A jeep for the park day costs about ₹2,500–3,500. NH10 has had closures since October 2023; reach Lava via Kalimpong or Gorubathan and check current status before you travel."},
+    {"mode": "From Samsing (Dooars side)", "text": "From Samsing, near Chalsa in the Dooars, a forest road leads to the WBFDC Mouchuki camp on the park's southern side. It suits travellers combining Neora with Gorumara and the Dooars. Book Mouchuki on wbfdc.net."},
+    {"mode": "Reserved car from Siliguri", "text": "A car from NJP or Bagdogra to Lava costs about ₹4,500–6,000 and takes 4–5 hours. To Samsing it is about 2.5–3 hours through the Dooars."}
+  ],
+  "where_to_stay": "There are no hotels inside the park. On the Lava side, stay at the forest corporation's Lava Eco Tourism Centre, at village homestays in Lava, or in Kolakham and Rishyap, both on the park's edge, at about ₹1,300–2,200 per person with meals. On the Dooars side, WBFDC runs the Mouchuki camp inside the park, approached from Samsing, and an eco tourism centre at Samsing itself. Book forest corporation lodges on wbfdc.net about three months ahead.",
+  "stays": ["lava-wbfdc-eco-tourism-centre"],
+  "tips": ["Arrange permits and a registered guide at the Lava range office the afternoon before your park day.",
+           "Start at first light: birds and mammals are most active in the first two hours.",
+           "Wear dull colours, carry binoculars, rain gear and a warm layer even in May.",
+           "Do not expect to see a red panda; enjoy the forest and treat any sighting as a gift.",
+           "The park closes roughly mid-June to mid-September, and routes and fees change: check current status before you travel."],
+  "themes": ["wildlife-birds", "treks", "photography"],
+  "nearby": ["lava", "kolakham", "rishyap"],
+  "experiences": [
+    {"slug": "neora-valley-guided-day-from-lava", "title": "A guided forest day into Neora from Lava",
+     "kind": "wildlife", "duration": "5–7 hours", "best_time": "6 am start, Oct–May", "cost": "₹3,500–5,000 per group with jeep, guide and fees",
+     "image_query": "Neora Valley forest moss trees", "wiki": "Neora Valley National Park",
+     "summary": "Drive up from Lava with a registered guide, then walk the permitted forest trail through moss-hung oak, rhododendron and bamboo. Birds all day, mammals if you are lucky, and the quiet of a forest with no road through it.",
+     "body": ["The classic Neora day starts at Lava. The afternoon before, go to the forest range office with ID to arrange the permit, a registered guide and a vehicle; your homestay can help. In the morning the jeep climbs on forest roads to the start of the permitted trail, and from there you walk.",
+              "The forest changes with every 300 m of height: broadleaf trees with orchids and ferns, then rhododendron, which flowers from March to May, then bamboo thickets and conifers. Your guide will point out red panda habitat, scratch marks on trees, droppings and the calls of barking deer. Birding is excellent: laughingthrushes, fulvettas, sibias and, with real luck, a satyr tragopan on the trail at dawn.",
+              "Expect a full day, back by mid-afternoon. Costs vary with the route and group size: entry fees of about ₹150–300 per person, a guide at ₹600–1,000 and the jeep at ₹2,500–3,500. Carry lunch, water, rain gear and a warm layer. Routes and fees change: check current status before you travel."],
+     "good_for": ["photographers", "students", "solo", "couples"],
+     "faqs": [
+       {"q": "How do I get a permit for Neora Valley National Park?", "a": "Permits are issued by the forest department, usually through the range office at Lava for the northern routes. Bring photo ID and arrange it the day before, along with a registered guide and vehicle. Foreign nationals may need extra paperwork. Rules and routes change, so check current status before you travel."},
+       {"q": "Can I go into Neora Valley without a guide?", "a": "No. Entry is only with a permit and a registered guide on permitted routes. The forest is dense, trails are unmarked in places, and there are bears and leopards. Guides also know the birds and the signs of animals, which makes the day far richer."},
+       {"q": "Is Neora Valley open in the monsoon?", "a": "No. The park usually closes from about mid-June to mid-September for the monsoon and the wildlife breeding season. Even in the shoulder months, trails can close after landslides. Check current status before you travel."}
+     ]},
+    {"slug": "neora-valley-red-panda-dawn", "title": "Looking for red pandas at dawn",
+     "kind": "wildlife", "duration": "3–4 hours", "best_time": "Dawn, Nov–Apr", "cost": "Park fees, guide and jeep (₹3,500–5,000 per group)",
+     "image_query": "red panda Ailurus fulgens", "wiki": "Red panda",
+     "summary": "The red panda lives in the bamboo and fir forests at the top of Neora Valley. With a good guide, an early start and patience, a sighting is possible in winter and spring, though never certain.",
+     "body": ["The red panda, a small, russet-red tree-dweller with a ringed tail, lives in the cool forests of the eastern Himalaya, usually between about 2,500 and 3,600 m, where bamboo grows under fir, hemlock and rhododendron. Neora Valley's upper slopes are one of its last good homes in West Bengal, along with the Singalila ridge to the west.",
+              "Red pandas are shy and mostly active at dawn and dusk. They spend much of the day curled up high in trees. Your best chance is to be in the upper forest at first light in winter or early spring, from November to April, when bare branches make spotting easier, and to scan the tree crowns slowly with binoculars while your guide listens for movement.",
+              "Be honest with yourself about the odds: most visitors do not see one, and some guides go weeks without a sighting. Do not pay anyone who 'guarantees' a red panda. Never use playback, food or flash. If you do see one, keep your distance, stay quiet and let it move on."],
+     "good_for": ["photographers", "solo", "couples"],
+     "faqs": [
+       {"q": "What are the chances of seeing a red panda in Neora Valley?", "a": "Low. Red pandas live in the park's upper bamboo and fir forest, are shy and are active mainly at dawn and dusk. Some lucky visitors see one, but most do not. Go for the forest and birds, and treat a red panda as a bonus."},
+       {"q": "When is the best time to see red pandas?", "a": "Winter and early spring, from November to April, at dawn. Bare branches and cold mornings make them easier to spot in treetops. The park is closed in the monsoon. Clear, still mornings are best."},
+       {"q": "Is Neora Valley or Singalila better for red pandas?", "a": "Both are among the best red panda habitats in West Bengal. Singalila, around Sandakphu, is more often reported for sightings because the trekking route passes through its habitat. Neora is wilder and less visited. Neither offers a guarantee."}
+     ]},
+    {"slug": "neora-valley-rachela-danda", "title": "Rachela Danda, the park's high point",
+     "kind": "viewpoint", "duration": "Full day", "best_time": "Oct–Dec and Mar–Apr, if open", "cost": "Permit, guide and jeep (indicative ₹4,000–6,000 per group)",
+     "image_query": "Rachela pass Kalimpong", "wiki": "",
+     "summary": "Rachela Danda, about 3,150 m, is the top of Neora Valley, where Bengal, Sikkim and Bhutan meet. On clear days it looks over the Chola range, Kanchenjunga and the Bhutan hills. Access is restricted and often closed; ask at Lava.",
+     "body": ["Rachela Danda is the ridge at the top of Neora Valley, around 3,150 m, where the borders of West Bengal, Sikkim and Bhutan's Samtse district meet. On a clear day the view takes in the Chola range of the Sikkim–Tibet border, Kanchenjunga far to the west and the forested hills of Bhutan rolling away to the east. The forest near the top is fir, rhododendron and bamboo, good red panda and tragopan country.",
+              "Getting there is the hard part. Access depends on forest department permission, road and trail conditions and, at times, border considerations, and it has been closed or limited for long periods. When it is open, the trip is a long day from Lava by jeep and on foot with a registered guide.",
+              "Ask at the Lava range office well before you plan around it, and have a backup, such as a forest walk on the lower routes or Tiffin Dara at Rishyap for the view. Snow can lie on the ridge from December to March. Check current status before you travel."],
+     "good_for": ["photographers", "students", "solo"],
+     "faqs": [
+       {"q": "Can tourists visit Rachela Danda?", "a": "Sometimes. Access to Rachela Danda depends on forest department permission and conditions, and has been closed or restricted for long periods. When it is open, it is a long day trip from Lava with a permit, registered guide and vehicle. Ask at the Lava range office and check current status before you travel."},
+       {"q": "How high is Rachela Danda?", "a": "About 3,150 m, close to the 3,200 m upper limit of Neora Valley National Park. It is the highest point in the park, on the junction of the West Bengal, Sikkim and Bhutan borders. Expect cold, wind and possible snow in winter."},
+       {"q": "What can you see from Rachela?", "a": "On clear days, the Chola range on the Sikkim–Tibet border, Kanchenjunga far to the west, the forested ridges of Bhutan and the Neora valley below. The best visibility is from October to December and in March and April, early in the day."}
+     ]},
+    {"slug": "neora-valley-mouchuki-forest-camp", "title": "Mouchuki forest camp on the Dooars side",
+     "kind": "trek", "duration": "1–2 nights", "best_time": "Oct–Apr", "cost": "≈ ₹2,000 a room + fees and guide (indicative)",
+     "image_query": "Samsing Dooars forest hills", "wiki": "",
+     "summary": "Approach Neora Valley from the south, from Samsing in the Dooars, and sleep at the forest corporation's Mouchuki camp inside the park. Lower forest, rivers, birds and the quiet of a camp with no village around it.",
+     "body": ["Most visitors know Neora only from Lava, but the park's southern side, above Samsing near Chalsa in the Dooars, is just as interesting and much less visited. The West Bengal Forest Development Corporation runs a small camp at Mouchuki in this part of the park, reached by a forest road from Samsing.",
+              "This is the lower and middle forest: broadleaf trees, streams, tree ferns and a different set of birds from the high Lava side, with hornbills and Dooars species not far below. Guided walks from the camp follow forest trails; your guide will tell you which are open. Nights are quiet and very dark.",
+              "Book Mouchuki on wbfdc.net, where rooms are listed at about ₹2,000, and confirm what meals and transport are included. Park entry and guide fees are separate. The camp and the road close in the monsoon, and access changes, so check current status before you travel. Combine it with Samsing, Suntalekhola and Gorumara for a Dooars-and-forest trip."],
+     "good_for": ["students", "solo", "couples", "photographers"],
+     "faqs": [
+       {"q": "Where is Mouchuki camp?", "a": "Mouchuki is a forest corporation camp inside Neora Valley National Park on its southern, Dooars side, reached by a forest road from Samsing, near Chalsa and Lataguri. It is listed on the WBFDC website. Access and road condition change, so check current status before you travel."},
+       {"q": "How do I book Mouchuki camp?", "a": "Book on the West Bengal Forest Development Corporation site, wbfdc.net, where Mouchuki is listed among the Kalimpong-area properties. Bookings usually open about three months ahead. Confirm meals, transport from Samsing and park permits when you book."},
+       {"q": "Can I combine Neora Valley with Gorumara?", "a": "Yes. From the Samsing side, Gorumara and Lataguri are about an hour away by road. A good plan is two nights in the Neora hills (Lava or Mouchuki) and two in the Dooars for a jeep safari. Both close in the monsoon, roughly mid-June to mid-September."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "When is Neora Valley National Park open?", "a": "Usually from about mid-September to mid-June, closing for the monsoon in between. The best months are October to December and March to May. Opening dates, routes and timings are set by the forest department each year, so check current status before you travel."},
+    {"q": "What is the entry fee for Neora Valley?", "a": "Expect about ₹150–300 per person for Indian visitors, more for foreign nationals, plus a registered guide at ₹600–1,000 a day and a vehicle or route fee. A jeep from Lava for the day costs ₹2,500–3,500. Fees are revised often, so check current status before you travel."},
+    {"q": "Can I see a red panda in Neora Valley?", "a": "It is possible but uncommon. Red pandas live in the park's upper bamboo and fir forest and are active mainly at dawn and dusk. The best chance is on early winter or spring mornings with a good guide. Most visitors do not see one."},
+    {"q": "What is the best base for Neora Valley?", "a": "Lava is the main base, with the range office, the forest corporation's cottages and homestays. Kolakham and Rishyap, on the park's edge, are quieter alternatives with Kanchenjunga views. On the Dooars side, use Samsing or the Mouchuki camp."},
+    {"q": "How big is Neora Valley National Park?", "a": "Figures vary between sources, but it is a mid-sized park of steep, mostly roadless forest stretching from about 183 m near the Dooars to some 3,200 m at Rachela Danda. Its size matters less than its condition: much of it is unbroken old forest."},
+    {"q": "Is Neora Valley good for birdwatching?", "a": "Yes, it is one of the best birding areas in West Bengal. Expect laughingthrushes, sibias, fulvettas, minivets, woodpeckers, barbets and flycatchers, and possibly the satyr tragopan. March to May is the best season, with October to December a close second."},
+    {"q": "Do I need a guide for Neora Valley?", "a": "Yes. Entry into the park is only allowed with a permit and a registered guide on permitted routes. Guides cost about ₹600–1,000 a day; specialist bird guides charge more. Arrange through the Lava range office or your homestay the day before."},
+    {"q": "Can I trek through Neora Valley?", "a": "Longer treks inside the park are tightly controlled and often not permitted. Day walks on approved routes from Lava and walks around the Mouchuki camp are the usual options. Ask the forest department about current routes and check current status before you travel."},
+    {"q": "Is Neora Valley safe?", "a": "Yes, with a guide and common sense. The main risks are slips on steep, muddy trails, sudden weather and, rarely, bears. Stay with your guide, carry rain gear and a warm layer, walk in daylight and do not leave the trail. Leeches are common in wet months."}
+  ]
+}

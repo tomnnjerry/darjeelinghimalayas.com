@@ -1,0 +1,116 @@
+{
+  "slug": "jaldapara", "name": "Jaldapara National Park", "name_local": "", "region": "dooars",
+  "kind": "national park",
+  "wiki": "Jaldapara National Park", "image_query": "Jaldapara National Park rhinoceros",
+  "lat": 26.68, "lng": 89.30, "altitude_m": 61,
+  "tagline": "India's second rhino stronghold, on the Torsa",
+  "meta_description": "Jaldapara National Park guide: about 330 one-horned rhinos, jeep and elephant safaris, Hollong's fate, Totopara, Madarihat stays, costs and closure dates.",
+  "summary": "Jaldapara is a 216 km² park of tall grassland and riverine forest on the Torsa, with around 330 one-horned rhinos, the largest population in India after Kaziranga. Jeep safaris start from Madarihat; elephant safaris run when the forest department allows. Closed mid-June to mid-September.",
+  "local_story": {"title": "A rhino refuge on the Torsa since 1941", "paras": [
+    "Before the British, this was the country of the Toto and the Mech, and of the Bhutanese duars that controlled the passes. After 1865 it became part of the British Western Duars, and by the early 20th century hunting and the spread of tea gardens had pushed the one-horned rhino in north Bengal close to the edge. Jaldapara was declared a sanctuary in 1941, specifically to protect the rhino, and became a national park in 2014.",
+    "The rhino came back. The forest department's March 2025 count estimated about 331 animals, up from 287 in the previous estimate, making Jaldapara the second rhino stronghold in India after Kaziranga. The park also holds elephants, gaur, sambar, hog deer, leopards and a rich grassland bird life.",
+    "For decades the heart of a Jaldapara visit was Hollong, a wooden forest lodge deep in the park beside a salt lick, where guests woke to rhinos and elephants below the veranda and elephant safaris set out at dawn. On 18 June 2024, with the lodge closed for the monsoon, a fire gutted it. Then in October 2025 floods on the Torsa and its tributaries damaged roads and bridges and closed the park for a time. Check current status before you travel."]},
+  "did_you_know": [
+    "The March 2025 count estimated about 331 rhinos in Jaldapara, roughly five times Gorumara's 61, both counted on 5–6 March.",
+    "Hollong, the three-storey wooden forest lodge inside Jaldapara, was gutted by fire on the night of 18 June 2024 while closed to tourists for the monsoon.",
+    "During the October 2025 floods, forest department kunki elephants ferried stranded tourists across floodwater after a wooden bridge to a forest lodge in Jaldapara collapsed."
+  ],
+  "intro": [
+    "Jaldapara is flatter and wilder-feeling than Gorumara. Tall elephant grass stands higher than a jeep, with patches of riverine forest and the braided channels of the Torsa and its tributaries running through. Rhinos graze in the open grass in the early morning, peafowl strut on the tracks, and elephants appear without warning out of the reeds.",
+    "Madarihat, the small town on the highway at the park's western edge, is the base, with the forest office, safari counters, the WBTDC lodge and private hotels. Two nights give you two safaris. Use the spare hours for Totopara, home of the Toto community, the Chilapata forest and its ruins, or a drive through the tea gardens of Birpara."
+  ],
+  "facts": [["Best months", "Nov – Mar"], ["Nights we suggest", "2"], ["From Siliguri", "≈ 125 km · 3.5–4 h"], ["Altitude", "≈ 60–100 m"], ["Known for", "One-horned rhinos, grassland safaris"], ["Network", "Good in Madarihat, weak inside"]],
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 0, 1, 2, 2],
+  "nights": "2",
+  "costs": [["Jeep safari, six-seat jeep with fees", "₹2,500–4,000 (indicative 2025–26)"], ["Elephant safari when running", "About ₹800–1,000 pp Indian nationals"], ["Hotel or lodge in Madarihat", "₹1,500–4,000 a room"], ["Dhaba thali in Madarihat", "₹120–250"], ["Car to Totopara and back", "₹1,500–2,000"], ["Reserved car from NJP", "₹4,000–5,000"]],
+  "highlights": [
+    {"title": "Dawn jeep safari in the grassland", "text": "The first jeep slot runs into tall grass and riverine forest when rhinos are out grazing. Watch for them at the edges of the grass and in wet hollows."},
+    {"title": "Elephant safari, when offered", "text": "Riding into the grass on a forest department elephant brings you closer to rhinos than any jeep. It runs only when the department allows; check before you plan around it."},
+    {"title": "Totopara and the Toto community", "text": "About 22 km away, near the Bhutan border, Totopara is home to the Toto, a community of about 1,600 people with their own language, now written in its own script since 2015."},
+    {"title": "Chilapata's ruins", "text": "East of the park, the Chilapata forest hides the brick ruins of Nalraja Garh, linked by archaeologists to an early frontier fort. A safari can include them."},
+    {"title": "Grassland birds", "text": "Jaldapara's grasslands hold birds that are hard to find elsewhere in Bengal, including Bengal florican in some years, along with hornbills, raptors and many waterbirds."},
+    {"title": "Tea gardens of Birpara", "text": "Flat gardens with tall shade trees spread west of Madarihat. A morning drive shows the plains tea that made the Dooars rich."}
+  ],
+  "how_to_reach": [
+    {"mode": "Reserved car", "text": "From NJP or Bagdogra about 125–135 km via Malbazar, Chalsa and Birpara, three and a half to four hours, ₹4,000–5,000."},
+    {"mode": "Train", "text": "Dooars line trains from NJP or Siliguri Junction stop at Madarihat or Hasimara; four to five hours. Check the current timetable, then an auto or car to your lodge."},
+    {"mode": "Bus", "text": "Buses for Alipurduar, Falakata or Cooch Behar via Birpara pass Madarihat; ₹150–250, about five hours."},
+    {"mode": "From Lataguri", "text": "About 80–90 km, two to two and a half hours by car, ₹3,000–3,500."}
+  ],
+  "where_to_stay": "Madarihat has the WBTDC Jaldapara Tourist Lodge, a handful of private hotels and resorts on the highway, and homestays in the villages around, from about ₹1,500 to ₹4,000 a room. The forest corporation's small Mendabari Jungle Lodge and Malangi Lodge lie on the Chilapata and Kodalbasti side. Hollong, the old lodge inside the park, burned in June 2024; do not book anything claiming to be Hollong unless the forest department confirms it has reopened.",
+  "stays": ["dooars-jaldapara-tourist-lodge"],
+  "tips": [
+    "Book jeep safari slots online with the forest department as soon as your dates are fixed; winter weekends sell out.",
+    "Take the first morning slot; rhinos graze in the open grass before the heat.",
+    "Ask at the Madarihat forest office whether elephant safaris are running before you plan around them.",
+    "Totopara is a community, not a sight; go with respect and ask before photographing anyone.",
+    "Parks close from about 16 June to 15 September, and the October 2025 floods closed Jaldapara for a time; check current status before you travel."
+  ],
+  "themes": ["wildlife-birds", "family-trips", "photography", "long-weekends"],
+  "nearby": ["chilapata", "buxa", "jayanti", "lataguri"],
+  "experiences": [
+    {"slug": "jaldapara-dawn-jeep-safari", "title": "Dawn jeep safari for Jaldapara's rhinos",
+     "kind": "wildlife", "duration": "1.5–2 hours", "best_time": "First slot, Nov–Mar", "cost": "₹2,500–4,000 a jeep for up to 6 (indicative)",
+     "image_query": "Jaldapara jeep safari rhino grassland", "wiki": "",
+     "summary": "The first jeep safari of the day into Jaldapara's grassland gives the best chance of rhinos, grazing in the open before the sun gets high. Book online, report at Madarihat with ID and be ready in the cold.",
+     "body": ["Jaldapara's safaris run in fixed shifts, usually two or three in the morning and one in the afternoon, with timings that change with the season; in winter the first slot leaves around 6 am. You book online through the forest department, report at the counter in Madarihat with ID, and board a registered jeep with a guide for a route through grassland and forest.",
+              "The park's tall grass is the rhino's habitat. In the first hour, rhinos are often out in short grass along the tracks, in wet hollows or at the edge of the forest, and a calm animal at 30–50 m is a common winter sight. Gaur, hog deer, sambar, wild boar and peafowl are frequent; elephants and leopards are possible.",
+              "Wear layers in December and January, when open jeeps at 6 am are cold, and bring a scarf for dust. Keep voices low when animals are near and never ask the driver to go off the track. After the October 2025 floods some routes were damaged; check current status before you travel."],
+     "good_for": ["families", "photographers", "first-timers", "couples"],
+     "faqs": [
+       {"q": "How do I book a Jaldapara jeep safari?", "a": "Online through the West Bengal forest department's booking system, or at the Madarihat counter if seats remain. You pay for the jeep, entry, guide and fees, roughly ₹2,500–4,000 for a six-seat jeep in 2025–26 for Indian visitors. Bring the ID used for booking."},
+       {"q": "What is the chance of seeing a rhino at Jaldapara?", "a": "High in winter, especially on the first morning slot, because the park holds around 330 rhinos and they graze in open grass early. It is never guaranteed. Two safaris on different days improve your odds a great deal."},
+       {"q": "Which Jaldapara safari slot is best?", "a": "The first morning slot, when animals are active and the light is soft. The afternoon slot is good too, especially for elephants and gaur moving to water. Midday slots are hotter and quieter. Dress warmly for winter mornings."}
+     ]},
+    {"slug": "jaldapara-elephant-safari", "title": "Elephant safari into the tall grass",
+     "kind": "wildlife", "duration": "1 hour", "best_time": "Early morning, Nov–Mar, when running", "cost": "About ₹800–1,000 pp Indian nationals (indicative)",
+     "image_query": "Jaldapara elephant safari", "wiki": "",
+     "summary": "For decades the classic Jaldapara experience was a dawn ride on a forest department elephant into grass taller than a jeep, often to within a few metres of a rhino. It still runs in some seasons, with limited seats and changing rules.",
+     "body": ["Elephant safaris in Jaldapara used to start from Hollong, inside the park, where the forest lodge's guests had first claim on seats. Since Hollong burned in June 2024 and the floods of October 2025 hit the park, arrangements have changed, and the department has run, paused and relocated rides at different times. Ask at the Madarihat forest office and check current status before you travel.",
+              "When it runs, the ride is short, about an hour, and starts very early. Four people sit on a padded howdah while the mahout steers through the grass. Rhinos are usually calm around elephants, and the height lets you see over the grass in a way no jeep can. Hog deer, wild boar and peafowl scatter ahead.",
+              "Seats are few and go fast. Indian and foreign visitors pay different rates. If you have concerns about animal welfare, look at how the elephants are kept and worked, and choose for yourself; the jeep safari is a good alternative."],
+     "good_for": ["families", "photographers", "first-timers"],
+     "faqs": [
+       {"q": "Is the Jaldapara elephant safari running now?", "a": "It depends on the season and forest department decisions. After the Hollong fire in June 2024 and the October 2025 floods, rides were changed and at times suspended. Ask at the Madarihat forest office or the official booking site and check current status before you travel."},
+       {"q": "How much does the Jaldapara elephant safari cost?", "a": "Recent indicative rates have been about ₹800–1,000 per person for Indian nationals, more for foreign visitors, for a ride of about an hour. Rates and booking rules are revised often, so treat these numbers as a guide only."},
+       {"q": "Is the elephant safari safe for children?", "a": "Children over a certain age are usually allowed, sitting with an adult on the howdah. Rides are slow but rock from side to side. Hold children firmly, follow the mahout's instructions and skip it if your child is anxious around large animals."}
+     ]},
+    {"slug": "jaldapara-totopara-visit", "title": "Totopara and the Toto language",
+     "kind": "culture", "duration": "Half-day", "best_time": "Oct–Apr, morning", "cost": "Car ₹1,500–2,000; no entry fee",
+     "image_query": "Totopara village Alipurduar", "wiki": "Toto people",
+     "summary": "Totopara, about 22 km from Madarihat near the Bhutan border, is the home of the Toto, one of India's smallest communities, about 1,600 people with their own language. Visit with a local contact, slowly and respectfully, as you would any village.",
+     "body": ["The Toto live in and around Totopara, a village on the hills at the edge of the Dooars near the Bhutan border. Their language belongs to the Sino-Tibetan family and is spoken by fewer than 2,000 people, which makes it one of India's most endangered. In 2015 Dhaniram Toto, a writer and government employee from Totopara, introduced a script for it after about a decade of work, and in 2023 he received the Padma Shri for literature and education.",
+              "Totopara today is a village of farms, betel-nut and orange trees, schools and small shops, home also to Nepali-speaking families. It is not a museum. Go with a driver or guide who knows people there, walk the lanes, buy tea and snacks in the village shops and, if a resident invites conversation, ask about the language, the school and how life has changed.",
+              "Do not photograph people without asking, do not enter homes or shrines uninvited, and do not treat the visit as a show. The road crosses several river beds that can be cut by floods in the monsoon; check current status before you travel."],
+     "good_for": ["students", "solo", "couples"],
+     "faqs": [
+       {"q": "How do I visit Totopara from Jaldapara?", "a": "By car from Madarihat, about 22 km on a road that crosses several river beds; allow about an hour each way. A car for the half-day costs roughly ₹1,500–2,000. Go in the dry season, as the river crossings can be cut in the monsoon."},
+       {"q": "Is it appropriate to visit Totopara as a tourist?", "a": "Yes, if you visit as you would any village: quietly, respectfully and without treating people as an attraction. Go with a local contact, ask before taking photographs, spend money in local shops and avoid intrusive questions. Many visitors simply walk the lanes and have tea."},
+       {"q": "Who created the Toto script?", "a": "Dhaniram Toto, a writer from Totopara, worked on a script for the Toto language from around 2005 and introduced it in 2015. He was awarded the Padma Shri in 2023 for literature and education. The script has 37 characters."}
+     ]},
+    {"slug": "jaldapara-birpara-tea-garden-drive", "title": "Plains tea gardens around Birpara",
+     "kind": "tea", "duration": "2–3 hours", "best_time": "Morning, Mar–Nov plucking; Oct–Feb clear", "cost": "Car ₹1,200–1,800",
+     "image_query": "Birpara tea garden Dooars", "wiki": "",
+     "summary": "West of Madarihat, the highway runs through some of the Dooars' oldest plains tea gardens around Birpara and Banarhat. A morning drive with stops on the estate roads shows how flat-land CTC tea is grown under tall shade trees.",
+     "body": ["The Dooars tea industry started in 1874 at Gazaldoba and spread east along the foothills over the next decades, with gardens cut from forest and grassland and workers recruited from Chota Nagpur. Around Birpara and Banarhat, the gardens are big and flat, with lines of shade trees, drains and the garden lines where workers' families live.",
+              "In the plucking season, from about March to November, women and men move through the sections with baskets, and the factories run long hours, mostly making CTC tea for the Indian market. Stop at a roadside stall for a glass of milky tea from the gardens around you, and ask the stall-keeper which garden is which.",
+              "Gardens are private workplaces. Stay on public roads and estate roads where walking is clearly allowed, ask before photographing anyone, and do not enter factories or the garden lines without an invitation. In August or September, Karam is celebrated in many of these gardens."],
+     "good_for": ["photographers", "couples", "students"],
+     "faqs": [
+       {"q": "Can we visit a tea factory near Jaldapara?", "a": "There is no regular public factory tour in this belt. Some gardens let visitors in on request during manufacturing, depending on the manager and the day's work. Ask your lodge to enquire. Never walk into a factory or the labour lines unannounced."},
+       {"q": "What tea is grown around Birpara?", "a": "Mostly CTC, the strong, granular tea used for Indian milk chai, with some orthodox leaf tea. Gardens here grow on flat land at low altitude, unlike Darjeeling's steep hill gardens, and produce large volumes for the Indian market."},
+       {"q": "When is the best season to see tea plucking?", "a": "From about March to November, with busy flushes in spring and the monsoon months. Parks are closed from mid-June to mid-September, so March to early June and October to November combine tea and wildlife best."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "How many rhinos are in Jaldapara?", "a": "The forest department's March 2025 estimate was about 331 one-horned rhinos, in a range of 327–334, up from 287 in the previous count. That makes Jaldapara the largest rhino population in India after Kaziranga. The October 2025 floods may have changed numbers slightly."},
+    {"q": "When is Jaldapara National Park closed?", "a": "Every monsoon, usually from 16 June to 15 September. The park was also closed for a time after the October 2025 floods damaged roads and bridges. Check current status with the forest department before you travel."},
+    {"q": "Is Hollong lodge open?", "a": "Hollong, the wooden forest lodge inside Jaldapara, was gutted by fire on 18 June 2024. Reports have discussed rebuilding, but we have not confirmed that it is open again. Do not book any property advertised as Hollong without confirming with the forest department."},
+    {"q": "Where should I stay for Jaldapara?", "a": "Madarihat, at the park's western edge, has the WBTDC Jaldapara Tourist Lodge, private hotels and homestays from about ₹1,500 to ₹4,000 a room. On the Chilapata side, the forest corporation's Mendabari and Malangi lodges are quieter. Hasimara has a few budget hotels near the station."},
+    {"q": "How much does a Jaldapara safari cost?", "a": "A six-seat jeep with entry, guide and fees costs roughly ₹2,500–4,000 for Indian visitors in 2025–26, or about ₹450–700 a seat when shared. The elephant safari, when running, is about ₹800–1,000 per person for Indians. Rates change often."},
+    {"q": "How many days are needed for Jaldapara?", "a": "Two nights is ideal: one evening and two morning safaris, or a safari plus Totopara or Chilapata. Add a night for Buxa or Jayanti, an hour or two east. One night with a single safari is possible but rushed."},
+    {"q": "Is Jaldapara better than Gorumara?", "a": "For rhinos, Jaldapara is larger with about five times as many. Gorumara is closer to Siliguri and uses watchtowers. Doing both on a four-night trip is the classic Dooars plan."},
+    {"q": "Can foreigners visit Jaldapara?", "a": "Yes. Foreign nationals pay higher entry and safari fees and must show passports. No special permit is needed for Jaldapara itself. Totopara and areas near the Bhutan border may involve ID checks; carry your passport."},
+    {"q": "What is the best time to visit Jaldapara?", "a": "November to March, when grass is shorter after burning and cutting, mornings are cool and animals are easier to see. March and April are good for rhinos but hotter. October can be wet and the grass tall."}
+  ]
+}

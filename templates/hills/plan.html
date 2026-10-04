@@ -1,0 +1,42 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Get an honest quote for Darjeeling, Sikkim or the Dooars · Darjeeling Himalayas{% endblock %}
+{% block description %}Tell us where, when and roughly what you want to spend. A local planner replies within one working day with a route and a line-by-line cost.{% endblock %}
+{% block cta %}{% endblock %}
+{% block content %}
+<section class="sec--tight">
+  <div class="wrap split">
+    <div>
+      <p class="eyebrow">Get my honest quote</p>
+      <h1 class="h-1">Three short steps, then a priced route</h1>
+      <p class="lede" style="margin-top:16px">A planner who lives in these hills reads every request. You get a route and a cost with every line written out, usually within one working day. No payment to start.</p>
+      <ul class="ticks" style="margin-top:24px"><li>Shared jeeps or a car of your own, your choice</li><li>Homestays and lodges we know</li><li>Permits arranged where an agent can apply</li><li>Change anything until you book</li></ul>
+    </div>
+    <form class="wizard form" method="post" action="{% url 'plan' %}" data-wizard data-cta-form="plan-wizard" novalidate>
+      {% csrf_token %}
+      {{ form.source_page }}{{ form.kind }}
+      <input type="text" name="website" class="honey" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <ol class="wizard__steps"><li class="is-on">Where and when</li><li>Who and how</li><li>Your details</li></ol>
+      <div class="wizard__bar"><span></span></div>
+      {% if form.non_field_errors %}<ul class="errorlist">{% for e in form.non_field_errors %}<li>{{ e }}</li>{% endfor %}</ul>{% endif %}
+      <div class="wizard__step is-on">
+        <fieldset style="border:0;padding:0;margin:0"><legend class="h-s" style="margin-bottom:10px">Which hills? <small class="muted">(any number)</small></legend><div class="checks">{% for c in form.lands %}<label>{{ c.tag }}{{ c.choice_label }}</label>{% endfor %}</div></fieldset>
+        <div class="form__row"><div class="field">{{ form.month.label_tag }}{{ form.month }}</div><div class="field">{{ form.nights.label_tag }}{{ form.nights }}</div></div>
+        <div class="wizard__nav"><span></span><button class="btn btn--ink" type="button" data-next>Next {% icon "arrow" %}</button></div>
+      </div>
+      <div class="wizard__step">
+        <div class="form__row"><div class="field">{{ form.travellers.label_tag }}{{ form.travellers }}</div><div class="field">{{ form.budget.label_tag }}{{ form.budget }}</div></div>
+        <div class="field">{{ form.message.label_tag }}{{ form.message }}</div>
+        <div class="wizard__nav"><button class="btn btn--ghost" type="button" data-prev>Back</button><button class="btn btn--ink" type="button" data-next>Next {% icon "arrow" %}</button></div>
+      </div>
+      <div class="wizard__step">
+        <div class="field">{{ form.name.label_tag }}{{ form.name }}{{ form.name.errors }}</div>
+        <div class="form__row"><div class="field">{{ form.email.label_tag }}{{ form.email }}{{ form.email.errors }}</div><div class="field">{{ form.phone.label_tag }}{{ form.phone }}</div></div>
+        <fieldset style="border:0;padding:0;margin:0"><legend class="h-s" style="margin-bottom:10px">Best way to reach you</legend><div class="checks">{% for c in form.contact_pref %}<label>{{ c.tag }}{{ c.choice_label }}</label>{% endfor %}</div></fieldset>
+        <div class="wizard__nav"><button class="btn btn--ghost" type="button" data-prev>Back</button><button class="btn btn--foil" type="submit" data-cta="plan-submit">Send me the real cost</button></div>
+        <p class="small muted">We use your details only to plan this trip. See our <a href="{% url 'policy' 'privacy' %}">privacy policy</a>.</p>
+      </div>
+    </form>
+  </div>
+</section>
+{% include "hills/partials/trust.html" %}
+{% endblock %}

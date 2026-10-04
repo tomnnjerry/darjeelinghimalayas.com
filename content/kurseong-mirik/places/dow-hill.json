@@ -1,0 +1,122 @@
+{
+  "slug": "dow-hill", "name": "Dow Hill", "name_local": "", "region": "kurseong-mirik",
+  "kind": "forest village",
+  "wiki": "Dow Hill", "image_query": "Dow Hill Kurseong forest road",
+  "lat": 26.89, "lng": 88.27, "altitude_m": 1900,
+  "tagline": "Old schools, tall pines and Kurseong's favourite ghost stories",
+  "meta_description": "Dow Hill, Kurseong: the 1879 Victoria Boys' School, Dow Hill School, forest walks to Chimney and the local ghost lore, with walking times and costs.",
+  "summary": "Dow Hill is the forested ridge above Kurseong, about 3–5 km from the bazaar at roughly 1,900 m. It holds two old boarding schools, Victoria Boys' School (1879) and Dow Hill School, a quiet forest road that continues to Chimney, and Kurseong's best-known ghost stories. Walking is free; a car up costs ₹400–600.",
+  "local_story": {"title": "Sir Ashley Eden's school and the road of whispers", "paras": [
+    "In 1879 Sir Ashley Eden, then Lieutenant-Governor of Bengal, wanted a hill school for the children of government servants of modest income, the clerks and railway staff of the province. The result was Victoria School on Dow Hill, now Victoria Boys' School, built in the cool forest above Kurseong. A girls' school followed on the same ridge in the late nineteenth century and grew into Dow Hill School. Both are still working boarding schools, and their stone buildings and chapels set the tone of the hill.",
+    "The forest between and around the schools gave Dow Hill a second reputation. The local story, told by drivers and shopkeepers rather than any record, is of a headless boy seen walking into the trees, footsteps in empty school corridors in the winter holidays, and a stretch of road between the two schools that people call the 'death road'. Newspapers have written about the ghost stories drawing visitors. We tell them as lore: what is real is the deep, quiet forest of tall conifers and the mist that rolls through it most afternoons."
+  ]},
+  "did_you_know": [
+    "Victoria Boys' School on Dow Hill was founded in 1879 at the wish of Sir Ashley Eden, Lieutenant-Governor of Bengal, for children of government servants of modest income.",
+    "The forest road over Dow Hill follows the line of the old road to Darjeeling, on which a dak bungalow stood at Chimney from about 1839.",
+    "Both Dow Hill schools are working boarding schools; visitors may not enter the campuses without permission, but the public road passes their gates."
+  ],
+  "intro": [
+    "Dow Hill starts where Kurseong's houses thin out. The road climbs from the town through a forest of tall conifers, with moss on the trunks and ferns in the cuttings, to the gates of Victoria Boys' School and, further on, Dow Hill School. Beyond them the road carries on to Chimney and Bagora, one of the quietest drives in the Darjeeling hills.",
+    "It is a place for walking, not sightseeing. There is no entry fee and little to buy. Most people come for a few hours from Kurseong, often for the ghost stories that local guides and drivers like to tell. We prefer the forest itself: the light in the pines at 7 am, the calls of laughingthrushes, and the mist that often comes up from the valley after lunch. Walk up and take a jeep back, or walk on to Chimney."
+  ],
+  "facts": [["Best months", "Oct – Dec · Mar – May"], ["Nights we suggest", "Day trip from Kurseong"], ["From Siliguri", "≈ 40–55 km · 2–2.5 h"], ["Altitude", "≈ 1,900 m"], ["Known for", "Old schools, conifer forest, ghost lore"], ["Network", "Jio and Airtel patchy in the forest"]],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "nights": "Day trip",
+  "costs": [["Walk from Kurseong bazaar", "Free"], ["Car from Kurseong, one way", "₹400–600"], ["Car to Dow Hill and Chimney, half day", "₹1,200–1,800"], ["Tea and biscuits at a roadside stall", "₹30–60"], ["Local walking guide, half day", "₹800–1,200"]],
+  "highlights": [
+    {"title": "Victoria Boys' School gates", "text": "The school founded in 1879 sits in its forest with stone buildings and a chapel. The campus is private, but the road past the gates gives a good view of the old blocks, and on weekdays you hear the bells and drills of a boarding school."},
+    {"title": "Dow Hill School", "text": "The girls' boarding school further along the ridge, dating from the late nineteenth century. Like Victoria, it is closed to casual visitors; respect the gates and the privacy of students and staff."},
+    {"title": "The forest road", "text": "A quiet road under tall conifers, about 5 km from Kurseong to the schools, with moss, ferns and mist. Good for walking at any pace, and one of the coolest places near Kurseong in April and May."},
+    {"title": "Ghost lore", "text": "The headless boy, the footsteps in empty corridors, the 'death road' between the schools. These are local stories, not history, but they are part of how Kurseong talks about the hill, and drivers will tell them if you ask."},
+    {"title": "Onward to Chimney", "text": "The road continues over the ridge to Chimney, where a lone brick chimney of an old dak bungalow still stands. Walk it in about 1.5–2 hours from the schools, or drive in 20 minutes."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Kurseong bazaar walk up past the post office towards Dow Hill Road. It is about 3–5 km and 1–1.5 hours uphill to the schools, on a road with light traffic. Come back the same way or continue to Chimney."},
+    {"mode": "Reserved car", "text": "A Kurseong taxi costs about ₹400–600 one way to the schools, or ₹1,200–1,800 for a half-day loop to Dow Hill, Chimney and back. Ask the driver to wait at the forest stretches for photographs."},
+    {"mode": "Shared jeep", "text": "A few local jeeps run between Kurseong and Bagora via Dow Hill and Chimney, mostly in the morning and late afternoon. Ask at the Kurseong stand; fares are small, around ₹30–60."}
+  ],
+  "where_to_stay": "There are no tourist hotels on Dow Hill itself, and the schools take no guests. Stay in Kurseong, 3–5 km below, at the WBTDC Tourist Lodge or a family hotel near the station, and walk up in the morning. For a quieter night in the same forest, stay in the homestays of Chimney village further along the road, which cost about ₹1,200–1,800 per person with meals.",
+  "stays": [],
+  "tips": [
+    "Walk up in the morning; mist and early dusk make the forest dim by 4 pm in winter.",
+    "Do not enter the school campuses or photograph students without permission.",
+    "Carry a light rain jacket; the hill makes its own weather even in dry months.",
+    "Leeches appear on forest paths in the monsoon, so stick to the road from June to September.",
+    "If you want the ghost stories, ask a Kurseong driver or homestay host, not the schools."
+  ],
+  "themes": ["treks", "photography", "family-trips", "long-weekends"],
+  "nearby": ["kurseong", "chimney", "makaibari"],
+  "experiences": [
+    {"slug": "dow-hill-forest-road-walk", "title": "Walk the Dow Hill forest road",
+     "kind": "trek", "duration": "3 hours", "best_time": "7–10 am, Oct–May", "cost": "Free · ₹400–600 for a car back",
+     "image_query": "Dow Hill forest Kurseong pine", "wiki": "",
+     "summary": "Walk 5 km from Kurseong bazaar up through the conifer forest to the gates of the old schools. A gentle climb of about 400 m on a quiet road, with moss, ferns and birds all the way.",
+     "body": [
+       "Leave Kurseong bazaar by 7 am and follow the signs for Dow Hill Road. The first kilometre passes houses, small shops and school buses; then the forest closes in. The tall conifers here were planted and managed by the forest department over the last century, and the road runs under them in long bends, rarely steep, rarely busy.",
+       "Keep an eye on the trees for laughingthrushes, minivets and drongos, and on the cuttings for ferns and small orchids in spring. In the dry months the light comes through the trunks at a low angle until about 9 am, which is the best time for photographs.",
+       "At the top you reach the gates of Victoria Boys' School and then Dow Hill School. Turn back here for a half-day, or walk on to Chimney, about 1.5–2 hours further."
+     ],
+     "good_for": ["solo", "couples", "photographers", "students"],
+     "faqs": [
+       {"q": "How difficult is the Dow Hill walk?", "a": "It is an easy to moderate road walk of about 5 km with roughly 400 m of climb. Most people take 1–1.5 hours up with stops. Wear proper shoes, carry water and a light jacket, and avoid the forest stretches after dark."},
+       {"q": "Can I walk from Dow Hill to Chimney?", "a": "Yes. The road continues over the ridge from the schools to Chimney village, about 1.5–2 hours more on foot. From Chimney you can take a local jeep or a booked taxi back to Kurseong, or carry on to Bagora."},
+       {"q": "Is the Dow Hill forest safe to walk alone?", "a": "In daylight the road is used by locals, school staff and vehicles, and walkers rarely have trouble. It becomes lonely and dark early in winter evenings. Walk in the morning, tell your hotel where you are going, and keep to the road rather than forest paths."}
+     ]},
+    {"slug": "dow-hill-ghost-lore-drive", "title": "Dow Hill ghost lore by daylight",
+     "kind": "culture", "duration": "2 hours", "best_time": "3–5 pm, Oct–Apr", "cost": "₹800–1,200 for a car with a local driver",
+     "image_query": "Dow Hill road mist Kurseong", "wiki": "",
+     "summary": "Ride the 'death road' between the two schools with a Kurseong driver who knows the stories. Lore, not history, told on the spot where it is set, and back in town before dark.",
+     "body": [
+       "Dow Hill has had a reputation as one of the most haunted places in Bengal for decades, and you will hear the stories within an hour of arriving in Kurseong. The headless boy who walks into the trees; footsteps in the empty corridors of the schools in the winter holidays; a woman in grey on the road. None of it is recorded history. It is the folklore of a misty forest ridge with two old boarding schools on it.",
+       "The best way to hear it is from a Kurseong driver or homestay host on the road itself, in the late afternoon when the mist comes up. Stop at the stretch between the schools that locals call the death road, listen, and look at the forest.",
+       "Be respectful. The schools are home to students and staff, not a tourist attraction. Do not enter the campuses, fly drones or film people, and be back in Kurseong by dusk."
+     ],
+     "good_for": ["students", "couples", "solo"],
+     "faqs": [
+       {"q": "Is Dow Hill really haunted?", "a": "There is no evidence that it is. The ghost stories of Dow Hill, such as the headless boy and the footsteps in the school corridors, are local folklore that has grown over decades and been repeated in newspapers. What is real is a dense, quiet forest that fills with mist most afternoons."},
+       {"q": "What is the 'death road' at Dow Hill?", "a": "It is the local name for the stretch of forest road between Dow Hill School and Victoria Boys' School, where many of the ghost stories are set. It is an ordinary public road in daylight. Drive or walk it carefully because of bends and mist, and avoid it alone after dark."},
+       {"q": "Can I visit the Dow Hill schools?", "a": "Not without permission. Victoria Boys' School and Dow Hill School are working boarding schools, and their campuses are private. You can see the buildings from the public road. Former students sometimes arrange visits through the school offices; casual visitors should stay outside the gates."}
+     ]},
+    {"slug": "dow-hill-victoria-school-heritage", "title": "Victoria School and the 1879 ridge",
+     "kind": "culture", "duration": "1 hour", "best_time": "Morning, Oct–May", "cost": "Free",
+     "image_query": "Victoria Boys School Kurseong", "wiki": "Victoria Boys' School",
+     "summary": "See from the road the boarding school that Sir Ashley Eden founded in 1879, and read the hill as a piece of colonial social history: schools built for clerks' and railwaymen's children, not only for the rich.",
+     "body": [
+       "Many hill schools in India were founded for the children of the wealthy. Victoria School was different in intent. In 1879 Sir Ashley Eden, Lieutenant-Governor of Bengal, wanted a school in the hills for the children of government servants of modest income, many of them Anglo-Indian families working on the railways, the telegraphs and in the offices of Calcutta.",
+       "The school was built on Dow Hill, in the forest above Kurseong, where the climate was thought healthier than the plains. A girls' school followed on the same ridge. Over the next century both became well-known boarding schools, and they still are.",
+       "Stand at the public road and look at the stone blocks and the chapel through the trees. It is a short stop, best combined with the forest walk or the drive to Chimney."
+     ],
+     "good_for": ["students", "seniors", "families"],
+     "faqs": [
+       {"q": "When was Victoria Boys' School founded?", "a": "In 1879, at the wish of Sir Ashley Eden, then Lieutenant-Governor of Bengal. It was meant for the children of government servants of modest income. It is still a working boarding school on Dow Hill, run by the state, and is not open to casual visitors."},
+       {"q": "Can tourists go inside Victoria Boys' School?", "a": "No, not without permission. It is a working boarding school, and the campus is private. You can see the buildings from the public road. Please do not photograph students or try to enter the grounds."},
+       {"q": "How far is Victoria Boys' School from Kurseong?", "a": "It is about 4–5 km from Kurseong bazaar up the Dow Hill road, 1–1.5 hours on foot or 15 minutes by car. A Kurseong taxi costs about ₹400–600 one way. The road carries on to Dow Hill School and then Chimney."}
+     ]},
+    {"slug": "dow-hill-dawn-birding", "title": "Dawn birding in the Dow Hill forest",
+     "kind": "wildlife", "duration": "2.5 hours", "best_time": "6–8.30 am, Mar–May and Oct–Nov", "cost": "Free · guide ₹800–1,200",
+     "image_query": "laughingthrush Darjeeling forest bird", "wiki": "",
+     "summary": "Walk the quiet forest road at first light with binoculars. Mixed flocks of tits, minivets, laughingthrushes and woodpeckers move through the conifers; spring brings song and nesting.",
+     "body": [
+       "Mid-elevation forest around 1,900 m is good bird country, and Dow Hill's road gives you easy, level walking with views into the canopy. In the first two hours after sunrise, mixed feeding flocks move through the trees: tits, warblers, nuthatches, minivets in red and yellow pairs, and laughingthrushes calling from the undergrowth.",
+       "You do not need a guide to enjoy it, but a local birder will find twice as many species. Ask at Kurseong homestays or the Latpanchar birding guides, who sometimes work this side too. Expect to pay ₹800–1,200 for a morning.",
+       "Walk slowly and quietly, stop often and scan the bends where the forest opens. Spring, March to May, brings song and breeding; October and November bring clear light and winter visitors from higher up."
+     ],
+     "good_for": ["photographers", "solo", "seniors"],
+     "faqs": [
+       {"q": "What birds can I see at Dow Hill?", "a": "Typical mid-hill forest birds: laughingthrushes, minivets, tits, nuthatches, warblers, drongos and woodpeckers, with sunbirds where there are flowers. Sightings vary with season and luck. For hornbills and a longer list, go on to Latpanchar in Mahananda Wildlife Sanctuary."},
+       {"q": "Do I need a guide for birding at Dow Hill?", "a": "No. The road is public and easy to walk alone. A local guide, about ₹800–1,200 for a morning, helps you find and identify far more birds by call. Bring binoculars; they are hard to rent in Kurseong."},
+       {"q": "When is the best season for birding near Kurseong?", "a": "March to May, when birds sing and breed, and October to November, when the light is clear and some higher-altitude species come down. The monsoon is wet and leech-heavy, though the forest is lush. Go early in the morning in any season."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "Where is Dow Hill?", "a": "Dow Hill is the forested ridge directly above Kurseong town in Darjeeling district, about 3–5 km from the bazaar by road. It holds Victoria Boys' School and Dow Hill School. The road continues over the ridge to Chimney and Bagora."},
+    {"q": "Is Dow Hill worth visiting?", "a": "Yes, as a half-day walk or drive from Kurseong. Come for the conifer forest, the old school buildings seen from the road and the views when the mist lifts. If you come only for ghosts you may be disappointed; if you come for a quiet forest road, you will not."},
+    {"q": "Why is Dow Hill called haunted?", "a": "Local folklore tells of a headless boy in the forest, footsteps in the empty school corridors and a 'death road' between the schools. These are stories, not documented events, but newspapers and travel shows have repeated them. The misty conifer forest makes it easy to see why the stories grew."},
+    {"q": "How do I reach Dow Hill from Kurseong?", "a": "Walk up from Kurseong bazaar along Dow Hill Road in about 1–1.5 hours, or take a taxi for ₹400–600 one way. A few local jeeps run towards Bagora via Dow Hill and Chimney, mainly morning and late afternoon. There is no toy train station on Dow Hill."},
+    {"q": "Can I stay at Dow Hill?", "a": "There are no tourist hotels on the ridge itself, and the schools do not take guests. Stay in Kurseong and walk up, or stay further along the road in the homestays of Chimney village, which offer rooms with meals for about ₹1,200–1,800 per person."},
+    {"q": "What is the best time to visit Dow Hill?", "a": "October to December for dry roads and clear mornings, and March to May for spring flowers and birdsong. Go in the morning; mist often rolls in after lunch. From June to September the forest is beautiful but wet, with leeches on the paths and slippery roads."},
+    {"q": "Can I combine Dow Hill and Chimney in one day?", "a": "Yes, easily. Walk or drive up to the Dow Hill schools in the morning, continue over the ridge to Chimney for lunch at a homestay, and return to Kurseong by taxi or jeep. A car for the whole half-day loop costs about ₹1,200–1,800."},
+    {"q": "Are the Dow Hill schools open to visitors?", "a": "No. Victoria Boys' School and Dow Hill School are working boarding schools with private campuses. You can see the buildings from the public road. Do not enter without permission and do not photograph students."},
+    {"q": "Is Dow Hill good for families?", "a": "Yes, as a gentle road walk or a short drive. Children usually enjoy the ghost stories and the forest. Keep them close on the road, which has bends and some traffic, and plan to be back in Kurseong before dusk, around 4.30 pm in winter."}
+  ]
+}

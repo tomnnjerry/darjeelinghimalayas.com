@@ -1,0 +1,68 @@
+{
+  "slug": "darjeeling-tea-and-tagore-4n",
+  "title": "Darjeeling tea and Tagore's Mungpoo",
+  "region": "darjeeling",
+  "nights": 4,
+  "themes": ["tea-country", "toy-train", "kanchenjunga-views", "homestays"],
+  "tier": "Value",
+  "travel_mode": "Mixed",
+  "stops": [{"place": "darjeeling", "nights": 3}, {"place": "mungpoo", "nights": 1}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 16000,
+  "cost_split": [
+    {"item": "Reserved car shares: NJP to Darjeeling, on to Mungpoo, down to NJP", "inr": 5500},
+    {"item": "Darjeeling hotel, 3 nights with breakfast", "inr": 3900},
+    {"item": "Mungpoo homestay with dinner and breakfast", "inr": 2000},
+    {"item": "Tiger Hill seat, diesel joyride and entry fees", "inr": 1900},
+    {"item": "Lunches, dinners in town and tea tastings", "inr": 2700}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2567,
+  "meta_description": "4 nights from ₹16,000: Darjeeling tea, Tiger Hill, the toy train and a night at Mungpoo, where Tagore stayed four times and quinine was made from 1864.",
+  "summary": "Two stories in one trip: how a doctor's garden of China seeds became Darjeeling tea, and why Rabindranath Tagore kept coming back to a quinine-factory village called Mungpoo. Three nights in Darjeeling with Tiger Hill and the toy train, one night in Mungpoo, then down by the Teesta. About ₹16,000 per person.",
+  "intro": [
+    "Darjeeling tea begins with Dr Archibald Campbell, superintendent from 1839, who planted China tea seeds in his garden at Beechwood around 1841. Commercial gardens followed from 1852, at Tukvar, Steinthal and Aloobari, and today about 87 gardens grow the only tea allowed to carry the Darjeeling name, India's first product to receive a Geographical Indication tag, in 2004. Mungpoo, about 33 km away, grew a different crop: cinchona, the source of quinine, on a government plantation and factory that began in 1864, the first in India.",
+    "Tagore came to Mungpoo as the guest of Maitreyi Devi and her husband Dr Manmohan Sen, the chemist in charge of the quinine factory. He stayed four times between May 1938 and 1940, and in 1940 his birthday was celebrated there. Maitreyi Devi later wrote about those visits in Mongpute Rabindranath, published in English as Tagore by the Fireside. The house is now the Rabindra Bhavan museum, with his furniture, photographs and letters. We give you three Darjeeling days for tea, dawn and the toy train, then a quiet night in his village."
+  ],
+  "highlights": [
+    "The Darjeeling tea story, from Campbell's Beechwood garden to 87 estates",
+    "Kanchenjunga at dawn from Tiger Hill",
+    "The diesel joyride round the Batasia Loop to Ghoom",
+    "Rabindra Bhavan, Tagore's rooms at Mungpoo",
+    "Mungpoo's cinchona plantation, India's first, from 1864"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Darjeeling", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 70 km · 3 h by reserved car", "text": "Share a reserved car from NJP or Bagdogra, ₹3,000–4,000 for a small car, up the Hill Cart Road through Kurseong and Ghoom. Ask the driver to stop at a tea garden lay-by below Kurseong to see the bushes clipped to waist height on slopes you would not try to walk. Check in near Chowrasta. In the evening, order a pot of first or second flush Darjeeling at a tea room on the Mall, ₹40–150 depending on the grade, and taste the difference from the tea you drink at home.", "meals": "On your own", "spend": "₹1,500–2,000 car share + ₹150 tea"},
+    {"day": 2, "title": "Tiger Hill and Happy Valley tea", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 22 km return · shared jeep seat at about 4 am", "text": "Take a shared seat to Tiger Hill, 2,567 m, for the dawn over Kanchenjunga, and come back via Ghoom monastery. After breakfast walk down Lebong Cart Road to Happy Valley Tea Estate, one of the older gardens, a short walk from town. From March to November the bushes are plucked and the factory works on many days, though visits depend on the day's schedule: check current status before you travel. Ask about withering, rolling and firing, and compare first flush, light and floral, with the darker second flush.", "meals": "Breakfast", "spend": "₹250–400 Tiger Hill seat + fees + tea tasting"},
+    {"day": 3, "title": "Toy train and the old town", "place": "darjeeling", "overnight": "Darjeeling", "drive": "", "text": "Take the diesel joyride, roughly ₹1,000–1,300 on IRCTC, round the Batasia Loop to Ghoom and back, about two hours. Then walk the old town: the Himalayan Mountaineering Institute and zoo, the Mahakal shrine on Observatory Hill, and Chowrasta's statue of Bhanubhakta Acharya. In the evening, buy tea to carry home from a shop on Nehru Road, and check that the packet carries the Darjeeling logo and garden name. Pack light for tomorrow: Mungpoo homestays are simple.", "meals": "Breakfast", "spend": "₹1,000–1,300 joyride + ₹100–150 HMI and zoo"},
+    {"day": 4, "title": "Darjeeling to Tagore's Mungpoo", "place": "mungpoo", "overnight": "Mungpoo", "drive": "≈ 33 km · about 2 h by reserved car", "text": "Drive to Mungpoo by the hill road your driver says is open, through forest and cinchona slopes. Visit Rabindra Bhavan, the house where Tagore stayed with Maitreyi Devi and Dr Manmohan Sen: his furniture, photographs, paintings and letters are kept there. It has been closed for repair at times, so check current status before you travel. Then walk the lanes of the plantation, begun in 1864 and now run by the state Directorate of Cinchona and Other Medicinal Plants. Sleep in a village homestay.", "meals": "Breakfast, dinner", "spend": "₹1,500–1,800 car share + small museum donation"},
+    {"day": 5, "title": "Down by the Teesta to NJP", "place": "mungpoo", "overnight": "", "drive": "≈ 70 km · 3 h by reserved car via Rambi and Sevoke", "text": "After an early breakfast, drive down to Rambi on the Teesta and follow the river south past Sevoke to Siliguri. Teesta valley roads have had long closures and diversions since the October 2023 flood, so check current status before you travel; if the river road is shut, your driver will go back over the hills to the Hill Cart Road, which adds an hour or more. Stop at Sevoke's Coronation Bridge viewpoint if time allows, and reach NJP by early afternoon.", "meals": "Breakfast", "spend": "₹1,750–2,000 car share + ₹200 lunch"}
+  ],
+  "stays": ["darjeeling-dekeling-hotel", "darjeeling-maple-tourist-lodge"],
+  "includes": ["Reserved car shares on the three road legs", "Darjeeling hotel, 3 nights with breakfast, twin sharing", "Mungpoo homestay with dinner and breakfast", "Shared Tiger Hill seat", "Diesel joyride", "Entry fees and a museum donation"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Steam joyride upgrade", "Tea bought to take home", "Ropeway", "Tips"],
+  "save_money": [
+    "Taste tea in the town's tea rooms by the pot rather than paying for packaged estate tours; the shop staff will often explain the flushes for free.",
+    "Buy tea in small packs from shops that name the garden and the flush; large boxes sold on the Mall are often blends and cost more per gram.",
+    "Share the Mungpoo car with another couple from your hotel: the per-car fare is the same for two or four."
+  ],
+  "good_to_know": [
+    "Rabindra Bhavan has been under repair at times; check current status before you travel.",
+    "Teesta valley roads, including the river road below Mungpoo, have had long closures since October 2023: check current status before you travel.",
+    "Tea factories work mainly from March to November; in winter many are quiet.",
+    "Mungpoo is about 900 m lower than Darjeeling and noticeably warmer; carry a light layer as well as winter wear."
+  ],
+  "faqs": [
+    {"q": "Why did Tagore go to Mungpoo?", "a": "He went as the guest of Maitreyi Devi and her husband Dr Manmohan Sen, who was the chemist in charge of the government quinine factory. Tagore stayed there in May–June 1938, twice in 1939, and from 21 April 1940, when his birthday was celebrated in the house. Maitreyi Devi wrote about these visits in Mongpute Rabindranath, known in English as Tagore by the Fireside."},
+    {"q": "What can I see at Rabindra Bhavan?", "a": "The house where Tagore stayed is now a small museum, Rabindra Bhavan, keeping furniture he used, photographs, some of his paintings and letters. It is modest and quiet, which suits it. The museum has been closed for repairs at times, so check current status before you travel. Leave a small donation and ask before taking photographs inside."},
+    {"q": "What is the cinchona plantation at Mungpoo?", "a": "Mungpoo has a government cinchona plantation and quinine factory begun in 1864, the first in India, set up to make the anti-malaria drug. It is run today by the West Bengal Directorate of Cinchona and Other Medicinal Plants. You can walk the plantation lanes and see the slopes of cinchona trees; factory access depends on permission."},
+    {"q": "How much does this 4-night trip cost?", "a": "About ₹16,000 per person, twin sharing, from NJP back to NJP, indicative for 2025–26. That covers reserved car shares on the three road legs, three nights in a Darjeeling hotel with breakfast, a Mungpoo homestay with meals, a Tiger Hill seat, a diesel joyride, entry fees and food. Peak weeks raise hotel rates."},
+    {"q": "Can I visit a tea factory in Darjeeling?", "a": "Usually, between March and November, when the gardens pluck and process. Happy Valley Tea Estate is a short walk from town and is the easiest for visitors. Factory visits depend on the day's work and estate rules, and some charge a small fee. Check current status before you travel, and go in the morning when the machines are running."},
+    {"q": "What is the difference between first and second flush?", "a": "First flush is the spring picking, roughly March to April: light, bright and floral. Second flush, roughly May to June, is fuller and darker with the muscatel note Darjeeling is known for. Autumn flush teas come after the monsoon. Taste them side by side in a tea room before you buy."},
+    {"q": "Is the Teesta road to NJP open?", "a": "Roads along the Teesta, including NH10 below Mungpoo, have had long closures and diversions since the October 2023 flood. Some stretches reopen and close again with rain and repairs. Check current status before you travel. If the river road is shut, your driver returns over the hills to the Hill Cart Road, which adds an hour or more."},
+    {"q": "Where do I stay in Mungpoo?", "a": "Mungpoo has a handful of simple village homestays rather than hotels, usually charging about ₹1,500–2,500 per person with dinner and breakfast. Rooms are basic and clean, and meals are home-cooked. We do not name one because they change hands; book through a trusted contact and confirm hot water and the road to the door."},
+    {"q": "Can I visit Mungpoo for Tagore's birthday?", "a": "Yes. Rabindra Jayanti, on 25 Baishakh in the Bengali calendar, usually in early May, is marked at Mungpoo with songs and readings. The village fills with visitors from Bengal that day, so book your homestay early. The date moves slightly each year in the Gregorian calendar, so check current status before you travel."}
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "kalimpong-icchey-ramdhura-village-walks-4n",
+  "title": "Icchey Gaon and Ramdhura village walks",
+  "region": "kalimpong",
+  "nights": 4,
+  "themes": ["homestays", "wildlife-birds", "kanchenjunga-views"],
+  "tier": "Value",
+  "travel_mode": "Mixed",
+  "stops": [{"place": "kalimpong", "nights": 1}, {"place": "ramdhura", "nights": 1}, {"place": "icchey-gaon", "nights": 2}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 15500,
+  "cost_split": [
+    {"item": "Shared jeep up, local cars and a reserved car down, per person share", "inr": 4700},
+    {"item": "Holumba Haven in Kalimpong, 1 night, half a double room", "inr": 1800},
+    {"item": "Village homestays at Ramdhura and Icchey Gaon, 3 nights with dinner and breakfast", "inr": 6200},
+    {"item": "Lunches, a Kalimpong dinner, tea and snacks", "inr": 1800},
+    {"item": "Local guide for the Damsang walk and monastery donations", "inr": 1000}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 1770,
+  "meta_description": "4 nights from ₹15,500: an orchid nursery guesthouse in Kalimpong, then Ramdhura and Icchey Gaon homestays, a Kanchenjunga dawn and a walk to Damsang fort.",
+  "summary": "Four nights for about ₹15,500 per person, twin sharing. A night in an orchid-nursery guesthouse in Kalimpong, then out past Deolo to Ramdhura at about 1,525 m for a Kanchenjunga sunrise, a 2.5 km walk to Icchey Gaon at about 1,770 m, and a guided walk to the Lepcha fort ruins at Damsang.",
+  "intro": [
+    "Ramdhura and Icchey Gaon are two small villages on the ridge east of Deolo, about 15 and 18 km from Kalimpong and only 2.5 km apart. Ramdhura, at about 1,525 m, takes its name from Ram and dhura, a village, and looks over pine forest, old cinchona plantations and the Teesta valley to Kanchenjunga. Icchey Gaon, at about 1,770 m, is the higher and quieter of the two. From there a walk of about 6 km reaches Damsang Gadi, the fort the Lepcha chief Gaeboo Achyok built in the late 17th century to resist the Bhutanese, which fell to ruin after 1864.",
+    "We built this for couples and families who like to walk between villages rather than drive between sights. The first night is in Kalimpong at Holumba Haven, a family guesthouse in a working orchid nursery, where the Buddhist teacher Sangharakshita wrote his book Facing Mount Kanchenjunga. The trip is Mixed: a shared jeep or car up from Siliguri, short local cars, and a reserved car down. The drive up uses NH10, which has had repeated closures since October 2023, with diversions via Gajoldoba, the Gorubathan–Lava road or Darjeeling and Peshok: check current status before you travel."
+  ],
+  "highlights": [
+    "A night among orchids at Holumba Haven, about 1 km below Kalimpong",
+    "Zang Dhok Palri on Durpin, holding the 108 volumes of the Kangyur",
+    "Kanchenjunga at sunrise over the Teesta valley from Ramdhura",
+    "The 2.5 km village walk from Ramdhura to Icchey Gaon",
+    "A guided walk of about 6 km to the Damsang fort ruins"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Kalimpong and the orchid nursery", "place": "kalimpong", "overnight": "Kalimpong", "drive": "≈ 3–3.5 h by shared jeep or reserved car from Siliguri", "text": "From the SNT or Panitanki stands in Siliguri, a shared jeep seat to Kalimpong costs ₹200–300; a reserved car from NJP or Bagdogra costs ₹3,500–5,000. The usual road follows NH10 up the Teesta to Teesta Bazar. NH10 has had repeated landslide and flood closures since October 2023; when it shuts, traffic diverts via Gajoldoba and Odlabari, the Gorubathan–Lava road or round by Darjeeling and Peshok, so check current status before you travel. Check in at Holumba Haven, about 1 km below town in the Nurseryman's Haven orchid nursery, a homestay since 2004. About 300 orchid species grow around Kalimpong; ask your hosts if you can walk round the nursery.", "meals": "Dinner", "spend": "₹200–300 jeep seat + ₹400 dinner"},
+    {"day": 2, "title": "Durpin, Deolo and on to Ramdhura", "place": "ramdhura", "overnight": "Ramdhura", "drive": "≈ 25 km by local car via Durpin and Deolo", "text": "Take a local car up Durpin hill to Zang Dhok Palri Phodang, established in 1957 by Dudjom Rinpoche and consecrated by the 14th Dalai Lama in 1976; it holds the 108 volumes of the Kangyur. Stop in the market for Kalimpong cheese, made in the tradition of Father André Butty's Swiss Welfare Dairy, which closed in 1990. Then drive up past Deolo and out along the ridge to Ramdhura, about 15 km from town at about 1,525 m. The name joins Ram with dhura, a village. Walk the pine forest above the homestays before dark and look down the Teesta valley as the lights come on.", "meals": "Breakfast, dinner", "spend": "share of local car + ₹250 lunch + ₹200 cheese"},
+    {"day": 3, "title": "Ramdhura sunrise and the walk to Icchey", "place": "icchey-gaon", "overnight": "Icchey Gaon", "drive": "≈ 2.5 km on foot; bags by car", "text": "Wake before sunrise for Kanchenjunga over the Teesta valley, the reason most people come to Ramdhura; from October to December the odds are best. Ramdhura still has cinchona plantations, the tree the British grew for quinine. After breakfast, send your bags ahead by car and walk about 2.5 km to Icchey Gaon at about 1,770 m. The village is small and quiet, with a view of Kanchenjunga of its own. Spend the afternoon birding on the forest edge with your hosts' help: flycatchers, sunbirds and woodpeckers are the common sightings. Carry binoculars if you have them.", "meals": "Breakfast, dinner", "spend": "₹250 lunch + bag transfer share"},
+    {"day": 4, "title": "A guided walk to the Damsang fort", "place": "icchey-gaon", "overnight": "Icchey Gaon", "drive": "≈ 6 km each way on foot, or car back", "text": "Walk with a local guide about 6 km to Damsang Gadi, the ruins of the fort built in the late 17th century, often dated to 1690, by the Lepcha chief Gaeboo Achyok to resist the Bhutanese Drukpas. It fell to ruin after 1864, after the Anglo-Bhutan war. Lepcha folklore says spirits carried its smooth round stones up from the Reshi river. On 20 December each year Lepchas gather at the ruins for Gaeboo Achyok's birth anniversary. Carry water and lunch, and arrange a car back if you would rather not walk both ways. Spend the evening at the homestay with Kanchenjunga, if the cloud allows.", "meals": "Breakfast, dinner", "spend": "₹500 guide share + ₹200 packed lunch"},
+    {"day": 5, "title": "Icchey Gaon to NJP by reserved car", "place": "icchey-gaon", "overnight": "", "drive": "≈ 4–4.5 h by reserved car via Kalimpong", "text": "Look out once more for Kanchenjunga at first light, then have breakfast and leave by about 9 am in a reserved car arranged through your homestay. The road runs about 18 km back through Kalimpong, where you can stop for cheese or Kalimpong lollipops, and down to the Teesta and Siliguri. NH10 has had repeated closures since October 2023; when it shuts, drivers use Gajoldoba and Odlabari, the Gorubathan–Lava road or Darjeeling and Peshok, which can add hours. Check current status before you travel, and book an evening train or flight to keep a margin.", "meals": "Breakfast", "spend": "reserved car share + ₹250 lunch"}
+  ],
+  "stays": ["kalimpong-holumba-haven"],
+  "includes": ["Shared jeep seat or car share up to Kalimpong", "Local cars for Durpin, Deolo and Ramdhura, and the bag transfer", "Reserved car from Icchey Gaon to NJP or Bagdogra, per person share", "1 night at Holumba Haven, twin sharing", "3 nights in village homestays with dinner and breakfast", "Local guide for the Damsang walk", "Lunches and tea"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Breakfast at Holumba Haven if not included in the room rate", "Paragliding at Deolo", "Tips for guides, drivers and hosts"],
+  "save_money": [
+    "Take a shared jeep up to Kalimpong for ₹200–300 instead of a reserved car for ₹3,500–5,000, and keep the car for the way down.",
+    "Walk between Ramdhura and Icchey Gaon and send only the bags by car, which costs far less than a car for people and bags.",
+    "Share the Damsang guide with other guests from the village; one guide can lead a small group for the same day rate."
+  ],
+  "good_to_know": [
+    "NH10 has had repeated closures since October 2023; diversions run via Gajoldoba and Odlabari, the Gorubathan–Lava road (NH717A) or Darjeeling–Peshok, so check current status before you travel.",
+    "Gaeboo Achyok Day falls on 20 December, when Lepchas gather at the Damsang fort ruins.",
+    "Village homestays rarely take cards: carry cash from Kalimpong for three nights and the car down.",
+    "Clear views come early; cloud usually rises from the Teesta valley by late morning.",
+    "Nights from December to February drop close to freezing at Icchey Gaon, so bring warm layers."
+  ],
+  "faqs": [
+    {"q": "Where are Icchey Gaon and Ramdhura?", "a": "Both are small villages on the ridge east of Deolo in Kalimpong district. Ramdhura sits at about 1,525 m, roughly 15 km from Kalimpong, and Icchey Gaon at about 1,770 m, roughly 18 km away. They are about 2.5 km apart, close enough to walk between. Both look over the Teesta valley towards Kanchenjunga on clear days."},
+    {"q": "How much does this village walks trip cost?", "a": "About ₹15,500 per person, twin sharing, from NJP or Bagdogra back again, indicative for 2025–26. Village homestays with dinner and breakfast and a night at Holumba Haven make up just over half; transport, including a reserved car down, about a third. Going up by shared jeep, as we suggest, keeps it in the Value band rather than higher."},
+    {"q": "How do I reach Icchey Gaon from NJP?", "a": "Take a shared jeep from the Siliguri stands to Kalimpong for ₹200–300, then a local car about 18 km out past Deolo; homestays can arrange it. A reserved car from NJP or Bagdogra to Kalimpong costs ₹3,500–5,000. The drive normally uses NH10, closed repeatedly since October 2023, so check current status before you travel."},
+    {"q": "What is Holumba Haven?", "a": "Holumba Haven is a family-run guesthouse inside a working orchid nursery, Nurseryman's Haven, about 1 km below Kalimpong town. It opened as a homestay in 2004. Sangharakshita, the Buddhist teacher and writer, wrote Facing Mount Kanchenjunga in its Magnolia Cottage. Rooms cost roughly ₹2,500–4,500, indicative; book ahead in October and November."},
+    {"q": "Is the walk to the Damsang fort hard?", "a": "It is about 6 km each way on village paths and roads, with some climbing, so start after breakfast and plan on a car back if you prefer. Go with a local guide who knows the paths. The fort itself is a ruin, built in the late 17th century by the Lepcha chief Gaeboo Achyok and abandoned after 1864."},
+    {"q": "Can I see Kanchenjunga from Ramdhura and Icchey Gaon?", "a": "Yes, on clear mornings. Ramdhura is known for its Kanchenjunga sunrise over the Teesta valley, and Icchey Gaon has its own view from slightly higher up. October to December gives the best odds, with March and April next. Cloud usually rises by late morning, and from June to September the range is rarely visible."},
+    {"q": "What birds might we see around Icchey Gaon?", "a": "Flycatchers, sunbirds and woodpeckers are the common sightings on the forest edges around Icchey Gaon, with more activity in the first two hours after sunrise. Spring, from March to May, brings more song and breeding plumage. Bring binoculars, walk quietly and ask your hosts where birds gather near the village."},
+    {"q": "Is this trip good for families?", "a": "Yes, for families who enjoy walking. The longest walk, to Damsang, can be cut short with a car, and the 2.5 km between Ramdhura and Icchey Gaon suits most school-age children. Homestay meals are simple and home-cooked. Nights are cold in winter, so pack warm layers and a torch for evenings."},
+    {"q": "When is the best time for these village walks?", "a": "October to December gives clear views, dry paths and cold nights; 20 December brings Gaeboo Achyok Day at Damsang. March to May is milder, with birdsong and clear early mornings. January and February are cold and often clear. From June to September rain, leeches and landslides make paths and roads hard and views rare."}
+  ]
+}

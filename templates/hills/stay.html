@@ -1,0 +1,36 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}{{ s.name }}{% if s.place_obj %}, {{ s.place_obj.name }}{% endif %} · rates and honest notes · Darjeeling Himalayas{% endblock %}
+{% block description %}{{ s.summary|truncatechars:156 }}{% endblock %}
+{% block body_attrs %} data-land="{{ s.region }}"{% endblock %}
+{% block content %}
+<section class="sec--tight">
+  <div class="wrap split" style="align-items:center">
+    <div>
+      <p class="eyebrow">{{ s.kind }}{% if s.place_obj %} · <a href="{{ s.place_obj.url }}" style="color:inherit">{{ s.place_obj.name }}</a>{% endif %}</p>
+      <h1 class="h-1">{{ s.name }}</h1>
+      <p class="lede" style="margin-top:18px">{{ s.summary }}</p>
+      {% if s.price_band %}<div class="milestones" style="margin-top:22px"><span class="milestone"><span class="milestone__cap">Rate</span><span class="milestone__val" style="font-size:1.05rem">{{ s.price_band }}</span></span></div>{% endif %}
+    </div>
+    <div>{% photo s|first_img alt=s.name sizes="(max-width: 900px) 100vw, 45vw" cls="photo--ridge" ratio="ratio-43" eager=True %}</div>
+  </div>
+</section>
+<section class="sec--tight">
+  <div class="wrap prail">
+    <div class="prose">
+      {% for x in s.body %}<p>{{ x }}</p>{% endfor %}
+      {% if s.why %}<h2>Why we suggest it</h2><ul>{% for x in s.why %}<li>{{ x }}</li>{% endfor %}</ul>{% endif %}
+      <p class="notice">We list rates as indicative ranges. We do not take commission from this property for being listed here. Check current status before you travel.</p>
+    </div>
+    <aside class="prail__side">
+      <dl class="kv"><div><dt>Type</dt><dd>{{ s.kind }}</dd></div>{% if s.price_band %}<div><dt>Rate</dt><dd>{{ s.price_band }}</dd></div>{% endif %}{% if s.best_for %}<div><dt>Best for</dt><dd>{{ s.best_for|join:", " }}</dd></div>{% endif %}{% if s.website %}<div><dt>Website</dt><dd><a href="{{ s.website }}" rel="noopener nofollow" target="_blank">Official site</a></dd></div>{% endif %}</dl>
+      {% include "hills/partials/quick_form.html" with qf_id="stay" qf_land=s.region qf_title="Book it into a trip" qf_message="Interested in "|add:s.name %}
+    </aside>
+  </div>
+</section>
+<section class="sec"><div class="wrap wrap--narrow">{% include "hills/partials/faq.html" with faqs=s.faqs %}</div></section>
+{% if s.journey_objs or others %}<section class="sec sec--paper2"><div class="wrap">
+  {% if s.journey_objs %}<div class="sec__head"><div><p class="eyebrow">Trips that sleep here</p><h2 class="h-2">On a ticket</h2></div></div><div class="tickets">{% for j in s.journey_objs|slice:":3" %}{% include "hills/partials/ticket.html" %}{% endfor %}</div>{% endif %}
+  {% if others %}<div class="sec__head" style="margin-top:44px"><div><p class="eyebrow">Other stays nearby</p><h2 class="h-2">More beds in {{ s.region_obj.short }}</h2></div></div><div class="grid grid--3">{% for s in others %}{% include "hills/partials/card_stay.html" %}{% endfor %}</div>{% endif %}
+</div></section>{% endif %}
+{% endblock %}
+{% block cta %}{% include "hills/partials/cta.html" with cta_land=s.region %}{% endblock %}

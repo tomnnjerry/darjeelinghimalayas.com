@@ -1,0 +1,132 @@
+[
+  {
+    "slug": "pelling-hotel-garuda",
+    "name": "Hotel Garuda",
+    "place": "pelling",
+    "kind": "budget hotel",
+    "price_band": "₹1,200–2,500 a room (indicative)",
+    "wiki": "",
+    "image_query": "Hotel Garuda Upper Pelling Sikkim",
+    "summary": "A long-running budget hotel in Upper Pelling that backpackers have used as a base for years. Plain rooms, a small restaurant, and the Kanchenjunga range visible from the upper floors on a clear morning.",
+    "body": [
+      "Hotel Garuda sits at the main junction of Upper Pelling, where the shared jeeps to Geyzing, Yuksom and Jorethang stop. That location is the reason many budget travellers end up here: you can step off a jeep, drop your bag and walk to Pemayangtse and the Rabdentse ruins without hiring a car. Rooms are simple, with attached bathrooms; the better ones face north towards the mountains.",
+      "Do not expect resort comforts. Expect a family-run hotel that knows trekkers, keeps a small restaurant going and can help you find a seat in a shared jeep or a reserved car for the monastery loop. Room standards differ between floors, so ask to see a room first, and ask about hot water and heating in winter. Prices are indicative and change with the season."
+    ],
+    "why": [
+      "At the Upper Pelling jeep stop, so you can travel without a reserved car",
+      "Walking distance to Pemayangtse, Rabdentse and the Sanga Choeling trail",
+      "Mountain-facing rooms on the upper floors at budget prices"
+    ],
+    "best_for": ["solo", "students", "first-timers"],
+    "website": "",
+    "faqs": [
+      {"q": "Does Hotel Garuda have rooms facing Kanchenjunga?", "a": "Some of the upper-floor rooms face north towards the Kanchenjunga range, which is the view people come to Pelling for. They cost a little more and go first in October, November and the spring holidays. Ask for a mountain-facing room when you book and confirm it again on arrival, since room allocation can change."},
+      {"q": "Can I walk to Pemayangtse Monastery from Hotel Garuda?", "a": "Yes. Pemayangtse is roughly 2 km below Upper Pelling, about 30 minutes on foot along the road, and the Rabdentse ruins trail starts not far beyond it. Most guests walk down in the morning and take a shared jeep or a local taxi back up, because the return climb is steep."},
+      {"q": "Is Hotel Garuda good for a winter stay?", "a": "It works in winter if you pack warm layers. Pelling drops close to freezing at night in December and January, and budget rooms rely on blankets and heaters rather than central heating. Ask whether a heater is available and whether it costs extra, and check hot water timings before you check in."}
+    ]
+  },
+  {
+    "slug": "rinchenpong-yangsum-heritage-farm",
+    "name": "Yangsum Heritage Farm",
+    "place": "rinchenpong",
+    "kind": "homestay",
+    "price_band": "Ask the farm for current rates; meals usually included (indicative)",
+    "wiki": "",
+    "image_query": "Yangsum Heritage Farm Rinchenpong",
+    "summary": "A family-run farmstay in an old Sikkimese farmhouse at Rinchenpong, among cardamom, oranges and kitchen gardens. Home-cooked meals, farm walks and Kanchenjunga on a clear morning, a short walk from Rinchenpong Monastery.",
+    "body": [
+      "Yangsum is a working family farm at Rinchenpong that opened its old farmhouse to guests. It is one of the better-known farmstays in this corner of Sikkim and a good example of what the area does well: food from the farm, rooms with wooden floors and quiet nights. Guests walk through cardamom and orange plots, see how large cardamom is dried and eat what the kitchen garden produces that week.",
+      "Rooms are limited and fill up in spring and autumn, so book ahead and confirm what is included. We list no fixed price because the farm sets its own rates by season and room. Rinchenpong Monastery and the Kanchenjunga viewpoints of Rinchenpong and Kaluk are within walking or short driving distance."
+    ],
+    "why": [
+      "An old farmhouse stay rather than a concrete hotel",
+      "Meals cooked from the farm and kitchen garden",
+      "Walkable to Rinchenpong Monastery and village viewpoints"
+    ],
+    "best_for": ["couples", "families", "seniors", "photographers"],
+    "website": "",
+    "faqs": [
+      {"q": "How do I reach Yangsum Heritage Farm?", "a": "Rinchenpong is about 40 km from Pelling and roughly 125 km from Siliguri via Jorethang. Shared jeeps run from Jorethang towards Rinchenpong and Kaluk, mostly in the morning and early afternoon; from the bazaar ask for the farm, or ask your hosts to arrange a pickup. A reserved car from NJP takes about 5 hours."},
+      {"q": "Are meals included at Yangsum Farm?", "a": "Farmstays at Rinchenpong usually include dinner and breakfast, and lunch can often be arranged. Confirm this with the farm when you book, along with the current rate, because both change by season. Expect home-style Sikkimese and Nepali food with vegetables from the farm."},
+      {"q": "Is Yangsum Farm suitable for older travellers?", "a": "It suits seniors who can manage some steps and uneven paths, which are normal on a hill farm. The pace is slow, the food is home-cooked and there is little traffic noise. Ask for a ground-level room if stairs are difficult, and carry warm clothes for evenings between November and February."}
+    ]
+  },
+  {
+    "slug": "yuksom-goecha-la-trekkers-huts",
+    "name": "Trekkers' huts at Tshoka and Dzongri",
+    "place": "yuksom",
+    "kind": "trekkers' hut",
+    "price_band": "Low per-bed rates, usually booked through your trek agency (indicative)",
+    "wiki": "",
+    "image_query": "Dzongri trekkers hut Sikkim",
+    "summary": "Government trekkers' huts on the Goecha La trail above Yuksom, at Tshoka (about 3,000 m) and Dzongri (about 4,000 m). Bunk rooms, a kitchen space and a roof against the wind, used by trek groups alongside tents.",
+    "body": [
+      "The Goecha La trail out of Yuksom has a chain of basic trekkers' huts built by the Sikkim government, the best known at Tshoka and Dzongri. They are shelters, not lodges: dormitory rooms with wooden bunks, no heating and shared toilets that freeze on cold nights. Many organised groups sleep in tents beside the huts and use the hut only as a kitchen and dining space.",
+      "You do not usually book a hut yourself. Your registered trek agency or guide arranges the night along with your park permit, cook and porters or yaks. In April, May, October and November the huts can be crowded, which is one reason groups carry tents. Rules, fees and hut availability change: check current status before you travel."
+    ],
+    "why": [
+      "The only fixed shelter at Tshoka and Dzongri on the Goecha La trail",
+      "Cuts the weight and cost of a trek compared with full camping",
+      "Dzongri hut is the base for the dawn walk to Dzongri Top"
+    ],
+    "best_for": ["solo", "students"],
+    "website": "",
+    "faqs": [
+      {"q": "Can I book the Dzongri trekkers' hut myself?", "a": "In practice, no. Trekking in Khangchendzonga National Park needs a licensed guide and a park permit issued at Yuksom, and the guide or agency arranges hut space at the same time. Independent walkers without a guide are not allowed beyond the checkpost. Check current status before you travel, because rules have changed in recent seasons."},
+      {"q": "What facilities do the Goecha La trekkers' huts have?", "a": "Very few. Expect bunk beds or a wooden floor, a kitchen room, a toilet block and no heating or running hot water. Bring a sleeping bag rated to about minus 10 °C, a headtorch and warm layers. Your cook usually brings food and fuel; carry your own water purification."},
+      {"q": "Are the trekkers' huts crowded?", "a": "They can be in peak months, April to May and October to November, when many groups start on the same days. That is why most agencies also carry tents. In early March or late November there are fewer groups, but nights are colder and snow is more likely above Dzongri."}
+    ]
+  },
+  {
+    "slug": "barsey-guras-kunj-trekkers-hut",
+    "name": "Guras Kunj Trekkers' Hut",
+    "place": "barsey",
+    "kind": "trekkers' hut",
+    "price_band": "Budget dormitory and room rates with simple meals (indicative)",
+    "wiki": "",
+    "image_query": "Guras Kunj trekkers hut Barsey",
+    "summary": "The trekkers' hut at Barsey, about 4 km on foot from the road head at Hilley, inside the Barsey Rhododendron Sanctuary. Simple rooms and meals at about 3,000 m, with Kanchenjunga visible from the ridge on clear mornings.",
+    "body": [
+      "Guras Kunj takes its name from guras, the Nepali word for rhododendron, and sits in a clearing on the Barsey ridge after the gentle walk up from Hilley. It is the only place to sleep inside the sanctuary itself, which is what makes it worth the walk: you are on the ridge at dawn and dusk, when the light is good and the day visitors have gone.",
+      "Facilities are basic: rooms or dormitory beds, shared toilets, simple dal-rice meals and no heating. Nights are cold even in April. In bloom season, mid-March to early May, beds fill up on weekends, so ask in Hilley, Okhrey or through a local agency before you walk up. Sanctuary entry fees apply; check current status before you travel."
+    ],
+    "why": [
+      "The only overnight stay inside Barsey Rhododendron Sanctuary",
+      "Dawn on the ridge without a 4 km walk in the dark",
+      "Cheap beds and hot meals at about 3,000 m"
+    ],
+    "best_for": ["solo", "students", "photographers"],
+    "website": "",
+    "faqs": [
+      {"q": "How long is the walk from Hilley to Guras Kunj?", "a": "About 4 km on a broad, gently rising forest trail, which most people walk in 1.5 to 2 hours with stops. It is one of the easiest walks into a high sanctuary in Sikkim and suits families with children who are used to walking. Start before 2 pm so you arrive with daylight to spare."},
+      {"q": "Do I need to book Guras Kunj in advance?", "a": "In rhododendron season, from mid-March to early May, and on long weekends, yes, because beds are limited and the next roof is back at Hilley. Ask a homestay in Okhrey or Hilley, or a local agency, to confirm a bed before you walk up. Check current status before you travel."},
+      {"q": "What should I carry for a night at Barsey?", "a": "Warm layers, a woollen cap, gloves, a headtorch, a refillable bottle and some cash for meals and the sanctuary fee. Nights can fall near freezing in spring and well below it in winter. A light sleeping bag or liner makes the hut blankets more comfortable."}
+    ]
+  },
+  {
+    "slug": "ravangla-mt-narsing-village-resort",
+    "name": "Mt. Narsing Village Resort",
+    "place": "ravangla",
+    "kind": "guesthouse",
+    "price_band": "Mid-range cottage rates; ask for current season prices (indicative)",
+    "wiki": "",
+    "image_query": "Mt Narsing Village Resort Ravangla",
+    "summary": "A long-running cottage resort on the edge of Ravangla, with small wooden cottages in a garden and views across to the Kanchenjunga range on clear days. Quieter than staying in Ravangla bazaar and close to the Buddha Park road.",
+    "body": [
+      "Mt. Narsing Village Resort takes its name from Mount Narsing, one of the peaks of the Kanchenjunga range visible from Ravangla. It has been running for many years as a cottage-style stay a little outside the bazaar, which means quieter nights and a garden to sit in, at the cost of a short taxi ride or walk into town for jeeps and food stalls.",
+      "Cottages are simple and wood-built, with a dining room serving home-style meals. It sits in our Comfort tier rather than Shoestring, so it suits couples and families who want one good base for Buddha Park, Ralang and the Maenam walk. Rates and inclusions change by season, so ask directly and confirm before you pay."
+    ],
+    "why": [
+      "Wooden cottages in a garden instead of a bazaar hotel",
+      "Mountain views on clear mornings from October to April",
+      "A calm base for Buddha Park, Ralang and Maenam"
+    ],
+    "best_for": ["couples", "families", "seniors"],
+    "website": "",
+    "faqs": [
+      {"q": "How far is Mt. Narsing Village Resort from Buddha Park?", "a": "Buddha Park (Tathagata Tsal) is a few kilometres from Ravangla bazaar, a short taxi ride from the resort. Local taxis wait in the bazaar and charge a fixed fare for the round trip; ask your hosts for the current rate. Go early in the morning for the clearest view of the statue against the mountains."},
+      {"q": "Is Mt. Narsing Village Resort good for families?", "a": "Yes, for families who want space and quiet. The cottages sit in a garden, the drives to Buddha Park, Ralang and Temi are short, and the resort serves meals so you need not go out at night. Confirm extra-bed charges and heating in winter when you book."},
+      {"q": "Can I reach the resort by shared jeep?", "a": "Shared jeeps from Siliguri, Jorethang, Namchi and Gangtok run to Ravangla bazaar. From there take a local taxi or walk, depending on your luggage. Ask the resort for directions or a pickup when you book, and check the last jeep times, which are usually before mid-afternoon."}
+    ]
+  }
+]

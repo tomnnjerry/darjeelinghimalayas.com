@@ -1,0 +1,171 @@
+{
+  "slug": "thangu",
+  "name": "Thangu",
+  "name_local": "",
+  "region": "north-sikkim",
+  "kind": "trek stop",
+  "wiki": "Thangu Valley",
+  "image_query": "Thangu Valley North Sikkim",
+  "lat": 27.89,
+  "lng": 88.53,
+  "altitude_m": 3900,
+  "tagline": "Yak country and the last tea stop before Gurudongmar",
+  "meta_description": "Thangu Valley at about 3,900 m: the tea stop on the Gurudongmar road, yak herders, summer flowers, Chopta nearby, costs and altitude advice.",
+  "summary": "Thangu is a small high settlement about 30 km north of Lachen, at roughly 3,900 m, where Gurudongmar vehicles stop for tea before the plateau. In summer the valley is yak pasture and flower meadow. It has a few basic lodges, but most visitors pass through. Indian citizens with permits; check current status before you travel.",
+  "local_story": {
+    "title": "Summer pasture of the Lachen herders",
+    "paras": [
+      "Thangu grew as a summer settlement for Lachen's herders. When the snow melted, families drove yaks and other animals up the Lachen Chu to the meadows here and above, and brought them down again before winter, a seasonal move that shaped the open grassland you see. The Dokpas, herding families of the high pastures toward the plateau, still keep yaks in this country. Today Thangu also has an army presence and a cluster of tea houses and lodges that serve the Gurudongmar traffic, and its population is around a thousand.",
+      "Hooker came this way in 1849 on his journey up the Lachen valley toward the Kongra La, and his journals describe the rhododendron scrub giving way to bare, Tibetan-style country above the trees. The change is just as sharp now. Below Thangu you drive through forest; above it the land opens into the high, dry plateau that leads to Gurudongmar and the source streams of the Teesta."
+    ]
+  },
+  "did_you_know": [
+    "Thangu is about 30 km north of Lachen and roughly 1,150 m higher, with an estimated population of about 1,000 people.",
+    "Wikipedia and local usage often call the area Thangu-Chopta Valley, because Chopta's meadows lie just beside it.",
+    "Above Thangu the forest ends abruptly; the road to Gurudongmar crosses treeless high plateau for the last stretch."
+  ],
+  "intro": [
+    "Most travellers meet Thangu in the dark, at 5 or 6 am, as their vehicle pulls in for tea on the way to Gurudongmar. A row of small tea houses and lodges lines the road, stoves going, with Maggi, eggs and tea on offer. It is a good place to check how everyone is feeling before the final climb to the lake.",
+    "In daylight, Thangu is worth a look of its own: a wide valley at roughly 3,900 m, with yak herds, wooden huts and, in June to August, meadows of primulas and other alpine flowers. Chopta Valley lies just beside it. Sleeping here without first spending a night at Lachen is not wise. Since 2023 the road has had long closures; check current status before you travel."
+  ],
+  "facts": [
+    ["Best months", "Apr – May · Oct – Nov"],
+    ["Nights we suggest", "0 (stop on the Gurudongmar day)"],
+    ["From Lachen", "≈ 30 km · 1.5 h"],
+    ["Altitude", "≈ 3,900 m"],
+    ["Known for", "Gurudongmar tea stop, yak pastures, summer flowers"],
+    ["Network", "Very limited"]
+  ],
+  "best_months": [0, 1, 1, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "0",
+  "costs": [
+    ["Tea or coffee", "₹30–60"],
+    ["Maggi with egg", "₹80–150"],
+    ["Basic lodge room, if you stay", "₹1,500–3,000 a room (indicative)"],
+    ["Toilet at a tea house", "₹10–20"],
+    ["Portable oxygen can", "₹500–900"]
+  ],
+  "highlights": [
+    {"title": "The pre-dawn tea stop", "text": "Every Gurudongmar vehicle stops here at about 5–6 am. Hot tea, Maggi, eggs and a warm stove; use the toilet here, as there are few further up. Check how everyone feels."},
+    {"title": "Yak pastures", "text": "Yaks graze the valley and slopes around Thangu for much of the year, kept by Lachen herders and Dokpa families. Watch from a distance and ask before photographing people."},
+    {"title": "Summer flower meadows", "text": "In June to August, if the road is open, the meadows around Thangu fill with primulas, poppies and other alpine flowers. Monsoon road risk is the trade-off."},
+    {"title": "Where the forest ends", "text": "Just above Thangu the trees stop and the plateau begins. On the way down from Gurudongmar in daylight, notice how suddenly the land changes."},
+    {"title": "Gateway to Chopta", "text": "Chopta Valley's meadows and frozen winter river lie beside Thangu, often added to the Gurudongmar day or done on a spare day from Lachen."}
+  ],
+  "how_to_reach": [
+    {"mode": "Gurudongmar tour from Lachen", "text": "Every Gurudongmar trip passes through Thangu, about 30 km and 1.5 hours above Lachen. Tours stop here for tea on the way up and sometimes for lunch on the way down. Included in Lachen tour packages."},
+    {"mode": "Reserved vehicle", "text": "With a whole vehicle and a permit that covers Thangu and Chopta, you can spend longer here on a spare day from Lachen. Agree this with your registered Gangtok operator when booking."}
+  ],
+  "where_to_stay": "Thangu has a few basic lodges and tea-house rooms used by drivers, herders and some travellers. Rooms are simple, cold and expensive for what they are. We do not advise sleeping here unless you have already spent at least one night, preferably two, in Lachen, because Thangu is roughly 1,150 m higher. Most visitors should sleep in Lachen's homestays at about ₹1,500–2,500 per person with meals and visit Thangu by day.",
+  "stays": [],
+  "tips": [
+    "Use the tea stop to check every passenger for headache or nausea before going higher.",
+    "Buy hot water or tea here and carry it in a flask to the lake.",
+    "Do not photograph army camps or vehicles around Thangu.",
+    "Ask before photographing herders or their families.",
+    "Carry small change for tea, snacks and toilets; card payments rarely work."
+  ],
+  "themes": ["snow-and-passes", "wildlife-birds", "photography"],
+  "nearby": ["lachen", "chopta-valley", "gurudongmar"],
+  "experiences": [
+    {
+      "slug": "thangu-predawn-tea-stop",
+      "title": "Tea and Maggi at 3,900 m before dawn",
+      "kind": "food",
+      "duration": "30 minutes",
+      "best_time": "5–6.30 am, Oct–May",
+      "cost": "₹80–200",
+      "image_query": "Thangu tea house Sikkim",
+      "wiki": "",
+      "summary": "Every Gurudongmar vehicle pulls into Thangu around 5–6 am. Step into a tea house, sit by the stove, eat a hot bowl of Maggi with egg, drink sweet tea and use the toilet. It is also the moment to see who in your group is struggling.",
+      "body": [
+        "The tea houses of Thangu exist for the Gurudongmar run. Before dawn their windows are lit, stoves are going and families from Lachen and Thangu serve tea, coffee, Maggi, eggs and bread to a stream of drivers and travellers. Prices are fair for the height: ₹30–60 for tea and ₹80–150 for noodles.",
+        "Eat something warm even if you are not hungry. Food helps at altitude, and the lake is still about 1,300 m higher. Drink tea or hot water and fill your flask. Use the toilet here, since facilities at the lake are basic and the plateau is not a place to wander off the road.",
+        "Use these 30 minutes for a quick check on everyone: headache, nausea, dizziness, unusual quiet. A person with mild symptoms can sometimes go on and watch closely; anyone worse should stay at Thangu or go back toward Lachen. The driver will know where to wait. Pay in cash; network is weak."
+      ],
+      "good_for": ["families", "students", "solo", "couples"],
+      "faqs": [
+        {"q": "Is breakfast available at Thangu?", "a": "Yes. Tea houses at Thangu open early for Gurudongmar traffic and serve tea, coffee, Maggi, eggs and bread for about ₹30–150 per item. Some homestays in Lachen pack breakfast too. Eat something warm here even if you have little appetite."},
+        {"q": "Are there toilets at Thangu?", "a": "Yes, basic toilets at the tea houses and lodges, usually ₹10–20. They are the most reliable toilets on the Gurudongmar road, so use them on the way up. Facilities at the lake are limited."},
+        {"q": "Can someone wait at Thangu instead of going to Gurudongmar?", "a": "Often, yes. If someone in your group feels unwell or does not want to go higher, they can usually wait in a tea house at Thangu while the vehicle goes to the lake and back. Agree this with your driver and the tea-house owner, and pay for what they eat and drink."}
+      ]
+    },
+    {
+      "slug": "thangu-yak-herders-morning",
+      "title": "Watching the yak herds of Thangu",
+      "kind": "culture",
+      "duration": "1 hour",
+      "best_time": "7–10 am, May–Oct",
+      "cost": "Free · ask before photographs",
+      "image_query": "yaks Thangu Sikkim herders",
+      "wiki": "Yak",
+      "summary": "Thangu has been a summer pasture for generations, and yaks still graze the valley and slopes. On the way down from Gurudongmar, or on a spare day, stop for an hour to watch the herds and, if invited, learn a little about herding life.",
+      "body": [
+        "For centuries Lachen's herders moved animals up to Thangu's pastures in summer and down in winter. Yak herding remains part of life here, alongside Dokpa families who keep herds on the higher grounds toward the plateau. Yaks give milk, butter, cheese, wool and transport, and the dried chhurpi cheese you chew in Lachen often comes from these herds.",
+        "In the morning the animals are out on the slopes, and you may see herders moving them, checking calves or carrying milk. Watch from the road or a respectful distance. If a herder approaches, a greeting in Nepali or Hindi usually works, and some will chat if your driver translates.",
+        "Ask before photographing people, and accept a no. Do not walk among the herds, especially near calves; yaks are calm until they are not. Do not feed animals or leave food scraps. Buying butter or chhurpi when offered is a fair way to say thanks, at a price set by the seller."
+      ],
+      "good_for": ["photographers", "families", "students"],
+      "faqs": [
+        {"q": "Who are the Dokpas?", "a": "The Dokpas are herding families of North Sikkim's high pastures, keeping yaks and other animals on the grounds toward the Tibetan plateau. Their festival in the Lashar area is known for a yak race. They live a more mobile life than the village-based Lachenpas, though the two are closely connected."},
+        {"q": "Can I buy yak cheese in Thangu?", "a": "Sometimes. Herders and tea houses may sell hard chhurpi or butter, especially in summer and autumn. Prices are informal. If it is not on sale at Thangu, Lachen and Gangtok shops usually have dried chhurpi."},
+        {"q": "Is it safe to go near yaks?", "a": "Keep 20–30 m away. Yaks are usually calm but can charge if crowded, especially mothers with calves. Do not walk between animals, do not feed them and keep children close. Watch from the road or follow a herder's instructions."}
+      ]
+    },
+    {
+      "slug": "thangu-summer-alpine-meadows",
+      "title": "Alpine flowers around Thangu in summer",
+      "kind": "wildlife",
+      "duration": "1–2 hours",
+      "best_time": "9 am–12 noon, Jun–Aug when open",
+      "cost": "Free",
+      "image_query": "Thangu valley flowers summer Sikkim",
+      "wiki": "Primula",
+      "summary": "In June to August, when the North Sikkim road is open, the meadows around Thangu fill with primulas, poppies and other alpine flowers. It is the trade-off of a monsoon visit: the best colour of the year, with the highest risk of road closures.",
+      "body": [
+        "Above about 3,500 m, the North Sikkim valleys have a short, intense flowering season after the snow melts. Around Thangu that means June to August: primulas in pinks and yellows, poppies, louseworts and many small cushion plants on the slopes and meadow edges. Botanists since Hooker's time have come up these valleys for exactly this.",
+        "The catch is the monsoon. The road from Gangtok via Chungthang suffers landslides through these months, permits are sometimes suspended, and travellers have been stranded for days. If you come, build in spare days and travel insurance, and be ready to turn back.",
+        "When you are here, walk slowly on the grassy edges near the road, not across the flowers. Do not pick anything; the valley is a grazing and protected landscape. Morning light is best, before rain clouds build. A macro lens or a phone's close-up mode is more useful than a long lens."
+      ],
+      "good_for": ["photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "When do flowers bloom at Thangu?", "a": "Mostly from June to August, after the snow melts and during the monsoon. Primulas, poppies and other alpine plants flower on the meadows and slopes. The exact timing varies each year. Road access in these months is unreliable; check current status before you travel."},
+        {"q": "Is it safe to visit Thangu in the monsoon?", "a": "The valley itself is not the problem; the road is. Landslides on the North Sikkim road between Gangtok and Lachen are frequent from June to August, and tours are often cancelled. Keep spare days, buy travel insurance and follow official advice."},
+        {"q": "Can I pick flowers at Thangu?", "a": "No. Do not pick or dig up plants anywhere in North Sikkim's high valleys. They are slow-growing, grazed by local herds and part of a protected landscape. Take photographs instead and keep to the edges of meadows."}
+      ]
+    },
+    {
+      "slug": "thangu-treeline-descent",
+      "title": "Watching the treeline on the drive down",
+      "kind": "viewpoint",
+      "duration": "1.5 hours",
+      "best_time": "9 am–12 noon, Oct–Nov and Apr–May",
+      "cost": "Free",
+      "image_query": "Lachen Thangu road rhododendron forest",
+      "wiki": "",
+      "summary": "On the drive back from Gurudongmar in daylight, the land changes from bare plateau to scrub to fir and rhododendron forest within a few kilometres of Thangu. Sit by the window and ask for a short stop where the first trees appear.",
+      "body": [
+        "On the way up to Gurudongmar you drive in the dark and miss most of the landscape. The way down is the reward. From the lake the road crosses open plateau, then drops toward Thangu. Around and below it, the first dwarf rhododendrons and junipers appear, then taller fir and rhododendron forest toward Lachen.",
+        "This is the same change Hooker recorded in 1849 as he travelled up the Lachen valley, and it is one of the clearest treelines you can see from a road in India. In April and May the rhododendrons below Thangu may be in flower; in October and November the slopes are russet and gold.",
+        "Ask the driver for one or two short stops at safe pull-outs. Stay on the road side, away from army vehicles. Take photos facing back up the valley to show the contrast between bare hills and forest. Then let the driver get on; most tours still need to reach Lachung or Gangtok that day."
+      ],
+      "good_for": ["photographers", "couples", "students"],
+      "faqs": [
+        {"q": "Where is the treeline on the Gurudongmar road?", "a": "Roughly around and just above Thangu, at about 3,900–4,000 m. Below it you see fir, juniper and rhododendron; above it, open plateau of grass and rock. The change is easiest to see on the drive back down from the lake in daylight."},
+        {"q": "Can we stop for photographs on the way down?", "a": "Usually, at safe pull-outs, if you ask the driver politely and keep it short. Many tours drive on to Lachung or Gangtok after Gurudongmar, so time is limited. Do not stop near army camps, and never photograph military installations."},
+        {"q": "Are there rhododendrons near Thangu?", "a": "Yes, on the slopes below and around Thangu, from dwarf shrubs near the treeline to taller trees toward Lachen. They flower mainly in April and May. Higher up toward Gurudongmar the plants become low cushions and grasses."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Thangu from Lachen?", "a": "Thangu is about 30 km north of Lachen, roughly 1.5 hours by road, and about 35–38 km below Gurudongmar Lake. Every Gurudongmar tour passes through it, usually stopping for tea at 5–6 am on the way up."},
+    {"q": "What is the altitude of Thangu?", "a": "Roughly 3,900 m, about 1,150 m higher than Lachen. Figures vary slightly by source. At this height many visitors notice breathlessness when walking, and some get headaches, especially if they came up from Gangtok the day before."},
+    {"q": "Can I stay overnight in Thangu?", "a": "There are a few basic lodges, but we do not recommend sleeping here unless you have already spent one or two nights in Lachen. Sleeping at about 3,900 m without acclimatisation increases the risk of altitude sickness. Permits and road rules may also limit night halts."},
+    {"q": "Is Thangu worth a visit on its own?", "a": "As a short stop, yes: tea, yaks and the change from forest to plateau. A longer visit makes sense in summer for the flowers, or combined with Chopta Valley on a spare day from Lachen. For most travellers it is part of the Gurudongmar morning."},
+    {"q": "Do I need a permit for Thangu?", "a": "Yes. Thangu is beyond Lachen in the restricted part of North Sikkim and is covered by the North Sikkim permit arranged by your registered Gangtok operator. Foreign nationals' access has varied; ask your agent and check current status before you travel."},
+    {"q": "What is the weather in Thangu?", "a": "Cold year-round. Winter nights fall well below −10 °C and snow often covers the valley from December to March. Summer days can be mild in the sun but nights stay near freezing. Wind picks up after midday. Always carry a warm jacket."},
+    {"q": "Is Thangu the same as Chopta Valley?", "a": "No, but they are next to each other and often named together as Thangu-Chopta. Thangu is the settlement on the Gurudongmar road; Chopta is the meadow valley close by, known for its frozen river in winter and flowers in summer."},
+    {"q": "Can I buy food in Thangu?", "a": "Yes. Tea houses sell tea, coffee, Maggi, eggs and bread from early morning, and some serve simple rice meals at lunch. Expect ₹30–200 per item. Carry cash in small notes, as digital payments often fail."},
+    {"q": "Is Thangu open in winter?", "a": "The settlement is lived in, but the road beyond Lachen can be closed by snow for days in winter, and Gurudongmar tours are suspended when it is. Plan with flexible dates in December to February and check current status before you travel."}
+  ]
+}

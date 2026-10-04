@@ -1,0 +1,177 @@
+{
+  "slug": "gangtok",
+  "name": "Gangtok",
+  "name_local": "गान्तोक",
+  "region": "gangtok",
+  "kind": "town",
+  "wiki": "Gangtok",
+  "image_query": "Gangtok city Sikkim hillside",
+  "lat": 27.333,
+  "lng": 88.614,
+  "altitude_m": 1650,
+  "tagline": "A royal hilltop capital since 1894, built for walking",
+  "meta_description": "Gangtok on a budget: MG Marg, Enchey, Do-drul Chorten and the Tibetology museum, shared jeeps from Siliguri, permits and real 2025–26 costs.",
+  "summary": "Gangtok is Sikkim's capital, at about 1,650 m, 114 km from Siliguri. It is the base for Tsomgo Lake, Nathu La and the Silk Route, and a good town in its own right: a car-free main street, old monasteries, a museum of Tibetan learning and cheap, filling food. Plan two to three nights.",
+  "local_story": {
+    "title": "How a hilltop hamlet became a capital",
+    "paras": [
+      "Gangtok means, most agree, 'hill top', from the Tibetan sgang tog. For most of Sikkim's history it was a small settlement, and the kings, the Chogyals, ruled from elsewhere: Yuksom, then Rabdentse, then Tumlong in the north. A small gompa stood on the Enchey ridge from the 1840s, and pilgrims began to come. Then, in 1894, Chogyal Thutob Namgyal, under the eye of the British Political Officer John Claude White, moved the capital from Tumlong to Gangtok, and a new palace and state buildings went up on the ridge.",
+      "The timing mattered. Trade between Lhasa and British India was running over Nathu La and Jelep La, and Gangtok became a stopping point for mule trains carrying wool, salt and tea. The Enchey Monastery you see today was built in 1909; the local story is that the tantric master Lama Drupthob Karpo had flown to this ridge from Maenam Hill in South Sikkim and blessed it. After 1947 Sikkim stayed a monarchy under Indian protection, with Gangtok as its capital, and in 1958 Jawaharlal Nehru opened the Namgyal Institute of Tibetology here, its foundation stone laid by the 14th Dalai Lama the year before.",
+      "Trade over the passes slowed after 1959 and stopped in 1962. In 1975 the monarchy ended and Sikkim became India's 22nd state, with Gangtok still its capital. The town has kept some rules that visitors notice at once: MG Marg, the main street, is closed to vehicles and to smoking, spitting and litter, and in 2016 Sikkim was declared India's first fully organic state."
+    ]
+  },
+  "did_you_know": [
+    "The Do-drul Chorten was built in 1945–46 by Trulshik Rinpoche on a site locals thought haunted; 108 prayer wheels ring the stupa.",
+    "The Namgyal Institute of Tibetology was inaugurated by Jawaharlal Nehru on 1 October 1958 and is named after Chogyal Sir Tashi Namgyal.",
+    "Before 1894 the Sikkimese capital was Tumlong in North Sikkim; Chogyal Thutob Namgyal moved it to Gangtok, which was then a small hamlet."
+  ],
+  "intro": [
+    "Gangtok climbs a ridge at about 1,650 m, with the old palace and the royal chapel at the top, the government buildings on the Ridge and the town tumbling down the slope in lanes and stairways. It is a capital, so it is busy in the day and full of offices and schools, but its centre is small. MG Marg, the car-free main street, is where everyone walks in the evening, and it is the easiest place to find a shared taxi, a cheap meal or a registered tour operator.",
+    "For budget travellers Gangtok works as a hub. Permit tours to Tsomgo Lake and Nathu La are sold here, by the seat or by the car; shared jeeps run to Rongli for the Silk Route, to Rumtek and to Siliguri. In between, the town itself repays a day on foot: the Enchey Monastery, the Do-drul Chorten and its prayer wheels, the Tibetology museum and the Lal Bazaar market. Most of it costs little or nothing."
+  ],
+  "facts": [
+    ["Best months", "Oct – Dec · Mar – May"],
+    ["Nights we suggest", "2–3"],
+    ["From Siliguri", "≈ 114 km · 4–5 h"],
+    ["Altitude", "≈ 1,650 m"],
+    ["Known for", "MG Marg, monasteries, permit tours to Tsomgo and Nathu La"],
+    ["Network", "Jio, Airtel and BSNL good in town"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "nights": "2–3",
+  "costs": [
+    ["Shared jeep or taxi from Siliguri", "₹350–500 a seat"],
+    ["Hostel dorm bed", "₹500–800"],
+    ["Budget hotel room", "₹1,500–3,000"],
+    ["Tsomgo and Baba Mandir shared tour", "₹800–1,200 a seat"],
+    ["Momos or thukpa", "₹80–180"],
+    ["Half-day city tour by reserved taxi", "₹1,500–2,500 a car"],
+    ["Ropeway ride", "≈ ₹100–200"]
+  ],
+  "highlights": [
+    {"title": "MG Marg in the evening", "text": "The main street has been car-free, smoke-free and litter-free since its 2008 makeover, with benches down the middle. Walk it after dark when families come out, buy roasted corn or momos, and watch how the no-spitting rule is actually kept."},
+    {"title": "Enchey Monastery", "text": "A Nyingma monastery on a ridge above town, in its present form since 1909. Its name means 'solitary monastery'. Come early when monks are at prayer, and in winter look out for the cham dances held here before the new year."},
+    {"title": "Do-drul Chorten and its 108 wheels", "text": "Trulshik Rinpoche raised this white stupa in 1945–46. Walk clockwise round its 108 prayer wheels, then look into the shrine with two large statues of Guru Rinpoche. It is free and busy all day with local devotees."},
+    {"title": "Namgyal Institute of Tibetology", "text": "A small museum and research institute opened in 1958, with thangkas, old manuscripts, ritual objects and statues. It is one of the best collections of Tibetan Buddhist art in India and costs very little to enter. Check opening days before you go."},
+    {"title": "Hanuman Tok and Ganesh Tok", "text": "Two viewpoint temples above town. Hanuman Tok, dated to 1950 and kept by the Indian Army, gives a wide Kanchenjunga view on clear mornings. Go before 8 am in October to December, before the clouds build up."},
+    {"title": "Lal Bazaar on a Sunday", "text": "Gangtok's main market sells chhurpi, fermented greens, chillies, local cheese and household goods. Sunday is the busiest day, when farmers come in from the villages. It is the cheapest place to buy dalle khursani chillies and organic produce."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep or taxi", "text": "Shared Sikkim-registered jeeps and taxis leave Siliguri from the SNT stand and the Panitanki More area when full, ₹350–500 a seat, about 4–5 hours for 114 km. NH10 has had repeated closures since the October 2023 Teesta flood; when it shuts, vehicles detour via Kalimpong. Check current status before you travel."},
+    {"mode": "SNT bus", "text": "Sikkim Nationalised Transport buses run from the SNT bus terminus in Siliguri to Gangtok, about ₹250–350 and 5 hours or more. Slower than a jeep, but cheaper and with fixed seats. Buy tickets at the counter a day ahead in peak season."},
+    {"mode": "Reserved car", "text": "From NJP, Siliguri or Bagdogra airport a reserved small car costs about ₹3,500–5,000 and an SUV ₹4,500–6,500, roughly 4–5 hours. Agree the price before loading bags and ask about any detour if NH10 is closed."},
+    {"mode": "Air", "text": "Bagdogra (about 124 km) is the practical airport. Pakyong airport, 31 km from Gangtok, opened in 2018 but scheduled flights have been suspended for long periods. Check current status before you travel."}
+  ],
+  "where_to_stay": "For walking everything, stay on or near MG Marg and Tibet Road, where Hotel Sonam Delek and Hotel Tibet sit a few minutes from the mall. Mintokling Guest House offers a quieter, garden setting in the centre, and Netuk House is a traditional Sikkimese family home turned small guesthouse. Backpacker hostels and lodges are scattered around Tibet Road and Development Area, with dorm beds for about ₹500–800. The Tadong and Deorali areas lower down are quieter and cheaper but need taxis. In Puja, Diwali and April–May, book ahead.",
+  "stays": ["gangtok-mintokling-guest-house", "gangtok-netuk-house", "gangtok-hotel-tibet", "gangtok-hotel-sonam-delek"],
+  "tips": [
+    "Book Tsomgo and Nathu La tours a day ahead with a registered operator, and hand over photo ID and two passport photos for the permit.",
+    "Keep cigarettes and chewing gum in your bag on MG Marg; smoking, littering and spitting there draw fines.",
+    "Use the shared taxis for short hops inside town; reserved taxis charge fixed fares of about ₹100–300.",
+    "Visit viewpoints before 8 am in winter; Kanchenjunga is usually hidden by cloud by late morning.",
+    "Carry a light rain jacket from May to September, when afternoon rain and landslides on NH10 are common."
+  ],
+  "themes": ["monasteries", "food-trails", "festivals", "solo-backpacking", "long-weekends"],
+  "nearby": ["rumtek", "tsomgo-lake", "pakyong", "nathu-la"],
+  "experiences": [
+    {
+      "slug": "gangtok-mg-marg-evening-walk",
+      "title": "An evening on MG Marg and Lal Bazaar",
+      "kind": "food",
+      "duration": "2–3 hours",
+      "best_time": "5–8 pm, any month",
+      "cost": "Free · food ₹200–400",
+      "image_query": "MG Marg Gangtok evening",
+      "wiki": "",
+      "summary": "Walk Gangtok's car-free main street at dusk, eat momos and thukpa where the locals do, then drop down to Lal Bazaar for chhurpi, chillies and organic produce. It is the cheapest good evening in Sikkim.",
+      "body": [
+        "MG Marg, named after Mahatma Gandhi, runs for about a kilometre through the centre of Gangtok. Since its 2008 renovation it has been a pedestrian street with benches, flower beds down the middle and strict rules: no vehicles, no smoking, no spitting and no litter, with fines for those who forget. The result is a street where families, students and monks stroll after work, and where the town feels like a town rather than a traffic jam.",
+        "Start at the top end near the tourist office and walk down slowly. Side lanes hold small eateries that serve steamed or fried momos, thukpa and thenthuk for ₹80–180. Look for places full of local office workers rather than the ones with laminated photo menus. A plate of sha phaley, a fried bread stuffed with spiced meat, makes a filling snack.",
+        "From the lower end, steps lead down to Lal Bazaar, the old market in the Kanchenjunga complex. It is busiest on Sundays, when farmers bring vegetables, ferns, cheese and dried meat. Buy hard chhurpi for the road, dalle khursani chillies and local spices here at a fraction of shop prices. Shops start closing around 8 pm."
+      ],
+      "good_for": ["couples", "families", "solo", "students", "first-timers"],
+      "faqs": [
+        {"q": "Can you smoke on MG Marg in Gangtok?", "a": "No. MG Marg is a no-smoking, no-spitting and no-littering zone, and vehicles are not allowed on it. Fines apply, and local volunteers and police do enforce the rules. Smoke away from the mall, and carry your rubbish to a bin. The rules are a big part of why the street is so pleasant to walk."},
+        {"q": "What is the best time to visit MG Marg?", "a": "Early evening, from about 5 to 8 pm, when office workers and families come out and the street lights come on. Mornings are quiet and good for photography without crowds. Shops start shutting around 8 pm, and Gangtok is an early town, so eat dinner by 9 pm."},
+        {"q": "Is Lal Bazaar worth visiting?", "a": "Yes, especially on Sunday mornings, when villagers come to sell vegetables, ferns, chhurpi cheese and dried meat. It shows how Gangtok actually eats. Prices are lower than on MG Marg. Carry cash and a cloth bag, and watch your step on the wet floors and stairs."}
+      ]
+    },
+    {
+      "slug": "gangtok-enchey-monastery-morning",
+      "title": "Morning prayers at Enchey Monastery",
+      "kind": "monastery",
+      "duration": "1–1.5 hours",
+      "best_time": "6.30–8 am, Oct–May",
+      "cost": "Free · donation welcome",
+      "image_query": "Enchey Monastery Gangtok",
+      "wiki": "Enchey Monastery",
+      "summary": "Enchey is Gangtok's oldest monastic site, a Nyingma gompa on a ridge about 3 km above MG Marg, rebuilt in its present form in 1909. Come at dawn for chanting, butter lamps and a quiet courtyard.",
+      "body": [
+        "Enchey means 'solitary monastery', and on an early morning it still feels like one. A small gompa stood here from the 1840s, and the present building, with its pagoda-style roofs, dates from 1909. The local story is that the tantric master Lama Drupthob Karpo flew here from Maenam Hill in South Sikkim and built a hermitage on the spot. Devotees believe the protector deities of Kanchenjunga and Yabdu reside here.",
+        "The monastery belongs to the Nyingma school, the oldest of Tibetan Buddhism. Arrive around 6.30 to 7 am, when the monks gather for morning prayers. Sit quietly at the back, walk clockwise and ask before taking photographs inside the hall. The walk up through tall conifers from the Nathu La road is pleasant; a taxi from MG Marg costs about ₹150–250.",
+        "In winter, Enchey holds its annual cham, the masked dances, before the Tibetan new year. Dates follow the lunar calendar and usually fall in December or January. If you are in Gangtok then, it is one of the most atmospheric events in town. Check current dates locally before you travel."
+      ],
+      "good_for": ["couples", "solo", "photographers", "seniors"],
+      "faqs": [
+        {"q": "What is the history of Enchey Monastery?", "a": "A small gompa stood on the Enchey ridge from the 1840s, and the present monastery was built in 1909. It belongs to the Nyingma order. The local story is that the tantric master Lama Drupthob Karpo flew here from Maenam Hill in South Sikkim and blessed the site. Its name means 'solitary monastery'."},
+        {"q": "What are Enchey Monastery's timings?", "a": "It is generally open from early morning to late afternoon, with morning prayers from around 6.30 to 7 am. Timings can change on festival days and during rituals. Visit early for the prayers and the quiet courtyard, and check locally before you go if you are planning around a ceremony."},
+        {"q": "When is the Enchey cham dance?", "a": "Enchey's annual masked dances are held in winter, usually in December or January, on dates set by the Tibetan lunar calendar. They draw crowds from all over Gangtok. Confirm the year's date with your hotel or the Sikkim Tourism office on MG Marg, and check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "gangtok-do-drul-chorten-and-tibetology",
+      "title": "Do-drul Chorten and the Tibetology museum",
+      "kind": "culture",
+      "duration": "2–2.5 hours",
+      "best_time": "9 am–1 pm, Oct–May",
+      "cost": "Chorten free · museum small fee",
+      "image_query": "Do-drul Chorten Gangtok stupa",
+      "wiki": "Do-drul Chorten",
+      "summary": "Two sights 500 m apart: the 1945 white stupa with 108 prayer wheels, and the Namgyal Institute of Tibetology, opened by Nehru in 1958, with rare thangkas, manuscripts and statues. Together they explain Sikkim's Buddhist world better than any guidebook.",
+      "body": [
+        "Start at the Do-drul Chorten, the large white stupa on the hill in Deorali. It was built in 1945–46 by Trulshik Rinpoche, a senior Nyingma lama. The site was believed to be haunted, and the stupa was raised to subdue those forces. Inside are a set of Dorje Phurba ritual objects and volumes of the Kangyur. Walk clockwise around the 108 mani prayer wheels, then visit the shrine with two large statues of Guru Rinpoche.",
+        "A few minutes' walk below is the Namgyal Institute of Tibetology. The Dalai Lama laid its foundation stone on 10 February 1957, and Jawaharlal Nehru inaugurated it on 1 October 1958. It is named after Chogyal Sir Tashi Namgyal. The museum holds thangka paintings, rare manuscripts, statues and ritual objects, and it is one of the most important collections of Tibetan Buddhist material in India.",
+        "Allow an hour for the museum. Photography is usually not allowed inside, and it closes on some days and public holidays, so check before you go. A taxi from MG Marg to Deorali is about ₹150–250, or walk down in 30–40 minutes. The ropeway's Deorali station is close by."
+      ],
+      "good_for": ["families", "students", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "Who built Do-drul Chorten?", "a": "Trulshik Rinpoche, a senior lama of the Nyingma school, built Do-drul Chorten in 1945–46. Tradition says the site was haunted, so the stupa was raised to subdue negative forces. It contains ritual objects and scriptures and is ringed by 108 prayer wheels. Entry is free and devotees circle it all day."},
+        {"q": "Is the Namgyal Institute of Tibetology worth visiting?", "a": "Yes. It is small but holds one of India's finest collections of Tibetan Buddhist art: thangkas, statues, ritual objects and rare manuscripts. It was inaugurated in 1958 by Jawaharlal Nehru. Allow an hour, expect a small entry fee and check opening days, as it closes on some days and holidays."},
+        {"q": "How far apart are Do-drul Chorten and the Tibetology institute?", "a": "About 500 m. Both are in the Deorali area, a short walk apart, so they fit into one morning. From MG Marg a taxi costs about ₹150–250, or you can walk downhill in 30–40 minutes. The Deorali ropeway station is nearby if you want to ride back up."}
+      ]
+    },
+    {
+      "slug": "gangtok-hanuman-tok-sunrise",
+      "title": "Kanchenjunga at dawn from Hanuman Tok",
+      "kind": "viewpoint",
+      "duration": "2–3 hours",
+      "best_time": "5.30–8 am, Oct–Dec and Mar–Apr",
+      "cost": "Free · taxi ₹800–1,500",
+      "image_query": "Hanuman Tok Gangtok Kanchenjunga view",
+      "wiki": "Hanuman Tok",
+      "summary": "Hanuman Tok, a temple above Gangtok kept by the Indian Army, gives one of the widest Kanchenjunga views close to town. Go at first light, add Ganesh Tok and Tashi View Point, and be back for breakfast.",
+      "body": [
+        "Hanuman Tok sits above Gangtok, about 11 km by road from the centre. The temple, dated to 1950, is now maintained by the Indian Army, which keeps it spotless. Hindu tradition says Hanuman rested here while carrying the Sanjeevani herb to Lanka. For travellers its real draw is the view: on a clear morning Kanchenjunga and its neighbouring peaks fill the western sky.",
+        "The best months are October to December and March to April. Leave town by 5.30 am in winter, when skies are clearest at dawn. A reserved taxi for Hanuman Tok, Ganesh Tok and Tashi View Point together costs about ₹800–1,500. Ganesh Tok is a small shrine on a ridge with a view over Gangtok; Tashi View Point, on the North Sikkim road, faces the peaks.",
+        "Clouds usually gather by 9 or 10 am, so do not leave this for the afternoon. Dress warmly: at dawn in December it can be near freezing. The army asks visitors to follow its rules in the temple area, including no photography of military installations. Tea stalls near the viewpoints open early."
+      ],
+      "good_for": ["couples", "families", "photographers", "seniors"],
+      "faqs": [
+        {"q": "Can you see Kanchenjunga from Gangtok?", "a": "Yes, on clear days, especially from October to December and in March and April, early in the morning. The best viewpoints near town are Hanuman Tok, Tashi View Point and Ganesh Tok. Clouds usually build by mid-morning, so go before 8 am. In the monsoon the peaks are rarely visible."},
+        {"q": "How far is Hanuman Tok from MG Marg?", "a": "About 11 km by road, roughly 30–40 minutes by taxi. A reserved taxi for Hanuman Tok, Ganesh Tok and Tashi View Point together costs about ₹800–1,500. There is no regular shared taxi to the temple, so a reserved car, shared with others, is the practical way."},
+        {"q": "Who maintains Hanuman Tok temple?", "a": "The Indian Army maintains Hanuman Tok, which is why it is so clean and orderly. The temple is dated to 1950. Visitors should follow the army's rules, including restrictions on photographing military areas. Entry is free, and the temple is a working place of worship, so dress and behave accordingly."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days are enough for Gangtok?", "a": "Two to three nights is right for most travellers: one day for the town (Enchey, Do-drul Chorten, the Tibetology museum and MG Marg), one for Tsomgo Lake and Baba Mandir, and one more for Nathu La or Rumtek. Add a day if you are going on to the Silk Route or North Sikkim, to arrange permits."},
+    {"q": "How do I reach Gangtok from NJP or Siliguri cheaply?", "a": "Take a shared jeep or taxi from the SNT stand or Panitanki More area in Siliguri for about ₹350–500 a seat, or the SNT bus for about ₹250–350. The 114 km drive takes 4–5 hours. NH10 has had repeated closures since the October 2023 Teesta flood, so check current status before you travel."},
+    {"q": "Do Indians need a permit to visit Gangtok?", "a": "No. Indian citizens do not need a permit to enter Sikkim or visit Gangtok. You do need permits for Tsomgo Lake, Nathu La and the Silk Route, arranged through registered operators with photo ID and passport photos. Foreigners need a Restricted Area Permit for Sikkim. Check current status before you travel."},
+    {"q": "What is the best time to visit Gangtok?", "a": "October to mid-December gives the clearest skies and Kanchenjunga views; March to May brings rhododendrons and warmer days. December to February is cold but clear, with snow at Tsomgo and Nathu La. June to September is the monsoon, with cheaper rooms but landslides on NH10 and cloudy views."},
+    {"q": "How much does a budget trip to Gangtok cost per day?", "a": "A shoestring traveller can manage on about ₹1,500–2,500 a day: a dorm or shared room, meals at local eateries for ₹150–300, and shared jeeps and shared tour seats. A comfortable trip with a private room, a reserved car for day trips and restaurant meals costs about ₹4,000–6,500 per person a day."},
+    {"q": "Is Gangtok safe for solo women travellers?", "a": "Gangtok is generally regarded as one of the safer hill towns in India, and solo women travellers commonly report feeling at ease. MG Marg is well lit and busy until about 8–9 pm. Use registered taxis, share your plans with your hotel, and take the usual care late at night and on empty roads."},
+    {"q": "Is there an airport in Gangtok?", "a": "Gangtok's nearest airport is Pakyong, 31 km away, which opened in 2018. Scheduled flights there have been suspended for long periods, so most travellers fly to Bagdogra, about 124 km and 4–5 hours away. Check current status before you travel if you hope to use Pakyong."},
+    {"q": "What food should I try in Gangtok?", "a": "Try momos, thukpa and thenthuk (hand-pulled noodle soup), sha phaley (fried bread stuffed with spiced meat), phagshapa (pork with radish and chilli), gundruk soup, and chhurpi cheese. Most cost ₹80–200 in local eateries. Sikkim was declared fully organic in 2016, and vegetables at Lal Bazaar come mostly from nearby farms."},
+    {"q": "Can we walk around Gangtok without a car?", "a": "Yes, for the centre. MG Marg, Lal Bazaar, Tibet Road, the Ridge and the palace area are all walkable, though steep. Do-drul Chorten and the Tibetology museum are a 30–40 minute walk downhill. Enchey and Hanuman Tok are better by taxi. Shared taxis and fixed-fare taxis cover the gaps cheaply."}
+  ]
+}

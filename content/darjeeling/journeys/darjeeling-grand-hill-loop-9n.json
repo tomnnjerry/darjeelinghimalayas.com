@@ -1,0 +1,74 @@
+{
+  "slug": "darjeeling-grand-hill-loop-9n",
+  "title": "The grand Darjeeling hill loop",
+  "region": "darjeeling",
+  "nights": 9,
+  "themes": ["homestays", "kanchenjunga-views", "tea-country", "toy-train", "monasteries"],
+  "tier": "Comfort",
+  "travel_mode": "Reserved car",
+  "stops": [{"place": "chatakpur", "nights": 1}, {"place": "darjeeling", "nights": 3}, {"place": "lepchajagat", "nights": 1}, {"place": "lamahatta", "nights": 1}, {"place": "tinchuley", "nights": 2}, {"place": "peshok", "nights": 1}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 55000,
+  "cost_split": [
+    {"item": "Reserved car throughout and the Chatakpur 4x4", "inr": 15000},
+    {"item": "Darjeeling hotel, 3 nights in a better room with breakfast", "inr": 9000},
+    {"item": "Village stays, 6 nights with dinner and breakfast", "inr": 16000},
+    {"item": "Steam joyride, Tiger Hill, forest entry and fees", "inr": 3500},
+    {"item": "Lunches, dinners in town and tea", "inr": 8000},
+    {"item": "Village guides, porters and tips", "inr": 3500}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2567,
+  "meta_description": "9 nights round the Darjeeling hills from ₹55,000: Chatakpur's forest, Darjeeling and Tiger Hill, Lepchajagat, Lamahatta, Tinchuley and Peshok's tea.",
+  "summary": "Ten days that circle Darjeeling: a forest night at Chatakpur in Senchal sanctuary, three nights in town for Tiger Hill and the steam train, then west to Lepchajagat and east down the Peshok road through Lamahatta, Tinchuley and Peshok to the Teesta. One car throughout, about ₹55,000 per person, twin sharing.",
+  "intro": [
+    "Look at a map of the Darjeeling hills and Ghoom is the knot: from that saddle at 2,258 m roads run down to Siliguri, west to Mirik, east to the Teesta and along the ridge into town. This loop uses every one of them. It starts in Senchal Wildlife Sanctuary, declared in 1915, where about 19 families at Chatakpur farm organic terraces at around 2,400 m. It ends at Peshok, where Lepcha folklore says the rivers Rongnyu and Rongeet raced as lovers to meet in the plains, and the Teesta, following a serpent, won.",
+    "In between are three nights in Darjeeling, enough for Tiger Hill, the steam train, the mountaineering institute and the tea story that began with Dr Archibald Campbell's China seeds around 1841. Then a night in the Lepcha forest at Lepchajagat, a night among Lamahatta's dhupi trees, and two in Tinchuley, with old Takdah's army bungalows and orchid centre 3 km away. One car and driver stay with you throughout, and no drive after the first day runs longer than about two hours."
+  ],
+  "highlights": [
+    "A forest night at Chatakpur inside Senchal Wildlife Sanctuary",
+    "Tiger Hill at dawn and the steam joyride to Ghoom",
+    "Lepchajagat's pine and rhododendron forest at first light",
+    "Lamahatta, Tinchuley and old Takdah on the road to the Teesta",
+    "Peshok's tea and the Lovers' Meet view of the river confluence"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Sonada and up to Chatakpur", "place": "chatakpur", "overnight": "Chatakpur", "drive": "≈ 55 km · 2.5 h by car, then ≈ 7 km · 1 h by 4x4", "text": "Your car takes you up the Hill Cart Road through Kurseong to Sonada, where a 4x4 booked through your homestay waits for the rough 7 km forest track into Senchal Wildlife Sanctuary. Chatakpur, at about 2,400 m, is a cluster of about 19 houses whose families farm organic terraces and almost all run homestays; your hosts collect the forest entry fee. You need a confirmed booking before you come. Walk the village edge before dark, then eat by the stove.", "meals": "Dinner", "spend": "₹2,000 car share + ₹1,250 4x4 share + entry fee"},
+    {"day": 2, "title": "Chatakpur dawn and down to Darjeeling", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 7 km by 4x4 to Sonada, then ≈ 16 km · 45 min by car", "text": "Wake before sunrise for Kanchenjunga over the forest, then walk the terraces with your hosts and ask about the medicinal herbs they gather and the eco-village they built with the forest department around 2012. After breakfast the 4x4 takes you back to Sonada and your car to Darjeeling. Check in to a better room near the Mall and walk Chowrasta and the Mall loop in the late afternoon, past the statue of the poet Bhanubhakta Acharya.", "meals": "Breakfast, dinner", "spend": "₹1,250 4x4 share + ₹750 car share"},
+    {"day": 3, "title": "Tiger Hill and the mountaineers", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 30 km round trip by car · leaves about 4 am", "text": "Take your car to Tiger Hill, 2,567 m, for the dawn over Kanchenjunga; on very clear mornings Everest, Lhotse and Makalu show far to the west. Return by Ghoom monastery, founded in 1850, and the Batasia Loop. After breakfast and a rest, visit the Himalayan Mountaineering Institute, founded in 1954, with Tenzing Norgay's memorial and the Everest Museum, and the zoo, opened in 1958, with its red pandas and snow leopards. Climb Observatory Hill to the Mahakal shrine before dinner.", "meals": "Breakfast, dinner", "spend": "Tiger Hill fees + ₹100–150 HMI and zoo"},
+    {"day": 4, "title": "Steam train and the tea story", "place": "darjeeling", "overnight": "Darjeeling", "drive": "Short hops by reserved car", "text": "Ride the steam joyride, roughly ₹1,500–1,800 on IRCTC, round the Batasia Loop to Ghoom station, the highest on the line, and back. After lunch drive down to Happy Valley Tea Estate on Lebong Cart Road and taste the season's flush; Darjeeling tea, grown on about 87 gardens, became India's first GI-tagged product in 2004. Visit the Tibetan Refugee Self Help Centre nearby, set up in October 1959, where carpets are woven on the looms. Buy tea at a shop on Nehru Road.", "meals": "Breakfast, dinner", "spend": "₹1,500–1,800 joyride + tea tasting"},
+    {"day": 5, "title": "Ghoom and west to Lepchajagat", "place": "lepchajagat", "overnight": "Lepchajagat", "drive": "≈ 19 km · 1 h by reserved car", "text": "Leave Darjeeling after breakfast through Ghoom, where you can visit Samten Choling and the railway museum at the station, and take the Mirik road west to Lepchajagat, at about 2,120 m. Stay at the WBFDC Nature and Wilderness Resort, booked on the WBFDC portal up to 90 days ahead, or in a village homestay. In the afternoon drive 10 minutes to Sukhia Pokhari's market, or walk the forest edge. The village carries the name of the Lepchas, the oldest people of these hills.", "meals": "Breakfast, dinner", "spend": "₹750 car share + donations"},
+    {"day": 6, "title": "Lepchajagat dawn and on to Lamahatta", "place": "lamahatta", "overnight": "Lamahatta", "drive": "≈ 30 km · 1.5 h by reserved car via Ghoom", "text": "Walk to the village viewpoint at first light for Kanchenjunga, then spend an hour among the birds on the forest paths. After breakfast drive back through Ghoom and onto the Peshok road to Lamahatta, at about 1,740 m. In the afternoon walk the eco-park, opened around 2012, with its terraced gardens, tall dhupi trees and prayer flags, and climb the trail to the small holy lake, about 30–45 minutes. Villagers read the name as lama and hatta, a monks' settlement.", "meals": "Breakfast, dinner", "spend": "₹1,000 car share + ₹50–100 park entry"},
+    {"day": 7, "title": "Takdah's bungalows to Tinchuley", "place": "tinchuley", "overnight": "Tinchuley", "drive": "About an hour by reserved car, with stops in Takdah", "text": "Drive on to Takdah, a British army cantonment in the early 1900s, and walk past the old officers' bungalows, some now heritage homestays. Visit the government orchid centre, at its best from February to April. Nearby Rungli Rungliot tea garden carries a name that, the local story says, means thus far and no further. Continue about 3 km to Tinchuley, at about 1,770 m, and check in to a homestay among the orange orchards. Walk to the small monastery at dusk.", "meals": "Breakfast, dinner", "spend": "₹750 car share + orchid centre fee"},
+    {"day": 8, "title": "Gumbadara and the orchards", "place": "tinchuley", "overnight": "Tinchuley", "drive": "", "text": "Walk up to the Gumbadara viewpoint for sunrise over Kanchenjunga and the long drop into the Teesta valley. Spend the rest of the day on foot, or not at all: through the orange orchards, heavy with fruit from about November to January, along the tea paths, or down towards the valley with a guide from the village. Ask your hosts about the name, three hilltops shaped like chulha, clay ovens. After a week of moving, an empty afternoon on a porch is earned.", "meals": "Breakfast, dinner", "spend": "₹500 village guide + ₹150 lunch"},
+    {"day": 9, "title": "Down to Peshok's tea", "place": "peshok", "overnight": "Peshok", "drive": "≈ 1–1.5 h by reserved car", "text": "Drive down to the Peshok road and past Lopchu tea estate to Peshok, among the tea at roughly 1,000–1,200 m. Stand at Lovers' Meet, the viewpoint over the confluence of the Teesta and the Rangeet. Lepcha folklore tells of Rongnyu and Rongeet, lovers who agreed to meet in the plains; Rongnyu followed a serpent and arrived first, while Rongeet followed a dawdling bird and came late, hurt. Walk the Peshok tea rows in the afternoon and sleep in a village homestay.", "meals": "Breakfast, dinner", "spend": "₹750 car share"},
+    {"day": 10, "title": "Peshok to NJP", "place": "peshok", "overnight": "", "drive": "≈ 85 km · 3.5–4 h by reserved car via Teesta Bazar, or back via Ghoom", "text": "Leave after breakfast. The short route drops to Teesta Bazar and follows the river south past Sevoke to Siliguri, but Teesta valley roads have had long closures and diversions since the October 2023 flood: check current status before you travel. If the river road is shut, your driver will climb back to Ghoom and descend the Hill Cart Road. Stop at Lopchu for a last cup of tea on the way, and allow a margin for traffic around Siliguri.", "meals": "Breakfast", "spend": "₹2,250 car share + ₹300 lunch"}
+  ],
+  "stays": ["darjeeling-dekeling-hotel", "darjeeling-meghbalika-tourist-lodge", "lepchajagat-wbfdc-nature-resort"],
+  "includes": ["Reserved car and driver for the whole loop", "4x4 between Sonada and Chatakpur both ways", "Darjeeling hotel, 3 nights in a better room with breakfast, twin sharing", "Village stays for 6 nights with dinner and breakfast", "Steam joyride, Tiger Hill and forest entry fees", "Village guides and porterage where needed"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Lunches beyond the estimate", "Ropeway and other optional Darjeeling sights", "Mungpoo and Mirik detours", "Personal shopping"],
+  "save_money": [
+    "Keep one car and driver for the whole loop: a ten-day hire costs far less per day than separate transfers and village hops.",
+    "Ask for the second-best room in each village homestay; the views are shared from the garden and the difference can be ₹500 a night.",
+    "Travel from late February to April, when orchids flower at Takdah, mornings are often clear and rates are below the October peak."
+  ],
+  "good_to_know": [
+    "Chatakpur needs a confirmed homestay booking and a 4x4 for the 7 km forest track from Sonada.",
+    "WBFDC bookings for Lepchajagat open about 90 days ahead on the WBFDC portal.",
+    "Teesta valley roads have had long closures since October 2023: check current status before you travel.",
+    "Village homestays are simple: ask about hot water and heating, and pack warm layers for Chatakpur and Lepchajagat."
+  ],
+  "faqs": [
+    {"q": "Is nine nights too long for Darjeeling?", "a": "Not if you leave the town. This loop gives Darjeeling three nights and spends the rest in five villages, each with its own character: a sanctuary eco-village, a Lepcha forest, a dhupi forest park, an orchard ridge and a tea estate above the Teesta. Most moves are one to two hours, so you still have time to rest."},
+    {"q": "How much does the grand loop cost?", "a": "About ₹55,000 per person, twin sharing, from NJP back to NJP, indicative for 2025–26. That covers one reserved car throughout, the Chatakpur 4x4, three nights in a better Darjeeling room, six village nights with meals, the steam joyride, Tiger Hill and forest fees, guides, tips and food. Travelling as four in one car brings it down."},
+    {"q": "Why start at Chatakpur instead of Darjeeling?", "a": "Because Sonada, the turn for Chatakpur, sits on the Hill Cart Road below Darjeeling, so the forest night fits neatly on the way up. It also means your first dawn is in the sanctuary, quiet and high at about 2,400 m, before the crowds of Tiger Hill. You need a confirmed homestay booking and a 4x4 from Sonada."},
+    {"q": "Which village is the highlight?", "a": "It depends on you. Birders and walkers like Chatakpur and Lepchajagat. Couples often like Tinchuley best, for the Gumbadara view and the orchards. Lamahatta is the easiest to enjoy in an afternoon. Peshok gives the river view and the Lepcha legend. Most people find the two nights in Tinchuley the most restful."},
+    {"q": "Can we drop a village to shorten the loop?", "a": "Yes. The easiest cuts are Lepchajagat, which is a detour west, or Peshok, which you can see as a stop on the last day's drive. Dropping one gives a 7- or 8-night trip at a lower cost. Keep at least two nights in Darjeeling and two in Tinchuley if you can."},
+    {"q": "Is this loop suitable for older travellers?", "a": "Mostly. The car is with you throughout, and most walks are short and optional. The rough 4x4 ride to Chatakpur and the cold nights there and at Lepchajagat are the hard parts; swap Chatakpur for an extra Darjeeling night if needed. Ask each homestay about steps and hot water."},
+    {"q": "How many Kanchenjunga dawns will we get?", "a": "The loop offers six chances: Chatakpur, your Darjeeling room or Chowrasta, Tiger Hill, Lepchajagat, Lamahatta and Tinchuley's Gumbadara viewpoint. Clouds decide, not us, but between October and early December or in March and April you should see the range on several mornings. Views are best before 9 am."},
+    {"q": "What happens if a road is closed?", "a": "Landslides close hill roads for hours or days, especially in and just after the monsoon. Your driver will know the alternatives: the Hill Cart Road instead of the Teesta road at the end, or a reorder of the village nights. Keep the last day loose, avoid booking a tight connection, and check current status before you travel."},
+    {"q": "When is the best time for the loop?", "a": "October to early December for clear views and dry roads; February to April for orchids at Takdah, rhododendrons in the forests and warmer days. January is cold but often clear. Avoid June to September, when the Chatakpur track turns to mud and the Teesta roads suffer landslides."}
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "jhalong", "name": "Jhalong", "name_local": "", "region": "dooars",
+  "kind": "river town",
+  "wiki": "", "image_query": "Jhalong Jaldhaka river",
+  "lat": 27.03, "lng": 88.87, "altitude_m": 600,
+  "tagline": "A hydel town on the Jaldhaka, facing Bhutan",
+  "meta_description": "Jhalong guide: the Jaldhaka river at the Bhutan border, river birding, the hydel project, Paren and Bindu, forest corporation river camp, costs and access.",
+  "summary": "Jhalong is a small settlement in the Jaldhaka valley, built around a hydroelectric power station, with Bhutan's forested hills across the river. It is a quiet base for river birding, the drive up to Paren and the last road to Bindu, about 100 km from Siliguri.",
+  "local_story": {"title": "A power station in a border valley", "paras": [
+    "The Jaldhaka is born far to the north, in the lake country of East Sikkim around Kupup, and runs through the border hills of Bhutan before it reaches Jhalong. For most of its course here it is the line between India and Bhutan: on one bank Kalimpong district, on the other Bhutanese forest. Until the Treaty of Sinchula in 1865, both banks were Bhutan's.",
+    "Jhalong as a settlement owes its shape to electricity. From the 1960s, West Bengal's state electricity board built the Jaldhaka Hydel Project here, with a diversion barrage upstream at Bindu sending water through a channel and tunnel to a power station at Jhalong. Staff quarters, offices, a school and shops grew up around it, and the place still has the tidy, slightly old-fashioned feel of a project colony.",
+    "Around that colony live Nepali-speaking families who farm cardamom, ginger and vegetables on the slopes and run small shops and homestays. Tourism came late and stayed small, which is why Jhalong remains one of the cheapest and calmest stops in the region."]},
+  "did_you_know": [
+    "The Jaldhaka is generally traced to the lake area around Kupup in East Sikkim, close to the old Silk Route to Tibet, before it turns south along the Bhutan border.",
+    "Jhalong's power station is fed by water diverted from the Jaldhaka at Bindu, about 10–15 km upstream, part of a state hydel scheme begun in the 1960s.",
+    "Jhalong, Bindu and Paren belong to Kalimpong district's Gorubathan area, although travellers reach them through the Dooars via Chalsa."
+  ],
+  "intro": [
+    "The road to Jhalong climbs out of the Dooars at Chalsa and follows ridges and valleys until the Jaldhaka appears below, wide and grey-green, with Bhutan's forest rising on the far side. Jhalong itself is a strip of buildings along the road and the river: power station, quarters, a few shops, a forest corporation camp and a handful of homestays.",
+    "People come here to do little. Walk along the river road at dawn for birds, drive up to Paren for views, spend a morning at Bindu at the end of the road, and watch evening light on the Bhutan hills. Jhalong pairs naturally with a night in Samsing or Murti and makes a good break between the parks."
+  ],
+  "facts": [["Best months", "Oct – Apr"], ["Nights we suggest", "1–2"], ["From Siliguri", "≈ 100 km · 3–3.5 h"], ["Altitude", "≈ 600 m"], ["Known for", "Jaldhaka river, birding, Bhutan views"], ["Network", "Patchy; BSNL and Jio in places"]],
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1–2",
+  "costs": [["Forest corporation river camp room", "₹2,500–3,500 (indicative)"], ["Homestay with dinner and breakfast", "₹1,200–1,800 pp"], ["Car Jhalong–Bindu–Paren half-day", "₹1,500–2,000"], ["Reserved car from NJP", "₹4,000–5,000"], ["Shared jeep from Chalsa area", "₹80–150 a seat"], ["Thali at a local eatery", "₹120–200"]],
+  "highlights": [
+    {"title": "Dawn on the Jaldhaka", "text": "Walk the river road at first light for forktails, redstarts, wagtails, kingfishers and, if you are lucky, ibisbill on the shingle in winter. Bhutan's hills catch the first sun across the water."},
+    {"title": "Bindu at the end of the road", "text": "The last Indian village up the valley, where the Jaldhaka barrage holds back the river and Bhutan is a stone's throw away. Half an hour from Jhalong."},
+    {"title": "Paren in the hills", "text": "A short drive uphill, Paren is a small village with a forest corporation camp, cooler air and views over the valley. A quieter alternative to Jhalong for a night."},
+    {"title": "Cardamom on the slopes", "text": "Families grow large cardamom under forest shade on the hillsides. In autumn you may see the red pods being dried; ask before you step into anyone's plot."},
+    {"title": "Cheap, quiet nights", "text": "Few tourists, simple homestays and a government river camp make Jhalong one of the least expensive bases in the region."}
+  ],
+  "how_to_reach": [
+    {"mode": "Reserved car", "text": "From NJP or Bagdogra about 100–110 km via Malbazar and Chalsa, three to three and a half hours, ₹4,000–5,000. From Samsing or Murti about one and a half hours."},
+    {"mode": "Bus and shared jeep", "text": "Bus from Siliguri to Chalsa, then shared jeeps that run towards Jhalong and Bindu from the nearby markets, mostly in the morning. Ask in Chalsa for the day's timings."}
+  ],
+  "where_to_stay": "The forest corporation's Jholung River Camp offers rooms in several grades by the river, at roughly ₹2,500–3,500 in the current tariff. A few family homestays in Jhalong and Bindu charge about ₹1,200–1,800 per person with meals. Up the hill, the corporation's Paren Eco Tourism Centre is another quiet option. There are no big hotels; book ahead for winter weekends.",
+  "stays": ["dooars-jholung-river-camp"],
+  "tips": [
+    "Carry cash and snacks; Jhalong has only small shops and no reliable ATM.",
+    "Do not photograph the hydel installations or the barrage where signs prohibit it.",
+    "Stay off the riverbed after rain upstream; the Jaldhaka rises fast.",
+    "There is no official border crossing to Bhutan here; do not cross the river.",
+    "Travel in daylight; the valley road has narrow stretches and slides in the monsoon, so check current status before you travel."
+  ],
+  "themes": ["wildlife-birds", "homestays", "photography", "budget-honeymoons"],
+  "nearby": ["bindu", "chapramari", "samsing", "suntalekhola"],
+  "experiences": [
+    {"slug": "jhalong-jaldhaka-river-birding", "title": "River birding on the Jaldhaka at dawn",
+     "kind": "wildlife", "duration": "2–3 hours", "best_time": "6–9 am, Nov–Mar", "cost": "Free; guide ₹500–800",
+     "image_query": "Jaldhaka river birds Jhalong", "wiki": "",
+     "summary": "The Jaldhaka at Jhalong is one of the best stretches in the region for Himalayan river birds. In winter, shingle bars and rapids hold forktails, redstarts, wagtails and kingfishers, and birders look for the ibisbill.",
+     "body": ["Jhalong's river road runs close to the water for several kilometres, giving easy views over shingle, rapids and the forested Bhutanese bank. In winter, birds that breed higher in the Himalaya come down to such rivers. Look for plumbeous and white-capped water redstarts, spotted and slaty-backed forktails, brown dippers, white and grey wagtails, crested kingfishers and river lapwings.",
+              "The ibisbill, a grey wader with a curved red bill that lives on Himalayan shingle rivers, is the bird many come for. It is well camouflaged among stones and not seen every year here, so treat any sighting as a bonus. On the hillsides, bulbuls, barbets, drongos and sunbirds keep up a constant chorus.",
+              "Start at first light and walk slowly. A local birder can save you hours. Keep to the road and the near bank, away from restricted hydel installations, and do not cross the river, which is the international border in this stretch."],
+     "good_for": ["photographers", "solo", "seniors", "students"],
+     "faqs": [
+       {"q": "Is ibisbill found at Jhalong?", "a": "Ibisbill has been reported on the Jaldhaka in winter, but sightings are irregular and the bird is well camouflaged on shingle. Scan stony islands slowly with binoculars or a scope, ideally with a local birder. Do not count on it; the other river birds make the trip worthwhile."},
+       {"q": "When is the best time for birding at Jhalong?", "a": "November to March, when altitudinal migrants come down to the river and mornings are clear. Start at first light. April still has good forest birds. Avoid the monsoon, when the river is high and muddy and the road is unreliable."},
+       {"q": "Can we walk along the Jaldhaka riverbank?", "a": "Along the road and the near bank, yes, in daylight. Stay away from the water's edge after rain upstream, avoid restricted hydel areas and never try to cross; the river forms the India–Bhutan border here. A local guide knows the safe access points."}
+     ]},
+    {"slug": "jhalong-paren-hill-drive", "title": "Up to Paren for valley views",
+     "kind": "viewpoint", "duration": "3 hours", "best_time": "Morning, Oct–Apr", "cost": "Car ₹1,200–1,800",
+     "image_query": "Paren village Jhalong hills", "wiki": "",
+     "summary": "Paren is a small hill village above Jhalong with a forest corporation camp, cooler air and views down the Jaldhaka valley. A short drive up and a stroll around the village make a good half-day, or stay the night.",
+     "body": ["The road from Jhalong to Paren climbs through forest and small farms, with the valley opening below at each bend. Paren itself is a scatter of houses, a school, a few shops and the forest corporation's Paren Eco Tourism Centre. It is noticeably cooler than Jhalong, and the forest edge is close.",
+              "Walk the village roads, look out over the valley towards the Bhutan hills, and stop for tea at a shop. Birders find forest species here that are scarcer on the river: laughingthrushes, minivets, sunbirds and woodpeckers. In autumn and early winter, cardamom harvesting and drying may be under way.",
+              "Paren is small and quiet, and that is its appeal. If you want a night with no traffic and no other tourists, book the corporation's centre or ask in Jhalong about homestays. Check current status before you travel, especially after the monsoon."],
+     "good_for": ["couples", "photographers", "solo"],
+     "faqs": [
+       {"q": "How far is Paren from Jhalong?", "a": "Paren is a short drive uphill from the Jhalong area, roughly 30–45 minutes by car on a narrow road. A car from Jhalong for the half-day, including stops, costs roughly ₹1,200–1,800. Some visitors combine Paren and Bindu in one morning."},
+       {"q": "Can we stay overnight at Paren?", "a": "Yes. The forest corporation runs the Paren Eco Tourism Centre, listed on its website, and there may be a few homestays. Facilities are simple. Book ahead in winter, carry warm clothes and expect patchy mobile signal."},
+       {"q": "Is Paren worth visiting?", "a": "If you like quiet villages, forest-edge birding and valley views, yes. There are no sights as such. As a half-day from Jhalong it adds variety; as an overnight it is one of the calmest places in this region."}
+     ]},
+    {"slug": "jhalong-hydel-colony-and-river-walk", "title": "A walk through the hydel colony and river",
+     "kind": "culture", "duration": "1.5 hours", "best_time": "Late afternoon, Oct–Apr", "cost": "Free",
+     "image_query": "Jhalong hydel project Jaldhaka", "wiki": "",
+     "summary": "Jhalong's quarters, offices and market grew around the Jaldhaka hydel power station built from the 1960s. An evening walk along the road and the river shows how a small industrial colony settled into a border valley.",
+     "body": ["The Jaldhaka Hydel Project was one of West Bengal's early hydroelectric schemes, using the drop of the Jaldhaka between Bindu and Jhalong to generate power. Water diverted at the Bindu barrage runs to the power station here, and the colony of quarters, a school and a small market grew up around it from the 1960s onwards.",
+              "Walk the road through the colony in the late afternoon, past the market and down towards the river. You see the ordinary life of a project town: children back from school, employees heading home, tea shops filling up. Beyond, the river widens and the Bhutan hills catch the last light.",
+              "The power station, intake and transmission areas are restricted. Do not enter fenced areas or photograph installations where signs prohibit it. Keep to public roads and the open riverbank, and ask if in doubt."],
+     "good_for": ["students", "solo", "couples"],
+     "faqs": [
+       {"q": "Can we visit the Jaldhaka power station?", "a": "Not as casual tourists; power stations and intakes are restricted sites. You can see parts of the project from public roads. Respect signs about photography and do not enter fenced areas. Special visits would need official permission, which is rarely given to travellers."},
+       {"q": "When was the Jaldhaka hydel project built?", "a": "It was developed by West Bengal's state electricity board from the 1960s, with later stages added. Water diverted at Bindu feeds the power station at Jhalong. For exact commissioning dates and capacity, check official sources, as details vary between accounts."},
+       {"q": "Is there a market in Jhalong?", "a": "A small one, with grocery shops, tea stalls and a few eateries serving rice, dal, noodles and momos. There are no large stores or reliable ATMs. Stock up on cash and anything special in Siliguri, Malbazar or Chalsa."}
+     ]},
+    {"slug": "jhalong-river-camp-evening", "title": "An evening at the Jholung River Camp",
+     "kind": "adventure", "duration": "Overnight", "best_time": "Nov–Mar", "cost": "₹2,500–3,500 a room (indicative)",
+     "image_query": "Jaldhaka river evening Bhutan hills", "wiki": "",
+     "summary": "The forest corporation's river camp at Jhalong puts you beside the Jaldhaka with Bhutan's forest across the water. An evening fire, a simple dinner and the sound of the river make the night; dawn birding starts at the door.",
+     "body": ["Jholung River Camp is the forest corporation's property in the valley, with rooms in a few categories close to the river. It suits travellers who want to be by the water rather than in the colony. Facilities are simple and tidy, meals are cooked in the camp kitchen, and staff can usually help arrange cars to Bindu and Paren.",
+              "Evenings are the time to be outside: the river is loud after dark, the Bhutan hills turn black against the sky, and on clear nights the stars are bright. In winter, ask whether a bonfire is allowed and bring warm clothes, as nights by the river get cold.",
+              "Book through the corporation's website, confirm whether meals are included and check current status before you travel. Valley roads close in heavy rain, and the camp may shut in the monsoon."],
+     "good_for": ["couples", "photographers", "families"],
+     "faqs": [
+       {"q": "How do I book the Jholung River Camp?", "a": "Through the West Bengal Forest Development Corporation's website, where it is listed as Jholung River Camp in the Kalimpong district properties, with rooms at roughly ₹2,500–3,500 in the current tariff. Check meal plans and book early for December and January."},
+       {"q": "Is the river camp safe during rain?", "a": "The camp is set back from the main channel, but the Jaldhaka can rise sharply in heavy rain. Follow staff instructions, avoid the riverbank in bad weather and check forecasts. In the monsoon, consider whether to go at all; we advise October to April."},
+       {"q": "What can we do from the Jhalong camp?", "a": "Dawn birding on the river road, a morning trip to Bindu, a half-day to Paren, walks around the colony and market, and evenings by the water. It pairs well with a night at Samsing or Murti and a Chapramari safari on the way down."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "Where is Jhalong?", "a": "Jhalong is in the Jaldhaka valley on the India–Bhutan border, in Kalimpong district's Gorubathan area, about 100 km from Siliguri. It is reached through the Dooars via Malbazar and Chalsa. Bindu lies about 10–15 km upstream at the end of the road."},
+    {"q": "How do I reach Jhalong from NJP?", "a": "By car via Sevoke, Malbazar and Chalsa, about 100–110 km and three to three and a half hours, ₹4,000–5,000. On a budget, take a bus to Chalsa and then a shared jeep towards Jhalong, mostly running in the morning."},
+    {"q": "Can we go to Bhutan from Jhalong?", "a": "No. There is no official border crossing for travellers at Jhalong or Bindu. Indian visitors enter Bhutan at Phuentsholing, opposite Jaigaon near Hasimara, with the documents and fees Bhutan currently requires. Check current status before you travel."},
+    {"q": "Is Jhalong worth a visit?", "a": "For birders, river lovers and people who want a quiet night away from the safari crowds, yes. There are no famous sights. Combine it with Bindu and Paren, and with a night at Samsing or Murti for safaris."},
+    {"q": "How many days do we need in Jhalong?", "a": "One night is enough for a dawn river walk and a trip to Bindu. Two nights let you add Paren and a slow afternoon. Birders often stay two or three nights in winter."},
+    {"q": "Where to stay in Jhalong?", "a": "The forest corporation's Jholung River Camp by the river, a few family homestays at about ₹1,200–1,800 per person with meals, and the corporation's Paren Eco Tourism Centre uphill. There are no large hotels."},
+    {"q": "When is the best time to visit Jhalong?", "a": "October to April. Winter brings clear skies and the best river birding; spring is warm and green. Avoid June to September, when the Jaldhaka runs high and slides block the valley road."},
+    {"q": "Was Jhalong affected by the October 2025 floods?", "a": "The Jaldhaka was one of the rivers that flooded the Dooars in early October 2025 after extreme rain in the hills, and valley roads were damaged. Repairs and reopening varied by stretch. Check current status before you travel."},
+    {"q": "Is there an ATM or mobile network in Jhalong?", "a": "Do not rely on an ATM; carry cash from Siliguri or Malbazar. Mobile signal is patchy and varies by network and location. Expect to be offline for parts of the day."}
+  ]
+}
