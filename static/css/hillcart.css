@@ -17,8 +17,8 @@
   /* land (overridden per [data-land]) */
   --ground: #1C2E5A; --ground2: #27407A; --accent: #F4A3A0; --acc-ink: #A8343A; --tint: #E8ECF6;
   --grad: linear-gradient(135deg, #101B3D 0%, #1F3570 55%, #3A4F94 100%);
-  --foil: linear-gradient(115deg, #FFE1DB 0%, #F4A3A0 42%, #D9636A 78%, #F4A3A0 100%);
-  --foil-deep: #D9636A;
+  --foil: linear-gradient(110deg, #FBE08A 0%, #F5B14E 42%, #EA7B5F 100%);  /* default metallic: sunrise; each land overrides it */
+  --foil-deep: #EA7B5F;
   /* brand gradients: sunrise on Kanchenjunga, and the dusk behind it */
   --sun: linear-gradient(110deg, #FBE08A 0%, #F5B14E 42%, #EA7B5F 100%);
   --sun-deep: #EA7B5F;
@@ -731,7 +731,7 @@ body.has-buybar .fab { bottom: 92px; }
 .sheet__lands { display: grid; gap: 8px; padding-bottom: 16px; }
 .sheet__lands a { display: flex; align-items: center; gap: 12px; padding: 10px; border-radius: 10px; background: var(--grad); color: #fff; text-decoration: none; }
 .sheet__lands b { display: block; font: 400 1.15rem/1.1 var(--f-display); }
-.sheet__lands small { font: 600 .74rem/1.2 var(--f-sign); letter-spacing: .1em; text-transform: uppercase; color: var(--accent); }
+.sheet__lands small { display: block; margin-top: 3px; font: 600 .72rem/1.25 var(--f-sign); letter-spacing: .1em; text-transform: uppercase; color: var(--accent); }
 .sheet__links { display: grid; gap: 2px; padding-bottom: 16px; }
 .sheet__links a { padding: 10px 0; color: var(--ink); text-decoration: none; font-size: 1.1rem; border-bottom: 1px dashed var(--rule-2); }
 .sheet__cta { display: grid; gap: 10px; margin-top: 20px; }
