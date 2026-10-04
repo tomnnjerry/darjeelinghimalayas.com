@@ -19,18 +19,62 @@
         "These figures assume a round trip from Maneybhanjan to Sandakphu. Costs are indicative for 2025–26 and per person unless marked."
       ],
       "table": {
-        "head": ["", "On foot", "By Land Rover"],
+        "head": [
+          "",
+          "On foot",
+          "By Land Rover"
+        ],
         "rows": [
-          ["Time to Sandakphu", "3 days", "About 4 hours"],
-          ["Whole trip from Darjeeling", "4–5 days, or 6–7 via Phalut", "2 days, 1 night"],
-          ["Transport cost", "Shared jeeps only", "₹6,500–9,000 a vehicle, up to six people"],
-          ["Guide fee", "₹1,500–2,000 a day per group, for 4–7 days", "₹1,500–2,000 a day per group, for 2 days"],
-          ["Lodge nights", "3–6", "1"],
-          ["Altitude gain per day", "400–800 m", "About 1,500 m in one morning"],
-          ["Altitude risk", "Lower", "Higher; headaches common the first night"],
-          ["Forest, birds and red pandas", "Good chances", "Little time to stop"],
-          ["Comfort", "Tiring days, warm lodges", "Bumpy, dusty, cramped back seats"],
-          ["Best for", "Fit walkers with time", "Short trips, older travellers, families"]
+          [
+            "Time to Sandakphu",
+            "3 days",
+            "About 4 hours"
+          ],
+          [
+            "Whole trip from Darjeeling",
+            "4–5 days, or 6–7 via Phalut",
+            "2 days, 1 night"
+          ],
+          [
+            "Transport cost",
+            "Shared jeeps only",
+            "₹6,500–9,000 a vehicle, up to six people"
+          ],
+          [
+            "Guide fee",
+            "₹1,500–2,000 a day per group, for 4–7 days",
+            "₹1,500–2,000 a day per group, for 2 days"
+          ],
+          [
+            "Lodge nights",
+            "3–6",
+            "1"
+          ],
+          [
+            "Altitude gain per day",
+            "400–800 m",
+            "About 1,500 m in one morning"
+          ],
+          [
+            "Altitude risk",
+            "Lower",
+            "Higher; headaches common the first night"
+          ],
+          [
+            "Forest, birds and red pandas",
+            "Good chances",
+            "Little time to stop"
+          ],
+          [
+            "Comfort",
+            "Tiring days, warm lodges",
+            "Bumpy, dusty, cramped back seats"
+          ],
+          [
+            "Best for",
+            "Fit walkers with time",
+            "Short trips, older travellers, families"
+          ]
         ]
       }
     },
@@ -58,6 +102,13 @@
       ]
     },
     {
+      "heading": "A Land Rover day, hour by hour",
+      "paras": [
+        "Many people picture the Land Rover trip as a quick drive. It is closer to a long, slow climb with stops. A typical day in season starts at the Maneybhanjan stand around 8 am, after the guide has paid park entry and the driver has tied bags and gas cylinders on the roof. The first hour grinds up in low gear past Chitrey and Meghma, with a stop for tea and a look back over the Darjeeling hills.",
+        "Around Tumling the views open toward Kanchenjunga, and most drivers pause again. The track then drops through the bamboo forest to Gairibas, where there may be an SSB check, before the steepest climb of the day to Kalipokhri. The last stretch past Bikheybhanjang to Sandakphu is rough and slow. Most vehicles arrive between noon and 2 pm, which leaves the afternoon to rest, drink water and walk gently around the summit before sunset."
+      ]
+    },
+    {
       "heading": "The best of both",
       "paras": [
         "Many of our friends mix the two, and we think the mixed plans are often the best value. These are the combinations we suggest most."
@@ -65,7 +116,7 @@
       "list": [
         "Walk up in three days and ride back down to Maneybhanjan in about three hours, saving the knee-jarring descent.",
         "Ride to Tumling or Tonglu, then walk the best forest stretch via Gairibas to Kalipokhri and Sandakphu over two days.",
-        "Ride up and walk down via Gurdum to Srikhola and Rimbik, which avoids the fast altitude gain only partly but gives a day in the forest.",
+        "Ride up and walk down via Gurdum to Srikhola and Rimbik; you still take the fast altitude gain on the way up, but you get a full day in the forest on the way down.",
         "Start at Dhotrey and walk the 6 km forest trail to Tonglu, then continue on foot, a short and gentle way onto the ridge.",
         "Walk the ridge to Phalut and come down via Gorkhey and Rammam, then take a jeep from Srikhola, the full walking trek with a road at the end."
       ]
@@ -78,7 +129,15 @@
       ]
     }
   ],
-  "related_places": ["maneybhanjan", "sandakphu", "tumling", "tonglu", "gairibas", "kalipokhri", "dhotrey"],
+  "related_places": [
+    "maneybhanjan",
+    "sandakphu",
+    "tumling",
+    "tonglu",
+    "gairibas",
+    "kalipokhri",
+    "dhotrey"
+  ],
   "faqs": [
     {
       "q": "How long does the Land Rover take from Maneybhanjan to Sandakphu?",

@@ -3,7 +3,7 @@
   "title": "Phalut to Rimbik: The Long Way Down",
   "region": "singalila",
   "category": "treks",
-  "meta_description": "The Singalila trek beyond Sandakphu: the 21 km ridge walk to Phalut, the descent to Gorkhey, Samanden and Rammam, and out via Srikhola to Rimbik, with stages and costs.",
+  "meta_description": "The Singalila trek beyond Sandakphu: the 21 km ridge to Phalut, down to Gorkhey, Samanden and Rammam, and out via Srikhola to Rimbik, with stages and costs.",
   "summary": "Beyond Sandakphu, the Singalila trail runs 21 km along the ridge to Phalut, where West Bengal, Sikkim and Nepal meet, then drops about 1,200 m to Gorkhey and winds through the roadless villages of Samanden and Rammam to Srikhola and Rimbik. Allow three to four days from Sandakphu. It is the quietest and greenest part of the trek.",
   "sections": [
     {
@@ -13,14 +13,56 @@
         "This section adds three or four days to the classic trek, for six to seven days in all from Maneybhanjan. It suits walkers who are already acclimatised and enjoying the trail, and who want fewer people and more forest. Your licensed guide comes with you the whole way; the guide mandate applies throughout Singalila National Park, so check current status before you travel."
       ],
       "table": {
-        "head": ["Stage", "Distance", "Height change", "Time", "Night at"],
+        "head": [
+          "Stage",
+          "Distance",
+          "Height change",
+          "Time",
+          "Night at"
+        ],
         "rows": [
-          ["Sandakphu to Phalut via Sabargram", "≈ 21 km", "Rolling, ends near 3,600 m", "7–8 h", "Phalut hut"],
-          ["Phalut to Gorkhey", "≈ 15 km", "Down ≈ 1,200 m", "5–6 h", "Gorkhey, ≈ 2,390 m"],
-          ["Gorkhey to Samanden", "≈ 3–4 km", "Up, then along the slope", "1.5–2 h", "Samanden, ≈ 2,500 m"],
-          ["Samanden to Rammam", "≈ 5–6 km", "Gentle", "2–3 h", "Rammam, ≈ 2,560 m"],
-          ["Rammam to Srikhola", "≈ 10 km", "Down ≈ 650 m", "4–5 h", "Srikhola, ≈ 1,900 m"],
-          ["Srikhola to Rimbik", "Jeep road", "Down", "30–45 min by jeep", "Rimbik, ≈ 2,286 m"]
+          [
+            "Sandakphu to Phalut via Sabargram",
+            "≈ 21 km",
+            "Rolling, ends near 3,600 m",
+            "7–8 h",
+            "Phalut hut"
+          ],
+          [
+            "Phalut to Gorkhey",
+            "≈ 15 km",
+            "Down ≈ 1,200 m",
+            "5–6 h",
+            "Gorkhey, ≈ 2,390 m"
+          ],
+          [
+            "Gorkhey to Samanden",
+            "≈ 3–4 km",
+            "Up, then along the slope",
+            "1.5–2 h",
+            "Samanden, ≈ 2,500 m"
+          ],
+          [
+            "Samanden to Rammam",
+            "≈ 5–6 km",
+            "Gentle",
+            "2–3 h",
+            "Rammam, ≈ 2,560 m"
+          ],
+          [
+            "Rammam to Srikhola",
+            "≈ 10 km",
+            "Down ≈ 650 m",
+            "4–5 h",
+            "Srikhola, ≈ 1,900 m"
+          ],
+          [
+            "Srikhola to Rimbik",
+            "Jeep road",
+            "Down",
+            "30–45 min by jeep",
+            "Rimbik, ≈ 2,286 m"
+          ]
         ]
       }
     },
@@ -49,7 +91,8 @@
       "heading": "Samanden and Rammam",
       "paras": [
         "From Gorkhey a stiff climb takes you out of the valley to Samanden, a small hamlet in a bowl of terraced fields at roughly 2,500 m, where a few families take trekkers as homestay guests. It is a short stage, and many groups walk straight on, but a night here is the closest this trek comes to the old pattern of Himalayan travel: you sleep where there is space and eat what the family eats.",
-        "Beyond Samanden the trail runs along the slope to Rammam, a larger village at about 2,560 m with a school, family lodges and fields above the valley. The village shares its name with the Rammam river, which rises in the Singalila range and flows east, forming part of the boundary between Darjeeling district and Sikkim before joining the Rangeet near Jorethang. From Rammam it is a long, steady descent through forest and farmland to Srikhola."
+        "Beyond Samanden the trail runs along the slope to Rammam, a larger village at about 2,560 m with a school, family lodges and fields above the valley. The village shares its name with the Rammam river, which rises in the Singalila range and flows east, forming part of the boundary between Darjeeling district and Sikkim before joining the Rangeet near Jorethang. From Rammam it is a long, steady descent through forest and farmland to Srikhola.",
+        "If you have a spare day, spend it at Gorkhey. Walk up the stream for an hour, sit by the water, watch the farm work and let your legs recover from the descent. It is one of the few places on the trek where there is nothing to climb and nowhere to be."
       ]
     },
     {
@@ -73,7 +116,15 @@
       ]
     }
   ],
-  "related_places": ["phalut", "gorkhey", "samanden", "rammam", "srikhola", "rimbik", "sandakphu"],
+  "related_places": [
+    "phalut",
+    "gorkhey",
+    "samanden",
+    "rammam",
+    "srikhola",
+    "rimbik",
+    "sandakphu"
+  ],
   "faqs": [
     {
       "q": "How far is Phalut from Sandakphu?",

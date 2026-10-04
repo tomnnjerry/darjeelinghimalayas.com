@@ -3,7 +3,7 @@
   "title": "Sandakphu Packing List and Altitude Safety",
   "region": "singalila",
   "category": "practical",
-  "meta_description": "What to pack for the Sandakphu trek by season, how to avoid altitude sickness at 3,636 m, cold, water, phone signal, power, and what to do when someone falls ill.",
+  "meta_description": "What to pack for the Sandakphu trek by season, how to avoid altitude sickness at 3,636 m, cold, water, signal and power, and what to do if someone falls ill.",
   "summary": "Pack light, about 7–9 kg, because lodges give you bedding and meals: layers, a down jacket, a rain shell, good boots, a filter bottle, a headtorch and cash. Sandakphu, at 3,636 m, is high enough for altitude sickness, so climb gradually, drink water, skip alcohol and descend if symptoms grow worse.",
   "sections": [
     {
@@ -19,24 +19,98 @@
         "This is the list we use for an autumn trek. In spring, swap the heavy down jacket for a lighter one and add a second rain layer; in winter, add the extras in the next section."
       ],
       "table": {
-        "head": ["Item", "Why", "Notes"],
+        "head": [
+          "Item",
+          "Why",
+          "Notes"
+        ],
         "rows": [
-          ["Down or synthetic insulated jacket", "Mornings and nights below 0 °C", "The single most important item"],
-          ["Two thermal base layers", "One to walk in, one to sleep in", "Wool or synthetic, not cotton"],
-          ["Fleece or warm mid layer", "Walking in cold wind", "Light and quick-drying"],
-          ["Waterproof rain jacket", "Showers, wind, spring storms", "Also a windbreaker on the ridge"],
-          ["Trekking trousers, two pairs", "One may get wet or muddy", "Avoid jeans"],
-          ["Broken-in trekking boots", "Stony track, wet descents", "Ankle support helps on the way down"],
-          ["Warm hat, sun cap, gloves", "Cold dawns and strong sun", "Thin liner gloves for photos"],
-          ["Sleeping bag liner", "Clean layer under lodge quilts", "A light bag in winter"],
-          ["Headtorch and spare batteries", "Dawn starts, power cuts", "Lodges switch off early"],
-          ["Filter bottle or purification tablets", "Safe water without plastic", "Saves ₹40–80 a litre"],
-          ["Sunscreen SPF 50 and sunglasses", "UV is strong at 3,600 m", "Essential on snow"],
-          ["Trekking poles", "Steep descents to Gorkhey and Srikhola", "Save your knees"],
-          ["Power bank, 10,000–20,000 mAh", "Charging is limited and paid", "Keep it warm at night"],
-          ["Photo ID and cash", "Border posts and lodges", "Passport or voter ID; foreigners passport and visa"]
+          [
+            "Down or synthetic insulated jacket",
+            "Mornings and nights below 0 °C",
+            "The single most important item"
+          ],
+          [
+            "Two thermal base layers",
+            "One to walk in, one to sleep in",
+            "Wool or synthetic, not cotton"
+          ],
+          [
+            "Fleece or warm mid layer",
+            "Walking in cold wind",
+            "Light and quick-drying"
+          ],
+          [
+            "Waterproof rain jacket",
+            "Showers, wind, spring storms",
+            "Also a windbreaker on the ridge"
+          ],
+          [
+            "Trekking trousers, two pairs",
+            "One may get wet or muddy",
+            "Avoid jeans"
+          ],
+          [
+            "Broken-in trekking boots",
+            "Stony track, wet descents",
+            "Ankle support helps on the way down"
+          ],
+          [
+            "Warm hat, sun cap, gloves",
+            "Cold dawns and strong sun",
+            "Thin liner gloves for photos"
+          ],
+          [
+            "Sleeping bag liner",
+            "Clean layer under lodge quilts",
+            "A light bag in winter"
+          ],
+          [
+            "Headtorch and spare batteries",
+            "Dawn starts, power cuts",
+            "Lodges switch off early"
+          ],
+          [
+            "Filter bottle or purification tablets",
+            "Safe water without plastic",
+            "Saves ₹40–80 a litre"
+          ],
+          [
+            "Sunscreen SPF 50 and sunglasses",
+            "UV is strong at 3,600 m",
+            "Essential on snow"
+          ],
+          [
+            "Trekking poles",
+            "Steep descents to Gorkhey and Srikhola",
+            "Save your knees"
+          ],
+          [
+            "Power bank, 10,000–20,000 mAh",
+            "Charging is limited and paid",
+            "Keep it warm at night"
+          ],
+          [
+            "Photo ID and cash",
+            "Border posts and lodges",
+            "Passport or voter ID; foreigners passport and visa"
+          ]
         ]
       }
+    },
+    {
+      "heading": "Packing light, and what to leave behind",
+      "paras": [
+        "Walkers usually carry their own day pack and either carry the rest or hand a duffel to a porter. Land Rover travellers can bring more, but space in the back is tight and bags ride on the roof in dust and sometimes rain, so pack everything in a waterproof liner or strong plastic bags.",
+        "Leave jeans, cotton sweatshirts, hair dryers, heavy books and spare shoes in Darjeeling; most hotels and hostels there will store a bag for a few days, often free or for a small fee. Leave behind too much electronics: a phone, a power bank and perhaps a camera is enough when charging is paid and limited."
+      ],
+      "list": [
+        "A small first-aid kit: painkillers, blister plasters, oral rehydration salts, antiseptic, a crepe bandage and any personal medicines.",
+        "Toilet paper, hand sanitiser and a small towel; lodge toilets are basic and water is cold.",
+        "Snacks from Darjeeling: dry fruit, nuts, chocolate and glucose biscuits for the long stretches.",
+        "Earplugs, because lodge walls are thin and dining rooms are noisy until late on busy October nights.",
+        "A small rubbish bag to carry your wrappers and batteries back down."
+      ]
     },
     {
       "heading": "Extras for winter and spring",
@@ -76,7 +150,14 @@
       ]
     }
   ],
-  "related_places": ["sandakphu", "kalipokhri", "tumling", "gairibas", "maneybhanjan", "phalut"],
+  "related_places": [
+    "sandakphu",
+    "kalipokhri",
+    "tumling",
+    "gairibas",
+    "maneybhanjan",
+    "phalut"
+  ],
   "faqs": [
     {
       "q": "What should I pack for the Sandakphu trek?",

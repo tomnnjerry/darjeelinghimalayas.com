@@ -13,16 +13,70 @@
         "Distances below are the walking figures guides use; altitudes vary by 50–100 m between sources. Times are for an average walker with breaks, carrying a day pack of 7–9 kg. A licensed guide is compulsory inside Singalila National Park; your guide will adjust stages to your pace, the weather and lodge space. The guide rule and park fees change from time to time, so check current status before you travel."
       ],
       "table": {
-        "head": ["Day", "Stage", "Distance", "Time", "Night at"],
+        "head": [
+          "Day",
+          "Stage",
+          "Distance",
+          "Time",
+          "Night at"
+        ],
         "rows": [
-          ["1", "Maneybhanjan to Tumling via Chitrey and Meghma", "≈ 11 km", "5–6 h", "Tumling, 2,970 m"],
-          ["2", "Tumling to Kalipokhri via Jaubari and Gairibas", "≈ 13 km", "6–7 h", "Kalipokhri, 3,186 m"],
-          ["3", "Kalipokhri to Sandakphu via Bikheybhanjang", "≈ 6 km", "2.5–3.5 h", "Sandakphu, 3,636 m"],
-          ["4", "Sandakphu to Phalut via Sabargram", "≈ 21 km", "7–8 h", "Phalut, ≈ 3,600 m"],
-          ["5", "Phalut to Gorkhey", "≈ 15 km", "5–6 h", "Gorkhey, ≈ 2,390 m"],
-          ["6", "Gorkhey to Rammam via Samanden", "≈ 9–10 km", "4–5 h", "Rammam, ≈ 2,560 m"],
-          ["7", "Rammam to Srikhola, jeep to Rimbik", "≈ 10 km", "4–5 h", "Rimbik or onward"],
-          ["4 (short)", "Sandakphu to Srikhola via Gurdum", "≈ 15–17 km", "6–7 h", "Srikhola, ≈ 1,900 m"]
+          [
+            "1",
+            "Maneybhanjan to Tumling via Chitrey and Meghma",
+            "≈ 11 km",
+            "5–6 h",
+            "Tumling, 2,970 m"
+          ],
+          [
+            "2",
+            "Tumling to Kalipokhri via Jaubari and Gairibas",
+            "≈ 13 km",
+            "6–7 h",
+            "Kalipokhri, 3,186 m"
+          ],
+          [
+            "3",
+            "Kalipokhri to Sandakphu via Bikheybhanjang",
+            "≈ 6 km",
+            "2.5–3.5 h",
+            "Sandakphu, 3,636 m"
+          ],
+          [
+            "4",
+            "Sandakphu to Phalut via Sabargram",
+            "≈ 21 km",
+            "7–8 h",
+            "Phalut, ≈ 3,600 m"
+          ],
+          [
+            "5",
+            "Phalut to Gorkhey",
+            "≈ 15 km",
+            "5–6 h",
+            "Gorkhey, ≈ 2,390 m"
+          ],
+          [
+            "6",
+            "Gorkhey to Rammam via Samanden",
+            "≈ 9–10 km",
+            "4–5 h",
+            "Rammam, ≈ 2,560 m"
+          ],
+          [
+            "7",
+            "Rammam to Srikhola, jeep to Rimbik",
+            "≈ 10 km",
+            "4–5 h",
+            "Rimbik or onward"
+          ],
+          [
+            "4 (short)",
+            "Sandakphu to Srikhola via Gurdum",
+            "≈ 15–17 km",
+            "6–7 h",
+            "Srikhola, ≈ 1,900 m"
+          ]
         ]
       }
     },
@@ -44,7 +98,8 @@
       "heading": "Day 3: Kalipokhri to Sandakphu",
       "paras": [
         "A short day with a steep finish. The trail climbs gently to Bikheybhanjang, the 'poison pass', named in Nepali for the aconite that grows on these slopes, then turns uphill for the final pull of about 400 m to Sandakphu. The last zigzags are steep and exposed to wind, but the reward appears suddenly at the top: Kanchenjunga filling the north, and, on clear days, Everest, Lhotse and Makalu to the west.",
-        "Most trekkers arrive by late morning and have the afternoon to rest, walk around the summit area and watch the light change. Sandakphu, at 3,636 m, is the highest point in West Bengal, with a GTA trekkers' hut, family lodges and an SSB camp. Sunrise next morning is the main event; be outside with your warmest layers 20 minutes before it."
+        "Most trekkers arrive by late morning and have the afternoon to rest, walk around the summit area and watch the light change. Sandakphu, at 3,636 m, is the highest point in West Bengal, with a GTA trekkers' hut, family lodges and an SSB camp. Sunrise next morning is the main event; be outside with your warmest layers 20 minutes before it.",
+        "The evening at Sandakphu is cold and short. The dining room stove is the warmest place on the summit, and by 5 pm most trekkers are crowded around it with tea, comparing photos and asking the guide what the sky will do. Go to bed early, keep your phone and power bank inside your quilt so the batteries survive the cold, and set an alarm for about an hour before sunrise."
       ]
     },
     {
@@ -76,7 +131,18 @@
       ]
     }
   ],
-  "related_places": ["maneybhanjan", "chitrey", "tumling", "tonglu", "gairibas", "kalipokhri", "sandakphu", "phalut", "srikhola", "rimbik"],
+  "related_places": [
+    "maneybhanjan",
+    "chitrey",
+    "tumling",
+    "tonglu",
+    "gairibas",
+    "kalipokhri",
+    "sandakphu",
+    "phalut",
+    "srikhola",
+    "rimbik"
+  ],
   "faqs": [
     {
       "q": "How many days does the Sandakphu trek take?",
