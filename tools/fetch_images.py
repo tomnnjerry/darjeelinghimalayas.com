@@ -1,6 +1,6 @@
 """Build content/images.json: credited Wikimedia Commons photos for every page.
 
-Usage: python tools/fetch_images.py [region ...] [--force] [--only=place|exp|stay|fest|blog]
+Usage: python tools/fetch_images.py [region ...] [--force] [--only=place|exp|stay|fest|blog] [--rotate]
 
 Incremental: keys already in images.json are kept unless --force.
 Sources, in order: the entity's English Wikipedia article images (curated by
@@ -86,6 +86,29 @@ def jobs_for_region(slug):
     return jobs
 
 
+def interleaved_place_jobs(images, force=False):
+    """Lead-photo lookups for places, one land at a time in rotation, busiest places (most trips stop there) first.
+    The home page and land hubs draw on these, so every land gets photos early on a slow, rate-limited run."""
+    per_land = []
+    for slug in REGIONS:
+        base = CONTENT / slug
+        if not (base / "region.json").exists():
+            continue
+        stops = {}
+        for jp in (base / "journeys").glob("*.json"):
+            for st in read(jp).get("stops", []):
+                stops[st["place"]] = stops.get(st["place"], 0) + 1
+        places = [read(p) for p in (base / "places").glob("*.json")]
+        places.sort(key=lambda d: (-stops.get(d["slug"], 0), d["name"]))
+        per_land.append([(f"place:{d['slug']}", d.get("wiki"), d.get("image_query") or d.get("name"), 6) for d in places])
+    jobs = []
+    for rank in range(max((len(x) for x in per_land), default=0)):
+        for land in per_land:
+            if rank < len(land) and (force or not images.get(land[rank][0])):
+                jobs.append(land[rank])
+    return jobs
+
+
 def main():
     force = "--force" in sys.argv
     only = tuple(a.split("=", 1)[1] + ":" for a in sys.argv[1:] if a.startswith("--only="))  # e.g. --only=place
@@ -97,6 +120,21 @@ def main():
     if "journal" in regions or len(regions) == len(REGIONS):
         posts = sorted((CONTENT / "journal").glob("*.json")) if (CONTENT / "journal").exists() else []
         regions = [r for r in regions if r != "journal"] + ["journal"]
+    if "--rotate" in sys.argv:  # places only, rotating across lands (see interleaved_place_jobs)
+        jobs = interleaved_place_jobs(images, force)
+        print(f"rotating over all lands: {len(jobs)} lookups", flush=True)
+        for n, job in enumerate(jobs, 1):
+            key, wiki, query, cnt = job
+            try:
+                images[key] = for_entity(wiki, query, cnt)
+            except Exception as e:  # noqa: BLE001
+                print("  fail", key, e, flush=True)
+                continue
+            print(f"  {n}/{len(jobs)} {key}: {len(images[key])}", flush=True)
+            if n % 5 == 0:
+                OUT.write_text(json.dumps(images, ensure_ascii=False, indent=1), encoding="utf-8")
+        OUT.write_text(json.dumps(images, ensure_ascii=False, indent=1), encoding="utf-8")
+        return
     for slug in regions:
         if slug == "journal":
             jobs = [(f"blog:{d['slug']}", d.get("wiki"), d.get("image_query") or d.get("title"), 3)

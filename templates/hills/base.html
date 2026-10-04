@@ -28,19 +28,6 @@
 <body{% block body_attrs %}{% endblock %}>
 <a class="skip" href="#main">Skip to content</a>
 <div class="lungta" aria-hidden="true"></div>
-<div class="util">
-  <div class="wrap util__in">
-    <p class="util__note"><span class="util__pulse" aria-hidden="true"></span><span>Every trip priced line by line</span><span class="util__more"><i aria-hidden="true">·</i>a local planner replies within one working day</span></p>
-    <nav class="util__links" aria-label="Contact">
-      {% if wa_base %}<a class="util__wa" href="{{ wa_base }}?text={{ wa_text }}" data-cta="util-whatsapp" rel="noopener">{% icon "whatsapp" %}WhatsApp</a>{% endif %}
-      {% if tel %}<a href="tel:{{ tel }}" data-cta="util-call">{% icon "phone" %}{{ SITE.phone }}</a>{% endif %}
-      <a class="util__mail" href="mailto:{{ SITE.email }}" data-cta="util-email">{% icon "mail" %}{{ SITE.email }}</a>
-      <a class="util__x" href="{% url 'fares' %}">Jeep fares</a>
-      <a class="util__x" href="{% url 'contact' %}">Contact</a>
-    </nav>
-  </div>
-</div>
-
 <header class="mast">
   <div class="wrap mast__in">
     <a class="wordmark" href="{% url 'home' %}" aria-label="Darjeeling Himalayas, home">
@@ -49,6 +36,7 @@
     </a>
     {% include "hills/partials/nav.html" %}
     <div class="mast__cta">
+      {% if tel %}<a class="mast__tel" href="tel:{{ tel }}" data-cta="header-call" aria-label="Call {{ SITE.phone }}"><span class="mast__tel-ic">{% icon "phone" %}</span><span class="mast__tel-t"><small>Call or WhatsApp</small><b>{{ SITE.phone }}</b></span></a>{% endif %}
       <button class="icon-btn" type="button" data-search-open aria-label="Search the site"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg></button>
       <a class="btn btn--sun mast__plan" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="header-plan">Get my honest quote</a>
       <button class="burger" type="button" data-sheet-open aria-label="Open menu"><span></span></button>
@@ -84,52 +72,41 @@
 {% block cta %}{% include "hills/partials/cta.html" %}{% endblock %}
 
 <footer class="foot">
-  <div class="foot__ridge" aria-hidden="true"></div>
-  <svg class="foot__peaks" viewBox="0 0 1440 320" preserveAspectRatio="xMidYMax slice" aria-hidden="true"><defs><linearGradient id="fp1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3B4F94" stop-opacity=".55"/><stop offset="1" stop-color="#3B4F94" stop-opacity="0"/></linearGradient><linearGradient id="fp2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F4A3A0" stop-opacity=".28"/><stop offset="1" stop-color="#F4A3A0" stop-opacity="0"/></linearGradient></defs><path d="M0 320V210l90-50 70 40 110-90 80 70 70-40 120 110 90-80 80 50 120-130 110 120 90-60 90 50 110-100 100 90 120-70 100 80V320z" fill="url(#fp1)"/><path d="M0 320V260l120-60 90 50 100-70 100 80 110-90 120 100 100-60 110 70 120-110 100 90 110-50 100 60 80-40V320z" fill="url(#fp2)"/></svg>
-  <div class="wrap foot__wrap">
-    <div class="foot__top">
+  <div class="wrap">
+    <ul class="foot__promise">
+      <li>{% icon "check" %}No payment to start</li><li>{% icon "check" %}Every rupee itemised</li><li>{% icon "check" %}One planner, start to finish</li><li>{% icon "check" %}A reply within one working day</li>
+    </ul>
+    <div class="foot__grid">
       <div class="foot__brand">
-        <a class="wordmark wordmark--light" href="{% url 'home' %}" aria-label="Darjeeling Himalayas, home">
+        <a class="wordmark" href="{% url 'home' %}" aria-label="Darjeeling Himalayas, home">
           <svg class="wordmark__mark" viewBox="0 0 64 64" aria-hidden="true"><path d="M6 60V30a26 26 0 0 1 52 0v30z" fill="#F7F4EC" stroke="#1B2220" stroke-width="2.5"/><path d="M6 30a26 26 0 0 1 52 0z" fill="#E7B92F" stroke="#1B2220" stroke-width="2.5"/><path d="M13 52l10-14 6 7 8-11 14 18z" fill="#22386A"/><path d="M33 34l4-6 4 5" fill="none" stroke="#F7F4EC" stroke-width="2"/></svg>
           <span class="wordmark__txt"><span class="wordmark__a">Darjeeling</span><span class="wordmark__b">HIMALAYAS</span></span>
         </a>
-        <p class="foot__big">The hills, at the price <span class="hl foil-text">locals pay</span></p>
-        <p class="foot__sub">Shared jeeps, the toy train and family homestays across Darjeeling, Sikkim and the Dooars, with every rupee written down before you pay.</p>
-        <div class="foot__pills">
-          {% if wa_base %}<a class="pill pill--wa" href="{{ wa_base }}?text={{ wa_text }}" rel="noopener" data-cta="footer-pill-whatsapp">{% icon "whatsapp" %}WhatsApp</a>{% endif %}
-          {% if tel %}<a class="pill" href="tel:{{ tel }}" data-cta="footer-pill-call">{% icon "phone" %}{{ SITE.phone }}</a>{% endif %}
-          <a class="pill" href="mailto:{{ SITE.email }}" data-cta="footer-pill-email">{% icon "mail" %}{{ SITE.email }}</a>
-        </div>
+        <p class="foot__about">Shared jeeps, the toy train and family homestays across Darjeeling, Sikkim and the Dooars, priced the way locals pay.</p>
+        <ul class="foot__contact">
+          {% if tel %}<li><a href="tel:{{ tel }}" data-cta="footer-call">{% icon "phone" %}{{ SITE.phone }}</a></li>{% endif %}
+          {% if wa_base %}<li><a href="{{ wa_base }}?text={{ wa_text }}" rel="noopener" data-cta="footer-whatsapp">{% icon "whatsapp" %}WhatsApp us</a></li>{% endif %}
+          <li><a href="mailto:{{ SITE.email }}" data-cta="footer-email">{% icon "mail" %}{{ SITE.email }}</a></li>
+        </ul>
+        <a class="btn btn--sun btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="footer-plan">Get my honest quote</a>
       </div>
-      <div class="foot__contact">
-        <a class="fcard" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="footer-plan"><i class="fcard__ic">{% icon "ticket" %}</i><b>Plan online</b><em>Five questions, a priced route within one working day</em></a>
-        {% if wa_base %}<a class="fcard" href="{{ wa_base }}?text={{ wa_text }}" data-cta="footer-whatsapp"><i class="fcard__ic">{% icon "whatsapp" %}</i><b>WhatsApp us</b><em>Quick questions, quick answers</em></a>{% else %}<a class="fcard" href="{% url 'fares' %}" data-cta="footer-fares"><i class="fcard__ic">{% icon "jeep" %}</i><b>Jeep fare board</b><em>Shared jeep fares from Siliguri</em></a>{% endif %}
-        <a class="fcard" href="{% if tel %}tel:{{ tel }}{% else %}mailto:{{ SITE.email }}{% endif %}" data-cta="footer-contact"><i class="fcard__ic">{% icon "phone" %}</i><b>{% if tel %}Call us{% else %}Write to us{% endif %}</b><em>{% if tel %}{{ SITE.phone }}{% else %}{{ SITE.email }}{% endif %}</em></a>
-      </div>
+      <nav class="foot__col" aria-label="The hills"><h3>The hills</h3><ul>{% for r in nav_regions %}<li><a href="{{ r.url }}" class="foot__land" data-land="{{ r.slug }}"><span class="foot__dot" aria-hidden="true"></span>{{ r.short }}</a></li>{% endfor %}</ul></nav>
+      <nav class="foot__col" aria-label="Trips"><h3>Trips</h3><ul><li><a href="{% url 'journeys' %}">Every trip</a></li><li><a href="{% url 'journeys' %}?tier=Shoestring">Shoestring</a></li><li><a href="{% url 'journeys' %}?tier=Value">Value</a></li><li><a href="{% url 'journeys' %}?tier=Comfort">Comfort</a></li>{% for t in nav_themes|slice:":4" %}<li><a href="{{ t.url }}">{{ t.name }}</a></li>{% endfor %}<li><a href="{% url 'themes' %}">All ways to travel</a></li></ul></nav>
+      <nav class="foot__col" aria-label="Plan"><h3>Plan</h3><ul><li><a href="{% url 'fares' %}">Jeep fare board</a></li><li><a href="{% url 'tool_budget' %}">Budget builder</a></li><li><a href="{% url 'tool_season' %}">Season finder</a></li><li><a href="{% url 'tool_permits' %}">Permits</a></li><li><a href="{% url 'glossary' %}">Hill words</a></li><li><a href="{% url 'seasons' %}">Season almanac</a></li><li><a href="{% url 'routes' %}">Routes</a></li><li><a href="{% url 'guides' %}">Guides</a></li></ul></nav>
+      <nav class="foot__col" aria-label="Company"><h3>Company</h3><ul><li><a href="{% url 'about' %}">About us</a></li><li><a href="{% url 'how_we_work' %}">How we work</a></li><li><a href="{% url 'journal' %}">Stories from the hills</a></li><li><a href="{% url 'contact' %}">Contact</a></li><li><a href="{% url 'faq' %}">FAQ</a></li><li><a href="{% url 'photo_credits' %}">Photo credits</a></li><li><a href="{% url 'html_sitemap' %}">Sitemap</a></li></ul></nav>
     </div>
     <form class="letter" method="post" action="{% url 'subscribe' %}" data-cta-form="newsletter">
       {% csrf_token %}
-      <div><p class="letter__eyebrow">{% icon "mail" %}Once a month</p><h2 class="h-3">The Hill Post</h2><p>Which valley is clear, festival dates, road news and a story from the hills. No offers you did not ask for.</p></div>
-      <div class="letter__row"><label class="sr-only" for="lt-email">Email</label><input id="lt-email" type="email" name="email" required placeholder="Your email"><input type="hidden" name="source_page" value="{{ request.path }}"><input type="text" name="website" class="honey" tabindex="-1" autocomplete="off" aria-hidden="true"><button class="btn btn--sun" type="submit" data-cta="newsletter">Subscribe</button></div>
+      <div><h2 class="h-3">The Hill Post</h2><p>One email a month: which valley is clear, festival dates, road news and a story from the hills.</p></div>
+      <div class="letter__row"><label class="sr-only" for="lt-email">Email</label><input id="lt-email" type="email" name="email" required placeholder="Your email"><input type="hidden" name="source_page" value="{{ request.path }}"><input type="text" name="website" class="honey" tabindex="-1" autocomplete="off" aria-hidden="true"><button class="btn btn--ink" type="submit" data-cta="newsletter">Subscribe</button></div>
     </form>
-    <div class="foot__cols">
-      <div class="foot__col--lands"><h3>The hills</h3><ul>{% for r in nav_regions %}<li><a href="{{ r.url }}" class="foot__land" data-land="{{ r.slug }}"><span class="lbadge lbadge--sm">{% icon r.slug %}</span>{{ r.short }}</a></li>{% endfor %}</ul></div>
-      <div><h3>Popular trips</h3><ul>{% for j in nav_popular|slice:":8" %}<li><a href="{{ j.url }}">{{ j.title }}</a></li>{% endfor %}</ul></div>
-      <div><h3>Ways to travel</h3><ul>{% for t in nav_themes|slice:":8" %}<li><a href="{{ t.url }}">{{ t.name }}</a></li>{% endfor %}<li><a href="{% url 'themes' %}">Every way to travel</a></li></ul></div>
-      <div><h3>Plan</h3><ul><li><a href="{% url 'fares' %}">Jeep fare board</a></li><li><a href="{% url 'tool_budget' %}">Budget builder</a></li><li><a href="{% url 'tool_season' %}">Season finder</a></li><li><a href="{% url 'tool_permits' %}">Permits</a></li><li><a href="{% url 'glossary' %}">Hill words</a></li><li><a href="{% url 'seasons' %}">Season almanac</a></li><li><a href="{% url 'routes' %}">Routes</a></li><li><a href="{% url 'guides' %}">Guides</a></li></ul></div>
-      <div><h3>Company</h3><ul><li><a href="{% url 'about' %}">About us</a></li><li><a href="{% url 'how_we_work' %}">How we work</a></li><li><a href="{% url 'journal' %}">Stories from the hills</a></li><li><a href="{% url 'contact' %}">Contact</a></li><li><a href="{% url 'faq' %}">FAQ</a></li><li><a href="{% url 'photo_credits' %}">Photo credits</a></li><li><a href="{% url 'html_sitemap' %}">Sitemap</a></li></ul></div>
-      <div><h3>Policies</h3><ul>{% for k, n in nav_policies %}<li><a href="{% url 'policy' k %}">{{ n }}</a></li>{% endfor %}</ul></div>
-    </div>
-    <div class="foot__trust">
-      <span>{% icon "check" %}No payment to start</span><span>{% icon "check" %}Itemised written quotes</span><span>{% icon "check" %}One planner, start to finish</span><span>{% icon "check" %}A reply within one working day</span>
-    </div>
     <div class="foot__base">
       <span>© {% now "Y" %} Darjeeling Himalayas{% if SITE.address %} · {{ SITE.address }}{% endif %}</span>
-      <span>Photos: Wikimedia Commons contributors, credited on each page · Maps drawn from Natural Earth</span>
-      <a class="foot__top-link" href="#main">Back to top {% icon "arrow-up" %}</a>
+      <ul class="foot__legal">{% for k, n in nav_policies %}<li><a href="{% url 'policy' k %}">{{ n }}</a></li>{% endfor %}</ul>
+      <span class="foot__credit">Photos: Wikimedia Commons contributors, credited on each page · Maps from Natural Earth</span>
     </div>
   </div>
-  <div class="lungta foot__flags" aria-hidden="true"></div>
+  <div class="lungta" aria-hidden="true"></div>
 </footer>
 
 {% block fab %}
