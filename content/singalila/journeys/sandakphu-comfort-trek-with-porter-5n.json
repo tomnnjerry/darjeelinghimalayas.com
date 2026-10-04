@@ -3,27 +3,74 @@
   "title": "Sandakphu trek with a porter and private rooms",
   "region": "singalila",
   "nights": 5,
-  "themes": ["treks", "kanchenjunga-views", "homestays", "photography"],
+  "themes": [
+    "treks",
+    "kanchenjunga-views",
+    "homestays",
+    "photography"
+  ],
   "tier": "Comfort",
   "travel_mode": "Mixed",
-  "stops": [{"place": "dhotrey", "nights": 1}, {"place": "tumling", "nights": 1}, {"place": "kalipokhri", "nights": 1}, {"place": "sandakphu", "nights": 2}],
+  "stops": [
+    {
+      "place": "dhotrey",
+      "nights": 1
+    },
+    {
+      "place": "tumling",
+      "nights": 1
+    },
+    {
+      "place": "kalipokhri",
+      "nights": 1
+    },
+    {
+      "place": "sandakphu",
+      "nights": 2
+    }
+  ],
   "start": "NJP railway station or Bagdogra airport",
   "end": "NJP railway station or Bagdogra airport",
   "price_from_inr": 28000,
   "cost_split": [
-    {"item": "Reserved cars to Dhotrey and from Maneybhanjan, and a private Land Rover down", "inr": 7000},
-    {"item": "Dhotrey homestay and private twin rooms, 5 nights with dinner and breakfast", "inr": 9500},
-    {"item": "Licensed guide and porter shares for a pair, park entry and camera fee", "inr": 9500},
-    {"item": "Lunches, tea, hot water and snacks", "inr": 2000}
+    {
+      "item": "Reserved cars to Dhotrey and from Maneybhanjan, and a private Land Rover down",
+      "inr": 7000
+    },
+    {
+      "item": "Dhotrey homestay and private twin rooms, 5 nights with dinner and breakfast",
+      "inr": 9500
+    },
+    {
+      "item": "Licensed guide and porter shares for a pair, park entry and camera fee",
+      "inr": 9500
+    },
+    {
+      "item": "Lunches, tea, hot water and snacks",
+      "inr": 2000
+    }
   ],
-  "best_months": [1, 1, 1, 2, 1, 0, 0, 0, 0, 2, 2, 2],
+  "best_months": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    2,
+    2,
+    2
+  ],
   "pace": "Balanced",
   "max_altitude_m": 3636,
   "meta_description": "5 nights from ₹28,000: walk from Dhotrey via Tonglu to Sandakphu (3,636 m) with a porter, private rooms and two summit dawns, then ride a Land Rover down.",
   "summary": "The Sandakphu trek with the hard edges taken off. A reserved car to the forest village of Dhotrey, three walking days up the ridge via Tonglu, Tumling and Kalipokhri with a porter carrying your bags, private rooms every night, two dawns on the summit, and a Land Rover back down. About ₹28,000 per person.",
   "intro": [
     "This trip is for people who want to walk to Sandakphu, not be driven, but who do not want dorms, heavy packs or a knee-breaking descent. We start at Dhotrey, where the trail to Tonglu climbs through quiet forest instead of the steep stone steps above Maneybhanjan. Days are short to moderate. A porter carries the main bags, you sleep in private twin rooms, and the walk ends on the summit with a rest day and a second dawn before a Land Rover takes you down.",
-    "Comfort on the ridge is relative: the best rooms still have shared toilets and no heating, and dinner is dal-bhat or noodles by the stove. What you pay for is space, a lighter load and time. A licensed guide is compulsory in Singalila National Park and park entry is paid at Maneybhanjan. Both fees, and Land Rover rates, are set locally; check current status before you travel."
+    "Comfort on the ridge is relative: the best rooms still have shared toilets and no heating, and dinner is dal-bhat or noodles by the stove. What you pay for is space, a lighter load and time. A licensed guide is compulsory in Singalila National Park and park entry is paid at Maneybhanjan. Book Tumling and Sandakphu rooms early in October and April. Both fees, and Land Rover rates, are set locally; check current status before you travel."
   ],
   "highlights": [
     "A homestay night at Dhotrey and the forest trail up to Tonglu",
@@ -33,16 +80,83 @@
     "A Land Rover ride down instead of a long descent"
   ],
   "days": [
-    {"day": 1, "title": "NJP to Dhotrey by reserved car", "place": "dhotrey", "overnight": "Dhotrey", "drive": "≈ 110 km · 4.5–5 h by reserved car via Mirik and Maneybhanjan", "text": "Your car leaves NJP or Bagdogra in the morning and climbs through the tea gardens to Mirik, then on to Maneybhanjan, where you meet your guide and porter and pay park entry. The last hour runs along the eastern slope of the ridge to Dhotrey, a forest village at about 2,500 m. Your homestay serves tea on arrival and a home-cooked dinner. Walk the village lanes before dark; tomorrow the trail starts behind the houses.", "meals": "Dinner", "spend": "₹2,500 car share + ₹200 lunch + park entry"},
-    {"day": 2, "title": "Dhotrey to Tonglu and Tumling", "place": "tumling", "overnight": "Tumling", "drive": "On foot ≈ 7 km · 4–4.5 h, about 570 m up", "text": "Walk up through oak, rhododendron and bamboo with only a day pack; your porter goes ahead. The trail reaches Tonglu's grassy top, about 3,070 m, around midday, where Joseph Hooker collected rhododendrons in 1848. Eat lunch with the whole Kanchenjunga range in front of you if the cloud holds off. Then walk 20–40 minutes down to Tumling and a private room at Shikhar Lodge, with a wood stove in the dining room and a terrace for sunset.", "meals": "Breakfast, dinner", "spend": "₹200 lunch + ₹100 hot water"},
-    {"day": 3, "title": "Through Gairibas to Kalipokhri", "place": "kalipokhri", "overnight": "Kalipokhri", "drive": "On foot ≈ 13 km · 6–7 h", "text": "Dawn over Kanchenjunga from Tumling, then the longest walk of the trip. Cross into Nepal at Jaubari and drop through deep forest to Gairibas, 2,621 m, where red pandas live in the bamboo. Lunch at a tea shop, then climb steadily via Kaiyakatta to Kalipokhri, 3,186 m, a hamlet around a small black pond hung with prayer flags. Your porter will have your room ready. Take it slowly after lunch; there is no rush and plenty of light in autumn and spring.", "meals": "Breakfast, dinner", "spend": "₹200 lunch + ₹100 hot water"},
-    {"day": 4, "title": "Up to Sandakphu", "place": "sandakphu", "overnight": "Sandakphu", "drive": "On foot ≈ 6 km · 2–3 h, about 450 m up", "text": "A short morning past Bikheybhanjang, the poison col, to Sandakphu at 3,636 m, the highest point in West Bengal. The name is usually traced to Lepcha words for the height of the poisonous plant. Check into a private room at Sherpa Chalet, eat, rest and drink water. In the afternoon walk around the summit and the border markers, and stay out for sunset if the western sky is clear; Makalu and Everest catch the last light.", "meals": "Breakfast, dinner", "spend": "₹250 lunch + ₹150 hot water"},
-    {"day": 5, "title": "Summit dawn and a rest day", "place": "sandakphu", "overnight": "Sandakphu", "drive": "Optional walk ≈ 4–6 km · 2–3 h return toward Sabargram", "text": "Up at 5 am for the first dawn: Everest, Lhotse and Makalu to the west and the Kanchenjunga massif to the north, four of the five highest mountains on Earth. After breakfast walk an hour or so north along the ridge toward Sabargram, where the trail to Phalut faces Kanchenjunga, and come back for lunch. Spend the afternoon reading in the sun out of the wind. A second night at this height feels easier than the first.", "meals": "Breakfast, dinner", "spend": "₹250 lunch + ₹150 hot water"},
-    {"day": 6, "title": "Second dawn and Land Rover down", "place": "sandakphu", "overnight": "", "drive": "≈ 31 km · 4 h by Land Rover, then ≈ 95 km · 3.5–4 h by car", "text": "A second sunrise, and a second chance if the first was cloudy. After breakfast your Land Rover, booked through the owners' association, takes you down the cobbled track through Kalipokhri, Gairibas and Tumling to Maneybhanjan by about midday. Thank and tip your guide and porter there. A reserved car takes you down via Mirik or Ghoom to NJP or Bagdogra by late afternoon. Book a train or flight after 6 pm.", "meals": "Breakfast", "spend": "₹2,500 Land Rover share + ₹2,000 car share"}
+    {
+      "day": 1,
+      "title": "NJP to Dhotrey by reserved car",
+      "place": "dhotrey",
+      "overnight": "Dhotrey",
+      "drive": "≈ 110 km · 4.5–5 h by reserved car via Mirik and Maneybhanjan",
+      "text": "Your car leaves NJP or Bagdogra in the morning and climbs through the tea gardens to Mirik, then on to Maneybhanjan, where you meet your guide and porter and pay park entry. The last hour runs along the eastern slope of the ridge to Dhotrey, a forest village at about 2,500 m. Your homestay serves tea on arrival and a home-cooked dinner. Walk the village lanes before dark; tomorrow the trail starts behind the houses.",
+      "meals": "Dinner",
+      "spend": "₹2,500 car share + ₹200 lunch + park entry"
+    },
+    {
+      "day": 2,
+      "title": "Dhotrey to Tonglu and Tumling",
+      "place": "tumling",
+      "overnight": "Tumling",
+      "drive": "On foot ≈ 7 km · 4–4.5 h, about 570 m up",
+      "text": "Walk up through oak, rhododendron and bamboo with only a day pack; your porter goes ahead. The trail reaches Tonglu's grassy top, about 3,070 m, around midday, where Joseph Hooker collected rhododendrons in 1848. Eat lunch with the whole Kanchenjunga range in front of you if the cloud holds off. Then walk 20–40 minutes down to Tumling and a private room at Shikhar Lodge, with a wood stove in the dining room and a terrace for sunset.",
+      "meals": "Breakfast, dinner",
+      "spend": "₹200 lunch + ₹100 hot water"
+    },
+    {
+      "day": 3,
+      "title": "Through Gairibas to Kalipokhri",
+      "place": "kalipokhri",
+      "overnight": "Kalipokhri",
+      "drive": "On foot ≈ 13 km · 6–7 h",
+      "text": "Dawn over Kanchenjunga from Tumling, then the longest walk of the trip. Cross into Nepal at Jaubari and drop through deep forest to Gairibas, 2,621 m, where red pandas live in the bamboo. Lunch at a tea shop, then climb steadily via Kaiyakatta to Kalipokhri, 3,186 m, a hamlet around a small black pond hung with prayer flags. Your porter will have your room ready. Take it slowly after lunch; there is no rush and plenty of light in autumn and spring.",
+      "meals": "Breakfast, dinner",
+      "spend": "₹200 lunch + ₹100 hot water"
+    },
+    {
+      "day": 4,
+      "title": "Up to Sandakphu",
+      "place": "sandakphu",
+      "overnight": "Sandakphu",
+      "drive": "On foot ≈ 6 km · 2–3 h, about 450 m up",
+      "text": "A short morning past Bikheybhanjang, the poison col, to Sandakphu at 3,636 m, the highest point in West Bengal. The name is usually traced to Lepcha words for the height of the poisonous plant. Check into a private room at Sherpa Chalet, eat, rest and drink water. In the afternoon walk around the summit and the border markers, and stay out for sunset if the western sky is clear; Makalu and Everest catch the last light.",
+      "meals": "Breakfast, dinner",
+      "spend": "₹250 lunch + ₹150 hot water"
+    },
+    {
+      "day": 5,
+      "title": "Summit dawn and a rest day",
+      "place": "sandakphu",
+      "overnight": "Sandakphu",
+      "drive": "Optional walk ≈ 4–6 km · 2–3 h return toward Sabargram",
+      "text": "Up at 5 am for the first dawn: Everest, Lhotse and Makalu to the west and the Kanchenjunga massif to the north, four of the five highest mountains on Earth. After breakfast walk an hour or so north along the ridge toward Sabargram, where the trail to Phalut faces Kanchenjunga, and come back for lunch. Spend the afternoon reading in the sun out of the wind. A second night at this height feels easier than the first.",
+      "meals": "Breakfast, dinner",
+      "spend": "₹250 lunch + ₹150 hot water"
+    },
+    {
+      "day": 6,
+      "title": "Second dawn and Land Rover down",
+      "place": "sandakphu",
+      "overnight": "",
+      "drive": "≈ 31 km · 4 h by Land Rover, then ≈ 95 km · 3.5–4 h by car",
+      "text": "A second sunrise, and a second chance if the first was cloudy. After breakfast your Land Rover, booked through the owners' association, takes you down the cobbled track through Kalipokhri, Gairibas and Tumling to Maneybhanjan by about midday. Thank and tip your guide and porter there. A reserved car takes you down via Mirik or Ghoom to NJP or Bagdogra by late afternoon. Book a train or flight after 6 pm.",
+      "meals": "Breakfast",
+      "spend": "₹2,500 Land Rover share + ₹2,000 car share"
+    }
   ],
-  "stays": ["singalila-shikhar-lodge-tumling", "singalila-sherpa-chalet-sandakphu"],
-  "includes": ["Reserved car NJP to Dhotrey and Maneybhanjan to NJP", "Private Land Rover from Sandakphu to Maneybhanjan", "Dhotrey homestay and private twin rooms, all with dinner and breakfast", "Licensed guide for six days and a porter for five, shared by two", "Singalila National Park entry and camera fee"],
-  "excludes": ["Train or flight to NJP or Bagdogra", "Bottled drinks and phone charging", "Tips for guide, porter and driver"],
+  "stays": [
+    "singalila-shikhar-lodge-tumling",
+    "singalila-sherpa-chalet-sandakphu"
+  ],
+  "includes": [
+    "Reserved car NJP to Dhotrey and Maneybhanjan to NJP",
+    "Private Land Rover from Sandakphu to Maneybhanjan",
+    "Dhotrey homestay and private twin rooms, all with dinner and breakfast",
+    "Licensed guide for six days and a porter for five, shared by two",
+    "Singalila National Park entry and camera fee"
+  ],
+  "excludes": [
+    "Train or flight to NJP or Bagdogra",
+    "Bottled drinks and phone charging",
+    "Tips for guide, porter and driver"
+  ],
   "save_money": [
     "Find a returning Land Rover with spare seats at Sandakphu instead of booking a private one; your guide can usually arrange it the evening before.",
     "Use shared jeeps from NJP to Darjeeling and Maneybhanjan on day one and reserve only the short Maneybhanjan to Dhotrey leg.",
@@ -55,14 +169,41 @@
     "The park usually closes from mid-June to mid-September."
   ],
   "faqs": [
-    {"q": "What makes this the comfortable version of the trek?", "a": "Four things: a porter carries your main bag, you sleep in private twin rooms rather than dorms, you take a rest day at Sandakphu, and you ride a Land Rover down instead of walking 1,700 m off the ridge. The walking itself is the same as any Sandakphu trek, three days up with one long day through Gairibas."},
-    {"q": "How much does this 5-night trek cost?", "a": "About ₹28,000 per person for a couple sharing a guide and porter, from NJP or Bagdogra back to the same, indicative for 2025–26. That covers reserved cars, a private Land Rover down, a homestay and private rooms with dinner and breakfast, the guide, porter, park entry and lunches. A group of four sharing vehicles pays less per head."},
-    {"q": "Why start at Dhotrey instead of Maneybhanjan?", "a": "The Dhotrey trail to Tonglu is shadier, quieter and gentler than the stone steps from Maneybhanjan to Chitrey, and it lets you sleep the first night in a homestay rather than a roadside lodge. You join the main ridge at Tonglu and Tumling and lose nothing of the views."},
-    {"q": "Are there really private rooms on the ridge?", "a": "Yes, at most stops. Tumling, Kalipokhri and Sandakphu all have family lodges with private twin rooms, at roughly ₹1,500–3,500 a room depending on the stop and season. They have heavy quilts but shared toilets and no heating. Book ahead in October and April, when rooms fill with groups."},
-    {"q": "How much does a porter carry and cost?", "a": "A Singalila porter usually carries around 15–20 kg, enough for two people's main bags, for about ₹1,000–1,300 a day. Hire one at Maneybhanjan through the guide office. Pack in one soft duffel or rucksack rather than suitcases, and keep warm layers, water and valuables in your own day pack."},
-    {"q": "Is the rest day at Sandakphu worth it?", "a": "We think so. It gives you a second dawn, which matters when cloud can hide the view for days, and a gentle walk toward Sabargram where the Phalut trail faces Kanchenjunga. Your body also adjusts to 3,636 m, so the second night is usually easier. If both dawns are clear, enjoy the luxury."},
-    {"q": "Can the Land Rover be booked one way from Sandakphu?", "a": "Yes, though it costs more than a seat in a returning vehicle. Your guide can book through the Maneybhanjan owners' association, or find spare seats in a Land Rover going down the same morning. Rates are set by the association and change; check current status before you travel."},
-    {"q": "When should we go?", "a": "October and November give the best chance of clear dawns. December is cold and often clear. April brings rhododendrons along the Tonglu and Gairibas forests, with more haze on the peaks. January and February can bring snow at the top. The park usually closes from mid-June to mid-September."},
-    {"q": "Is this suitable for a first trek?", "a": "Yes, for anyone in reasonable health who walks regularly. Days are 2–7 hours, the trail is clear, and with a porter you carry only a day pack. The main challenge is the height: go slowly, drink water and tell your guide about any headache. People with heart or lung conditions should ask a doctor first."}
+    {
+      "q": "What makes this the comfortable version of the trek?",
+      "a": "Four things: a porter carries your main bag, you sleep in private twin rooms rather than dorms, you take a rest day at Sandakphu, and you ride a Land Rover down instead of walking 1,700 m off the ridge. The walking itself is the same as any Sandakphu trek, three days up with one long day through Gairibas."
+    },
+    {
+      "q": "How much does this 5-night trek cost?",
+      "a": "About ₹28,000 per person for a couple sharing a guide and porter, from NJP or Bagdogra back to the same, indicative for 2025–26. That covers reserved cars, a private Land Rover down, a homestay and private rooms with dinner and breakfast, the guide, porter, park entry and lunches. A group of four sharing vehicles pays less per head."
+    },
+    {
+      "q": "Why start at Dhotrey instead of Maneybhanjan?",
+      "a": "The Dhotrey trail to Tonglu is shadier, quieter and gentler than the stone steps from Maneybhanjan to Chitrey, and it lets you sleep the first night in a homestay rather than a roadside lodge. You join the main ridge at Tonglu and Tumling and lose nothing of the views."
+    },
+    {
+      "q": "Are there really private rooms on the ridge?",
+      "a": "Yes, at most stops. Tumling, Kalipokhri and Sandakphu all have family lodges with private twin rooms, at roughly ₹1,500–3,500 a room depending on the stop and season. They have heavy quilts but shared toilets and no heating. Book ahead in October and April, when rooms fill with groups."
+    },
+    {
+      "q": "How much does a porter carry and cost?",
+      "a": "A Singalila porter usually carries around 15–20 kg, enough for two people's main bags, for about ₹1,000–1,300 a day. Hire one at Maneybhanjan through the guide office. Pack in one soft duffel or rucksack rather than suitcases, and keep warm layers, water and valuables in your own day pack."
+    },
+    {
+      "q": "Is the rest day at Sandakphu worth it?",
+      "a": "We think so. It gives you a second dawn, which matters when cloud can hide the view for days, and a gentle walk toward Sabargram where the Phalut trail faces Kanchenjunga. Your body also adjusts to 3,636 m, so the second night is usually easier. If both dawns are clear, enjoy the luxury."
+    },
+    {
+      "q": "Can the Land Rover be booked one way from Sandakphu?",
+      "a": "Yes, though it costs more than a seat in a returning vehicle. Your guide can book through the Maneybhanjan owners' association, or find spare seats in a Land Rover going down the same morning. Rates are set by the association and change; check current status before you travel."
+    },
+    {
+      "q": "When should we go?",
+      "a": "October and November give the best chance of clear dawns. December is cold and often clear. April brings rhododendrons along the Tonglu and Gairibas forests, with more haze on the peaks. January and February can bring snow at the top. The park usually closes from mid-June to mid-September."
+    },
+    {
+      "q": "Is this suitable for a first trek?",
+      "a": "Yes, for anyone in reasonable health who walks regularly. Days are 2–7 hours, the trail is clear, and with a porter you carry only a day pack. The main challenge is the height: go slowly, drink water and tell your guide about any headache. People with heart or lung conditions should ask a doctor first."
+    }
   ]
 }

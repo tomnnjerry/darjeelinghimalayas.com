@@ -3,26 +3,81 @@
   "title": "Rhododendron spring on the Singalila Ridge",
   "region": "singalila",
   "nights": 6,
-  "themes": ["treks", "photography", "wildlife-birds", "kanchenjunga-views"],
+  "themes": [
+    "treks",
+    "photography",
+    "wildlife-birds",
+    "kanchenjunga-views"
+  ],
   "tier": "Value",
   "travel_mode": "On foot",
-  "stops": [{"place": "chitrey", "nights": 1}, {"place": "tonglu", "nights": 1}, {"place": "kalipokhri", "nights": 1}, {"place": "sandakphu", "nights": 1}, {"place": "srikhola", "nights": 1}, {"place": "rimbik", "nights": 1}],
+  "stops": [
+    {
+      "place": "chitrey",
+      "nights": 1
+    },
+    {
+      "place": "tonglu",
+      "nights": 1
+    },
+    {
+      "place": "kalipokhri",
+      "nights": 1
+    },
+    {
+      "place": "sandakphu",
+      "nights": 1
+    },
+    {
+      "place": "srikhola",
+      "nights": 1
+    },
+    {
+      "place": "rimbik",
+      "nights": 1
+    }
+  ],
   "start": "NJP railway station or Bagdogra airport",
   "end": "NJP railway station or Bagdogra airport",
   "price_from_inr": 20500,
   "cost_split": [
-    {"item": "Shared jeep seats NJP to Maneybhanjan and Rimbik to NJP", "inr": 1000},
-    {"item": "Lodges, a trekkers' hut and twin rooms, 6 nights with dinner and breakfast", "inr": 8500},
-    {"item": "Licensed guide and porter shares for a pair, park entry and camera fee", "inr": 9000},
-    {"item": "Lunches, tea and trail snacks", "inr": 2000}
+    {
+      "item": "Shared jeep seats NJP to Maneybhanjan and Rimbik to NJP",
+      "inr": 1000
+    },
+    {
+      "item": "Lodges, a trekkers' hut and twin rooms, 6 nights with dinner and breakfast",
+      "inr": 8500
+    },
+    {
+      "item": "Licensed guide and porter shares for a pair, park entry and camera fee",
+      "inr": 9000
+    },
+    {
+      "item": "Lunches, tea and trail snacks",
+      "inr": 2000
+    }
   ],
-  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 0, 1, 1, 0],
+  "best_months": [
+    0,
+    0,
+    1,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0
+  ],
   "pace": "Balanced",
   "max_altitude_m": 3636,
   "meta_description": "6 nights from ₹20,500: walk the Singalila Ridge in April and May as the rhododendrons flower, from Chitrey and Tonglu to Sandakphu, then down to Rimbik.",
   "summary": "A slower Sandakphu trek timed for the rhododendrons. Short first days via Chitrey and Tonglu let you walk through the red tree rhododendrons low on the ridge, then the higher pinks, whites and yellows toward Sandakphu, before a descent through flowering forest to Srikhola and a last night in Rimbik. About ₹20,500 per person.",
   "intro": [
-    "From late March to May the Singalila Ridge flowers in layers. Red tree rhododendrons, Rhododendron arboreum, Nepal's national flower, open first around Chitrey and Tonglu; higher up, toward Kalipokhri and Sandakphu, other species follow in pink, white and pale yellow, with magnolias in the forest below. Joseph Hooker collected rhododendrons on Tonglu in 1848, and the seeds he sent home helped start the British craze for them.",
+    "From late March to May the Singalila Ridge flowers in layers. Red tree rhododendrons, Rhododendron arboreum, Nepal's national flower, open first around Chitrey and Tonglu; higher up, toward Kalipokhri and Sandakphu, other species follow in pink, white and pale yellow, with magnolias in the forest below. Joseph Hooker collected rhododendrons on Tonglu in 1848, and the seeds he sent home helped start the British craze for them. Bring a camera with a close-up setting.",
     "Spring is not the season for big mountain views: haze often hides Everest by mid-morning and afternoons cloud over. We plan for that with early starts, short first days and a summit dawn. The walk is on foot from Maneybhanjan to Rimbik, with a porter shared by two and simple rooms. A licensed guide is compulsory in Singalila National Park and park entry is paid at Maneybhanjan; check current status before you travel. The park usually closes in mid-June."
   ],
   "highlights": [
@@ -33,17 +88,93 @@
     "The flowering Gurdum descent and a last night at Rimbik"
   ],
   "days": [
-    {"day": 1, "title": "NJP to Maneybhanjan, walk to Chitrey", "place": "chitrey", "overnight": "Chitrey", "drive": "≈ 96 km · 4.5–5 h by shared jeeps, then on foot ≈ 3 km · 1.5–2 h", "text": "Take shared jeeps from NJP to Darjeeling and on to Maneybhanjan, where you meet your guide and porter and pay the park entry. After lunch walk up the steep stone path behind the bazaar to Chitrey, about 3 km and 1.5–2 hours. A small gompa and a white chorten stand on the ridge, and in April the slopes around are red with tree rhododendrons. Sleep in one of the small family lodges; a short first day means a gentle start.", "meals": "Dinner", "spend": "₹300 + ₹150 jeep seats + ₹550 bed"},
-    {"day": 2, "title": "Chitrey to Tonglu through the flowers", "place": "tonglu", "overnight": "Tonglu", "drive": "On foot ≈ 8 km · 3.5–4 h, about 570 m up", "text": "Walk on through Lamaydhura and Meghma, taking the left fork above Meghma for Tonglu. This stretch has some of the best low rhododendron forest on the ridge, the trees often 10 m tall and covered in red flowers. Arrive at Tonglu's grassy top, about 3,070 m, by lunch, and sleep in the GTA trekkers' hut. Spring evenings are usually misty, but the dawn tomorrow may be clear; set an alarm for 5 am.", "meals": "Breakfast, dinner", "spend": "₹600 hut bed + ₹150 lunch"},
-    {"day": 3, "title": "Tonglu to Kalipokhri via Gairibas", "place": "kalipokhri", "overnight": "Kalipokhri", "drive": "On foot ≈ 14 km · 6.5–7.5 h", "text": "The longest day. Walk down to Tumling, into Nepal at Jaubari, and through dense forest to Gairibas at 2,621 m. In spring the forest is loud with birds: laughingthrushes, sunbirds and minivets. After lunch climb via Kaiyakatta to Kalipokhri at 3,186 m, where the flowers change as you gain height. Take a twin room by the black pond, warm up by the stove and eat early. Your porter goes ahead to hold the room.", "meals": "Breakfast, dinner", "spend": "₹1,000 room share + ₹200 lunch"},
-    {"day": 4, "title": "Up to Sandakphu", "place": "sandakphu", "overnight": "Sandakphu", "drive": "On foot ≈ 6 km · 2–3 h, about 450 m up", "text": "Start early for the clearest light. The trail passes Bikheybhanjang, named for poison after the aconite that grew on these slopes, and climbs to Sandakphu, 3,636 m. In May the high rhododendrons here are often at their best, low shrubs in pink and white. Check into a twin room, rest, and walk around the summit in the afternoon. Spring sunsets are often hazy, but cloud lifting off the valleys can still give a short view of Kanchenjunga.", "meals": "Breakfast, dinner", "spend": "₹1,250 room share + ₹250 lunch + ₹150 hot water"},
-    {"day": 5, "title": "Dawn, then down to Srikhola", "place": "srikhola", "overnight": "Srikhola", "drive": "On foot ≈ 14–16 km · 6–7 h, about 1,700 m down", "text": "Spring dawns are the best chance of the trip for Everest, Lhotse, Makalu and the Kanchenjunga massif, usually clear for an hour or two before haze rises. After breakfast take the Gurdum trail down through silver fir and flowering rhododendron, then fields and farmhouses at Gurdum for lunch. Follow the stream down to Srikhola at about 1,900 m, warm after the summit. A twin room by the river and a well-earned dinner.", "meals": "Breakfast, dinner", "spend": "₹900 room share + ₹200 lunch"},
-    {"day": 6, "title": "An easy walk to Rimbik", "place": "rimbik", "overnight": "Rimbik", "drive": "On foot ≈ 6–7 km · 2 h", "text": "A slow morning by the Sri Khola, then walk the road up to Rimbik, about 2 hours of gentle climbing past terraces and cardamom. Rimbik, at about 2,286 m, is a small market village where farmers come in from the valleys for the Tuesday market; if your day falls on a Tuesday, it is worth an hour. Take a twin room near the jeep stand, ask about tomorrow's first jeep to Darjeeling, and pay off your guide and porter.", "meals": "Breakfast, dinner", "spend": "₹750 room share + ₹200 lunch"},
-    {"day": 7, "title": "Early jeep to Darjeeling and NJP", "place": "rimbik", "overnight": "", "drive": "≈ 56 km · 4–5 h to Darjeeling, then ≈ 70 km · 3–3.5 h to NJP", "text": "Shared jeeps from Rimbik to Darjeeling leave early, roughly 6–8 am, for about ₹200–300 a seat. The road winds through forest and hill farms via Batasey and Maneybhanjan. In Darjeeling eat lunch near the motor stand, perhaps with a last look at the rhododendrons in the Lloyd Botanical Garden if you have time, then take a jeep down to NJP. Book an evening train or flight, and check current status before you travel.", "meals": "Breakfast", "spend": "₹250 + ₹300 jeep seats + ₹200 lunch"}
+    {
+      "day": 1,
+      "title": "NJP to Maneybhanjan, walk to Chitrey",
+      "place": "chitrey",
+      "overnight": "Chitrey",
+      "drive": "≈ 96 km · 4.5–5 h by shared jeeps, then on foot ≈ 3 km · 1.5–2 h",
+      "text": "Take shared jeeps from NJP to Darjeeling and on to Maneybhanjan, where you meet your guide and porter and pay the park entry. After lunch walk up the steep stone path behind the bazaar to Chitrey, about 3 km and 1.5–2 hours. A small gompa and a white chorten stand on the ridge, and in April the slopes around are red with tree rhododendrons. Sleep in one of the small family lodges; a short first day means a gentle start.",
+      "meals": "Dinner",
+      "spend": "₹300 + ₹150 jeep seats + ₹550 bed"
+    },
+    {
+      "day": 2,
+      "title": "Chitrey to Tonglu through the flowers",
+      "place": "tonglu",
+      "overnight": "Tonglu",
+      "drive": "On foot ≈ 8 km · 3.5–4 h, about 570 m up",
+      "text": "Walk on through Lamaydhura and Meghma, taking the left fork above Meghma for Tonglu. This stretch has some of the best low rhododendron forest on the ridge, the trees often 10 m tall and covered in red flowers. Arrive at Tonglu's grassy top, about 3,070 m, by lunch, and sleep in the GTA trekkers' hut. Spring evenings are usually misty, but the dawn tomorrow may be clear; set an alarm for 5 am.",
+      "meals": "Breakfast, dinner",
+      "spend": "₹600 hut bed + ₹150 lunch"
+    },
+    {
+      "day": 3,
+      "title": "Tonglu to Kalipokhri via Gairibas",
+      "place": "kalipokhri",
+      "overnight": "Kalipokhri",
+      "drive": "On foot ≈ 14 km · 6.5–7.5 h",
+      "text": "The longest day. Walk down to Tumling, into Nepal at Jaubari, and through dense forest to Gairibas at 2,621 m. In spring the forest is loud with birds: laughingthrushes, sunbirds and minivets. After lunch climb via Kaiyakatta to Kalipokhri at 3,186 m, where the flowers change as you gain height. Take a twin room by the black pond, warm up by the stove and eat early. Your porter goes ahead to hold the room.",
+      "meals": "Breakfast, dinner",
+      "spend": "₹1,000 room share + ₹200 lunch"
+    },
+    {
+      "day": 4,
+      "title": "Up to Sandakphu",
+      "place": "sandakphu",
+      "overnight": "Sandakphu",
+      "drive": "On foot ≈ 6 km · 2–3 h, about 450 m up",
+      "text": "Start early for the clearest light. The trail passes Bikheybhanjang, named for poison after the aconite that grew on these slopes, and climbs to Sandakphu, 3,636 m. In May the high rhododendrons here are often at their best, low shrubs in pink and white. Check into a twin room, rest, and walk around the summit in the afternoon. Spring sunsets are often hazy, but cloud lifting off the valleys can still give a short view of Kanchenjunga.",
+      "meals": "Breakfast, dinner",
+      "spend": "₹1,250 room share + ₹250 lunch + ₹150 hot water"
+    },
+    {
+      "day": 5,
+      "title": "Dawn, then down to Srikhola",
+      "place": "srikhola",
+      "overnight": "Srikhola",
+      "drive": "On foot ≈ 14–16 km · 6–7 h, about 1,700 m down",
+      "text": "Spring dawns are the best chance of the trip for Everest, Lhotse, Makalu and the Kanchenjunga massif, usually clear for an hour or two before haze rises. After breakfast take the Gurdum trail down through silver fir and flowering rhododendron, then fields and farmhouses at Gurdum for lunch. Follow the stream down to Srikhola at about 1,900 m, warm after the summit. A twin room by the river and a well-earned dinner.",
+      "meals": "Breakfast, dinner",
+      "spend": "₹900 room share + ₹200 lunch"
+    },
+    {
+      "day": 6,
+      "title": "An easy walk to Rimbik",
+      "place": "rimbik",
+      "overnight": "Rimbik",
+      "drive": "On foot ≈ 6–7 km · 2 h",
+      "text": "A slow morning by the Sri Khola, then walk the road up to Rimbik, about 2 hours of gentle climbing past terraces and cardamom. Rimbik, at about 2,286 m, is a small market village where farmers come in from the valleys for the Tuesday market; if your day falls on a Tuesday, it is worth an hour. Take a twin room near the jeep stand, ask about tomorrow's first jeep to Darjeeling, and pay off your guide and porter.",
+      "meals": "Breakfast, dinner",
+      "spend": "₹750 room share + ₹200 lunch"
+    },
+    {
+      "day": 7,
+      "title": "Early jeep to Darjeeling and NJP",
+      "place": "rimbik",
+      "overnight": "",
+      "drive": "≈ 56 km · 4–5 h to Darjeeling, then ≈ 70 km · 3–3.5 h to NJP",
+      "text": "Shared jeeps from Rimbik to Darjeeling leave early, roughly 6–8 am, for about ₹200–300 a seat. The road winds through forest and hill farms via Batasey and Maneybhanjan. In Darjeeling eat lunch near the motor stand, perhaps with a last look at the rhododendrons in the Lloyd Botanical Garden if you have time, then take a jeep down to NJP. Book an evening train or flight, and check current status before you travel.",
+      "meals": "Breakfast",
+      "spend": "₹250 + ₹300 jeep seats + ₹200 lunch"
+    }
   ],
-  "stays": ["singalila-gta-trekkers-hut-tonglu", "singalila-sherpa-chalet-sandakphu"],
-  "includes": ["Shared jeep seats on all road legs", "Six nights in lodges, a trekkers' hut and twin rooms with dinner and breakfast", "Licensed guide and porter for six days, shared by two", "Singalila National Park entry and camera fee"],
-  "excludes": ["Train or flight to NJP or Bagdogra", "Garden entry in Darjeeling", "Bottled drinks and phone charging", "Tips"],
+  "stays": [
+    "singalila-gta-trekkers-hut-tonglu",
+    "singalila-sherpa-chalet-sandakphu"
+  ],
+  "includes": [
+    "Shared jeep seats on all road legs",
+    "Six nights in lodges, a trekkers' hut and twin rooms with dinner and breakfast",
+    "Licensed guide and porter for six days, shared by two",
+    "Singalila National Park entry and camera fee"
+  ],
+  "excludes": [
+    "Train or flight to NJP or Bagdogra",
+    "Garden entry in Darjeeling",
+    "Bottled drinks and phone charging",
+    "Tips"
+  ],
   "save_money": [
     "Spring is quieter than October on the ridge, so ask lodges for a lower twin-room rate, especially in early March and late May.",
     "Take dorm beds at Kalipokhri and Sandakphu instead of twin rooms to save about ₹1,500 each.",
@@ -56,14 +187,41 @@
     "The park usually closes from mid-June; a licensed guide is compulsory, so check current status before you travel."
   ],
   "faqs": [
-    {"q": "When do the rhododendrons flower on the Singalila Ridge?", "a": "Roughly late March to May. Red tree rhododendrons around Chitrey, Meghma and Tonglu flower first, often from late March into April. Higher species near Kalipokhri, Sandakphu and Phalut flower later, often late April to May. Timing shifts with each year's weather, so a late cold spell can delay everything by a couple of weeks."},
-    {"q": "How much does this 6-night trek cost?", "a": "About ₹20,500 per person for two people sharing a guide and porter, from NJP back to NJP, indicative for 2025–26. That covers shared jeeps, six nights with dinner and breakfast, the guide, the porter, park entry and lunches. Without a porter, and with dorm beds high on the ridge, it falls to roughly ₹16,000."},
-    {"q": "Will I see Everest in spring?", "a": "Sometimes, usually only just after dawn. Spring brings haze from the plains and afternoon cloud, so the clear window is often an hour or two at sunrise. You have two good chances on this trip: Tonglu and Sandakphu. If big views are your main goal, October and November are better; spring is for flowers and birds."},
-    {"q": "Is the weather bad in April and May?", "a": "Not bad, but changeable. Mornings are often fine, cloud builds by midday and afternoon showers or hail storms are common, especially in May. Days are pleasant for walking and nights at Sandakphu are still cold, around freezing. Carry a rain shell and pack cover, and start walking early."},
-    {"q": "Why start with such a short day to Chitrey?", "a": "Because jeeps from NJP reach Maneybhanjan around midday, and the 3 km climb to Chitrey is all you can comfortably walk before dark. It also means the steepest part of the trek is done fresh, and you spend the second morning walking through the best low rhododendron forest instead of rushing past it."},
-    {"q": "Is the Tonglu to Kalipokhri day very hard?", "a": "It is long rather than hard: about 14 km and 6.5–7.5 hours, down through forest to Gairibas, then up around 550 m to Kalipokhri. Start by 7:30 am, eat lunch at Gairibas and take the climb slowly. With a porter carrying the main bag, most reasonably fit walkers manage it well."},
-    {"q": "What birds might I see in spring?", "a": "Spring is the noisiest time of year in the Singalila forests. Expect laughingthrushes, tits, sunbirds, minivets, warblers and rosefinches, with pheasants on the forest floor at dawn. A guide who knows birds makes a real difference; ask for one at the Maneybhanjan office. Bring binoculars and walk the forest stretches quietly."},
-    {"q": "Is a guide compulsory on this route?", "a": "Yes. As we understand the current rule, every group inside Singalila National Park must have a licensed local guide, hired at Maneybhanjan for about ₹1,500–2,000 a day per group. Park entry and a camera fee are paid there too. Rules and fees change; check current status before you travel."},
-    {"q": "Can I add Phalut to this trip?", "a": "Yes. From Sandakphu, walk 21 km north to Phalut, sleep in the trekkers' hut, then descend via Gorkhey and Rammam to Srikhola. That adds two or three days and some of the best high rhododendron country on the ridge. Confirm that the Phalut hut is open before you go, and carry a warm sleeping bag."}
+    {
+      "q": "When do the rhododendrons flower on the Singalila Ridge?",
+      "a": "Roughly late March to May. Red tree rhododendrons around Chitrey, Meghma and Tonglu flower first, often from late March into April. Higher species near Kalipokhri, Sandakphu and Phalut flower later, often late April to May. Timing shifts with each year's weather, so a late cold spell can delay everything by a couple of weeks."
+    },
+    {
+      "q": "How much does this 6-night trek cost?",
+      "a": "About ₹20,500 per person for two people sharing a guide and porter, from NJP back to NJP, indicative for 2025–26. That covers shared jeeps, six nights with dinner and breakfast, the guide, the porter, park entry and lunches. Without a porter, and with dorm beds high on the ridge, it falls to roughly ₹16,000."
+    },
+    {
+      "q": "Will I see Everest in spring?",
+      "a": "Sometimes, usually only just after dawn. Spring brings haze from the plains and afternoon cloud, so the clear window is often an hour or two at sunrise. You have two good chances on this trip: Tonglu and Sandakphu. If big views are your main goal, October and November are better; spring is for flowers and birds."
+    },
+    {
+      "q": "Is the weather bad in April and May?",
+      "a": "Not bad, but changeable. Mornings are often fine, cloud builds by midday and afternoon showers or hail storms are common, especially in May. Days are pleasant for walking and nights at Sandakphu are still cold, around freezing. Carry a rain shell and pack cover, and start walking early."
+    },
+    {
+      "q": "Why start with such a short day to Chitrey?",
+      "a": "Because jeeps from NJP reach Maneybhanjan around midday, and the 3 km climb to Chitrey is all you can comfortably walk before dark. It also means the steepest part of the trek is done fresh, and you spend the second morning walking through the best low rhododendron forest instead of rushing past it."
+    },
+    {
+      "q": "Is the Tonglu to Kalipokhri day very hard?",
+      "a": "It is long rather than hard: about 14 km and 6.5–7.5 hours, down through forest to Gairibas, then up around 550 m to Kalipokhri. Start by 7:30 am, eat lunch at Gairibas and take the climb slowly. With a porter carrying the main bag, most reasonably fit walkers manage it well."
+    },
+    {
+      "q": "What birds might I see in spring?",
+      "a": "Spring is the noisiest time of year in the Singalila forests. Expect laughingthrushes, tits, sunbirds, minivets, warblers and rosefinches, with pheasants on the forest floor at dawn. A guide who knows birds makes a real difference; ask for one at the Maneybhanjan office. Bring binoculars and walk the forest stretches quietly."
+    },
+    {
+      "q": "Is a guide compulsory on this route?",
+      "a": "Yes. As we understand the current rule, every group inside Singalila National Park must have a licensed local guide, hired at Maneybhanjan for about ₹1,500–2,000 a day per group. Park entry and a camera fee are paid there too. Rules and fees change; check current status before you travel."
+    },
+    {
+      "q": "Can I add Phalut to this trip?",
+      "a": "Yes. From Sandakphu, walk 21 km north to Phalut, sleep in the trekkers' hut, then descend via Gorkhey and Rammam to Srikhola. That adds two or three days and some of the best high rhododendron country on the ridge. Confirm that the Phalut hut is open before you go, and carry a warm sleeping bag."
+    }
   ]
 }
