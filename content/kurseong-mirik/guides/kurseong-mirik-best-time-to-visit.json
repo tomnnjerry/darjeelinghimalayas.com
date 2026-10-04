@@ -10,7 +10,8 @@
       "heading": "The short answer",
       "paras": [
         "This land sits lower than Darjeeling, mostly between 1,200 and 2,200 m, so it is a few degrees warmer and rarely sees snow. That makes it a good choice for the cold months, when Darjeeling is near freezing at night and Kurseong is still pleasant by day. The two best seasons are the same as elsewhere in the hills: October to December, when the air is clear after the monsoon, and March to May, when the tea gardens are busy and the forests are in new leaf.",
-        "If we had to choose one month it would be November. Puja crowds have gone, mornings are reliably clear, the autumn flush is being made and oranges are colouring in Sittong. Our second choice is March, for first flush tea and quiet roads. Avoid July and August unless you want rain, mist and empty hotels."
+        "If we had to choose one month it would be November. Puja crowds have gone, mornings are reliably clear, the autumn flush is being made and oranges are colouring in Sittong. Our second choice is March, for first flush tea and quiet roads. Avoid July and August unless you want rain, mist and empty hotels.",
+        "Rainfall decides almost everything here. These slopes face the plains and catch the monsoon head on, so the wet months are very wet, and the dry months are reliably dry and bright."
       ]
     },
     {
@@ -19,20 +20,85 @@
         "Temperatures are typical daytime ranges for Kurseong at about 1,480 m; Mirik is similar, Chimney and Dow Hill are 3–5 °C colder, and Sittong and Latpanchar are a little warmer. Ratings are ours, for a budget traveller who wants views, walks and village life."
       ],
       "table": {
-        "head": ["Month", "Kurseong weather", "What is happening", "Our rating"],
+        "head": [
+          "Month",
+          "Kurseong weather",
+          "What is happening",
+          "Our rating"
+        ],
         "rows": [
-          ["January", "5–13 °C, dry, clear", "Last oranges, sharp views, Netaji Jayanti on 23 Jan", "Good"],
-          ["February", "7–15 °C, mostly dry", "Gardens pruned, haze late in month, Losar some years", "Good"],
-          ["March", "10–19 °C, warm days", "First flush begins, rhododendrons on high ridges", "Best"],
-          ["April", "13–21 °C, late showers", "First flush in full swing, hornbills active", "Best"],
-          ["May", "15–23 °C, showers build", "School holidays, Mirik busy, second flush starts", "Good"],
-          ["June", "17–23 °C, monsoon mid-month", "Second flush, muscatel teas, rain most afternoons", "Fair"],
-          ["July", "18–22 °C, heavy rain", "Landslides common, Mahananda sanctuary closed", "Avoid"],
-          ["August", "18–22 °C, heavy rain", "Salamander season at Namthing Pokhri, leeches", "Avoid"],
-          ["September", "16–21 °C, rain easing", "Greenest month, autumn flush begins, Puja may fall", "Fair"],
-          ["October", "13–20 °C, dry, clear", "Clear views, Dashain and Tihar, festival crowds", "Best"],
-          ["November", "9–17 °C, dry, cold nights", "Quietest clear month, oranges colour", "Best"],
-          ["December", "6–14 °C, very clear", "Orange season peaks, Christmas week busy", "Best"]
+          [
+            "January",
+            "5–13 °C, dry, clear",
+            "Last oranges, sharp views, Netaji Jayanti on 23 Jan",
+            "Good"
+          ],
+          [
+            "February",
+            "7–15 °C, mostly dry",
+            "Gardens pruned, haze late in month, Losar some years",
+            "Good"
+          ],
+          [
+            "March",
+            "10–19 °C, warm days",
+            "First flush begins, rhododendrons on high ridges",
+            "Best"
+          ],
+          [
+            "April",
+            "13–21 °C, late showers",
+            "First flush in full swing, hornbills active",
+            "Best"
+          ],
+          [
+            "May",
+            "15–23 °C, showers build",
+            "School holidays, Mirik busy, second flush starts",
+            "Good"
+          ],
+          [
+            "June",
+            "17–23 °C, monsoon mid-month",
+            "Second flush, muscatel teas, rain most afternoons",
+            "Fair"
+          ],
+          [
+            "July",
+            "18–22 °C, heavy rain",
+            "Landslides common, Mahananda sanctuary closed",
+            "Avoid"
+          ],
+          [
+            "August",
+            "18–22 °C, heavy rain",
+            "Salamander season at Namthing Pokhri, leeches",
+            "Avoid"
+          ],
+          [
+            "September",
+            "16–21 °C, rain easing",
+            "Greenest month, autumn flush begins, Puja may fall",
+            "Fair"
+          ],
+          [
+            "October",
+            "13–20 °C, dry, clear",
+            "Clear views, Dashain and Tihar, festival crowds",
+            "Best"
+          ],
+          [
+            "November",
+            "9–17 °C, dry, cold nights",
+            "Quietest clear month, oranges colour",
+            "Best"
+          ],
+          [
+            "December",
+            "6–14 °C, very clear",
+            "Orange season peaks, Christmas week busy",
+            "Best"
+          ]
         ]
       }
     },
@@ -65,6 +131,14 @@
       ]
     },
     {
+      "heading": "Crowds, holidays and booking ahead",
+      "paras": [
+        "Weather is only half the choice. The other half is who else is travelling. Kurseong and Mirik are a short drive from Siliguri, so they fill on ordinary weekends as well as holidays, with families coming up for a night by the lake or a day on the toy train. Friday and Saturday nights cost more than weekday nights in most Mirik hotels, and the Sunday afternoon jeeps back to Siliguri are full by midday.",
+        "The four peak periods are Durga Puja and the week after it, Diwali, Christmas to New Year, and mid-May to mid-June, when schools in West Bengal and the plains are closed. In those weeks book rooms two to four weeks ahead, travel up early in the morning, and expect village homestays in Sittong to be booked by groups. Outside them, you can usually find a bed on arrival, though we still suggest booking the first night.",
+        "If your dates are fixed in a wet or crowded week, choose the villages over the towns. Chimney, Latpanchar and the Makaibari homestays stay quieter than Mirik's lake road even in October, and a homestay host will tell you honestly whether the road in is open."
+      ]
+    },
+    {
       "heading": "Choosing by what you want",
       "paras": [
         "Most travellers have one thing in mind. Use this list to match it to a month, then check the toy train and road status for your dates."
@@ -80,16 +154,52 @@
       ]
     }
   ],
-  "related_places": ["kurseong", "mirik", "sittong", "latpanchar", "ahaldara", "namthing-pokhri", "dow-hill", "makaibari"],
+  "related_places": [
+    "kurseong",
+    "mirik",
+    "sittong",
+    "latpanchar",
+    "ahaldara",
+    "namthing-pokhri",
+    "dow-hill",
+    "makaibari"
+  ],
   "faqs": [
-    {"q": "What is the best month to visit Kurseong?", "a": "November is our pick. Puja crowds have gone, mornings are reliably clear, the autumn flush is being made in the gardens and nights are cold but not freezing in town. October and December are almost as good. For tea lovers, March and April are better, because first flush is being plucked and the factories are working at full pace."},
-    {"q": "Does it snow in Kurseong or Mirik?", "a": "Snow is very rare. Kurseong and Mirik sit at about 1,480–1,500 m, well below the snowline, and winter nights fall to about 5 °C rather than below freezing. The higher ridges at Chimney and Dow Hill, around 1,900–2,200 m, are colder and very occasionally see frost or a light dusting. For snow, you need to go much higher, to Sandakphu or North Sikkim."},
-    {"q": "Can I see Kanchenjunga from Kurseong and Mirik?", "a": "Yes, on clear mornings from mid-October to January, and sometimes in March. The best viewpoints are Ahaldara above Latpanchar, the high bends of the Dow Hill road and the ridges above Mirik on the Darjeeling road. Go early: by 9 or 10 am haze and cloud usually rise from the valleys. From June to September views are rare."},
-    {"q": "Is it safe to visit Kurseong in the monsoon?", "a": "It is possible but needs care. From late June to September, landslides close or slow the Hill Cart Road, the Rohini road and the roads to Sittong and Latpanchar, sometimes for days. Travel in daylight, keep spare days and cash, and avoid forest walks in heavy rain. Toy train services are often suspended, so check current status before you travel."},
-    {"q": "When is the orange season in Sittong?", "a": "Darjeeling mandarins in Sittong ripen from about mid-November and are picked through December into January, with the peak in December. Orchard oranges cost about ₹60–120 a kg in season. The Directorate of Cinchona has organised an orange festival at Sittong in December in past years; dates are announced locally, so check current status before you travel."},
-    {"q": "When is first flush tea season in Kurseong?", "a": "First flush runs from about March to April, when the bushes put out new leaves after winter dormancy. Second flush follows from late May into June, and the autumn flush from October to November. Factory visits are most rewarding in these months. From December to February the bushes are pruned and most factories are quiet."},
-    {"q": "Is Mirik crowded during Durga Puja?", "a": "Yes. Durga Puja, which falls in late September or October, is Mirik's busiest season, with families from Kolkata and Siliguri filling lakeside hotels and boats. Prices can double and jeeps fill fast. Book rooms several weeks ahead, or come in the first half of November, when the weather is as good and the lake is much quieter."},
-    {"q": "What should I pack for Kurseong in winter?", "a": "From December to February, pack a warm jacket, a fleece or sweater, a woollen cap and warm socks, because nights in Kurseong fall to about 5 °C and are colder at Chimney or Dow Hill. Days are mild in the sun, so layers work best. Homestays provide quilts, but a light thermal set helps in houses without heaters."},
-    {"q": "When is the best time for birdwatching at Latpanchar?", "a": "March to May is the best period, when hornbills and other forest birds are active and calling in the old trees near the edge of Mahananda sanctuary. Go out at dawn with a local guide, who will know the current fruiting trees. October to February is also good for resident birds. The sanctuary closes in the monsoon, so check current status before you travel."}
+    {
+      "q": "What is the best month to visit Kurseong?",
+      "a": "November is our pick. Puja crowds have gone, mornings are reliably clear, the autumn flush is being made in the gardens and nights are cold but not freezing in town. October and December are almost as good. For tea lovers, March and April are better, because first flush is being plucked and the factories are working at full pace."
+    },
+    {
+      "q": "Does it snow in Kurseong or Mirik?",
+      "a": "Snow is very rare. Kurseong and Mirik sit at about 1,480–1,500 m, well below the snowline, and winter nights fall to about 5 °C rather than below freezing. The higher ridges at Chimney and Dow Hill, around 1,900–2,200 m, are colder and very occasionally see frost or a light dusting. For snow, you need to go much higher, to Sandakphu or North Sikkim."
+    },
+    {
+      "q": "Can I see Kanchenjunga from Kurseong and Mirik?",
+      "a": "Yes, on clear mornings from mid-October to January, and sometimes in March. The best viewpoints are Ahaldara above Latpanchar, the high bends of the Dow Hill road and the ridges above Mirik on the Darjeeling road. Go early: by 9 or 10 am haze and cloud usually rise from the valleys. From June to September views are rare."
+    },
+    {
+      "q": "Is it safe to visit Kurseong in the monsoon?",
+      "a": "It is possible but needs care. From late June to September, landslides close or slow the Hill Cart Road, the Rohini road and the roads to Sittong and Latpanchar, sometimes for days. Travel in daylight, keep spare days and cash, and avoid forest walks in heavy rain. Toy train services are often suspended, so check current status before you travel."
+    },
+    {
+      "q": "When is the orange season in Sittong?",
+      "a": "Darjeeling mandarins in Sittong ripen from about mid-November and are picked through December into January, with the peak in December. Orchard oranges cost about ₹60–120 a kg in season. The Directorate of Cinchona has organised an orange festival at Sittong in December in past years; dates are announced locally, so check current status before you travel."
+    },
+    {
+      "q": "When is first flush tea season in Kurseong?",
+      "a": "First flush runs from about March to April, when the bushes put out new leaves after winter dormancy. Second flush follows from late May into June, and the autumn flush from October to November. Factory visits are most rewarding in these months. From December to February the bushes are pruned and most factories are quiet."
+    },
+    {
+      "q": "Is Mirik crowded during Durga Puja?",
+      "a": "Yes. Durga Puja, which falls in late September or October, is Mirik's busiest season, with families from Kolkata and Siliguri filling lakeside hotels and boats. Prices can double and jeeps fill fast. Book rooms several weeks ahead, or come in the first half of November, when the weather is as good and the lake is much quieter."
+    },
+    {
+      "q": "What should I pack for Kurseong in winter?",
+      "a": "From December to February, pack a warm jacket, a fleece or sweater, a woollen cap and warm socks, because nights in Kurseong fall to about 5 °C and are colder at Chimney or Dow Hill. Days are mild in the sun, so layers work best. Homestays provide quilts, but a light thermal set helps in houses without heaters."
+    },
+    {
+      "q": "When is the best time for birdwatching at Latpanchar?",
+      "a": "March to May is the best period, when hornbills and other forest birds are active and calling in the old trees near the edge of Mahananda sanctuary. Go out at dawn with a local guide, who will know the current fruiting trees. October to February is also good for resident birds. The sanctuary closes in the monsoon, so check current status before you travel."
+    }
   ]
 }

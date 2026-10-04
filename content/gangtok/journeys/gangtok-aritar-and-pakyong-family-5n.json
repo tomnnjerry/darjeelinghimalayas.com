@@ -1,0 +1,71 @@
+{
+  "slug": "gangtok-aritar-and-pakyong-family-5n",
+  "title": "Gangtok, Pakyong and Aritar for families",
+  "region": "gangtok",
+  "nights": 5,
+  "themes": ["family-trips", "homestays", "kanchenjunga-views", "off-season"],
+  "tier": "Value",
+  "travel_mode": "Reserved car",
+  "stops": [{"place": "gangtok", "nights": 2}, {"place": "pakyong", "nights": 1}, {"place": "aritar", "nights": 2}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 19000,
+  "cost_split": [
+    {"item": "Reserved car throughout, shared by 4", "inr": 6000},
+    {"item": "Gangtok hotel, 2 nights twin share with breakfast", "inr": 3000},
+    {"item": "Pakyong homestay, 1 night with dinner and breakfast", "inr": 1800},
+    {"item": "Aritar homestay, 2 nights with dinner and breakfast", "inr": 3600},
+    {"item": "Lunches, tea and snacks", "inr": 2800},
+    {"item": "Ropeway, zoo, boating and entry fees", "inr": 1800}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 1, 1, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2200,
+  "meta_description": "5 nights from ₹19,000: Gangtok's ropeway and zoo, a farm night at Pakyong, and two nights at Aritar for boating on Lampokhari Lake and the Mankhim ridge.",
+  "summary": "Six days with short drives and no high passes, for families with children or grandparents. Two nights in Gangtok for the ropeway, the zoo and MG Marg, a farm homestay near Pakyong, and two slow nights at Aritar, with boats on Lampokhari Lake and the walk up to Mankhim. About ₹19,000 per person, four sharing a car.",
+  "intro": [
+    "East Sikkim below Gangtok is farming country: terraces of maize, ginger and large cardamom, small towns on the old roads to Kalimpong, and villages that see few tour cars because the permit trips all head north to Tsomgo. Pakyong, about 31 km south-east of the capital, is best known for the airport cut into its ridge in 2018. Aritar, near Rhenock and the West Bengal border, sits on the old road from Kalimpong into Sikkim, and keeps one of the oldest lakes in the state, Lampokhari, a long sheet of water among forest where you can row.",
+    "We built this trip for families who want Sikkim without altitude. Nothing goes above about 2,200 m, no drive after the first day runs longer than three hours, and two of the five nights are in one homestay so children can settle. The car stays with you, which costs more than shared jeeps but means no hauling bags between stands. Because there are no passes, the trip also works in the shoulder months either side of the monsoon."
+  ],
+  "highlights": [
+    "Rowing on Lampokhari Lake at Aritar",
+    "The walk up to the Mankhim ridge and its Rai temple",
+    "Red pandas at the Himalayan Zoological Park",
+    "A farm night among cardamom and ginger near Pakyong",
+    "The Gangtok ropeway and an evening on car-free MG Marg"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Gangtok by car", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 114 km · 4–5 h by reserved car", "text": "Your car meets you at NJP or Bagdogra. The road follows the Teesta through the gorge to Rangpo, the check post where you enter Sikkim, then climbs through Singtam and Ranipool to Gangtok. Stop for tea and a toilet break at Rangpo. Since the October 2023 flood NH10 has closed at times and cars detour via Kalimpong, which adds two to three hours, so check current status before you travel. Check in near MG Marg, where Hotel Sonam Delek has family rooms, and let the children run on the car-free mall before dinner.", "meals": "Breakfast", "spend": "₹200 lunch on the road + ₹300 dinner"},
+    {"day": 2, "title": "Zoo, ridge temples and the ropeway", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 20 km within town", "text": "Go up to the Himalayan Zoological Park at Bulbuley in the morning, when the animals are active; red pandas and Himalayan black bears live in big forest enclosures along a looping road. Your car can drive through, which helps with small children. Ganesh Tok is just across the road and Hanuman Tok, kept by the Indian Army, a short drive above, both with views to Kanchenjunga on clear days. After lunch ride the ropeway from Deorali over the town, visit the Flower Exhibition Centre near the Ridge if orchids are in bloom, and finish with ice cream on MG Marg.", "meals": "Breakfast", "spend": "Zoo, ropeway and flower show fees ₹300–500 + ₹400 food"},
+    {"day": 3, "title": "Down to a farm homestay near Pakyong", "place": "pakyong", "overnight": "Pakyong", "drive": "≈ 31 km · 1.5 h by reserved car", "text": "A short drive south-east brings you to Pakyong, a market town on a ridge above the Rangpo valley. Stop at a viewpoint over the airport, which opened in 2018 on land cut and filled along the ridge; scheduled flights have been suspended for long periods, so check current status before you travel if you hope to see a plane. Then go on to a farm homestay in the villages around town, where families grow ginger, large cardamom, oranges and maize. Children can follow the hosts to the cowshed and the kitchen garden. Dinner is home food: rice, dal, local greens, perhaps a chicken curry.", "meals": "Breakfast, dinner", "spend": "₹1,800 homestay with meals + ₹200 lunch"},
+    {"day": 4, "title": "Pakyong to Aritar and Lampokhari Lake", "place": "aritar", "overnight": "Aritar", "drive": "≈ 45 km · 2–2.5 h by reserved car via Rorathang and Rhenock", "text": "The road drops to Rorathang on the Rangpo river and climbs again through Rhenock to Aritar. Check in to your homestay, eat lunch, then walk down to Lampokhari Lake, one of the oldest natural lakes in Sikkim, long and narrow among forest. Rowing and pedal boats run for a small fee, and a level path circles the shore, easy for grandparents and pushchairs on the dry stretches. Ask your hosts to point out the old British-era dak bungalow above the lake, a reminder that travellers came into Sikkim this way, from Kalimpong, long before NH10.", "meals": "Breakfast, dinner", "spend": "₹1,800 homestay with meals + ₹200 boating + ₹200 lunch"},
+    {"day": 5, "title": "Mankhim ridge and a slow Aritar day", "place": "aritar", "overnight": "Aritar", "drive": "≈ 6 km by car, then a short uphill walk", "text": "Drive up to the foot of Mankhim and walk the last stretch to the hilltop temple of the Rai community, with a view over Aritar, the lake and, on clear mornings from October to March, the snows to the north-west. The walk takes about 20–30 minutes each way and has steps. Come back for lunch, then let the afternoon be slow: a second walk round the lake, a visit to the small Aritar gumpa, or cards on the homestay veranda while the children play in the garden. In the monsoon expect rain after noon.", "meals": "Breakfast, dinner", "spend": "₹1,800 homestay with meals + ₹200 lunch"},
+    {"day": 6, "title": "Aritar to NJP or Bagdogra", "place": "aritar", "overnight": "", "drive": "≈ 120 km · 4–5 h by reserved car", "text": "Leave after breakfast. The car runs down through Rhenock and Rorathang to Rangpo and joins NH10 along the Teesta to Siliguri, or, if NH10 is closed, takes the old road through Pedong and Kalimpong instead, which is about as long. Either way allow five hours to NJP or Bagdogra and a little more in the monsoon. Pack the snacks your hosts offer for the road: there are few good places to stop with children in the gorge. Check current status before you travel and book trains and flights for the afternoon.", "meals": "Breakfast", "spend": "₹200 lunch on the road"}
+  ],
+  "stays": ["gangtok-hotel-sonam-delek"],
+  "includes": ["Reserved car and driver for 6 days, shared by four", "Gangtok hotel, 2 nights twin share with breakfast", "Pakyong farm homestay with dinner and breakfast", "Aritar homestay, 2 nights with dinner and breakfast", "Zoo, ropeway, flower show and boating fees"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Tsomgo Lake and Nathu La permit tours", "Driver's tip", "Lunches beyond simple meals", "Shopping"],
+  "save_money": [
+    "Book the car for the whole trip in one deal rather than separate transfers; a six-day hire costs less than four one-way drops.",
+    "Go in March, April or after mid-September, when Aritar and Pakyong homestays often charge less than in the Puja and Diwali weeks.",
+    "Ask your homestay to pack lunch on the drive days for ₹100–150 instead of stopping at highway restaurants."
+  ],
+  "good_to_know": [
+    "There are no permit areas on this route, though foreign travellers need the Sikkim Restricted Area Permit; check current status before you travel.",
+    "Pakyong airport flights have been suspended for long periods; do not plan to fly in or out without checking.",
+    "Aritar homestays are simple: ask about hot water and an extra quilt in winter.",
+    "Carry motion sickness tablets for children; the Rhenock and Pakyong roads have many bends.",
+    "Network is reasonable in Pakyong and patchy in parts of Aritar."
+  ],
+  "faqs": [
+    {"q": "Is this trip suitable for small children and grandparents?", "a": "Yes, that is who it is for. The highest point is about 2,200 m at Hanuman Tok, there are no permit passes, and after the first day no drive is longer than about 2.5 hours. Aritar's lake path is mostly level. The Mankhim walk has steps, so older travellers can take it slowly or wait at the bottom."},
+    {"q": "How do I get to Aritar?", "a": "Aritar is about 70 km from Gangtok, roughly three hours via Ranipool, Rorathang and Rhenock, and about 120 km from NJP, four to five hours. Shared jeeps run from Siliguri and Gangtok to Rhenock, with a local taxi up to Aritar. With children and bags, a reserved car is far easier and lets you stop when needed."},
+    {"q": "What is there to do at Aritar?", "a": "Row or pedal a boat on Lampokhari Lake, walk the shore path, climb Mankhim for the view and the Rai temple, and visit the small gumpa. It is a place for slow days rather than sightseeing. Two nights is right: one full day lets you walk, rest and watch the evening light on the lake."},
+    {"q": "Why stay at Pakyong?", "a": "It breaks the drive from Gangtok to Aritar and gives you a night on a working farm, among ginger, cardamom and maize, which children usually enjoy more than another hotel. It also has views over the airport on its ridge. If you prefer, swap it for a third night at Aritar; the price barely changes."},
+    {"q": "Can we fly into Pakyong instead of Bagdogra?", "a": "Only if flights are running. Pakyong airport, 31 km from Gangtok, opened in 2018, but scheduled services have been suspended for long periods since then, often because of weather and runway limits. Bagdogra, about 124 km from Gangtok, is the reliable airport. Check current status before you travel."},
+    {"q": "Can we add Tsomgo Lake to this trip?", "a": "Yes, with one more night in Gangtok. Your car cannot go, because Tsomgo needs a permit vehicle registered for the route; book a seat or a vehicle through a registered operator the day before, with photo ID and passport photos. The lake is at 3,753 m, so think about infants and anyone unwell. Check current status before you travel."},
+    {"q": "Is this trip possible in the monsoon?", "a": "More than most. There are no high passes, the lake and farms are green, and homestays often cut rates. But expect rain most afternoons from June to September, and landslides can close NH10 or the Rhenock road for hours or days. Add a buffer day before your train home and check current status before you travel."},
+    {"q": "How much does this family trip cost?", "a": "About ₹19,000 per person for five nights, four sharing the car and twin sharing rooms, indicative for 2025–26. Children under about five usually stay free in homestays if they share a bed, and older children often pay half. A family of two adults and two children can expect roughly ₹60,000–70,000 in all."},
+    {"q": "Do we need a permit for Aritar or Pakyong?", "a": "Indian nationals do not need any permit for Aritar, Pakyong or Gangtok. Foreign travellers need the Restricted Area Permit to enter Sikkim, which is free and issued at the Rangpo check post or online. Going further up to Zuluk and the Silk Route above Rongli needs a separate permit. Check current status before you travel."}
+  ]
+}

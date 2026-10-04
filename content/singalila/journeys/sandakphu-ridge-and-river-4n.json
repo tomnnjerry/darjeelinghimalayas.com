@@ -1,0 +1,67 @@
+{
+  "slug": "sandakphu-ridge-and-river-4n",
+  "title": "Sandakphu ridge and river trek",
+  "region": "singalila",
+  "nights": 4,
+  "themes": ["treks", "kanchenjunga-views", "wildlife-birds", "photography"],
+  "tier": "Value",
+  "travel_mode": "Mixed",
+  "stops": [{"place": "tumling", "nights": 1}, {"place": "kalipokhri", "nights": 1}, {"place": "sandakphu", "nights": 1}, {"place": "srikhola", "nights": 1}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 17000,
+  "cost_split": [
+    {"item": "Shared jeeps, a Land Rover seat to Tumling and the jeep out from Srikhola", "inr": 2000},
+    {"item": "Private twin rooms, 4 nights with dinner and breakfast", "inr": 6500},
+    {"item": "Licensed guide and porter shares for a pair, park entry and camera fee", "inr": 7000},
+    {"item": "Lunches, tea, hot water and snacks", "inr": 1500}
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 0, 2, 2, 2],
+  "pace": "Active",
+  "max_altitude_m": 3636,
+  "meta_description": "4 nights from ₹17,000: a Land Rover hop to Tumling, two walking days up the ridge to Sandakphu (3,636 m), then down through forest to the river at Srikhola.",
+  "summary": "The classic Sandakphu trek, trimmed to five days. A Land Rover hop saves the steep first climb to Tumling, then you walk the ridge through the Gairibas forest to Kalipokhri and Sandakphu, and come down 1,700 m to the riverside lodges at Srikhola. Private rooms and a porter keep it comfortable. About ₹17,000 per person.",
+  "intro": [
+    "Most people who walk to Sandakphu take a full day to climb from Maneybhanjan to Tumling, and a good part of it is the stone staircase to Chitrey. Riding that stretch in a Land Rover gives you a gentler start on a travel day and the dawn at Tumling for free. From there the walking is the best of the ridge: into Nepal at Jaubari, down into the bamboo at Gairibas, up to Kalipokhri's pond, and a short last morning to the summit.",
+    "Coming off the ridge via Gurdum to Srikhola makes this a through-trek rather than an out-and-back, so you never walk the same path twice. We use private twin rooms and a porter shared by two, which is what lifts this from shoestring to value. A licensed guide is compulsory in Singalila National Park and park entry is paid at Maneybhanjan; both fees change, so check current status before you travel."
+  ],
+  "highlights": [
+    "Dawn over the Kanchenjunga range from Tumling",
+    "The forest walk through Jaubari and Gairibas, red panda country",
+    "Everest, Lhotse, Makalu and Kanchenjunga from Sandakphu",
+    "A steep 1,700 m descent via Gurdum to the Sri Khola stream",
+    "A porter for the bags and a private room every night"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Maneybhanjan, Land Rover to Tumling", "place": "tumling", "overnight": "Tumling", "drive": "≈ 96 km · 4.5–5 h by shared jeeps, then ≈ 11 km · 1.5 h by Land Rover", "text": "Shared jeeps take you from NJP to Darjeeling and on to Maneybhanjan, where you meet your guide and porter and pay park entry. Instead of the steep climb past Chitrey, take seats in a Land Rover heading up the cobbled track and get out at Tumling, 2,970 m, a hamlet of about a dozen houses on the Nepal side. Take a twin room in one of the family lodges, stretch your legs up to Tonglu if the light is good, and eat by the wood stove.", "meals": "Dinner", "spend": "₹300 + ₹150 jeep seats + ₹600 Land Rover seat"},
+    {"day": 2, "title": "Through the forest to Kalipokhri", "place": "kalipokhri", "overnight": "Kalipokhri", "drive": "On foot ≈ 13 km · 6–7 h", "text": "Watch the Kanchenjunga range at dawn from Tumling. Walk west into Nepal through Jaubari and down through thick oak, rhododendron and bamboo to Gairibas at 2,621 m, the lowest dip of the ridge and the best place on the trek for red pandas; walk quietly. Eat lunch at a tea shop, then climb via Kaiyakatta, about 550 m, to Kalipokhri, a small black pond hung with prayer flags at 3,186 m. A long day; your porter goes ahead to hold the room.", "meals": "Breakfast, dinner", "spend": "₹1,000 room share + ₹200 lunch"},
+    {"day": 3, "title": "Up to Sandakphu", "place": "sandakphu", "overnight": "Sandakphu", "drive": "On foot ≈ 6 km · 2–3 h, about 450 m up", "text": "A short morning. Walk past Bikheybhanjang, whose name carries the Nepali word for poison, after the aconite that once grew here, and climb the last zigzags to Sandakphu, 3,636 m, the highest point in West Bengal. Arrive before lunch, take a twin room, and rest; the height tells after a climb. In the afternoon walk around the summit and look west for Makalu and Everest. Stay out for sunset if it is clear, then eat early.", "meals": "Breakfast, dinner", "spend": "₹1,250 room share + ₹250 lunch + ₹100–150 hot water"},
+    {"day": 4, "title": "Summit dawn, down to Srikhola", "place": "srikhola", "overnight": "Srikhola", "drive": "On foot ≈ 14–16 km · 6–7 h, about 1,700 m down", "text": "Up before 5 am for the dawn: four of the world's five highest mountains on one horizon, and the Sleeping Buddha outline of Kanchenjunga. After breakfast leave the ridge on the Gurdum trail, dropping steeply through silver fir and rhododendron, then through fields to Gurdum village for lunch. The last stretch follows the stream to Srikhola at about 1,900 m. A twin room by the river and the warmest night of the trek; your knees will want it.", "meals": "Breakfast, dinner", "spend": "₹900 room share + ₹200 lunch"},
+    {"day": 5, "title": "Jeep out through Rimbik to NJP", "place": "srikhola", "overnight": "", "drive": "≈ 7 km · 30 min to Rimbik, ≈ 56 km · 4–5 h to Darjeeling, ≈ 70 km · 3–3.5 h to NJP", "text": "Take a reserved jeep from Srikhola at first light to Rimbik, shared between you and any other trekkers, to catch the early shared jeeps to Darjeeling, which usually leave around 6–8 am. The road winds through terraced farms and forest. Eat lunch in Darjeeling and take a jeep down to NJP, arriving by evening. If you would rather not rush, sleep in Darjeeling and travel on the next morning. Ask your lodge the night before for current jeep times.", "meals": "Breakfast", "spend": "₹400 jeep share + ₹250 + ₹300 jeep seats"}
+  ],
+  "stays": ["singalila-shikhar-lodge-tumling", "singalila-sherpa-chalet-sandakphu"],
+  "includes": ["Shared jeep seats, a Land Rover seat to Tumling and a jeep share from Srikhola", "Private twin rooms with dinner and breakfast, 4 nights", "Licensed guide for five days and a porter for four, shared by two", "Singalila National Park entry and camera fee"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Bottled drinks and phone charging", "A night in Darjeeling at the end", "Tips"],
+  "save_money": [
+    "Take dorm beds instead of twin rooms at Kalipokhri and Sandakphu to save about ₹1,500 each over the trip.",
+    "Walk from Maneybhanjan to Tumling instead of riding if you can reach Maneybhanjan by 10 am; it saves the Land Rover seat.",
+    "Carry your own pack and drop the porter; on this route that saves about ₹2,200 per person."
+  ],
+  "good_to_know": [
+    "A licensed guide and park entry are compulsory; fees are set locally, so check current status before you travel.",
+    "The Tumling to Kalipokhri day is long; start by 7:30 am.",
+    "Carry a passport or voter ID for the stretches through Nepal at Tumling, Jaubari and Kalipokhri.",
+    "The park usually closes from mid-June to mid-September."
+  ],
+  "faqs": [
+    {"q": "How fit do I need to be for this trek?", "a": "Reasonably fit. Day two is the hardest at about 13 km and 6–7 hours with a long climb after Gairibas, and day four drops 1,700 m, which is tough on knees. You do not need trekking experience. If you can walk five or six hours on hilly ground with a light pack, you will manage, especially with a porter carrying the main bag."},
+    {"q": "How much does this 4-night trek cost?", "a": "About ₹17,000 per person for two people sharing a guide and porter, from NJP back to NJP, indicative for 2025–26. That covers jeeps, a Land Rover seat, private rooms with dinner and breakfast, the guide, the porter, park entry and lunches. Dorm beds and no porter bring it close to ₹13,000."},
+    {"q": "Why take a Land Rover to Tumling?", "a": "Time and energy. Shared jeeps from NJP reach Maneybhanjan around midday, too late to walk the 10.5 km and 800 m climb to Tumling comfortably. The Land Rover gets you there in about 1.5 hours and you still see Tumling's dawn. If you sleep in Darjeeling the night before and reach Maneybhanjan early, walk it instead."},
+    {"q": "Is the porter necessary?", "a": "Not necessary, but helpful. Porters cost about ₹1,000–1,300 a day and carry up to around 15–20 kg, usually enough for two people's main bags. Walking with only a day pack makes the long Gairibas day and the steep descent far more pleasant, and the fee goes to a local family. Strong walkers can skip it."},
+    {"q": "Can I see Everest on this trek?", "a": "Yes, from Sandakphu on a clear morning, along with Lhotse and Makalu to the west and Kanchenjunga to the north. Tonglu and Tumling show the Kanchenjunga range but Everest only faintly, if at all. October to early December gives the clearest dawns. Cloud can hide everything for days, in any month."},
+    {"q": "What is the trail like between Tumling and Kalipokhri?", "a": "Varied. From Tumling it crosses into Nepal at Jaubari and drops through forest to Gairibas, then climbs through Kaiyakatta on paths and stretches of the cobbled jeep track. There is shade, tea shops at Gairibas and Kaiyakatta, and a few Land Rovers passing. The climb after Gairibas, about 550 m, is the hardest part."},
+    {"q": "When is the best time to do this trek?", "a": "October and November for the clearest views and dry trails. December to February are colder, with snow possible above Kalipokhri, and often clear. March and April bring rhododendrons along the ridge and the Gurdum descent, with more haze. The park usually closes from mid-June to mid-September."},
+    {"q": "What if I feel the altitude?", "a": "Slow down, drink water, eat, and tell your guide. A mild headache at Kalipokhri or Sandakphu is common. If it worsens, with vomiting, confusion or breathlessness at rest, go down: Kalipokhri is 450 m lower than Sandakphu and Srikhola 1,700 m lower. Do not push up with worsening symptoms."},
+    {"q": "Can I end at Maneybhanjan instead of Srikhola?", "a": "Yes. From Sandakphu you can take a Land Rover seat back to Maneybhanjan in about four hours, or walk back down the ridge over two days. Srikhola is the better trek, as you see new country, but Maneybhanjan is quicker to reach Darjeeling and NJP. Agree the plan with your guide at the start."}
+  ]
+}

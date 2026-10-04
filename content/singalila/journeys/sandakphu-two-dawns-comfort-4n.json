@@ -1,0 +1,68 @@
+{
+  "slug": "sandakphu-two-dawns-comfort-4n",
+  "title": "Two dawns on Sandakphu by Land Rover",
+  "region": "singalila",
+  "nights": 4,
+  "themes": ["kanchenjunga-views", "photography", "budget-honeymoons", "family-trips"],
+  "tier": "Comfort",
+  "travel_mode": "Mixed",
+  "stops": [{"place": "tumling", "nights": 1}, {"place": "sandakphu", "nights": 2}, {"place": "kalipokhri", "nights": 1}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 26500,
+  "cost_split": [
+    {"item": "Reserved car NJP to Maneybhanjan and back, shared by two", "inr": 4000},
+    {"item": "Private Land Rover for five days with the Phalut run, shared by two", "inr": 8000},
+    {"item": "Private twin rooms, 4 nights with dinner and breakfast", "inr": 8000},
+    {"item": "Licensed guide share, park entry and camera fee", "inr": 5300},
+    {"item": "Lunches, tea and snacks", "inr": 1200}
+  ],
+  "best_months": [1, 1, 1, 2, 1, 0, 0, 0, 0, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 3636,
+  "meta_description": "4 nights from ₹26,500: a private Land Rover, two dawns on Sandakphu (3,636 m), a run along the ridge toward Phalut and a quiet night by Kalipokhri's pond.",
+  "summary": "Sandakphu without hurry. A private Land Rover takes you up over two days with a night at Tumling, you get two full dawns on the summit instead of one, and a day along the ridge toward Phalut where the Kanchenjunga massif feels close. The last night is by the black pond at Kalipokhri. About ₹26,500 per person.",
+  "intro": [
+    "Cloud is the risk at Sandakphu. One dawn on the summit is a gamble; two dawns roughly double your chance of seeing Everest, Lhotse, Makalu and Kanchenjunga together. That is the idea behind this trip. You sleep at Tumling on the way up to adjust to the height, spend two nights in private rooms on the summit, and use the day between for the ridge north toward Sabargram and Phalut, where the trail faces Kanchenjunga all the way.",
+    "The Land Rover and driver stay with you, so nobody has to walk far, though we leave room for an easy downhill walk from Sandakphu to Kalipokhri. Rooms are the best the ridge offers: private twins with heavy quilts, still with shared toilets and no heating. A licensed guide is compulsory in Singalila National Park and park entry is paid at Maneybhanjan. Driving beyond Sandakphu toward Phalut depends on track condition and permission. Check current status before you travel."
+  ],
+  "highlights": [
+    "Two sunrises on Sandakphu for twice the chance of a clear view",
+    "A run along the ridge toward Sabargram and Phalut, facing Kanchenjunga",
+    "A night at Tumling on the way up to ease into the altitude",
+    "An easy 6 km downhill walk to Kalipokhri's prayer-flag pond",
+    "Private rooms throughout and the same Land Rover and driver"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Maneybhanjan and Tumling", "place": "tumling", "overnight": "Tumling", "drive": "≈ 95 km · 3.5–4 h by reserved car, then ≈ 11 km · 1.5 h by Land Rover", "text": "Drive up from NJP or Bagdogra via Mirik to Maneybhanjan, where the guide pays park entry and your Land Rover waits. The old vehicle climbs past Chitrey's chorten to Tumling, a hamlet at 2,970 m on the Nepal side of the ridge. Check into a private room at Shikhar Lodge. In the late afternoon walk up to Tonglu, 20–40 minutes away, for sunset over the Kanchenjunga range. Eat early and drink plenty of water; tomorrow you climb higher.", "meals": "Dinner", "spend": "₹2,000 car share + ₹200 lunch + park entry"},
+    {"day": 2, "title": "Up through the forest to Sandakphu", "place": "sandakphu", "overnight": "Sandakphu", "drive": "≈ 20 km · 2.5–3 h by Land Rover", "text": "See the dawn from the lodge terrace, then drive down through Jaubari into the forest at Gairibas, where it is worth stopping to look for red pandas in the bamboo. The track climbs through Kaiyakatta and Kalipokhri and past Bikheybhanjang, the poison col, to Sandakphu. Settle into a private room at Sherpa Chalet, rest after lunch, and walk slowly around the summit in the afternoon. At sunset the light moves from Makalu to Kanchenjunga.", "meals": "Breakfast, dinner", "spend": "₹200 lunch + ₹100–150 hot water"},
+    {"day": 3, "title": "First dawn and the ridge to Phalut", "place": "sandakphu", "overnight": "Sandakphu", "drive": "≈ 21 km each way · 2–2.5 h by Land Rover, if the track is open", "text": "Out at 5 am for the first dawn: Everest, Lhotse and Makalu to the west, Kanchenjunga and the Sleeping Buddha to the north. After breakfast drive north along the ridge toward Sabargram and Phalut, about 3,600 m, where West Bengal, Sikkim and Nepal meet. The massif feels close enough to touch. If the track is closed, walk the first hour toward Sabargram instead and back. Return to Sandakphu for a late lunch and a quiet afternoon.", "meals": "Breakfast, dinner", "spend": "₹250 packed lunch"},
+    {"day": 4, "title": "Second dawn, walk down to Kalipokhri", "place": "kalipokhri", "overnight": "Kalipokhri", "drive": "On foot ≈ 6 km · 2 h down, or by Land Rover", "text": "A second sunrise, with a second chance if yesterday was cloudy. After breakfast walk down the trail to Kalipokhri with your guide, about 6 km and 2 hours, past Bikheybhanjang; the Land Rover carries your bags and waits for anyone who prefers to ride. Kalipokhri, the black pond, sits at 3,186 m on the border, hung with prayer flags. Take a private room, eat a long lunch, and watch evening cloud pour over the ridge from the Nepal side.", "meals": "Breakfast, dinner", "spend": "₹200 lunch + ₹100 hot water"},
+    {"day": 5, "title": "Down to Maneybhanjan and NJP", "place": "kalipokhri", "overnight": "", "drive": "≈ 20 km · 3–3.5 h by Land Rover, then ≈ 95 km · 3.5–4 h by car", "text": "After breakfast the Land Rover heads down via Gairibas and Tumling, with a tea stop, to Maneybhanjan by about midday. Your car is waiting to take you down via Mirik to NJP or Bagdogra by late afternoon. If you have a spare evening, you could break the journey at Darjeeling or Mirik instead. Tip the driver and guide here; they have looked after you for five days.", "meals": "Breakfast", "spend": "₹2,000 car share + ₹200 lunch"}
+  ],
+  "stays": ["singalila-shikhar-lodge-tumling", "singalila-sherpa-chalet-sandakphu"],
+  "includes": ["Reserved car NJP or Bagdogra to Maneybhanjan and back", "Private Land Rover and driver for five days, including the ridge run toward Phalut where allowed", "Private twin rooms with dinner and breakfast, 4 nights", "Licensed guide for five days", "Singalila National Park entry and camera fee"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Hot water buckets and phone charging", "Bottled drinks", "Tips for driver and guide"],
+  "save_money": [
+    "Travel as four or six: the Land Rover and guide are priced per group, so a full vehicle brings this trip close to ₹18,000 per person.",
+    "Drop the Phalut run if the track is doubtful and walk toward Sabargram instead; the driver's rate for a standing day is lower.",
+    "Book Sandakphu rooms through your guide or the lodge directly rather than a Darjeeling agent, who adds a margin."
+  ],
+  "good_to_know": [
+    "Land Rover access beyond Sandakphu toward Phalut depends on season, track and permission; check current status before you travel.",
+    "Even private rooms on the ridge are unheated with shared toilets; pack a down jacket, cap and warm socks.",
+    "A licensed guide and park entry are compulsory, including in a vehicle.",
+    "The park usually closes from mid-June to mid-September."
+  ],
+  "faqs": [
+    {"q": "Why two nights at Sandakphu?", "a": "Because one cloudy morning can take the whole view away. With two dawns you roughly double your chance of seeing Everest, Lhotse, Makalu and Kanchenjunga clearly. The day between is not wasted: the ridge toward Phalut is the most open stretch of the whole range. And after the first night at 3,636 m, the second usually feels easier."},
+    {"q": "How much does this 4-night trip cost?", "a": "About ₹26,500 per person for a couple, from NJP or Bagdogra back to the same, indicative for 2025–26. It covers the reserved car, a private Land Rover for five days, private rooms with dinner and breakfast, the guide, park entry and lunches. A group of four or six sharing the vehicle pays much less per head."},
+    {"q": "Can Land Rovers drive to Phalut?", "a": "The jeep track continues 21 km north from Sandakphu to Phalut, and some Land Rover trips include a day run there. Whether it is allowed and passable changes with the season, the state of the track and park rules. Ask the owners' association and your guide at Maneybhanjan, and check current status before you travel."},
+    {"q": "Is this a good trip for a honeymoon?", "a": "For a couple who like cold mornings and big mountains more than spa baths, yes. You get private rooms, two summit dawns and a quiet last night by Kalipokhri's pond. Be clear about the limits: unheated rooms, shared toilets, simple food and bumpy rides. It is romantic in the way a long-distance trek is, not a hotel."},
+    {"q": "Is it suitable for older travellers?", "a": "Usually, if they are in reasonable health. There is no compulsory walking; the 6 km down to Kalipokhri can be ridden. The two concerns are cold, with nights below freezing for much of the season, and altitude at 3,636 m. The night at Tumling helps. Anyone with heart or lung conditions should ask a doctor first."},
+    {"q": "What does the ridge toward Phalut look like?", "a": "Open, high and bare in places, with the Kanchenjunga massif straight ahead to the north for the whole way. The track passes Sabargram and runs along the border to Phalut, about 3,600 m, at the tri-junction of West Bengal, Sikkim and Nepal. There are almost no buildings, so carry water, snacks and warm layers."},
+    {"q": "What is the best month for this trip?", "a": "October and November give the best odds of clear dawns, with December close behind but colder. January and February can bring snow on the summit and very cold nights, but often sharp views. April brings rhododendrons and haze. The park usually closes from mid-June to mid-September."},
+    {"q": "Are there toilets and hot water?", "a": "Toilets at the lodges are mostly shared and can be cold and basic, even with a private room. Hot water comes in a bucket for about ₹100–150 at Sandakphu and less lower down. There is no room heating. Bring wet wipes, a small towel and a head torch for night trips outside."},
+    {"q": "Do we need ID on the ridge?", "a": "Yes. The track passes through Nepal at Tumling, Jaubari and Kalipokhri, and SSB or Nepal police may check papers. Indians should carry a passport or voter ID; foreigners need a passport with a valid Indian visa. Keep the ID in your day bag, not packed under luggage in the Land Rover."}
+  ]
+}

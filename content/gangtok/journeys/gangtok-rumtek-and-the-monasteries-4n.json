@@ -1,0 +1,70 @@
+{
+  "slug": "gangtok-rumtek-and-the-monasteries-4n",
+  "title": "Rumtek and the monasteries of Gangtok",
+  "region": "gangtok",
+  "nights": 4,
+  "themes": ["monasteries", "festivals", "photography", "food-trails"],
+  "tier": "Value",
+  "travel_mode": "Mixed",
+  "stops": [{"place": "gangtok", "nights": 3}, {"place": "rumtek", "nights": 1}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 15000,
+  "cost_split": [
+    {"item": "Shared jeeps NJP–Gangtok and back, taxi to Rumtek", "inr": 1800},
+    {"item": "Gangtok guesthouse, 3 nights twin share", "inr": 4500},
+    {"item": "Rumtek guesthouse or homestay, 1 night with dinner and breakfast", "inr": 1800},
+    {"item": "Reserved taxi shares for Lingdum, the palace chapel and town", "inr": 2200},
+    {"item": "Meals, tea and momos", "inr": 3200},
+    {"item": "Entry fees, ropeway and offerings", "inr": 1500}
+  ],
+  "best_months": [1, 2, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 1850,
+  "meta_description": "4 nights from ₹15,000: Gangtok's Enchey and Do-drul, the Tibetology institute, Lingdum, and a night at Rumtek for dawn prayers at the Karmapa's seat.",
+  "summary": "Five days among the gompas of Gangtok and the hill opposite it. Three nights in town for Enchey, the Do-drul Chorten, the Namgyal Institute of Tibetology and the royal chapel, then a night beside Rumtek, seat of the Karma Kagyu in exile, with Lingdum on the way. About ₹15,000 per person, twin sharing.",
+  "intro": [
+    "When the 16th Karmapa, Rangjung Rigpe Dorje, left Tibet in 1959, the Chogyal of Sikkim offered him land at Rumtek, on the ridge across the Ranipool valley from Gangtok. A monastery had stood there since the 18th century, built under the 9th Karmapa, but it was in ruins. The new Dharma Chakra Centre, finished in 1966, was laid out on the model of Tsurphu, the Karmapas' seat in Tibet, and it became the main seat of the Karma Kagyu school outside Tibet. A golden stupa inside holds relics of the 16th Karmapa, who died in 1981.",
+    "This trip moves slowly between the Buddhist houses on both ridges. In Gangtok, Enchey is a Nyingma monastery rebuilt in 1909, the Do-drul Chorten went up in 1945–46, and the Namgyal Institute of Tibetology, opened in 1958, keeps one of the best collections of thangkas and texts in India. Then we cross to Rumtek and sleep beside it, so you hear the morning horns and see the courtyard before the day-tour cars arrive."
+  ],
+  "highlights": [
+    "Dawn prayers at Rumtek, the Karma Kagyu seat built after 1959",
+    "The golden stupa holding the relics of the 16th Karmapa",
+    "Lingdum Monastery, a working Kagyu house set in forest",
+    "Thangkas and manuscripts at the Namgyal Institute of Tibetology",
+    "Butter lamps and 108 prayer wheels at the Do-drul Chorten"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Gangtok by shared jeep", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 114 km · 4–5 h by shared jeep", "text": "Take a shared jeep seat from Siliguri's SNT stand or Panitanki More for ₹350–500, or a car if your group can fill one. NH10 follows the Teesta past Rangpo into Sikkim; it has closed at times since the October 2023 flood, with jeeps detouring via Kalimpong, so check current status before you travel. Check in at a guesthouse in the centre; Mintokling, set around a garden a short walk from MG Marg, suits a quiet trip. In the evening walk the mall and find a plate of momos for ₹100–150.", "meals": "On your own", "spend": "₹350–500 jeep seat + ₹250 dinner"},
+    {"day": 2, "title": "Enchey at prayer time and the Do-drul Chorten", "place": "gangtok", "overnight": "Gangtok", "drive": "On foot, with ₹100–300 taxi hops", "text": "Walk up to Enchey Monastery for morning prayers around 7 am. Its name is usually read as solitary monastery, and the local story says the tantric master Lama Drupthob Karpo flew to this spot and blessed it; the present building dates from 1909, and its cham dances fall in the winter months. Take a taxi hop to Deorali for the Namgyal Institute of Tibetology, opened by Jawaharlal Nehru in 1958; give it two hours. Next door, walk clockwise round the Do-drul Chorten and turn its 108 prayer wheels. End with the ropeway and tea in Lal Bazaar.", "meals": "On your own", "spend": "₹300 taxi hops + entry fees + ₹150 ropeway + ₹400 food"},
+    {"day": 3, "title": "The royal chapel, the ridge and the zoo", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 20 km by shared half-day taxi", "text": "The Tsuklakhang, the royal chapel beside the old palace above MG Marg, was the Chogyals' place of worship and coronation. It is usually closed to visitors except on festival days such as Losar, when cham dances are held in the courtyard, so view it from the gate unless your dates fit. Share a half-day taxi for ₹1,500–2,500 a car to Ganesh Tok, the Himalayan Zoological Park and Hanuman Tok, with Kanchenjunga on clear mornings. Back in town, look into the small shops on Tibet Road for prayer flags, incense and singing bowls.", "meals": "On your own", "spend": "₹600 taxi share + small entry fees + ₹400 food"},
+    {"day": 4, "title": "Lingdum and across to Rumtek", "place": "rumtek", "overnight": "Rumtek", "drive": "≈ 24 km · 1–1.5 h by reserved taxi", "text": "Share a reserved taxi for about ₹2,000–2,500 a car. The road drops to Ranipool and climbs the far ridge. Stop first at Lingdum, also called Ranka, a large Kagyu monastery in forest where young monks study and the prayer hall is painted floor to ceiling. Then go on to Rumtek, where police check photo ID at the gate. Walk up through the courtyard to the main hall, then to the Karma Shri Nalanda Institute behind it and the golden stupa. Spend the night in a guesthouse or homestay in the village below, with a dinner of rice, dal and greens.", "meals": "Dinner", "spend": "₹600 taxi share + ₹1,800 stay with meals + small donations"},
+    {"day": 5, "title": "Rumtek dawn and down to the plains", "place": "rumtek", "overnight": "", "drive": "≈ 115 km · 4.5–5 h by shared jeep via Ranipool", "text": "Get up for the morning horns and drums at Rumtek, when the monks gather in the hall and the courtyard is empty of day visitors. Then walk the 2 km downhill path to the old Rumtek monastery, the 18th-century house that came before the new seat, quiet and rarely visited. After breakfast, take a shared taxi down to Ranipool, about 30 minutes, and pick up a shared jeep to Siliguri on NH10, or go back to Gangtok for a direct one. Allow five hours, more if the road is shut, and check current status before you travel.", "meals": "Breakfast", "spend": "₹100 shared taxi + ₹350–500 jeep seat"}
+  ],
+  "stays": ["gangtok-mintokling-guest-house"],
+  "includes": ["Shared jeep seats NJP–Gangtok and Ranipool–Siliguri", "Gangtok guesthouse, 3 nights twin share", "Rumtek guesthouse or homestay with dinner and breakfast", "Reserved taxi shares for Lingdum, Rumtek and the town ridge", "Entry fees, ropeway and small offerings"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Tsomgo Lake and Nathu La permit tours", "Monastery festival tickets where charged", "Shopping, singing bowls and thangkas", "Tips"],
+  "save_money": [
+    "Walk between Enchey, the Namgyal Institute and the Do-drul Chorten instead of paying for a full point tour, and keep taxis for the ridge and Rumtek.",
+    "Shared taxis run between Gangtok and Rumtek for a small fare; take one instead of a reserved car if you skip Lingdum.",
+    "Eat in the monastery village at Rumtek, where a thukpa and tea cost about ₹150, rather than at the bigger roadside restaurants."
+  ],
+  "good_to_know": [
+    "Dress modestly in monasteries, walk clockwise and ask before photographing inside a prayer hall.",
+    "Rumtek has a police check at the gate; carry original photo ID.",
+    "Monastery festival dates follow the Tibetan lunar calendar and move every year; Losar usually falls in February or March.",
+    "The Namgyal Institute of Tibetology and some monasteries close on certain days and holidays.",
+    "Foreign travellers need a Restricted Area Permit for Sikkim, issued free at Rangpo or online; check current status before you travel."
+  ],
+  "faqs": [
+    {"q": "How far is Rumtek from Gangtok?", "a": "About 24 km, which takes 1–1.5 hours by road, dropping to Ranipool and climbing the opposite ridge. A reserved taxi costs about ₹1,500–2,500 for a half day, and shared taxis run for a small fare. Rumtek is close enough for a day trip, but staying a night lets you see morning prayers without the tour crowds."},
+    {"q": "Why is Rumtek Monastery important?", "a": "Rumtek is the main seat in exile of the Karma Kagyu school of Tibetan Buddhism. The 16th Karmapa rebuilt it after leaving Tibet in 1959, on land offered by the Chogyal of Sikkim, and it was finished in 1966. It houses the Karma Shri Nalanda Institute for monastic study and a golden stupa holding the 16th Karmapa's relics."},
+    {"q": "Do I need ID to visit Rumtek?", "a": "Yes. Police at the gate check photo ID for all visitors, because of the long dispute over the Karmapa succession. Carry an original Aadhaar, voter ID, driving licence or passport. Foreign travellers should carry their passport and Sikkim Restricted Area Permit. Bags may be checked, and some areas inside are closed to visitors."},
+    {"q": "Can I stay overnight at Rumtek?", "a": "Yes. There are simple guesthouses and homestays in Rumtek village below the monastery, usually about ₹1,500–2,500 per person with dinner and breakfast, and better rooms on the slope below at places such as Rumtek Bamboo Retreat. Book ahead in October, November and around Losar. Evenings are quiet, with little open after 8 pm."},
+    {"q": "When are the cham dances at Rumtek and Gangtok?", "a": "Masked cham dances follow the Tibetan lunar calendar. At Rumtek and the Tsuklakhang they are held before or around Losar, usually in February or March, and Enchey holds its dances in the winter months. Dates change every year, so ask the monastery or Sikkim Tourism, and check current status before you travel."},
+    {"q": "Is the Namgyal Institute of Tibetology worth visiting?", "a": "Yes, if you care about Tibetan art and history. Opened in 1958, it holds thangkas, statues, ritual objects and one of the largest collections of Tibetan texts outside Tibet, in a museum building of traditional design. Allow about two hours. It charges a small fee and closes on some days and public holidays."},
+    {"q": "What should I wear to visit monasteries in Sikkim?", "a": "Cover shoulders and knees, take off your hat inside the prayer hall and remove shoes where you see others do it. Walk clockwise round stupas, prayer wheels and halls. Do not touch statues or sit with your feet pointing at the altar. Ask before taking photos inside; many halls do not allow them."},
+    {"q": "What is the difference between Enchey and Rumtek?", "a": "Enchey is a small Nyingma monastery on a forested knoll above Gangtok, rebuilt in 1909 and within walking distance of MG Marg. Rumtek is a large Karma Kagyu complex across the valley, built in the 1960s as the Karmapa's seat in exile, with a monastic college. Enchey takes an hour; Rumtek deserves half a day."},
+    {"q": "How much does this monastery trip cost?", "a": "About ₹15,000 per person for four nights, twin sharing, from NJP back to NJP, indicative for 2025–26. That covers shared jeeps, a Gangtok guesthouse, a night at Rumtek with meals, taxi shares for Lingdum and the ridge, food and entry fees. Travelling as four in one car saves about ₹1,000 each."}
+  ]
+}

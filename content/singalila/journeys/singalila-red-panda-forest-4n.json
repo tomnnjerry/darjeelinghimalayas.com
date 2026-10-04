@@ -1,0 +1,67 @@
+{
+  "slug": "singalila-red-panda-forest-4n",
+  "title": "Red panda forest: Dhotrey to Kalipokhri",
+  "region": "singalila",
+  "nights": 4,
+  "themes": ["wildlife-birds", "treks", "photography", "homestays"],
+  "tier": "Value",
+  "travel_mode": "On foot",
+  "stops": [{"place": "dhotrey", "nights": 1}, {"place": "tonglu", "nights": 1}, {"place": "gairibas", "nights": 1}, {"place": "kalipokhri", "nights": 1}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 16500,
+  "cost_split": [
+    {"item": "Shared jeeps up and a Land Rover seat down from Kalipokhri", "inr": 2500},
+    {"item": "Homestay, two trekkers' huts and a Kalipokhri twin room with dinner and breakfast", "inr": 5400},
+    {"item": "Licensed guide and porter shares for a pair, park entry and camera fee", "inr": 7500},
+    {"item": "Lunches, tea and trail snacks", "inr": 1100}
+  ],
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 0, 1, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 3186,
+  "meta_description": "4 nights from ₹16,500: short walking days through Singalila's oak, bamboo and fir from Dhotrey to Kalipokhri, with dawn forest walks for red pandas and birds.",
+  "summary": "A slow walk through the best forest on the Singalila Ridge. Short days from Dhotrey to Tonglu, Gairibas and Kalipokhri leave every dawn free for quiet forest walks, when red pandas and pheasants are most active. A night at Gairibas, the lowest and wildest dip of the ridge, is the point of the trip. About ₹16,500 per person.",
+  "intro": [
+    "Singalila became a wildlife sanctuary in 1986 and a national park in 1992, and its 78.6 km² of oak, rhododendron, bamboo and silver fir hold one of India's better-known wild red panda populations. Most trekkers rush through the forest between Tumling and Kalipokhri at midday, the worst hour for animals. We slow it down: four short walking days, so you can be out with your guide at first light in the bamboo around Gairibas and Kalipokhri.",
+    "Nobody can promise a red panda. They are shy, sleep high in the trees and come down to feed mostly early and late. Your odds are best from November to March, when leaves have thinned and fewer people are on the trail. Even without one you will see laughingthrushes, tits, sunbirds and, in winter, flocks of finches, and you may hear barking deer. A licensed guide is compulsory in the park; ask for one who knows the forest. Check current status before you travel."
+  ],
+  "highlights": [
+    "Dawn walks in the bamboo and fir around Gairibas and Kalipokhri",
+    "A quiet night at Gairibas, the lowest saddle of the ridge at 2,621 m",
+    "The forest trail from Dhotrey up to Tonglu",
+    "Kanchenjunga at sunrise from Tonglu's grassy top",
+    "Kalipokhri's black pond and prayer flags at 3,186 m"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Dhotrey by shared jeeps", "place": "dhotrey", "overnight": "Dhotrey", "drive": "≈ 70 km · 3–3.5 h to Darjeeling, ≈ 26 km · 1–1.5 h to Maneybhanjan, ≈ 1 h to Dhotrey", "text": "Leave NJP early by shared jeep to Darjeeling, then on to Maneybhanjan, where you meet your guide and porter and pay the park entry. A jeep takes you on to Dhotrey, a forest village at about 2,500 m on the eastern slope of the ridge. In the late afternoon walk the lanes at the forest edge with your guide; this is a good first lesson in how to move quietly and where to look. Homestay dinner of rice, dal, greens and pickle.", "meals": "Dinner", "spend": "₹300 + ₹150 + ₹150 jeep seats + ₹150 lunch"},
+    {"day": 2, "title": "Forest trail to Tonglu", "place": "tonglu", "overnight": "Tonglu", "drive": "On foot ≈ 6 km · 3–4 h, about 570 m up", "text": "Walk out of Dhotrey after an early breakfast while the birds are busy. The trail climbs through oak, magnolia and rhododendron into bamboo; walk slowly and stop often. You reach Tonglu's open top, about 3,070 m, around midday. Joseph Hooker botanised here in 1848, and the ridge is still a long list of rhododendron species. Sleep in the GTA trekkers' hut. At sunset the Kanchenjunga range is on one side and Darjeeling's ridge on the other.", "meals": "Breakfast, dinner", "spend": "₹600 hut bed + ₹150 lunch + ₹50 tea"},
+    {"day": 3, "title": "Down into the Gairibas forest", "place": "gairibas", "overnight": "Gairibas", "drive": "On foot ≈ 8 km · 3–3.5 h, mostly down", "text": "Watch the dawn from Tonglu, then walk past Tumling's lodges and into Nepal at Jaubari before the trail drops through thick forest to Gairibas at 2,621 m. This is the deepest dip of the ridge and the best red panda ground on the trek. Arrive by lunch, rest, and go out again with your guide from about 3 pm, when the trail empties and animals start to move. Sleep in the basic GTA hut; dinner is whatever the caretaker cooks, usually dal-bhat.", "meals": "Breakfast, dinner", "spend": "₹500 hut bed + ₹200 lunch"},
+    {"day": 4, "title": "Dawn search and up to Kalipokhri", "place": "kalipokhri", "overnight": "Kalipokhri", "drive": "On foot ≈ 6 km · 3–4 h, about 550 m up", "text": "Be on the trail at first light, the best hour of the whole trip. Walk slowly with your guide through the bamboo above Gairibas, scanning the tops of trees for a rust-red shape. After a late breakfast climb via Kaiyakatta to Kalipokhri, the black pond at 3,186 m on the border. Take a private twin room tonight, a step up after two huts. In the late afternoon walk a little way back down into the fir forest for another look.", "meals": "Breakfast, dinner", "spend": "₹1,000 room share + ₹200 lunch + ₹100 hot water"},
+    {"day": 5, "title": "Last forest dawn, Land Rover down", "place": "kalipokhri", "overnight": "", "drive": "≈ 20 km · 3–3.5 h by Land Rover, then ≈ 96 km · 4.5–5 h by shared jeeps to NJP", "text": "One more dawn walk in the forest below Kalipokhri, then breakfast. Land Rovers coming down from Sandakphu pass through in the morning; your guide will have arranged seats in one the day before. The ride back to Maneybhanjan takes about 3–3.5 hours on the cobbled track. From there take shared jeeps to Darjeeling and down to NJP, arriving by early evening. Book a late train or flight, or sleep in Darjeeling and travel the next morning.", "meals": "Breakfast", "spend": "₹1,500 Land Rover seat + ₹150 + ₹300 jeep seats"}
+  ],
+  "stays": ["singalila-gta-trekkers-hut-tonglu", "singalila-gta-trekkers-hut-gairibas"],
+  "includes": ["Shared jeep seats on the road legs", "Land Rover seat from Kalipokhri to Maneybhanjan", "Dhotrey homestay, Tonglu and Gairibas huts and a Kalipokhri twin room, all with dinner and breakfast", "Licensed guide for five days and a porter for four, shared by two", "Singalila National Park entry and camera fee"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Binoculars and camera gear", "Hot water and phone charging", "Tips"],
+  "save_money": [
+    "Skip the porter if you can carry 7–8 kg; on these short days it saves about ₹2,200 each.",
+    "Swap the Kalipokhri twin room for a dorm bed at ₹400–700; you will be up before dawn anyway.",
+    "Walk down to Maneybhanjan over two days via Tumling instead of taking the Land Rover, if you have an extra day; the extra lodge night costs less than the seat."
+  ],
+  "good_to_know": [
+    "Red panda sightings are never guaranteed; quiet, patient dawn walks give the best chance.",
+    "Do not use playback calls, flash or food to attract animals, and keep at least 20 m from any you find.",
+    "The Gairibas and Tonglu huts are basic and their status changes; confirm both before you go and check current status before you travel.",
+    "The park usually closes from mid-June to mid-September."
+  ],
+  "faqs": [
+    {"q": "What are the chances of seeing a red panda in Singalila?", "a": "Real but small. Red pandas live in the bamboo and fir between Tumling, Gairibas and Kalipokhri, and guides see them a number of times each season. Most trekkers do not, because they pass at midday. Walking at dawn and dusk, quietly, from November to March, with a guide who knows the forest, gives you the best odds we can offer."},
+    {"q": "How much does this 4-night trip cost?", "a": "About ₹16,500 per person for two people sharing a guide and porter, from NJP back to NJP, indicative for 2025–26. That includes shared jeeps, a Land Rover seat down, four nights with dinner and breakfast, the guide for five days, a porter for four, park entry and lunches. Without a porter it falls to about ₹14,500."},
+    {"q": "What else might I see in the forest?", "a": "Birds above all: laughingthrushes, tits, nuthatches, sunbirds, rosefinches and woodpeckers, with pheasants on the forest floor at dawn. Barking deer are often heard. Himalayan black bear and leopard cat are recorded in the park but rarely seen. In April and May the rhododendrons flower, which is when the birds are noisiest."},
+    {"q": "Is the walking hard?", "a": "No, that is the point. Each day is 6–8 km and 3–4 hours, leaving time for slow forest walks. The climbs from Dhotrey to Tonglu and Gairibas to Kalipokhri are steady uphill; the rest is gentle or downhill. You sleep no higher than 3,186 m, so altitude is rarely a problem. Basic fitness is enough."},
+    {"q": "Why sleep at Gairibas when most trekkers do not?", "a": "Because it is the quietest, lowest and most forested stop on the ridge, at 2,621 m, and the best red panda ground. When the day's trekkers move on, the forest goes still, and early evening and first light are yours. The trade-off is a very basic GTA hut and simple food; check that it is open before you go."},
+    {"q": "When is the best time for red pandas and birds?", "a": "November to March for red pandas: the forest is quieter and the trees more open. December and January are cold, with possible snow. April and May are best for birdsong and rhododendron flowers, though the leaves are thicker. October is busy with trekkers. The park usually closes from mid-June to mid-September."},
+    {"q": "Do I need a special wildlife guide?", "a": "You need a licensed Singalila guide in any case, hired at Maneybhanjan for about ₹1,500–2,000 a day per group. Ask at the guide office for one who knows birds and the red panda areas; some guides are much keener naturalists than others. Rules and fees change, so check current status before you travel."},
+    {"q": "Can I bring a drone or use flash?", "a": "Leave the drone at home: flying inside a national park needs permission, and the ridge is a border area. Do not use flash on animals, and never use playback calls or food to draw them closer. A pair of 8x or 10x binoculars and a camera with a long lens are what you need."},
+    {"q": "Can I extend this to Sandakphu?", "a": "Easily. From Kalipokhri, Sandakphu is only about 6 km and 2–3 hours up. Add a night there for Everest and Kanchenjunga at dawn, then take the Land Rover down or walk off to Srikhola. Each extra day adds roughly ₹3,000 per person for beds, meals and the guide and porter shares."}
+  ]
+}
