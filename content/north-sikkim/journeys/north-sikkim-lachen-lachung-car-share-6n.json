@@ -1,0 +1,79 @@
+{
+  "slug": "north-sikkim-lachen-lachung-car-share-6n",
+  "title": "Gurudongmar and Yumthang, four friends in a car",
+  "region": "north-sikkim",
+  "nights": 6,
+  "themes": ["snow-and-passes", "kanchenjunga-views", "photography", "homestays"],
+  "tier": "Value",
+  "travel_mode": "Reserved car",
+  "stops": [{"place": "singhik", "nights": 1}, {"place": "lachen", "nights": 2}, {"place": "lachung", "nights": 2}, {"place": "mangan", "nights": 1}],
+  "start": "Gangtok (agent's office or your hotel)",
+  "end": "Gangtok",
+  "price_from_inr": 21000,
+  "cost_split": [
+    {"item": "Reserved SUV with driver and permits, 7 days, shared by four", "inr": 7500},
+    {"item": "Homestays and a lodge, 6 nights with dinner and breakfast", "inr": 9400},
+    {"item": "Zero Point add-on, shared by four", "inr": 1000},
+    {"item": "Lunches, tea and snacks", "inr": 1800},
+    {"item": "Coat and boot rental, oxygen can, tips", "inr": 1300}
+  ],
+  "best_months": [0, 1, 1, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Balanced",
+  "max_altitude_m": 5183,
+  "meta_description": "North Sikkim in 6 nights for four sharing a car: Singhik, 2 nights in Lachen for Gurudongmar, 2 in Lachung for Yumthang, Mangan, from ₹21,000 per person.",
+  "summary": "The full Lachen and Lachung circuit for a group of four who split one car and sleep in family homestays: Singhik to start, two nights in Lachen with an acclimatisation day before Gurudongmar, two in Lachung for Yumthang and Zero Point, and Mangan to finish. About ₹21,000 per person, around ₹3,000 a day. Check current status before you travel.",
+  "intro": [
+    "The 2-night shared tour does Gurudongmar and Yumthang in a blur, with one night in Lachen before a climb of about 2,400 m. This plan costs roughly three times as much, but you get seven days, a spare day in Lachen to acclimatise, your own car and much better odds of enjoying the lake rather than enduring it.",
+    "The trick is the group. A reserved car for seven days is about ₹28,000–32,000; split four ways, it is less per head than many people spend on a hotel upgrade. Homestays in Lachen and Lachung at about ₹1,500–2,000 per person with meals keep the rest cheap. The Lachen road has had long closures since the October 2023 Teesta flood. Check current status before you travel."
+  ],
+  "highlights": [
+    "A spare day at Thangu and Chopta before the lake",
+    "Gurudongmar Lake at about 5,180 m, at dawn",
+    "Yumthang and the snow at Zero Point",
+    "Kanchenjunga from Singhik on the first evening",
+    "Seven days for about ₹3,000 a day each"
+  ],
+  "days": [
+    {"day": 1, "title": "Gangtok to Singhik", "place": "singhik", "overnight": "Singhik", "drive": "≈ 70 km · 3–4 h", "text": "Leave Gangtok mid-morning once the agent hands over permits; send ID copies and two photographs each the day before. Stop at Kabi Lungchok and the Seven Sisters waterfall, then have lunch in Mangan. Climb 4 km to Singhik, at about 1,560 m, and check in at the tourist lodge or a homestay. Walk to the viewpoint for sunset over the Teesta gorge.", "meals": "Dinner", "spend": "₹200 lunch + ₹50 tea"},
+    {"day": 2, "title": "Singhik to Lachen", "place": "lachen", "overnight": "Lachen", "drive": "≈ 60 km · 3–4 h", "text": "Sunrise over Kanchenjunga and Siniolchu, then drive north to Chungthang, where the October 2023 glacial lake outburst from South Lhonak destroyed the Teesta III dam and much of the riverside. Take the left fork up the Lachen Chu. Reach Lachen, at about 2,750 m, after lunch. Walk slowly up to Lachen Monastery, built in 1858, and drink plenty of water.", "meals": "Breakfast, Dinner", "spend": "₹200 lunch"},
+    {"day": 3, "title": "Thangu and Chopta, back to Lachen", "place": "thangu", "overnight": "Lachen", "drive": "≈ 70 km return · 4–5 h", "text": "Drive 30 km up to Thangu, at about 3,900 m, where the forest gives way to yak pasture, and on to Chopta Valley at about 4,000 m, frozen in winter and full of flowers in summer. Walk slowly and return to Lachen for lunch. This day is your acclimatisation: anyone who feels strongly unwell tonight should skip Gurudongmar and rest in Lachen tomorrow.", "meals": "Breakfast, Dinner", "spend": "₹150 tea at Thangu + ₹200 rental"},
+    {"day": 4, "title": "Gurudongmar at dawn, then Lachung", "place": "gurudongmar", "overnight": "Lachung", "drive": "≈ 130 km · 9–10 h including the lake", "text": "Leave at 3–4 am and reach Gurudongmar around 7 am. The lake sits at roughly 5,180 m, about 5 km south of the Tibetan border, and Buddhists link it to Guru Padmasambhava. Stay 20–40 minutes, walk slowly and do not run. Return to Lachen for breakfast, then drive down to Chungthang and up to Lachung, at about 2,700 m, by mid-afternoon. Early night.", "meals": "Breakfast, Dinner", "spend": "₹200 lunch + ₹700 oxygen can (optional)"},
+    {"day": 5, "title": "Yumthang and Zero Point", "place": "yumesamdong", "overnight": "Lachung", "drive": "≈ 94 km return · 5–6 h", "text": "Leave at 6 am for Yumthang Valley, 24 km up through the Shingba Rhododendron Sanctuary at 3,564 m, then 23 km more to Zero Point, Yumesamdong, at about 4,700 m. After Gurudongmar it feels easy. Stop at the hot spring by the river on the way down. In the afternoon, walk to Lachung Monastery, founded in 1880, and through the orchards.", "meals": "Breakfast, Dinner", "spend": "₹1,000 Zero Point share + ₹200 tea"},
+    {"day": 6, "title": "Lachung to Mangan", "place": "mangan", "overnight": "Mangan", "drive": "≈ 55 km · 3–4 h", "text": "Leave Lachung after breakfast and drive down past Chungthang to Mangan, at 956 m. Warm air after a week of cold. Check into a small hotel, eat a long lunch and walk the bazaar, where shops sell large cardamom, Mangan's main crop. If the sky is clear, take a local taxi up to Singhik for a second sunset view of Kanchenjunga.", "meals": "Breakfast, Dinner", "spend": "₹200 lunch + ₹300 taxi to Singhik"},
+    {"day": 7, "title": "Mangan to Gangtok", "place": "mangan", "overnight": "Gangtok (not included)", "drive": "≈ 65 km · 3 h", "text": "An easy morning back to Gangtok, arriving by late morning. Settle up with the driver, including a tip, and say thank you; North Sikkim drivers work long days on hard roads. If you need to reach NJP or Bagdogra today, take a shared jeep from Gangtok after lunch, and avoid booking anything before evening.", "meals": "Breakfast", "spend": "₹500 driver tip share"}
+  ],
+  "stays": ["singhik-tourist-lodge"],
+  "includes": [
+    "Reserved SUV with driver for 7 days, fuel and North Sikkim permits, split four ways",
+    "Six nights in a tourist lodge, family homestays and a small hotel, with dinner and breakfast",
+    "Thangu and Chopta, Gurudongmar, Yumthang and Zero Point (subject to permits)"
+  ],
+  "excludes": [
+    "Transport between NJP/Bagdogra and Gangtok",
+    "Gangtok hotel nights",
+    "Room heaters if charged extra",
+    "Personal shopping and extra tips"
+  ],
+  "save_money": [
+    "Find your fourth person on a Gangtok hostel noticeboard or through your agent; a car for three costs a third more each.",
+    "Book Lachen and Lachung homestays through one agent with the car; packages are cheaper than booking each night.",
+    "Rent coats and boots in Lachen or Lachung for ₹100–300 a day instead of buying them in Gangtok."
+  ],
+  "good_to_know": [
+    "Foreign nationals cannot visit Gurudongmar or Zero Point, and Chopta and Thangu access is unclear; this trip is for Indian nationals.",
+    "The Lachen road has had long closures since the October 2023 Teesta flood; check current status before you travel.",
+    "Gurudongmar is roughly 2,400 m above Lachen; do not skip the acclimatisation day.",
+    "No ATMs north of Mangan are reliable; carry cash."
+  ],
+  "faqs": [
+    {"q": "Is this cheaper than a shared tour?", "a": "Per day, yes, roughly the same or a little less, and you get far more: seven days instead of three, an acclimatisation day and your own stops. In total it costs more, about ₹21,000 against ₹6,000–8,000 for the 2-night shared tour, because it is more than twice as long."},
+    {"q": "Why spend two nights in Lachen?", "a": "Gurudongmar is about 2,400 m higher than Lachen. With only one night, headaches and nausea at the lake are common. A day at Thangu and Chopta, sleeping back in Lachen, gives your body time to adjust and makes the dawn visit safer and more enjoyable."},
+    {"q": "Can three people do this trip?", "a": "Yes. The car share rises to about ₹10,000 each, so the total becomes roughly ₹23,500 per person. Two people pay about ₹15,000 each for the car, which moves the trip close to Comfort prices; two should consider a shared tour plus extra nights."},
+    {"q": "What is the Gurudongmar day like?", "a": "Long and cold. You leave Lachen at 3–4 am in the dark, stop for tea at Thangu, cross a high plateau and reach the lake around 7 am. Wind and temperatures well below freezing are normal. After 20–40 minutes you drive back, then on to Lachung: 9–10 hours in all."},
+    {"q": "Can we see Gurudongmar if it is frozen?", "a": "Yes. From about December to April the lake is mostly frozen, though a patch near the shore often stays open, which local belief links to Guru Padmasambhava. The road can be blocked by heavy snow in January and February; your agent will know."},
+    {"q": "What kind of homestays are these?", "a": "Family-run houses with simple rooms, thick quilts, hot water by bucket or geyser, and dinner and breakfast of rice, dal, vegetables and eggs. Attached bathrooms are common but not universal. Heaters may cost extra. Lachen and Lachung's Dzumsa councils register guesthouses."},
+    {"q": "Do we need oxygen?", "a": "Most healthy adults do not, but a portable can at ₹500–900 is cheap insurance for Gurudongmar. It does not replace acclimatisation. The real remedy for altitude sickness is going down. Drivers carry cans for sale; check the expiry date."},
+    {"q": "What if a road closes on the way?", "a": "The car waits or the plan changes to extra nights at Lachung, Singhik or Mangan. Agree with the agent beforehand how unused nights and Zero Point are refunded. Closures have been more frequent since the 2023 flood: check current status before you travel."},
+    {"q": "When should we not do this trip?", "a": "Avoid June to September, when monsoon landslides close roads for days, and January to February if you are set on Gurudongmar, which snow can block. April, May, October and November are the best months for this route."}
+  ]
+}

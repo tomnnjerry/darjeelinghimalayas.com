@@ -1,0 +1,78 @@
+{
+  "slug": "north-sikkim-teesta-valley-backpacker-5n",
+  "title": "Teesta valley by shared jeep: Phodong to Dzongu",
+  "region": "north-sikkim",
+  "nights": 5,
+  "themes": ["solo-backpacking", "monasteries", "homestays", "kanchenjunga-views", "off-season"],
+  "tier": "Shoestring",
+  "travel_mode": "Shared jeeps",
+  "stops": [{"place": "phodong", "nights": 1}, {"place": "singhik", "nights": 1}, {"place": "dzongu", "nights": 2}, {"place": "mangan", "nights": 1}],
+  "start": "Gangtok (Vajra stand)",
+  "end": "Gangtok",
+  "price_from_inr": 12000,
+  "cost_split": [
+    {"item": "Shared jeeps and short local taxis", "inr": 2000},
+    {"item": "Rooms, 5 nights with dinner and breakfast (all meals in Dzongu)", "inr": 7500},
+    {"item": "Dzongu permit and a guide share", "inr": 800},
+    {"item": "Lunches, tea and snacks", "inr": 1200},
+    {"item": "Monastery donations, chi and small tips", "inr": 500}
+  ],
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2130,
+  "meta_description": "North Sikkim's lower valley in 5 nights by shared jeep: Phodong monasteries, Singhik, 2 nights in a Dzongu Lepcha homestay, Mangan, from ₹12,000 per person.",
+  "summary": "A cheap, slow week in the lower Teesta valley that needs no restricted-area permit for Indians except Dzongu's own: monasteries and the old capital at Phodong, Kanchenjunga from Singhik, two nights in a Lepcha home in Dzongu and a last night in Mangan. All by shared jeep, about ₹12,000 per person. Check current status before you travel.",
+  "intro": [
+    "When the roads to Lachen and Lachung are shut, or you simply want North Sikkim without 3 am starts, this is the trip. Everything stays below about 2,100 m, so it works in winter too, and every leg runs on shared jeeps from Gangtok's Vajra stand or local taxis. You need no North Sikkim permit; Indians need only the Dzongu permit, collected in Mangan.",
+    "The valley has its own story: the 13th-century blood-brotherhood stones at Kabi, the Chogyals' capital at Tumlong from 1793 to 1894, the Lepcha reserve of Dzongu, and Mangan's large cardamom. Since the October 2023 Teesta flood, landslides and damaged bridges have closed sections of this road too. Check current status before you travel."
+  ],
+  "highlights": [
+    "Phodong and Labrang monasteries and the ruins of Tumlong",
+    "Kanchenjunga and Siniolchu from the Singhik ridge",
+    "Two nights in a Lepcha homestay in Dzongu",
+    "A cardamom bazaar in Mangan",
+    "No 3 am starts, no altitude sickness, about ₹2,000 a day"
+  ],
+  "days": [
+    {"day": 1, "title": "Gangtok to Kabi and Phodong", "place": "phodong", "overnight": "Phodong", "drive": "≈ 38 km · 1.5–2 h by shared jeep", "text": "Take a shared jeep from Vajra stand towards Mangan and ask to be dropped at Kabi Lungchok, about 17 km out, to see the stone pillars of the 13th-century oath between the Lepcha chief Thekong Tek and the Bhutia prince Khye Bumsa. Flag down the next jeep north to Phodong. Visit Phodong Monastery, then walk or take a local taxi 2 km up to Labrang Monastery and the ruins of Tumlong. Sleep in a simple guesthouse.", "meals": "Dinner", "spend": "₹100 jeep + ₹100 jeep + ₹400 taxi + ₹150 lunch"},
+    {"day": 2, "title": "Phodong to Singhik", "place": "singhik", "overnight": "Singhik", "drive": "≈ 35 km · 1.5–2 h by shared jeep and taxi", "text": "Catch a morning jeep from the Phodong roadside north to Mangan; seats come free as people get off, but you may wait. Stop at the Seven Sisters waterfall if the driver will pause. From Mangan take a local taxi 4 km up to Singhik, at about 1,560 m. Spend the afternoon walking the Lepcha village lanes and be at the viewpoint for sunset across the Teesta gorge.", "meals": "Breakfast, Dinner", "spend": "₹150 jeep + ₹300 taxi + ₹150 lunch"},
+    {"day": 3, "title": "Permit in Mangan, then into Dzongu", "place": "dzongu", "overnight": "Dzongu homestay", "drive": "≈ 15–30 km · 1–2 h by taxi", "text": "Watch sunrise over Kanchenjunga and Siniolchu, then take a taxi down to Mangan. Go to the district office for the Dzongu permit with photo ID and photographs; it is a working-day office, so plan this for a weekday. Take the homestay's car or a taxi across the Teesta into Dzongu, sharing if you can. Afternoon tea with the family and dinner by the kitchen fire.", "meals": "Breakfast, Dinner", "spend": "₹200 taxi + ₹600 taxi share + ₹150 lunch"},
+    {"day": 4, "title": "Cardamom groves and a waterfall", "place": "dzongu", "overnight": "Dzongu homestay", "drive": "", "text": "Walk with a local guide your host arranges, about ₹500–1,000 a day, through cardamom groves under alder trees, across streams and to a waterfall or a neighbouring village. Paths shift after each monsoon, so trust local advice. Learn a Lepcha greeting, look at the Lepcha script, and in the evening ask your hosts about Kongchen Konglo, as Lepchas call Kanchenjunga. Try chi, millet beer, if offered.", "meals": "Breakfast, Lunch, Dinner", "spend": "₹400 guide share + ₹150 chi"},
+    {"day": 5, "title": "Back across the Teesta to Mangan", "place": "mangan", "overnight": "Mangan", "drive": "≈ 15–30 km · 1–2 h by taxi", "text": "A slow morning in Dzongu, then a taxi back to Mangan by early afternoon. Check into a budget hotel in the bazaar, at about ₹1,200–2,000 a room. Walk the market, where shops sell large cardamom by the kilo, eat momos and thukpa, and book your seat on the morning jeep to Gangtok at the stand. Early night.", "meals": "Breakfast, Dinner", "spend": "₹600 taxi share + ₹150 lunch"},
+    {"day": 6, "title": "Mangan to Gangtok", "place": "mangan", "overnight": "Gangtok (not included)", "drive": "≈ 65 km · 3 h by shared jeep", "text": "Shared jeeps to Gangtok leave Mangan mainly in the morning, about ₹200–300 a seat; be at the stand by 7.30–8 am. Reach Gangtok by late morning, in time for an afternoon jeep to Siliguri if you must, though a night in Gangtok is safer. Landslides since the 2023 flood can hold up this road for hours.", "meals": "Breakfast", "spend": "₹250 jeep"}
+  ],
+  "stays": ["singhik-tourist-lodge", "dzongu-mayal-lyang-homestay"],
+  "includes": [
+    "Five nights in a guesthouse, a lodge or homestay, a Lepcha homestay and a budget hotel, with dinner and breakfast",
+    "All meals in Dzongu and one guided village walk",
+    "Shared jeep and local taxi fares as listed"
+  ],
+  "excludes": [
+    "Transport between NJP/Bagdogra and Gangtok",
+    "Gangtok hotel nights",
+    "Reserved cars",
+    "Extra guide days, crafts and shopping"
+  ],
+  "save_money": [
+    "Stay in a Singhik homestay rather than the lodge if it is full or over budget; dinner and breakfast are often cheaper.",
+    "Travel as two or three to split the Mangan–Dzongu taxi and the guide fee.",
+    "Book Dzongu directly with the family and ask for the all-meals rate; there is nothing else to spend on in the villages."
+  ],
+  "good_to_know": [
+    "No North Sikkim permit is needed for Indians on this route; the Dzongu permit comes from Mangan on working days.",
+    "Foreign nationals need a PAP for North Sikkim and should check whether Dzongu is currently open to them.",
+    "NH10 and the North Sikkim road have had closures since the October 2023 Teesta flood; check current status before you travel.",
+    "Shared jeeps thin out after noon; travel in the morning."
+  ],
+  "faqs": [
+    {"q": "Do we need a permit for this trip?", "a": "Indian nationals need no North Sikkim permit for Kabi, Phodong, Singhik or Mangan. Dzongu needs its own permit for all non-locals, usually issued at the district office in Mangan on working days. Foreign nationals need a Protected Area Permit and should ask whether Dzongu is open to them. Check current status before you travel."},
+    {"q": "Is this trip good in winter?", "a": "Yes. The highest point is Labrang at about 2,130 m, and most nights are at 950–1,600 m, so December to February is cool and clear rather than frozen. Winter mornings give the best Kanchenjunga views from Singhik."},
+    {"q": "How do shared jeeps work on this road?", "a": "Jeeps for Mangan leave Gangtok's Vajra taxi stand from early morning, when full. You can ask to be dropped at Kabi or Phodong and flag down later jeeps, though they may be full. Return jeeps leave Mangan mainly in the morning. Fares are about ₹100–300 a seat by distance."},
+    {"q": "Is it safe for a solo woman?", "a": "Generally yes. North Sikkim's lower valley is quiet and hospitable, and homestay families look after their guests. Travel by day, tell your homestay when you are coming, and keep a copy of your permit. Network is patchy in Dzongu, so share your plan with someone."},
+    {"q": "Can I add Lachung to this trip?", "a": "Yes, if the roads are open. Join a shared Lachung tour from Gangtok on another day, or ask a Gangtok agent whether a car can pick you up in Mangan. You would need a North Sikkim permit through a registered agent."},
+    {"q": "What is there to do in Mangan?", "a": "Mangan is a working district town at 956 m. Walk the bazaar, buy large cardamom, eat cheap momos and thukpa, and take a taxi up to Singhik for the view. It is also where you get the Dzongu permit and catch jeeps back to Gangtok."},
+    {"q": "Where can I stay in Singhik?", "a": "Singhik has a Sikkim Tourism tourist lodge on the ridge, with rooms facing Kanchenjunga at roughly ₹1,500–3,000, and a few village homestays. If both are full, Mangan, 4 km below, has more budget hotels. Confirm the lodge is operating before you go."},
+    {"q": "How much cash should I carry?", "a": "Carry most of the trip's cost in cash. Mangan has ATMs that usually work; Dzongu and Phodong villages have none. UPI works where the network does, which is not everywhere. About ₹10,000 in cash for the week is sensible."},
+    {"q": "What if the road is blocked?", "a": "Landslides on the North Sikkim road usually clear in hours, but some since the 2023 flood have lasted days. Ask at the jeep stand and your homestay before setting out. Keep a spare day before onward trains or flights from NJP or Bagdogra."}
+  ]
+}

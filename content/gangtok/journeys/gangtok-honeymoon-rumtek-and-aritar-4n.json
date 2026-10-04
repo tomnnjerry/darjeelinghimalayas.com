@@ -1,0 +1,70 @@
+{
+  "slug": "gangtok-honeymoon-rumtek-and-aritar-4n",
+  "title": "A Gangtok honeymoon with Rumtek and Aritar",
+  "region": "gangtok",
+  "nights": 4,
+  "themes": ["budget-honeymoons", "monasteries", "snow-and-passes", "homestays"],
+  "tier": "Comfort",
+  "travel_mode": "Reserved car",
+  "stops": [{"place": "gangtok", "nights": 2}, {"place": "rumtek", "nights": 1}, {"place": "aritar", "nights": 1}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 26000,
+  "cost_split": [
+    {"item": "Reserved car for transfers and sightseeing, for two", "inr": 8500},
+    {"item": "Tsomgo and Baba Mandir vehicle for two, with permit", "inr": 2000},
+    {"item": "Netuk House, Gangtok, 2 nights with breakfast", "inr": 5000},
+    {"item": "Rumtek Bamboo Retreat, 1 night with meals", "inr": 3500},
+    {"item": "Aritar homestay, 1 night with dinner and breakfast", "inr": 2000},
+    {"item": "Meals, cafes, tea, entries and boating", "inr": 5000}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 4000,
+  "meta_description": "4 nights for couples from ₹26,000: a Sikkimese family house in Gangtok, Tsomgo Lake in the snow, a quiet retreat below Rumtek and a lake evening at Aritar.",
+  "summary": "Five days for a couple with your own car. Two nights in a Bhutia family house in Gangtok with a private run to Tsomgo Lake, a night at a small retreat among farms below Rumtek, and a last evening by Lampokhari Lake at Aritar before the drive down. About ₹26,000 per person, twin sharing.",
+  "intro": [
+    "A hill honeymoon goes wrong when it turns into a sightseeing marathon. This one keeps the moves short and the rooms personal. In Gangtok you stay at Netuk House, a Sikkimese family home turned guesthouse, with painted Bhutia woodwork, an altar room and home-style meals, and walk to MG Marg in the evening. One day goes to Tsomgo Lake at 3,753 m, frozen for much of the winter, in a vehicle just for the two of you, so you can stop where you like on the Kyongnosla road.",
+    "Then the trip leaves the town behind. Rumtek, across the valley, is the seat in exile of the Karma Kagyu school, rebuilt by the 16th Karmapa after 1959; you sleep below it at Rumtek Bamboo Retreat, among farms and forest. The last night is at Aritar, near Rhenock, where Lampokhari, one of the oldest natural lakes in Sikkim, lies in forest and boats go out until dusk. No drive is longer than about three hours until the run home."
+  ],
+  "highlights": [
+    "A Bhutia family house in Gangtok with home-cooked Sikkimese meals",
+    "Tsomgo Lake in a vehicle for just the two of you",
+    "Evening prayers at Rumtek and a quiet farm-side night below it",
+    "Rowing on Lampokhari Lake at Aritar",
+    "The view from Mankhim over Aritar at sunrise"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to a Sikkimese house in Gangtok", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 114 km · 4–5 h by reserved car", "text": "Your car meets you at NJP or Bagdogra and climbs NH10 along the Teesta to Rangpo, where you enter Sikkim, and on to Gangtok. Since the October 2023 flood the highway has closed at times and cars detour via Kalimpong, so check current status before you travel. Check in at Netuk House, a family home decorated in traditional Bhutia style, and hand your hosts or driver your photo IDs and passport photos for tomorrow's Tsomgo permit. Walk down to MG Marg at dusk, when the lamps come on, and ask your hosts about a Sikkimese dinner at home.", "meals": "Breakfast", "spend": "₹400 lunch + ₹800 dinner for two"},
+    {"day": 2, "title": "Tsomgo Lake, just the two of you", "place": "tsomgo-lake", "overnight": "Gangtok", "drive": "≈ 38–40 km each way · 1.5–2 h each way by permit vehicle", "text": "A permit vehicle booked for the two of you leaves around 8 am; it costs more than a shared seat but lets you stop for photos in Kyongnosla Alpine Sanctuary, where rhododendrons flower in April and May. Tsomgo Lake, at 3,753 m, is frozen for much of the winter and ringed by snow from about December to April. Walk slowly at this height. Continue to Baba Mandir, the shrine to Sepoy Harbhajan Singh, then come back for a late lunch. In the evening ride the Deorali ropeway, then take tea at a cafe on MG Marg. Check current status before you travel.", "meals": "Breakfast", "spend": "₹4,000 vehicle for two + ₹300 boots and coats"},
+    {"day": 3, "title": "Enchey and across to Rumtek", "place": "rumtek", "overnight": "Rumtek", "drive": "≈ 24 km · 1–1.5 h by reserved car", "text": "Walk to Enchey Monastery after breakfast, rebuilt in 1909 on a forested knoll above town, then turn the 108 prayer wheels of the Do-drul Chorten at Deorali. Your car takes you down to Ranipool and up the far ridge to Rumtek. Carry photo ID for the police check at the gate. The present monastery was finished in 1966; walk up to the golden stupa that holds the 16th Karmapa's relics and stay for evening prayers if the monks allow. Then drive down to Rumtek Bamboo Retreat, among farms and forest, for organic food, quiet and a sky full of stars.", "meals": "Breakfast, lunch, dinner", "spend": "₹7,000 retreat with meals for two + small donations"},
+    {"day": 4, "title": "Rumtek to Aritar and Lampokhari Lake", "place": "aritar", "overnight": "Aritar", "drive": "≈ 70 km · 3 h by reserved car via Ranipool, Rorathang and Rhenock", "text": "Walk the farm paths below the retreat in the morning light, then drive south along the river through Rorathang and Rhenock to Aritar. Check in to a homestay, choosing one with a view room if you can, and walk down to Lampokhari Lake in the afternoon. It is long, narrow and ringed by forest, and one of the oldest natural lakes in Sikkim. Take a rowing boat out for half an hour, then walk the shore path back as the light goes. Dinner is home food with your hosts, and the night is quiet apart from the crickets.", "meals": "Breakfast, dinner", "spend": "₹4,000 homestay with meals for two + ₹200 boating"},
+    {"day": 5, "title": "Mankhim sunrise and down to the plains", "place": "aritar", "overnight": "", "drive": "≈ 120 km · 4–5 h by reserved car", "text": "Drive up to the foot of Mankhim before sunrise and climb the last steps to the hilltop temple of the Rai community, about 20–30 minutes on foot. From October to March the snows often show to the north-west at first light. Come back for breakfast, then start down through Rhenock and Rangpo to NH10 and Siliguri, or through Pedong and Kalimpong if NH10 is shut. Allow five hours to NJP or Bagdogra and keep your train or flight for the late afternoon. Check current status before you travel.", "meals": "Breakfast", "spend": "₹500 lunch for two on the road + driver's tip"}
+  ],
+  "stays": ["gangtok-netuk-house", "rumtek-bamboo-retreat"],
+  "includes": ["Reserved car and driver for transfers and sightseeing, for two", "Private Tsomgo and Baba Mandir permit vehicle", "Netuk House, 2 nights with breakfast", "Rumtek Bamboo Retreat, 1 night with meals", "Aritar homestay with dinner and breakfast"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Nathu La", "Yak rides at Tsomgo", "Dinners in Gangtok", "Driver's tip"],
+  "save_money": [
+    "Take a shared Tsomgo seat for ₹800–1,200 each instead of a private vehicle, and save about ₹2,000 for the two of you.",
+    "Travel in March, early April or the first half of October, when rooms are easier to find and rates are often lower than in Puja, Diwali and Christmas weeks.",
+    "Pair up with another couple for the whole trip and share an SUV; the car is the largest cost, and splitting it saves about ₹4,000 each."
+  ],
+  "good_to_know": [
+    "Tsomgo needs a permit arranged a day ahead with photo ID and passport photos; foreign travellers need a Protected Area Permit, usually for two or more. Check current status before you travel.",
+    "Netuk House and Rumtek Bamboo Retreat have few rooms; book them first and build the dates around them.",
+    "Rumtek has a police ID check at the gate.",
+    "Aritar homestays are simple; ask about hot water and heaters in winter.",
+    "Winter brings the clearest views and the coldest rooms; pack warm layers for evenings."
+  ],
+  "faqs": [
+    {"q": "Is Gangtok good for a budget honeymoon?", "a": "Yes. It is cheaper than most beach destinations in peak season, the town is safe and walkable, and you can add snow at Tsomgo Lake and quiet villages within three hours. This trip costs about ₹26,000 per person for four nights, indicative for 2025–26, with personal stays rather than big hotels. Sharing a car with another couple brings it down further."},
+    {"q": "What is Netuk House like?", "a": "A Sikkimese family home turned small guesthouse in Gangtok, decorated in traditional Bhutia style with painted woodwork and an altar room. It is known for home-style Sikkimese meals and is a short walk from MG Marg. Rooms cost about ₹4,500–7,500 with breakfast, indicative. It has few rooms, so book well ahead."},
+    {"q": "Should we take a shared or private vehicle to Tsomgo?", "a": "A shared seat costs ₹800–1,200 each and works fine. A private permit vehicle for two costs roughly ₹3,500–4,500 but lets you leave when you like, stop for photos in the rhododendron forest and spend longer at the lake. Both need a permit arranged the day before. Check current status before you travel."},
+    {"q": "Can we add Nathu La?", "a": "Yes, if you are both Indian nationals and fit for 4,310 m. Add a day in Gangtok, as Nathu La is commonly closed to tourists on Mondays and Tuesdays and needs a permit applied a day ahead. A private vehicle for Tsomgo and Nathu La costs about ₹5,500–7,500. Check current status before you travel."},
+    {"q": "What is the best season for a honeymoon in Gangtok?", "a": "October to early December for clear views of Kanchenjunga and dry roads, and March to May for rhododendrons and mild days. December to February is cold but bright, with snow at Tsomgo. Avoid June to September, when rain, cloud and landslides on NH10 can wreck a short trip."},
+    {"q": "Is Rumtek Bamboo Retreat worth the extra cost?", "a": "For a honeymoon, we think so. It sits among farms and forest below Rumtek, away from Gangtok's traffic, with organic food and quiet rooms, and it puts you close to the monastery for evening or morning prayers. Rates are about ₹5,000–9,000 a room with meals, indicative. Book early in October and spring."},
+    {"q": "What is there to do at Aritar for a couple?", "a": "Row on Lampokhari Lake, walk the forest shore path, climb Mankhim at sunrise for the view and the Rai temple, and spend a quiet evening at a homestay. It is a place to slow down rather than sightsee, and it lies on the road home, so the last day's drive is no longer than from Gangtok."},
+    {"q": "Do we need a permit for Rumtek or Aritar?", "a": "Indian nationals need no permit for Rumtek or Aritar, only photo ID for the police check at Rumtek's gate. Foreign travellers need the free Sikkim Restricted Area Permit, issued at the Rangpo check post or online, which covers both. Tsomgo needs its own permit for everyone. Check current status before you travel."},
+    {"q": "Can we do this trip by shared jeep instead?", "a": "Partly. Shared jeeps run NJP–Gangtok and Gangtok–Rumtek, and from Rhenock to Siliguri, but the Rumtek to Aritar leg needs several changes. With luggage and limited days, a reserved car is worth it on a honeymoon. If you go by jeep, the trip costs about ₹8,000 less per person."}
+  ]
+}

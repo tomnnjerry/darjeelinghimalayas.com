@@ -1,0 +1,130 @@
+{
+  "slug": "aritar", "name": "Aritar", "name_local": "", "region": "gangtok",
+  "kind": "village",
+  "wiki": "Aritar, Sikkim", "image_query": "Aritar Lake Lampokhari Sikkim",
+  "lat": 27.185, "lng": 88.672, "altitude_m": 1400,
+  "tagline": "A boot-shaped lake, a Rai hilltop shrine and quiet homestays",
+  "meta_description": "Aritar in East Sikkim: Lampokhari lake, the Mankhim viewpoint, Aritar Gumpa, homestay prices, how to get there from Gangtok and Siliguri, and when to go.",
+  "summary": "Aritar is a farming village at about 1,400 m in East Sikkim, near Rhenock. Its draw is Lampokhari, a long, narrow lake ringed by forest, with Mankhim, a Rai community shrine and viewpoint, on the ridge above. Homestays cost about ₹1,500–2,200 per person with meals, and it pairs well with Rongli and the Silk Route.",
+  "local_story": {"title": "The long pond below the Rai shrine", "paras": [
+    "Aritar lies in the hills between Rhenock and Rongli, close to the old Kalimpong–Lhasa trade road that ran from Pedong into Sikkim and on towards Jelep La. In the British period this was a route of traders, mule trains and officials, and a dak bungalow was built at Aritar for travellers on the road. The village itself is a mixed community of Nepali-speaking families, among them Rai, Chettri and Bahun households, with Lepcha and Bhutia neighbours, farming cardamom, maize, vegetables and oranges on the slopes around the lake.",
+    "The lake is called Lampokhari, from the Nepali for a long pond, and the name fits: it is a narrow, boot-shaped sheet of water lying in a fold of forest. It has long been treated with respect by the people who live around it, and the state government later developed it for visitors with a path, boats and a small fee. On the ridge above stands Mankhim, a shrine of the Rai community, whose word for a community place of worship gives the hill its name. From there, on clear mornings, the Kanchenjunga range rises far to the west above the folded hills of Sikkim."
+  ]},
+  "did_you_know": [
+    "Lampokhari, Aritar's lake, takes its name from Nepali words meaning a long pond, after its narrow, boot-like shape set in a fold of forest at about 1,400 m.",
+    "Mankhim, on the ridge above Aritar, is a shrine of the Rai community; mankhim is the Rai term for a community place of worship.",
+    "Aritar sits close to the Raj-era Kalimpong–Lhasa trade road, which entered Sikkim near Rhenock and ran on through Rongli and Zuluk to Jelep La."
+  ],
+  "intro": [
+    "Aritar is the gentle end of East Sikkim. There are no permits to arrange and no passes to cross; you come for a lake, a hilltop, a monastery and a couple of quiet nights in a village homestay. Lampokhari lies in a hollow of forest, with a walking path around it and paddle boats in season. Above it, a steep road or a stiffer walk leads to Mankhim, where the view stretches across the hills towards the Kanchenjunga range on a clear day. It is low enough, at about 1,400 m, to be comfortable in winter.",
+    "Aritar also fits neatly into a Silk Route trip. Rongli, where the permit is issued, is about an hour away, so many travellers sleep a night in Aritar on the way up or down, rather than rushing the whole circuit from Gangtok. Homestays cost roughly ₹1,500–2,200 per person with dinner and breakfast. From Siliguri, Aritar can be reached either via Rangpo or, when NH10 along the Teesta is closed, via Kalimpong and Rhenock. Check current status before you travel."
+  ],
+  "facts": [["Best months", "Oct – Dec · Feb – Apr"], ["Nights we suggest", "1–2"], ["From Gangtok", "≈ 70–75 km · 3 h"], ["Altitude", "≈ 1,400 m"], ["Known for", "Lampokhari lake, Mankhim viewpoint, village homestays"], ["Network", "Jio and Airtel usually fine near the lake"]],
+  "best_months": [1, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1–2",
+  "costs": [
+    ["Shared jeep Gangtok to Rhenock", "₹200–300 a seat"],
+    ["Reserved car Gangtok to Aritar", "₹3,500–4,500 one way"],
+    ["Homestay with dinner and breakfast", "₹1,500–2,200 pp"],
+    ["Lampokhari entry fee", "Small fee, about ₹20–50"],
+    ["Paddle boat on the lake", "₹100–200 for a short ride"],
+    ["Rice thali or momos in Rhenock", "₹100–200"]
+  ],
+  "highlights": [
+    {"title": "Lampokhari lake", "text": "A long, narrow lake in a forested hollow at about 1,400 m, with a footpath around the edge and paddle boats in season. Early morning, before groups arrive, is the best time, when mist lifts off the water and the reflections are clear."},
+    {"title": "Mankhim viewpoint", "text": "On the ridge above the lake, Mankhim is a shrine of the Rai community and the best viewpoint around Aritar. On clear mornings from October to March the Kanchenjunga range rises far to the west. Go early and treat the shrine with respect."},
+    {"title": "Aritar Gumpa", "text": "A Buddhist monastery stands in the village, a quiet place of prayer flags and butter lamps. Visit in the morning or late afternoon, walk clockwise, ask before photographing inside, and leave a small offering if you wish."},
+    {"title": "Village homestays", "text": "Aritar's homestays sit among farms of cardamom, maize, vegetables and oranges. You eat what the family eats, sleep in clean, simple rooms and wake to roosters rather than traffic. Two nights let you settle in properly."},
+    {"title": "A stop on the Silk Route", "text": "Rongli, where Indian travellers get the Silk Route permit, is about an hour away. Aritar makes a good first or last night of a Silk Route trip, breaking the long drive between Gangtok or Siliguri and Zuluk."},
+    {"title": "Winter at a comfortable height", "text": "At about 1,400 m, Aritar stays mild in December and January, with cool clear days and cold nights but no snow. Mountain views are often at their clearest then, which makes it a good winter break when the high passes are hard."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep via Rhenock", "text": "Shared jeeps run from Gangtok to Rhenock, about ₹200–300 a seat and 3 hours. From Rhenock a local taxi to Aritar costs a few hundred rupees. From Kalimpong, shared jeeps run to Rhenock via Pedong. Ask locally for current departure times."},
+    {"mode": "Reserved car from Gangtok", "text": "A reserved car from Gangtok takes about 3 hours over 70–75 km via Ranipool, Pakyong and Rorathang, at roughly ₹3,500–4,500 one way. Many travellers combine it with Rongli and the Silk Route in a single car hire."},
+    {"mode": "From Siliguri or NJP", "text": "Reserved cars from Siliguri or NJP take about 4 hours, either via Rangpo and Rorathang or via Kalimpong, Pedong and Rhenock. The second route is common when NH10 along the Teesta is closed, as it often has been since October 2023. Check current status before you travel."}
+  ],
+  "where_to_stay": "Aritar has family homestays spread around the village and along the roads above Lampokhari, typically ₹1,500–2,200 per person with dinner and breakfast. Rooms are simple, clean and often in newer concrete houses with attached bathrooms and geysers. Food is home cooking: rice, dal, local greens, squash, chicken and pickles, with seasonal oranges in winter. There are also government-run tourist facilities near the lake, which change hands and condition, so ask about them when booking. If Aritar is full, Rhenock town below has simple lodges, and Rongli is an hour away for an early start on the Silk Route.",
+  "stays": [],
+  "tips": [
+    "Walk to Lampokhari before 8 am, when the water is still and the path is empty.",
+    "Go up to Mankhim on the first clear morning you get, rather than saving it for the last day.",
+    "Combine Aritar with Rongli and the Silk Route in one car hire to save on transfers.",
+    "Carry some cash, as UPI works only when the network does and small shops may not accept cards.",
+    "Remove shoes where asked at the Mankhim shrine and the monastery, and ask before photographing people at prayer."
+  ],
+  "themes": ["homestays", "family-trips", "kanchenjunga-views", "budget-honeymoons", "long-weekends"],
+  "nearby": ["rongli", "padamchen", "pakyong", "rangpo"],
+  "experiences": [
+    {"slug": "aritar-lampokhari-morning-walk", "title": "A morning walk around Lampokhari",
+     "kind": "viewpoint", "duration": "1–1.5 hours", "best_time": "6.30–8.30 am, Oct–Apr", "cost": "Small entry fee · boat ₹100–200",
+     "image_query": "Lampokhari lake Aritar Sikkim", "wiki": "",
+     "summary": "Walk the footpath around Lampokhari, Aritar's long, narrow lake, early in the morning while the water is still and the forest is quiet. Take a paddle boat if you like, then climb towards Mankhim for the view.",
+     "body": [
+       "Lampokhari lies in a fold of forest just below the village, a long, slim lake whose shape locals often compare to a boot. The name comes from the Nepali for a long pond. A paved footpath runs around its edge, with benches, a few small shelters and paddle boats tied up near the entrance. It is one of the few lakes in this part of Sikkim where boating is allowed, which makes it popular with families on weekends.",
+       "Come early. Between about 6.30 and 8.30 am the surface is often perfectly still, mist lifts off the water and the reflections of the surrounding trees are at their sharpest. By late morning groups arrive and the boats come out. The circuit is easy and flat, and a slow loop with stops takes under an hour. Birds are common in the trees around the edge, and the light is good for photographs from the far end.",
+       "There is a small entry fee, around ₹20–50 per person, and paddle boats cost about ₹100–200 for a short ride; both change, so treat these as indicative. Keep the lake clean: carry rubbish back with you and do not feed fish or birds. If you have energy afterwards, the road and steps up to Mankhim start close by."
+     ],
+     "good_for": ["families", "couples", "seniors", "photographers"],
+     "faqs": [
+       {"q": "Is there boating at Aritar Lake?", "a": "Yes, paddle boats are usually available on Lampokhari in the main seasons, at about ₹100–200 for a short ride. Boating can be suspended in bad weather or for maintenance, so ask on arrival. Children should wear the life jackets provided."},
+       {"q": "What is the entry fee at Lampokhari?", "a": "There is usually a small entry fee of about ₹20–50 per person, with extra charges for cameras or boating at times. Fees change, so treat these as indicative and carry small change. The lake path is open in daylight hours."},
+       {"q": "What is the best time to visit Aritar Lake?", "a": "Early morning from October to April is best, when the water is still and the air clear. Weekdays are quieter than weekends. In the monsoon months the lake is green and full but paths can be slippery and views limited."}
+     ]},
+    {"slug": "aritar-mankhim-sunrise-view", "title": "Sunrise from Mankhim above the lake",
+     "kind": "culture", "duration": "2 hours", "best_time": "Dawn, Oct–Mar", "cost": "Free · donation at the shrine welcome",
+     "image_query": "Mankhim Aritar Sikkim view", "wiki": "Mankhim",
+     "summary": "Climb or drive to Mankhim, the Rai community shrine on the ridge above Aritar, for dawn over the hills. On clear winter mornings the Kanchenjunga range rises in the west and Lampokhari lies below.",
+     "body": [
+       "Mankhim is a shrine of the Rai, one of the Kirati peoples of the eastern Himalaya, and the word itself is the Rai term for a community place of worship. The shrine at Aritar sits on a ridge above the village and the lake, with prayer flags, a small temple compound and open ground around it. Local Rai families gather here for their own rituals and festivals, and visitors are welcome to come quietly and look out from the edge.",
+       "It is also the best viewpoint near Aritar. Go up before sunrise on a clear morning, ideally between October and March, and you may see the Kanchenjunga range far to the west, catching the first light above layer after layer of hills. Below, Lampokhari shows as a slim strip of water in the forest. Most cars can reach close to the top; walkers can take steps and paths from near the lake, which is steep but short.",
+       "Treat it as a place of worship first and a viewpoint second. Take off your shoes where asked, do not climb on structures, speak quietly and ask before photographing anyone at prayer. Leave a small donation if you like. Carry a warm layer, as dawn on the ridge is cold in winter, and a torch for the walk up in the dark."
+     ],
+     "good_for": ["photographers", "couples", "solo", "students"],
+     "faqs": [
+       {"q": "Can you see Kanchenjunga from Aritar?", "a": "Yes, on clear mornings the Kanchenjunga range is visible from Mankhim, the ridge above Aritar, far to the west. October to March gives the best chances, especially early in the morning before cloud rises. In the monsoon months the view is usually hidden."},
+       {"q": "What is Mankhim at Aritar?", "a": "Mankhim is a shrine of the Rai community on the ridge above Aritar and Lampokhari. Mankhim is the Rai word for a community place of worship. It is also the best viewpoint around Aritar, so visitors should come quietly and respect it."},
+       {"q": "How do we get up to Mankhim?", "a": "Cars can drive most of the way up to Mankhim from Aritar, and walkers can take steeper steps and paths from near the lake in about 30–45 minutes. Carry a torch if you go for sunrise, and wear shoes with grip, as the path can be damp."}
+     ]},
+    {"slug": "aritar-gumpa-and-village-walk", "title": "Aritar Gumpa and a village farm walk",
+     "kind": "monastery", "duration": "2–3 hours", "best_time": "Morning or late afternoon, Oct–May", "cost": "Free · donation welcome",
+     "image_query": "Aritar Gumpa monastery Sikkim", "wiki": "",
+     "summary": "Visit Aritar's Buddhist monastery and walk on through the village farms of cardamom, maize, vegetables and oranges. A slow half day that shows how people here actually live, away from the lake path.",
+     "body": [
+       "Aritar Gumpa is the village monastery, a calm compound of prayer flags, prayer wheels and a painted assembly hall. It is not a large or famous monastery, which is part of its appeal. Visit in the morning or late afternoon, walk clockwise around the building and the prayer wheels, and ask before taking photographs inside. If a ritual is under way, wait at the back or come back later.",
+       "From the monastery, walk on along the village lanes. Aritar's farms climb the slopes in terraces: maize and vegetables, patches of large cardamom in the shaded gullies, and orange trees that turn the hillside bright in November and December. Sikkim declared itself a fully organic farming state in 2016, and many families still farm small plots for their own kitchens and the local market. Your homestay host can point out a good loop, or send someone along.",
+       "Wear comfortable shoes and carry water. Ask before walking through fields or photographing people at work, and keep to the paths. In winter, buy oranges from the farmers if they are selling; in spring, look for fresh greens and local pickles to take home. Back at the homestay, the evening meal will likely include what you walked past in the fields."
+     ],
+     "good_for": ["families", "seniors", "couples", "students"],
+     "faqs": [
+       {"q": "Is there a monastery in Aritar?", "a": "Yes, Aritar Gumpa is the village monastery, a quiet compound with prayer flags, prayer wheels and an assembly hall. Visitors are welcome in daylight hours. Walk clockwise, dress modestly, ask before photographing inside, and leave a small offering if you wish."},
+       {"q": "What do farmers grow around Aritar?", "a": "Families around Aritar grow maize, vegetables, large cardamom in shaded gullies, and oranges, which ripen around November and December. Sikkim declared itself a fully organic farming state in 2016, and most plots are small and family-run."},
+       {"q": "Can we do a guided village walk in Aritar?", "a": "There is no fixed guide system, but most homestay hosts are happy to suggest a walking loop or send a family member along for a small fee or tip. Ask the evening before. Keep to the paths and ask before entering fields."}
+     ]},
+    {"slug": "aritar-silk-route-first-night", "title": "Aritar as the first night of the Silk Route",
+     "kind": "adventure", "duration": "One night plus a 1-hour drive to Rongli", "best_time": "Oct–Nov and Mar–May", "cost": "Homestay ₹1,500–2,200 pp · car hire extra",
+     "image_query": "Silk Route East Sikkim road", "wiki": "",
+     "summary": "Sleep at Aritar before the Silk Route instead of driving straight to Zuluk. You get the lake and Mankhim, a night at a comfortable height, and an easy hour's drive to Rongli for the permit the next morning.",
+     "body": [
+       "The classic Silk Route mistake is trying to do too much in one day: the plains or Gangtok to Rongli, the permit, then the climb to Zuluk at about 2,900 m. Putting a night in Aritar at the start fixes that. You drive in the afternoon, walk the lake and maybe see sunset from Mankhim, sleep at about 1,400 m, and reach Rongli about an hour later the next morning, ready for the permit and the climb through Padamchen.",
+       "The same works in reverse. Coming down from Zuluk or Gnathang after a couple of cold nights, a night at Aritar feels warm and easy, with a proper meal and a hot bath before the long drive back to Siliguri or NJP. Several Gangtok and Siliguri operators already build their Silk Route trips this way; if yours does not, ask.",
+       "Plan the permit first. Give your driver or Aritar homestay copies of your ID and photos in advance so the Rongli permit can be ready when you arrive. If NH10 along the Teesta is closed, the Kalimpong–Pedong–Rhenock road reaches Aritar directly, which makes it an even more natural first stop. Check current status before you travel."
+     ],
+     "good_for": ["families", "first-timers", "seniors", "couples"],
+     "faqs": [
+       {"q": "How far is Aritar from Rongli?", "a": "Rongli is roughly 20–25 km from Aritar, about an hour by car. That makes Aritar a convenient first or last night of a Silk Route trip, with an easy morning drive to Rongli for the permit before the climb to Padamchen and Zuluk."},
+       {"q": "Do we need a permit for Aritar?", "a": "No special permit is needed for Indian travellers visiting Aritar. You need the Silk Route permit only for the restricted road above Rongli. Foreign nationals need the standard Restricted Area Permit to enter Sikkim. Check current status before you travel."},
+       {"q": "Can our Aritar homestay arrange the Silk Route permit?", "a": "Many Aritar homestays work with drivers who arrange the Rongli permit, given copies of your ID and photos in advance. Ask when you book, and confirm the cost of the permit and the car for the Silk Route days."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "Where is Aritar?", "a": "Aritar is a village at about 1,400 m in East Sikkim near Rhenock, roughly 70–75 km from Gangtok. It is known for Lampokhari lake, the Mankhim viewpoint and village homestays, and is about an hour from Rongli, the start of the Silk Route."},
+    {"q": "How do I reach Aritar from Siliguri or NJP?", "a": "A reserved car takes about 4 hours, via Rangpo and Rorathang or via Kalimpong, Pedong and Rhenock. The second route is often used when NH10 along the Teesta is closed. By shared jeep, go to Rhenock and take a local taxi. Check current status before you travel."},
+    {"q": "Is Aritar worth visiting?", "a": "Yes, if you want a quiet village, a lake walk and mountain views without permits or high altitude. It is not a place of many sights. Two nights with Lampokhari, Mankhim and a village walk is about right, or one night as part of a Silk Route trip."},
+    {"q": "What is the best time to visit Aritar?", "a": "October to December gives clear skies and the best mountain views, and February to April brings flowers and pleasant days. At about 1,400 m Aritar is mild in winter. June to September is the monsoon, with rain, leeches and landslide risk on the roads."},
+    {"q": "How much does a homestay in Aritar cost?", "a": "Expect about ₹1,500–2,200 per person a night with dinner and breakfast. Weekends and holiday periods are busier and slightly pricier. Agents may add a margin, so ask what is included, especially for hot water, heaters and pickups."},
+    {"q": "Can you see Kanchenjunga from Aritar?", "a": "Yes, from Mankhim, on the ridge above the lake, on clear mornings. The range is far to the west, so the view is distant but wide. October to March gives the best odds. From the lake itself the forest blocks most of the view."},
+    {"q": "Is Aritar good for a family trip?", "a": "Yes. The height of about 1,400 m is comfortable, the lake path is flat and easy, boating suits children, and homestays are friendly. Keep an eye on children near the water and on the steeper path up to Mankhim."},
+    {"q": "Does Aritar get snow?", "a": "No, snow is very rare at Aritar's height of about 1,400 m. Winters are cool and clear, with cold nights around December and January. If you want snow, combine Aritar with Zuluk or Gnathang on the Silk Route, where it falls most winters."},
+    {"q": "Can we combine Aritar with Zuluk?", "a": "Yes, and it is a good pairing. Aritar is about an hour from Rongli, where Indian travellers get the Silk Route permit, and Zuluk is about 32 km above Rongli. A typical plan is one night in Aritar, one or two in Zuluk or Padamchen, then back."}
+  ]
+}

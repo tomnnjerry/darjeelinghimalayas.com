@@ -1,0 +1,129 @@
+{
+  "slug": "pakyong", "name": "Pakyong", "name_local": "", "region": "gangtok",
+  "kind": "town",
+  "wiki": "Pakyong", "image_query": "Pakyong Airport Sikkim runway",
+  "lat": 27.24, "lng": 88.597, "altitude_m": 1400,
+  "tagline": "Sikkim's airport town, where flights come and go irregularly",
+  "meta_description": "Pakyong in East Sikkim: Pakyong Airport and its irregular flights, the ridge-top runway view, the bazaar, farm villages, how to reach and what it costs.",
+  "summary": "Pakyong is a hill town at about 1,400 m, 31 km south-east of Gangtok and headquarters of Pakyong district since 2021. It is best known for Pakyong Airport, Sikkim's first, opened in 2018 on a reshaped ridge. Scheduled flights have been irregular and often suspended, so most travellers still fly into Bagdogra. Check current status before you travel.",
+  "local_story": {"title": "A ridge rebuilt for an airport", "paras": [
+    "For most of its history Pakyong was a farming area and a small bazaar on the road that runs south-east from Gangtok towards Rorathang, Rongli and Rhenock. Families grew maize, rice, ginger, cardamom and vegetables on the slopes, and the town served the villages around it with a market, schools and government offices. Until 2018 Sikkim was one of the few Indian states without an airport. Visitors flew to Bagdogra in West Bengal and spent four or five hours on the road, or took the small helicopter service when it was flying.",
+    "Pakyong's ridge was chosen for the state's airport, and the Airports Authority of India spent close to a decade cutting and filling the hill to make room for a runway, held up on one side by a reinforced earth wall reported to be among the tallest in the world. Prime Minister Narendra Modi inaugurated Pakyong Airport on 24 September 2018, and the first commercial flight, a SpiceJet service from Kolkata, landed on 4 October 2018. Fog, cloud, a short runway and airline decisions have since made services patchy. In 2021 Pakyong became the headquarters of a new district carved out of East Sikkim."
+  ]},
+  "did_you_know": [
+    "Pakyong Airport was inaugurated on 24 September 2018 and received its first commercial flight, a SpiceJet service from Kolkata, on 4 October 2018. It was Sikkim's first airport.",
+    "When it opened, Pakyong was described as India's 100th operational airport; its runway sits on a ridge at about 1,400 m, built up with a very tall reinforced earth wall.",
+    "Pakyong became the headquarters of Pakyong district in 2021, when Sikkim created two new districts, Pakyong and Soreng, from its existing four."
+  ],
+  "intro": [
+    "Most people meet Pakyong from a car window on the way from Gangtok to Rongli, Aritar or the Silk Route, and the road passes right below the airport. It is a working hill town rather than a resort: a bazaar, government offices for the new district, schools and farmland spilling down the slopes. What makes it worth a pause is the airport itself, a runway laid along a ridge with deep valleys on either side, and the view from the road above it across East Sikkim.",
+    "The honest word on flying here is that Pakyong is not yet a dependable gateway. Since the first flight in October 2018, scheduled services have started, stopped and restarted several times, held back by fog and low cloud, a short runway that limits aircraft loads, and airline schedules. At the time of writing we would not plan a trip around a Pakyong flight without a firm booking and a back-up via Bagdogra. Check current status before you travel. On the ground, Pakyong is 31 km and about 1–1.5 hours from Gangtok."
+  ],
+  "facts": [["Best months", "Oct – Dec · Mar – May"], ["Nights we suggest", "0–1"], ["From Gangtok", "≈ 31 km · 1–1.5 h"], ["Altitude", "≈ 1,400 m"], ["Known for", "Pakyong Airport, district headquarters, farm villages"], ["Network", "Jio, Airtel and BSNL good in town"]],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "0–1",
+  "costs": [
+    ["Shared jeep Gangtok to Pakyong", "₹80–150 a seat"],
+    ["Reserved taxi Gangtok to Pakyong Airport", "₹1,500–2,500"],
+    ["Reserved car Pakyong to Siliguri or NJP", "₹3,500–5,000"],
+    ["Flight to Pakyong, when operating", "Varies widely; often ₹4,000–10,000 one way"],
+    ["Tea and sel roti in the bazaar", "₹40–80"],
+    ["Simple hotel room in town", "₹1,200–2,500 a room"]
+  ],
+  "highlights": [
+    {"title": "The ridge-top runway", "text": "Pakyong's runway lies along a reshaped ridge at about 1,400 m, with steep drops on both sides. From the roads above the airport you can see its full length and the valleys around it. It is a striking piece of mountain engineering, opened in 2018."},
+    {"title": "Flying into Sikkim, when flights run", "text": "When scheduled flights operate, Pakyong cuts out the four- to five-hour road from Bagdogra. Services have been suspended for long periods since 2018, so treat any flight as a bonus, book a refundable fare and keep a Bagdogra plan. Check current status before you travel."},
+    {"title": "A gateway to the Silk Route and Aritar", "text": "The road from Gangtok to Rongli, Aritar and the Silk Route runs through Pakyong. It makes a natural tea stop, and a good place to break the drive or spend a night if you land late or need an early start towards Rongli."},
+    {"title": "Farm villages of the new district", "text": "Around the town, terraces of maize, vegetables, ginger and cardamom fall away into the valleys. Sikkim declared itself a fully organic farming state in 2016, and the small farms around Pakyong are a good place to see what that means in practice."},
+    {"title": "Bazaar breakfasts", "text": "Pakyong's bazaar has small tea shops and eateries serving sel roti, aloo dum, puri, momos and sweet milky tea at local prices. It is a cheap and filling stop on the way out of Gangtok."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep from Gangtok", "text": "Shared jeeps run from Gangtok to Pakyong through the day, about ₹80–150 a seat and 1–1.5 hours over 31 km via Ranipool. Jeeps to Rongli and Rhenock also pass through Pakyong. Ask at your hotel for the current stand."},
+    {"mode": "Air", "text": "Pakyong Airport opened in 2018, but scheduled flights from cities such as Kolkata and Delhi have been irregular and often suspended. Check current status before you travel. Bagdogra airport, about 4–5 hours away by road, remains the dependable option."},
+    {"mode": "Road from Siliguri", "text": "From Siliguri or NJP, Pakyong is about 100–110 km, roughly 4 hours by reserved car via Rangpo, at ₹3,500–5,000. NH10 along the Teesta has had long closures since October 2023, when cars detour via Kalimpong. Check current status before you travel."}
+  ],
+  "where_to_stay": "Most travellers do not sleep in Pakyong; Gangtok is close enough for an airport run, and Aritar and Rongli are better bases for the Silk Route. If you need a bed near the airport for an early flight or a late landing, the town has a few simple hotels and lodges around the bazaar and on the airport road, at roughly ₹1,200–2,500 a room. Homestays in the surrounding farm villages are also appearing, but they change often, so ask your driver or a Gangtok agent for a current recommendation and confirm by phone.",
+  "stays": [],
+  "tips": [
+    "Never book a tight onward connection on a Pakyong flight; keep a day in hand and a Bagdogra fallback.",
+    "Morning flights are more likely to operate than afternoon ones, because cloud often builds over the ridge after midday.",
+    "If your Pakyong flight is cancelled, ask the airline about rebooking via Bagdogra before you take a taxi down the hill.",
+    "Fix taxi fares to Gangtok before leaving the airport, as shared transport from the terminal is limited.",
+    "Stop for tea in the bazaar on the way to Rongli or Aritar, as it is one of the last good snack stops before the valley."
+  ],
+  "themes": ["long-weekends", "family-trips", "food-trails", "off-season"],
+  "nearby": ["gangtok", "rangpo", "aritar", "rongli"],
+  "experiences": [
+    {"slug": "pakyong-airport-ridge-view", "title": "Watching the ridge-top runway at Pakyong",
+     "kind": "viewpoint", "duration": "30–45 minutes", "best_time": "Clear mornings, Oct–May", "cost": "Free",
+     "image_query": "Pakyong Airport Sikkim runway aerial", "wiki": "Pakyong Airport",
+     "summary": "Stop on the road above Pakyong Airport to see its runway laid along a reshaped ridge, with valleys dropping away on both sides. If a flight is due, you may see it land; if not, the engineering is still worth a look.",
+     "body": [
+       "Building an airport in Sikkim meant finding flat land in a state that has very little of it. The answer at Pakyong was to cut and fill a ridge at about 1,400 m until it could carry a runway, held up by a reinforced earth wall reported to be among the tallest in the world. The Airports Authority of India took close to a decade over it, and the airport opened on 24 September 2018. From the roads above, the strip looks narrow and exposed, with green valleys falling away on both sides.",
+       "Most travellers see it on the drive between Gangtok and Rongli or Aritar. Ask your driver to stop at a safe pull-in above the airport where locals stop too. You can see the full length of the runway, the terminal and the country beyond. Do not stop on bends, do not fly drones anywhere near the airport, and follow any instructions from security staff. Photography of airport installations may be restricted; when in doubt, ask.",
+       "Whether a plane lands while you watch depends on the schedule, which has been irregular since 2018. Morning is the likeliest time, because cloud often closes in over the ridge later in the day. Even with no flight, a quarter of an hour here explains why flying into Sikkim has been so hard, and why so many trips still begin at Bagdogra."
+     ],
+     "good_for": ["families", "photographers", "students", "first-timers"],
+     "faqs": [
+       {"q": "Are flights operating to Pakyong Airport now?", "a": "Flights to Pakyong have been irregular since the airport opened in 2018, with long suspensions due to weather, runway limits and airline decisions. Some routes have restarted from time to time. Check current status with airlines before you travel, and keep Bagdogra as your back-up airport."},
+       {"q": "Can we visit Pakyong Airport without a flight?", "a": "Non-passengers usually cannot enter the terminal, but you can see the runway from the public roads above the airport. Stop only at safe pull-ins, do not fly drones, and follow security staff instructions. Photography of airport installations may be restricted."},
+       {"q": "How far is Pakyong Airport from Gangtok?", "a": "Pakyong Airport is about 31 km from Gangtok by road, usually 1–1.5 hours depending on traffic at Ranipool. A reserved taxi costs about ₹1,500–2,500. Shared jeeps run to Pakyong town, from where a short local taxi reaches the terminal."}
+     ]},
+    {"slug": "pakyong-organic-farm-walk", "title": "A walk through Pakyong's organic farm terraces",
+     "kind": "culture", "duration": "2–3 hours", "best_time": "Oct–Apr, mornings", "cost": "Free · tip a local guide ₹300–500",
+     "image_query": "Sikkim organic farm terraces village", "wiki": "",
+     "summary": "Walk the farm terraces below Pakyong, where families grow maize, ginger, cardamom and vegetables in a state that declared itself fully organic in 2016. A quiet half day that shows the countryside behind the airport.",
+     "body": [
+       "In January 2016 Sikkim was declared India's first fully organic farming state, after more than a decade of phasing out chemical fertilisers and pesticides. The change is easiest to understand on a small farm, and the slopes around Pakyong are full of them. Terraces step down the hills planted with maize, rice in the lower fields, ginger, turmeric, large cardamom in the shaded gullies, and kitchen gardens of beans, squash, chillies and mustard greens.",
+       "There is no formal farm-tour circuit here, so the best approach is to ask. Your driver, a homestay host or someone in the bazaar can usually point you to a footpath down through the fields, or find a young person who will walk with you for a small tip. Go in the morning, when people are at work and the light is soft. October and November are harvest time for many crops; winter brings oranges and mustard flowers.",
+       "Ask before entering fields or photographing people, keep to the bunds and paths, and close any gates. Buy what is offered if you want to: fresh ginger, seasonal vegetables, local pickles. Carry water and wear shoes with grip, as paths between terraces can be steep and muddy after rain."
+     ],
+     "good_for": ["families", "students", "seniors", "photographers"],
+     "faqs": [
+       {"q": "Is Sikkim really a fully organic state?", "a": "Sikkim was declared India's first fully organic farming state in January 2016, after phasing out chemical fertilisers and pesticides over several years. Farming around Pakyong follows the state's organic rules. As anywhere, practice varies from farm to farm, but chemical inputs are restricted by law."},
+       {"q": "Can we visit a farm near Pakyong?", "a": "Yes, informally. There is no fixed farm-tour system, but drivers, homestay hosts and people in the bazaar can often point you to a footpath or a family happy to show visitors around. A small tip of ₹300–500 for someone who walks with you is fair."},
+       {"q": "What crops are grown around Pakyong?", "a": "Farmers around Pakyong grow maize, some rice, ginger, turmeric, large cardamom and a wide range of vegetables, with oranges at lower levels in winter. Most farms are small and family-run, selling in local markets and in Gangtok."}
+     ]},
+    {"slug": "pakyong-bazaar-sel-roti-breakfast", "title": "Sel roti and tea in Pakyong bazaar",
+     "kind": "food", "duration": "30–45 minutes", "best_time": "7–10 am, all year", "cost": "₹50–150 pp",
+     "image_query": "Sel roti Nepali breakfast Sikkim", "wiki": "Sel roti",
+     "summary": "Stop in Pakyong's bazaar on the way out of Gangtok for sel roti, aloo dum, puri and sweet milky tea at local prices. It is a cheap, filling start to a day on the road to Rongli, Aritar or Rangpo.",
+     "body": [
+       "Sel roti is a ring-shaped fried bread made from a batter of ground rice, sugar and milk or water, poured by hand into hot oil. It is eaten across the Nepali-speaking hills of Sikkim and Darjeeling, especially at festivals such as Dashain and Tihar, but also every day in small tea shops. In Pakyong's bazaar it usually comes with aloo dum, a spiced potato curry, and a glass of sweet milky tea.",
+       "The town's tea shops and eateries open early for school-goers, office workers and drivers heading out on the long roads south and east. Puri and sabzi, boiled eggs, momos and chowmein appear on most menus by mid-morning. Prices are local: about ₹40–80 for tea and sel roti, a little more for a full plate. It is one of the cheapest good breakfasts in East Sikkim.",
+       "If you are travelling by shared jeep, ask the driver to stop in Pakyong; most will, as they stop for themselves. Eat at busy places where the oil is fresh, and carry a few sel roti for the road, since they keep well for a day. If you see local pickles or dalle chilli sauce for sale, a small jar travels well too."
+     ],
+     "good_for": ["students", "solo", "families", "first-timers"],
+     "faqs": [
+       {"q": "What is sel roti?", "a": "Sel roti is a ring-shaped fried bread made from a rice-flour batter sweetened with sugar, eaten across the Nepali-speaking Himalaya. It is a festival food, especially at Dashain and Tihar, but tea shops in Pakyong and elsewhere in Sikkim sell it daily, often with aloo dum."},
+       {"q": "Is Pakyong a good breakfast stop on the way to Rongli?", "a": "Yes. Pakyong is about an hour out of Gangtok on the road to Rongli, Aritar and the Silk Route, and its bazaar has tea shops serving sel roti, puri, momos and tea from early morning. Shared jeeps often stop here anyway."},
+       {"q": "How much does breakfast cost in Pakyong?", "a": "Tea and sel roti cost about ₹40–80, and a fuller plate of puri, aloo dum or momos about ₹80–150. Prices are local, lower than in central Gangtok. Carry cash in small notes, though many shops take UPI."}
+     ]},
+    {"slug": "pakyong-ridge-road-to-rorathang", "title": "The ridge road from Pakyong down to Rorathang",
+     "kind": "adventure", "duration": "1–1.5 hours by car", "best_time": "Oct–May, daylight", "cost": "Part of your car hire",
+     "image_query": "Pakyong Rorathang road Sikkim", "wiki": "Rorathang",
+     "summary": "Drive the road from Pakyong down through farm villages to Rorathang in the Rangpo Chu valley, the link between Gangtok, Rangpo, Aritar and Rongli. A short, scenic stretch that most travellers pass without noticing.",
+     "body": [
+       "South-east of Pakyong the road drops off the ridge in long loops towards Rorathang, a small bazaar in the valley of the Rangpo Chu. From there roads run on to Rongli and the Silk Route, to Aritar and Rhenock, and down the valley to Rangpo on the West Bengal border. It is the crossroads of lower East Sikkim, and Pakyong sits at the top of it.",
+       "The drive is short, but it shows the shape of the land well. You leave the airport ridge, pass terraces of maize and vegetables and patches of forest, and see the valley open below with Rongli's hills beyond. In clear winter weather the high ridges towards Zuluk and the Bhutan border can be seen to the east. Ask your driver to stop at a safe pull-in for a few minutes rather than shooting through a car window.",
+       "This road is also a useful alternative. When traffic jams at Ranipool or works on the Gangtok road slow things down, drivers between Rangpo and Gangtok sometimes come up through Rorathang and Pakyong instead. Expect narrow sections and occasional landslide repairs after the monsoon. Daylight driving is best. Check current status before you travel."
+     ],
+     "good_for": ["photographers", "couples", "seniors", "families"],
+     "faqs": [
+       {"q": "How do we get from Pakyong to Rongli?", "a": "From Pakyong the road drops to Rorathang in the Rangpo Chu valley and continues to Rongli, roughly 22–25 km and about an hour in all. Shared jeeps from Gangtok to Rongli pass through Pakyong, so you can join one there if seats are free."},
+       {"q": "Where is Rorathang?", "a": "Rorathang is a small bazaar in the Rangpo Chu valley below Pakyong, where roads meet from Gangtok, Rangpo, Rongli and Rhenock. It is a common tea stop for Silk Route cars and a turning point for routes to Aritar."},
+       {"q": "Is the Pakyong road a good alternative to NH10?", "a": "For parts of the journey, yes. Drivers between Rangpo and Gangtok sometimes use the Rorathang–Pakyong road when the main road is jammed or under repair. It does not replace NH10 between Siliguri and Rangpo. Check current status before you travel."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "Is Pakyong Airport operational?", "a": "Pakyong Airport opened in 2018, but scheduled flights have been irregular, with long suspensions caused by weather, a short runway that limits aircraft loads, and airline decisions. Some services have restarted from time to time. Check current status before you travel, and keep Bagdogra as your fallback."},
+    {"q": "Which airport should I fly to for Gangtok?", "a": "For most trips, Bagdogra in West Bengal is the dependable choice, about 4–5 hours by road from Gangtok. Pakyong is much closer, 31 km from Gangtok, but its flights have been irregular. Book Pakyong only with a refundable fare and a day in hand."},
+    {"q": "How far is Pakyong from Gangtok?", "a": "Pakyong is about 31 km from Gangtok, roughly 1–1.5 hours by road via Ranipool. Shared jeeps cost about ₹80–150 a seat; a reserved taxi to the airport costs about ₹1,500–2,500. Traffic at Ranipool can add time at peak hours."},
+    {"q": "When did Pakyong Airport open?", "a": "Pakyong Airport was inaugurated by Prime Minister Narendra Modi on 24 September 2018, and the first commercial flight, a SpiceJet service from Kolkata, landed on 4 October 2018. It was Sikkim's first airport and was described at the time as India's 100th operational airport."},
+    {"q": "Why are flights to Pakyong often cancelled?", "a": "Fog and low cloud often close in over the ridge, especially in the monsoon and on winter afternoons. The runway is short, which limits aircraft size and loads, and airlines have repeatedly suspended routes. Morning flights in October to May are the most reliable when services run."},
+    {"q": "Is Pakyong worth a stop?", "a": "As a short stop, yes: for the view of the ridge-top runway, a cheap breakfast in the bazaar and a walk through farm terraces. As a destination for several days, not really. Most travellers pass through on the way to Rongli, Aritar or the Silk Route."},
+    {"q": "Are there hotels in Pakyong?", "a": "Pakyong has a few simple hotels and lodges around the bazaar and airport road, at roughly ₹1,200–2,500 a room. They suit an early flight or late arrival. Gangtok, 31 km away, has far more choice, and Aritar is better for a village stay."},
+    {"q": "Is Pakyong a separate district?", "a": "Yes. In 2021 Sikkim created two new districts, Pakyong and Soreng, and Pakyong town became the headquarters of Pakyong district. The district was carved out of the old East Sikkim district and includes the Rongli area, gateway to the Silk Route."},
+    {"q": "What is the best time to visit Pakyong?", "a": "October to December gives the clearest skies and the best chance of flights operating, with March to May also good. June to September brings heavy rain, cloud over the airport and landslide risk on the roads. Winter is cool and dry at about 1,400 m."}
+  ]
+}

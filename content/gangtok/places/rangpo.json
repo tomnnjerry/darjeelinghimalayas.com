@@ -1,0 +1,130 @@
+{
+  "slug": "rangpo", "name": "Rangpo", "name_local": "", "region": "gangtok",
+  "kind": "river town",
+  "wiki": "Rangpo", "image_query": "Rangpo Teesta river Sikkim border",
+  "lat": 27.177, "lng": 88.531, "altitude_m": 330,
+  "tagline": "The border town where NH10 crosses into Sikkim on the Teesta",
+  "meta_description": "Rangpo, Sikkim's gateway on the Teesta: the checkpost and permits, the Sivok–Rangpo railway under construction, October 2023 flood damage, food and fares.",
+  "summary": "Rangpo is Sikkim's main entry town, at roughly 300–350 m where the Rangpo Chu meets the Teesta on the West Bengal border. NH10 crosses here, foreign travellers have their permits checked, and the Sivok–Rangpo railway is being built to end here. Parts of the town were badly hit by the October 2023 Teesta flood. Check current status before you travel.",
+  "local_story": {"title": "A river border, a highway and a railway", "paras": [
+    "At Rangpo a small river, the Rangpo Chu, comes down from the hills of East Sikkim and joins the Teesta, and that meeting point marks the boundary between West Bengal and Sikkim. For most of the twentieth century the road up the Teesta valley from Siliguri was the main way into the kingdom, and later the state, of Sikkim. The bridge at Rangpo became its front door: a checkpost, a police post, and around them a town of shops, workshops, transport offices and lodges serving the trucks and jeeps that keep Gangtok supplied.",
+    "Two events have shaped Rangpo's recent years. The first is the railway. The Sivok–Rangpo line, about 45 km long and running mostly through tunnels along the Teesta gorge, is meant to bring trains into Sikkim for the first time, with Rangpo as its terminus. Work has gone on for years and target dates have slipped more than once. The second is the flood. On the night of 3–4 October 2023 a glacial lake outburst from South Lhonak Lake in North Sikkim sent a surge down the Teesta that breached the Chungthang dam and swept through the valley. In Rangpo, low-lying areas near the river were flooded and buried in silt, and NH10 was cut in several places."
+  ]},
+  "did_you_know": [
+    "At Rangpo the Rangpo Chu joins the Teesta, and the small river marks the West Bengal–Sikkim boundary on NH10, Sikkim's main road link with Siliguri.",
+    "The Sivok–Rangpo railway, about 45 km long and mostly in tunnels, is planned to be Sikkim's first rail link, with Rangpo as its terminus; completion dates have slipped repeatedly.",
+    "On the night of 3–4 October 2023, a glacial lake outburst from South Lhonak Lake sent a flood down the Teesta that damaged low-lying Rangpo and cut NH10 in several places."
+  ],
+  "intro": [
+    "Almost everyone who travels to Gangtok by road passes through Rangpo, and almost nobody stops for long. It is a hot, low river town at roughly 300–350 m, busy with trucks, shared jeeps and checkpost queues, and its job is to let people and goods into Sikkim. For travellers it matters for three practical reasons: the checkpost, where foreign nationals have their Restricted Area Permit checked or issued; the shared jeep links to Gangtok, Pakyong, Rongli and Siliguri; and the state of NH10 on either side.",
+    "That road has been fragile since the October 2023 Teesta flood. Stretches of NH10 between Sevoke, Melli and Rangpo have been washed away or blocked by landslides many times since, and closures can last days or weeks. When NH10 is shut, traffic between Siliguri and Sikkim detours through Kalimpong, Pedong and Rhenock, or via Lava and Algarah. The Sivok–Rangpo railway, when it opens, should ease this; it was still under construction at the time of writing. Check current status before you travel."
+  ],
+  "facts": [["Best months", "Oct – Mar"], ["Nights we suggest", "0"], ["From Siliguri", "≈ 75 km · 2.5–3.5 h when NH10 is open"], ["Altitude", "≈ 300–350 m"], ["Known for", "Sikkim checkpost, Teesta confluence, the coming railway"], ["Network", "Jio, Airtel and BSNL good in town"]],
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0",
+  "costs": [
+    ["Shared jeep Siliguri to Rangpo", "₹200–300 a seat"],
+    ["Shared jeep Rangpo to Gangtok", "₹100–200 a seat"],
+    ["Reserved car Rangpo to Gangtok", "₹1,800–2,500"],
+    ["Restricted Area Permit for foreigners", "Free; issued online or at the checkpost, rules change"],
+    ["Thali or momos on the highway", "₹100–200"],
+    ["Simple hotel room in town", "₹1,000–2,000 a room"]
+  ],
+  "highlights": [
+    {"title": "The Sikkim checkpost", "text": "Rangpo is the main road entry to Sikkim. Foreign nationals must show or obtain a Restricted Area Permit here, and vehicles and passengers may be checked. Indian travellers do not need a permit to enter Sikkim, but should carry photo ID. Check current status before you travel."},
+    {"title": "The Teesta and Rangpo Chu confluence", "text": "Where the Rangpo Chu meets the Teesta, the border between West Bengal and Sikkim runs down the smaller river. Since the October 2023 flood the riverbanks have changed shape, with wide silt flats and damaged buildings still visible in places."},
+    {"title": "The Sivok–Rangpo railway", "text": "Sikkim's first railway, about 45 km from Sivok, is being built to end at Rangpo, with most of the line in tunnels along the Teesta. Construction has run for years and opening dates keep moving. Check current status before you travel."},
+    {"title": "A practical lunch stop", "text": "Highway eateries in Rangpo feed truckers, jeep drivers and travellers all day: rice thalis, momos, chowmein and tea. Prices are local, and it is a sensible place to eat if a checkpost queue or road block holds you up."},
+    {"title": "Junction for Pakyong, Rongli and Aritar", "text": "From Rangpo a road climbs up the Rangpo Chu valley to Rorathang, then on to Rongli for the Silk Route, Aritar and Rhenock, or up to Pakyong. Travellers coming from Siliguri can head for the Silk Route without going to Gangtok first."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep or bus from Siliguri", "text": "Shared jeeps and SNT buses bound for Gangtok pass through Rangpo, about 75 km and 2.5–3.5 hours from Siliguri when NH10 is open. A seat to Rangpo costs about ₹200–300. NH10 has had repeated, long closures since October 2023. Check current status before you travel."},
+    {"mode": "Shared jeep from Gangtok", "text": "Shared jeeps run from Gangtok to Rangpo and on to Siliguri through the day, roughly 40 km and 1.5–2 hours to Rangpo, at about ₹100–200 a seat. Traffic at Ranipool and Singtam can slow the trip."},
+    {"mode": "Reserved car", "text": "A reserved car from Siliguri, NJP or Bagdogra to Rangpo costs roughly ₹2,500–3,500, and from Rangpo to Gangtok about ₹1,800–2,500. When NH10 is closed, cars detour via Kalimpong, Pedong and Rhenock, which takes much longer."},
+    {"mode": "Rail, in future", "text": "The Sivok–Rangpo railway is being built to bring trains to Rangpo. It was still under construction at the time of writing, with no passenger service. Until it opens, NJP is the nearest railhead, about 85–90 km away. Check current status before you travel."}
+  ],
+  "where_to_stay": "Very few travellers sleep in Rangpo; Gangtok is under two hours away and the hill towns are cooler and quieter. If a road closure or late arrival leaves you stranded, the town has simple hotels and lodges along NH10 and in the bazaar at roughly ₹1,000–2,000 a room, aimed at business travellers and drivers. Look at the room before paying, ask about water and power backup, and avoid buildings close to the riverbank in the monsoon. Majitar, a few kilometres up the road, also has a handful of lodges near the engineering college.",
+  "stays": [],
+  "tips": [
+    "Check the state of NH10 on the morning you travel, through your driver or local news, as closures between Sevoke and Rangpo can last days.",
+    "Foreign travellers should carry their passport, Indian visa, printed permit if applied online, and passport photos for the Rangpo checkpost.",
+    "Draw cash in Rangpo if you are heading to Rongli or the Silk Route, as ATMs beyond are unreliable.",
+    "Avoid walking on silt flats or damaged banks near the river; the Teesta can rise fast after rain upstream.",
+    "Do not trespass on railway construction sites to look at tunnels or bridges; watch from public roads only."
+  ],
+  "themes": ["solo-backpacking", "food-trails", "off-season", "long-weekends"],
+  "nearby": ["pakyong", "aritar", "rongli", "gangtok"],
+  "experiences": [
+    {"slug": "rangpo-checkpost-entry-into-sikkim", "title": "Crossing into Sikkim at the Rangpo checkpost",
+     "kind": "culture", "duration": "15 minutes to 1 hour", "best_time": "Daylight, all year", "cost": "Free",
+     "image_query": "Rangpo checkpost Sikkim gate", "wiki": "",
+     "summary": "The border crossing on NH10 where travellers enter Sikkim from West Bengal. For Indians it is usually a quick ID check; for foreign nationals it is where the Restricted Area Permit is checked or issued. Know the rules before you arrive.",
+     "body": [
+       "Rangpo's checkpost stands at the bridge where NH10 crosses from West Bengal into Sikkim. For Indian nationals, entry to Sikkim itself needs no permit, though police may check vehicles and ask for photo ID, especially on reserved cars and at busy times. Shared jeep passengers usually stay in their seats. Permits are needed only for restricted areas further on, such as the Silk Route, Tsomgo and Nathu La, and North Sikkim, and those are arranged separately.",
+       "Foreign nationals need a Restricted Area Permit to enter Sikkim. It is free and has been available online in advance and at the Rangpo checkpost on arrival, with a passport, valid Indian visa and passport photos. Ask your driver to stop at the foreigners' counter; do not let a shared jeep carry you past it, as you will be turned back later. The permit is usually valid for 30 days and can be extended in Gangtok. Rules change, so check current status before you travel.",
+       "Queues build up at weekends, on holidays and when NH10 reopens after a closure, as backed-up traffic comes through at once. Have documents ready in a folder rather than buried in luggage. Coming back down, there is usually little checking on the way out of Sikkim. Be aware that items cheaper in Sikkim, such as liquor, are subject to West Bengal's limits once you cross the bridge."
+     ],
+     "good_for": ["first-timers", "solo", "families", "students"],
+     "faqs": [
+       {"q": "Do Indian tourists need a permit to enter Sikkim at Rangpo?", "a": "No. Indian nationals do not need a permit to enter Sikkim, but should carry photo ID, as police may check vehicles at Rangpo. Separate permits are needed for restricted areas such as the Silk Route, Tsomgo Lake and Nathu La, and North Sikkim. Check current status before you travel."},
+       {"q": "Can foreigners get the Sikkim permit at Rangpo?", "a": "Foreign nationals have been able to get a free Restricted Area Permit at the Rangpo checkpost with a passport, Indian visa and passport photos, and also to apply online in advance. Make sure your driver stops at the counter. Rules change, so check current status before you travel."},
+       {"q": "How long does the Rangpo checkpost take?", "a": "For Indian travellers it usually takes a few minutes, and often no stop at all for shared jeeps. Foreign nationals getting a permit should allow 30–60 minutes. Queues are longest at weekends, on holidays and just after NH10 reopens following a closure."}
+     ]},
+    {"slug": "rangpo-teesta-confluence-after-the-flood", "title": "The Teesta at Rangpo after the 2023 flood",
+     "kind": "viewpoint", "duration": "30–45 minutes", "best_time": "Morning or late afternoon, Oct–Mar", "cost": "Free",
+     "image_query": "Teesta river Rangpo flood 2023", "wiki": "2023 Sikkim flash floods",
+     "summary": "Look out over the meeting of the Rangpo Chu and the Teesta, the border between West Bengal and Sikkim, and see how the October 2023 glacial flood reshaped the river. A short, sobering stop that explains why NH10 is so often closed.",
+     "body": [
+       "From the bridges and the road above the river at Rangpo you can see the Rangpo Chu entering the Teesta, and the wide, grey bed of the bigger river running south towards Melli and the plains. Before October 2023 this was a narrower, greener scene. On the night of 3–4 October that year, a glacial lake outburst from South Lhonak Lake in North Sikkim sent a wall of water and debris down the Teesta. It breached the Chungthang dam, swept away bridges and houses upstream, and reached Rangpo within hours.",
+       "In Rangpo, low-lying areas near the river were flooded and buried under silt, and NH10 was damaged above and below the town. Many lives were lost across Sikkim and the Teesta valley, including soldiers at an army camp near Singtam. The raised riverbed, silt flats and rebuilt road sections you see today are the result. Each monsoon since, fresh landslides and erosion have cut the highway again.",
+       "Look from the road or bridge only. Do not walk onto silt flats or undercut banks, which can collapse, and keep away from the water, which can rise fast after rain upstream. Be respectful when photographing damaged homes; families still live with the loss. It is worth a few minutes on the way through, because it makes plain why every guide to Sikkim now says to check the road before you travel."
+     ],
+     "good_for": ["photographers", "students", "solo", "seniors"],
+     "faqs": [
+       {"q": "Was Rangpo affected by the 2023 Teesta flood?", "a": "Yes. The glacial lake outburst flood of 3–4 October 2023 flooded low-lying parts of Rangpo near the Teesta, left thick deposits of silt and damaged NH10 above and below the town. Repairs have continued since, and monsoon landslides have cut the highway again in later years."},
+       {"q": "What caused the October 2023 flood in Sikkim?", "a": "A glacial lake outburst from South Lhonak Lake in North Sikkim, on the night of 3–4 October 2023, released a huge volume of water into the Teesta. The surge breached the Chungthang dam and caused severe damage and loss of life down the valley through Dikchu, Singtam and Rangpo."},
+       {"q": "Is it safe to visit the river at Rangpo?", "a": "Look from roads and bridges only. Silt flats and undercut banks can give way, and the Teesta can rise quickly after rain upstream, especially from June to September. Never walk on the riverbed or swim, and keep children well back from the edge."}
+     ]},
+    {"slug": "rangpo-sivok-railway-watch", "title": "Following the Sivok–Rangpo railway works",
+     "kind": "rail", "duration": "30 minutes to 1 hour", "best_time": "Daylight, Oct–May", "cost": "Free",
+     "image_query": "Sivok Rangpo railway tunnel construction", "wiki": "Sivok–Rangpo line",
+     "summary": "Sikkim's first railway is being built along the Teesta gorge from Sivok to Rangpo, about 45 km, mostly in tunnels. From the NH10 road you can glimpse portals, bridges and the Rangpo station site. It was still under construction at the time of writing.",
+     "body": [
+       "Sikkim has never had a railway. The Sivok–Rangpo line is meant to change that: about 45 km from Sivok, near the mouth of the Teesta gorge above Siliguri, to Rangpo on the Sikkim border, with most of the route running through tunnels cut into the unstable hillsides along the river. Intermediate stations are planned along the valley, and a later extension towards Gangtok has been proposed. Rangpo is the terminus of this first stage.",
+       "Work has gone on for many years, and opening dates have slipped more than once, with the difficult geology of the gorge and the October 2023 flood among the reasons. At the time of writing there were no passenger trains. Check current status before you travel, and be wary of anyone selling tickets or tours on the line. For now, NJP remains the nearest railway station to Gangtok, about 85–90 km from Rangpo.",
+       "If you are interested in the project, you can see parts of it from NH10 on the drive between Sevoke and Rangpo: tunnel portals in the hillside, bridge piers over side streams, and the station works at Rangpo. Watch from public roads only, and do not enter construction sites or stop on blind bends to take photographs. Ask your driver; many know exactly where the portals are."
+     ],
+     "good_for": ["students", "photographers", "solo", "families"],
+     "faqs": [
+       {"q": "Is the Sivok–Rangpo railway open?", "a": "At the time of writing the Sivok–Rangpo railway was still under construction, with no passenger trains running. Target dates for opening have been moved several times. Check current status before you travel. Until it opens, NJP near Siliguri is the nearest railway station for Sikkim."},
+       {"q": "How long is the Sivok–Rangpo railway line?", "a": "The line is about 45 km long, running from Sivok near Siliguri up the Teesta valley to Rangpo on the West Bengal–Sikkim border. Most of it runs through tunnels because the hillsides along the Teesta are steep and unstable."},
+       {"q": "Will the railway reach Gangtok?", "a": "An extension from Rangpo towards Gangtok has been proposed as a later stage, but the first stage ends at Rangpo. There is no firm date for any line to Gangtok. For now, travellers reach Gangtok by road from NJP, Siliguri or Bagdogra."}
+     ]},
+    {"slug": "rangpo-highway-thali-stop", "title": "A highway thali at Rangpo",
+     "kind": "food", "duration": "45 minutes", "best_time": "Midday, all year", "cost": "₹100–200 pp",
+     "image_query": "Sikkim highway dhaba thali momos", "wiki": "",
+     "summary": "Rangpo's highway eateries feed drivers and travellers all day with rice thalis, momos, chowmein and tea. If you are held up at the checkpost or by a road closure, this is where to eat well and cheaply.",
+     "body": [
+       "Rangpo lives off the road, and so do its kitchens. Along NH10 and in the bazaar, small eateries serve the truck drivers, jeep drivers and passengers who pass through all day. The standard meal is a rice thali: rice, dal, a vegetable or two, a pickle and a choice of egg, chicken or fish curry, refilled as you go. Momos, chowmein, thukpa and puri sabzi fill the rest of the menu, with sweet milky tea at every table.",
+       "Prices are local and fair, roughly ₹100–200 for a full meal, less for snacks. The best sign of a good place is the number of drivers eating there. Rangpo's low height means it is warm for most of the year, so food is cooked fresh and turned over fast at the busy spots. Vegetarians do well with dal, rice, vegetables and paneer dishes.",
+       "If a road closure leaves you waiting, Rangpo is a better place to sit it out than a roadside verge. Eat, drink plenty of water, and use the time to check the road with your driver. Carry small notes, though many places take UPI. If you are heading on to Rongli and the Silk Route, buy snacks and water here too."
+     ],
+     "good_for": ["students", "solo", "families", "first-timers"],
+     "faqs": [
+       {"q": "Where should we eat between Siliguri and Gangtok?", "a": "Rangpo is one of the usual meal stops on NH10, about halfway, with highway eateries serving thalis, momos and chowmein at local prices. Melli and Singtam also have places to eat. Shared jeeps often stop at their regular spots; reserved cars can choose."},
+       {"q": "How much does a meal cost in Rangpo?", "a": "A rice thali with dal, vegetables and an egg or chicken curry costs about ₹100–200. Momos and chowmein cost about ₹80–150 a plate, and tea ₹15–30. Prices are lower than in central Gangtok."},
+       {"q": "Is vegetarian food easy to find in Rangpo?", "a": "Yes. Most eateries in Rangpo serve vegetarian thalis with rice, dal and vegetables, and many offer paneer, vegetable momos and puri sabzi. Ask for a vegetarian thali when you order, as it is often cooked separately."}
+     ]}
+  ],
+  "faqs": [
+    {"q": "Where is Rangpo?", "a": "Rangpo is a border town on NH10 where West Bengal meets Sikkim, at the confluence of the Rangpo Chu and the Teesta. It lies about 75 km from Siliguri and about 40 km from Gangtok, at roughly 300–350 m. Almost all road traffic into Sikkim from Siliguri passes through it."},
+    {"q": "Do I need a permit at Rangpo?", "a": "Indian nationals need no permit to enter Sikkim, only photo ID for any checks. Foreign nationals need a free Restricted Area Permit, which has been available online and at the Rangpo checkpost with a passport, visa and photos. Rules change, so check current status before you travel."},
+    {"q": "Is NH10 open between Siliguri and Rangpo?", "a": "NH10 has had repeated closures since the October 2023 Teesta flood, especially between Sevoke, Melli and Rangpo, and closures can last days or weeks in the monsoon. When it is shut, traffic detours via Kalimpong and Rhenock or via Lava. Check current status before you travel."},
+    {"q": "When will the Sivok–Rangpo railway open?", "a": "There was no confirmed opening date at the time of writing. The line has been under construction for years, and targets have slipped more than once. Check current status before you travel. Until it opens, NJP near Siliguri is the nearest railway station."},
+    {"q": "How far is Gangtok from Rangpo?", "a": "Gangtok is about 40 km from Rangpo, usually 1.5–2 hours by road via Singtam and Ranipool. Shared jeeps cost about ₹100–200 a seat and a reserved car about ₹1,800–2,500. Traffic near Ranipool can add time."},
+    {"q": "How did the 2023 flood affect Rangpo?", "a": "The glacial lake outburst flood of 3–4 October 2023 flooded low-lying parts of Rangpo along the Teesta, left heavy silt and damaged NH10. Much has been cleared or rebuilt, but damage is still visible and the highway remains prone to closure. Check current status before you travel."},
+    {"q": "Is Rangpo worth staying in?", "a": "Not usually. Rangpo is a practical border town, hot and busy, and most travellers pass through in under an hour. Stay only if a road closure or late arrival makes it necessary; simple hotels cost about ₹1,000–2,000 a room."},
+    {"q": "Can we go from Rangpo to the Silk Route directly?", "a": "Yes. From Rangpo a road runs up the Rangpo Chu valley to Rorathang and Rongli, where Indian travellers get the Silk Route permit. This avoids going to Gangtok first and suits travellers coming from Siliguri. Arrange the permit in advance through your driver or homestay."},
+    {"q": "What is the best time to travel through Rangpo?", "a": "October to March is best, with dry roads and fewer closures. April and May are hot in the valley but usually fine. From June to September the monsoon brings frequent landslides on NH10 near Rangpo, so build in spare days and check current status before you travel."}
+  ]
+}

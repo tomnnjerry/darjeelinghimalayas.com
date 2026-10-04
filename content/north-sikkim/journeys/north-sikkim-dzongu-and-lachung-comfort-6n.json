@@ -1,0 +1,80 @@
+{
+  "slug": "north-sikkim-dzongu-and-lachung-comfort-6n",
+  "title": "Dzongu and Lachung, Lepcha valley to the snow",
+  "region": "north-sikkim",
+  "nights": 6,
+  "themes": ["homestays", "monasteries", "snow-and-passes", "food-trails"],
+  "tier": "Comfort",
+  "travel_mode": "Reserved car",
+  "stops": [{"place": "phodong", "nights": 1}, {"place": "dzongu", "nights": 2}, {"place": "lachung", "nights": 2}, {"place": "mangan", "nights": 1}],
+  "start": "Gangtok (pickup from your hotel)",
+  "end": "Gangtok",
+  "price_from_inr": 37000,
+  "cost_split": [
+    {"item": "Reserved SUV with driver and permits, 7 days, half share", "inr": 15000},
+    {"item": "Rooms, 6 nights: Phodong, Dzongu homestay with all meals, better Lachung hotel, Mangan", "inr": 17000},
+    {"item": "Zero Point add-on, half share", "inr": 2000},
+    {"item": "Dzongu permit and a guided village walk", "inr": 1000},
+    {"item": "Lunches, tea, rentals and tips", "inr": 2000}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Easy",
+  "max_altitude_m": 4700,
+  "meta_description": "6 nights in North Sikkim by private car: Phodong's monasteries, 2 nights in a Dzongu Lepcha homestay and 2 in Lachung for Yumthang, from ₹37,000 per person.",
+  "summary": "Two North Sikkims in one week: the green Lepcha reserve of Dzongu, with its cardamom groves and family kitchens, and the high Bhutia valley of Lachung, with Yumthang and Zero Point. A private car, a monastery night at Phodong and a last night in Mangan keep the drives short. About ₹37,000 per person for two. Check current status before you travel.",
+  "intro": [
+    "Most visitors to North Sikkim drive straight past Dzongu on their way to the snow. This trip stops. After a first night at Phodong, near the 18th-century monastery and the old royal capital of Tumlong, you cross the Teesta at Mangan into Dzongu, the reserve set aside for Lepchas, and stay two nights with a family. Then the car takes you north to Lachung for Yumthang's meadows and the snow at Zero Point.",
+    "The contrast is the point: Lepcha bamboo and millet at about 1,200 m, then Bhutia stone houses and yaks at 2,700 m and above. Dzongu needs its own permit from Mangan, and roads and bridges into the reserve were damaged in 2023. Check current status before you travel."
+  ],
+  "highlights": [
+    "Phodong and Labrang monasteries at evening prayers",
+    "Two nights with a Lepcha family in Dzongu",
+    "Cardamom groves, waterfalls and chi by the fire",
+    "Yumthang Valley and Zero Point from Lachung",
+    "Short daily drives in your own car"
+  ],
+  "days": [
+    {"day": 1, "title": "Gangtok to Phodong via Kabi Lungchok", "place": "phodong", "overnight": "Phodong", "drive": "≈ 38 km · 2 h with stops", "text": "A gentle start. Leave Gangtok mid-morning and stop at Kabi Lungchok, where the 13th-century oath between the Lepcha chief Thekong Tek and the Bhutia prince Khye Bumsa is marked by stone pillars. Reach Phodong for lunch. In the afternoon visit Phodong Monastery, built in the early 18th century, and drive 2 km up to Labrang Monastery at about 2,130 m. If time allows, see the ruins of Tumlong, the Chogyals' capital from 1793 to 1894. Overnight in a simple guesthouse or homestay.", "meals": "Dinner", "spend": "₹200 lunch + ₹200 donations"},
+    {"day": 2, "title": "Mangan permit, then into Dzongu", "place": "dzongu", "overnight": "Dzongu homestay", "drive": "≈ 45 km · 2.5–3.5 h", "text": "Drive north past the Seven Sisters waterfall to Mangan, the district headquarters, and collect your Dzongu permit with photo ID and photographs; your homestay may have sent the papers ahead. Cross the Teesta into Dzongu and climb to your homestay, such as Mayal Lyang in Lingthem. The afternoon is for tea, a walk through the village and dinner in the family kitchen: nettle soup, ferns, local greens, rice or millet.", "meals": "Breakfast, Dinner", "spend": "₹200 lunch in Mangan + ₹100 permit costs"},
+    {"day": 3, "title": "A day on foot with a Lepcha guide", "place": "dzongu", "overnight": "Dzongu homestay", "drive": "", "text": "Walk with a local guide through cardamom groves shaded by alder, across streams on log bridges, and to a waterfall or a neighbouring village. Your host will choose a route that is open; landslides change paths each monsoon. Ask about the Lepcha names for plants and rivers, and about Kongchen Konglo, as Lepchas call Kanchenjunga. If the road is open and permitted, you may visit Tholung Monastery's area with your host's advice. Evening chi, millet beer sipped through bamboo, is optional.", "meals": "Breakfast, Lunch, Dinner", "spend": "₹500 guide share + ₹150 chi"},
+    {"day": 4, "title": "Dzongu to Lachung", "place": "lachung", "overnight": "Lachung", "drive": "≈ 70 km · 4–5 h", "text": "Leave Dzongu after breakfast and rejoin the main road at Mangan. Continue north past Singhik to Chungthang, where the Lachen and Lachung rivers join to form the Teesta and where the October 2023 flood destroyed the Teesta III dam. Climb the Lachung valley to Lachung, at about 2,700 m, by mid-afternoon. Check in to a heated room, take a slow walk to adjust to the altitude, and have an early night.", "meals": "Breakfast, Dinner", "spend": "₹250 lunch"},
+    {"day": 5, "title": "Yumthang and Zero Point", "place": "yumthang", "overnight": "Lachung", "drive": "≈ 94 km return · 5–6 h", "text": "Leave at 6 am with rented boots and coats. Drive 24 km up through the Shingba Rhododendron Sanctuary to Yumthang, at 3,564 m, then 23 km more to Zero Point at about 4,700 m. Stay 30–40 minutes at the top. On the way down, stop at the hot spring by the Lachung Chu and walk the Yumthang meadow. Back in Lachung for lunch; in the afternoon visit Lachung Monastery, founded in 1880.", "meals": "Breakfast, Dinner", "spend": "₹2,000 Zero Point share + ₹300 rental + ₹200 tea"},
+    {"day": 6, "title": "Down the valley to Mangan", "place": "mangan", "overnight": "Mangan", "drive": "≈ 55 km · 3–4 h", "text": "No early start today. After breakfast, drive down to Chungthang and along the Teesta to Mangan, at 956 m, where the air is warm again. Spend the afternoon in the bazaar: Mangan calls itself the large cardamom capital, and shops will let you smell pods before you buy. Drive 4 km up to Singhik for the sunset view across the gorge to Kanchenjunga and Siniolchu, then back to a simple hotel in town.", "meals": "Breakfast, Dinner", "spend": "₹200 lunch + cardamom if you buy"},
+    {"day": 7, "title": "Mangan to Gangtok", "place": "mangan", "overnight": "Gangtok (not included)", "drive": "≈ 65 km · 3 h", "text": "An easy morning drive back to Gangtok, arriving before lunch. This short last day leaves room for delays: the North Sikkim road has had frequent landslides and closures since the 2023 Teesta flood. If you have an onward train or flight from NJP or Bagdogra, you may just make an afternoon connection, but we would still keep a night in Gangtok as a buffer.", "meals": "Breakfast", "spend": "₹1,000 driver tip (shared)"}
+  ],
+  "stays": ["dzongu-mayal-lyang-homestay", "lachung-yarlam-resort"],
+  "includes": [
+    "Reserved SUV with driver for 7 days, fuel and North Sikkim permits",
+    "Six nights' rooms: guesthouse in Phodong, Lepcha homestay in Dzongu with all meals, better hotel in Lachung, hotel in Mangan",
+    "One guided village walk in Dzongu",
+    "Yumthang and Zero Point (Zero Point for Indian nationals only)"
+  ],
+  "excludes": [
+    "Transport between NJP/Bagdogra and Gangtok",
+    "Gangtok hotel nights",
+    "Lunches outside Dzongu, chi and crafts",
+    "Room heaters if charged extra"
+  ],
+  "save_money": [
+    "Travel as four in one car; the car is the biggest cost and it does not rise with more people.",
+    "Swap the Lachung hotel for a family homestay and save about ₹4,000 per person over two nights.",
+    "Skip Zero Point and spend the morning at Yumthang only; that saves ₹3,000–4,500 per vehicle."
+  ],
+  "good_to_know": [
+    "Dzongu permits are issued in Mangan on working days; arrive before noon, and check current status before you travel.",
+    "Foreign nationals need a PAP; whether they are currently allowed into Dzongu is unclear, so ask your agent in writing.",
+    "There are no ATMs in Dzongu and none reliable in Lachung; carry cash.",
+    "NH10 and the Chungthang–Lachung road have closed for long spells since October 2023."
+  ],
+  "faqs": [
+    {"q": "What is Dzongu?", "a": "Dzongu is a reserved Lepcha homeland across the Teesta from Mangan, running up to Khangchendzonga National Park. Only Lepchas from Dzongu may own land there, and outsiders need a separate permit. It has no hotels, only family homestays, and is known for cardamom, waterfalls, Tholung Monastery and Lepcha food and language."},
+    {"q": "How do we get the Dzongu permit?", "a": "It is usually issued at the district office in Mangan on working days, against photo ID and photographs. Many homestays send your details ahead to speed it up. The fee is small or nil. Arrive in Mangan before noon. Rules and offices change: check current status before you travel."},
+    {"q": "Why include a night at Phodong?", "a": "It breaks the drive and lets you see Phodong and Labrang monasteries at a quiet hour, plus the ruins of Tumlong, the old capital. It also gives your body a gentle first night at about 1,500 m before Lachung. If you visit in December, ask about the pre-Losoong masked dance."},
+    {"q": "Is this trip good for couples?", "a": "Yes. The pace is easy, the Dzongu homestay is quiet and personal, and Lachung's heated rooms make cold nights pleasant. Couples who want privacy should ask the homestay for a room with an attached bathroom; not all have one."},
+    {"q": "What food will we eat in Dzongu?", "a": "Home cooking: rice or millet, dal, local greens, nettle soup, ferns, squash, sometimes chicken or pork, and pickles. Breakfast may be roti or rice. Many families offer chi, fermented millet beer served in a bamboo vessel and sipped through a bamboo straw. Tell your hosts about food restrictions in advance."},
+    {"q": "How cold is Lachung?", "a": "In winter, nights drop well below freezing and days hover around 0–8 °C. In April and May, expect about 2–15 °C, and in October and November about 0–12 °C. Zero Point is much colder and windier. Pack thermals, a down jacket, gloves and a warm hat."},
+    {"q": "Can the order be reversed?", "a": "Yes. You can do Lachung first and Dzongu at the end, which some people prefer so the trip finishes slowly. The only fixed point is the Dzongu permit, which is easiest to collect in Mangan on a weekday. Ask your agent to plan around permit office days."},
+    {"q": "What if we cannot get to Lachung?", "a": "If the road above Chungthang is closed, the plan can switch to an extra Dzongu night and a night at Singhik. Agree beforehand what refund you get for unused Lachung nights and the Zero Point share. Closures have been frequent since 2023: check current status before you travel."},
+    {"q": "Is mobile network available?", "a": "Phodong and Mangan usually have Jio, Airtel and BSNL. Dzongu has patchy coverage that varies by village. Lachung has patchy BSNL and Jio in parts of the village. Yumthang and Zero Point have little or none. Tell family you may be offline for a day or two."}
+  ]
+}

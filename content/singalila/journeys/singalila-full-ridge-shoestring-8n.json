@@ -1,0 +1,256 @@
+{
+  "slug": "singalila-full-ridge-shoestring-8n",
+  "title": "The full Singalila Ridge on a shoestring",
+  "region": "singalila",
+  "nights": 8,
+  "themes": [
+    "treks",
+    "solo-backpacking",
+    "homestays",
+    "kanchenjunga-views"
+  ],
+  "tier": "Shoestring",
+  "travel_mode": "On foot",
+  "stops": [
+    {
+      "place": "maneybhanjan",
+      "nights": 1
+    },
+    {
+      "place": "tumling",
+      "nights": 1
+    },
+    {
+      "place": "kalipokhri",
+      "nights": 1
+    },
+    {
+      "place": "sandakphu",
+      "nights": 1
+    },
+    {
+      "place": "phalut",
+      "nights": 1
+    },
+    {
+      "place": "gorkhey",
+      "nights": 1
+    },
+    {
+      "place": "samanden",
+      "nights": 1
+    },
+    {
+      "place": "rimbik",
+      "nights": 1
+    }
+  ],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 19000,
+  "cost_split": [
+    {
+      "item": "Shared jeep seats NJP to Maneybhanjan and Rimbik to NJP",
+      "inr": 1000
+    },
+    {
+      "item": "Dorms, huts, homestays and basic rooms, 8 nights with dinner and breakfast",
+      "inr": 9500
+    },
+    {
+      "item": "Licensed guide share for a pair, park entry and camera fee",
+      "inr": 6200
+    },
+    {
+      "item": "Lunches, tea, hot water and snacks",
+      "inr": 2300
+    }
+  ],
+  "best_months": [
+    0,
+    0,
+    1,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    2,
+    2,
+    1
+  ],
+  "pace": "Active",
+  "max_altitude_m": 3636,
+  "meta_description": "8 nights from ₹19,000: walk the whole Singalila Ridge from Maneybhanjan to Sandakphu and Phalut, then down through Gorkhey and Samanden to Rimbik.",
+  "summary": "The whole ridge, end to end, on a backpacker's budget. Walk up from Maneybhanjan via Tumling and Kalipokhri to Sandakphu, along the crest to Phalut, then down through the river villages of Gorkhey and Samanden to the jeep head at Rimbik. Dorm beds, homestays, dal-bhat and a shared guide. About ₹19,000 per person.",
+  "intro": [
+    "This is the Singalila trek in full: about 80 km over seven walking days, from the border bazaar at Maneybhanjan to the market village of Rimbik. You climb about 1,500 m in three days to Sandakphu, walk the open ridge 21 km to Phalut where West Bengal, Sikkim and Nepal meet, and spend two nights in farming villages below the ridge before the road. It is the best value long trek in the region, because the ridge is a lodge trek: no tents, no cook, no mules.",
+    "We keep it cheap with shared jeeps, dorm beds and homestays, lodge food and a guide shared between two. The guide is compulsory for every group in Singalila National Park, and park entry is paid at Maneybhanjan. Two nights, Phalut and Samanden, are very basic, so carry a warm sleeping bag and a head torch. Withdraw all your cash in Darjeeling, as there is no ATM on the trail. Fees, the Phalut hut and jeep times change; check current status before you travel."
+  ],
+  "highlights": [
+    "Seven walking days from Maneybhanjan to Rimbik",
+    "Everest, Lhotse, Makalu and Kanchenjunga from Sandakphu",
+    "The empty 21 km ridge from Sandakphu to Phalut",
+    "A homestay night in roadless Samanden",
+    "Rimbik's small market at the end of the trail"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Shared jeeps to Maneybhanjan",
+      "place": "maneybhanjan",
+      "overnight": "Maneybhanjan",
+      "drive": "≈ 70 km · 3–3.5 h to Darjeeling, then ≈ 26 km · 1–1.5 h by shared jeep",
+      "text": "Take a shared jeep from NJP or Siliguri to Darjeeling, about ₹250–350 a seat, and on to Maneybhanjan for ₹100–150. Hire your guide at the office for eight days, agree how the return day is counted, and buy snacks for the trail; prices rise with every lodge. Withdraw any cash you still need before you leave Darjeeling. Sleep in a simple lodge near the Land Rover stand and eat early.",
+      "meals": "Dinner",
+      "spend": "₹300 + ₹150 jeep seats + ₹700 room share"
+    },
+    {
+      "day": 2,
+      "title": "Chitrey and up to Tumling",
+      "place": "tumling",
+      "overnight": "Tumling",
+      "drive": "On foot ≈ 10.5 km · 4–5 h, about 800 m up",
+      "text": "Pay park entry and walk the steep stone path to Chitrey's chorten, the hardest 3 km of the trek, then on more easily via Lamaydhura and Meghma to Tumling at 2,970 m. The hamlet sits on the Nepal side of the ridge, with a dozen houses and lodges. Take a dorm bed, and if the evening is clear walk up to Tonglu, 20–40 minutes away, for sunset over the Kanchenjunga range.",
+      "meals": "Breakfast, dinner",
+      "spend": "₹550 dorm bed + ₹150 lunch"
+    },
+    {
+      "day": 3,
+      "title": "Through Gairibas to Kalipokhri",
+      "place": "kalipokhri",
+      "overnight": "Kalipokhri",
+      "drive": "On foot ≈ 13 km · 6–7 h",
+      "text": "Dawn at Tumling, then into Nepal at Jaubari and down through oak and bamboo to Gairibas, 2,621 m, the lowest dip of the ridge and red panda forest. Eat noodle soup at a tea shop and climb via Kaiyakatta to Kalipokhri at 3,186 m, a hamlet around a small black pond hung with prayer flags. Take a dorm bed, eat dal-bhat by the stove and sleep early; tomorrow's climb is short but you will feel the height above 3,000 m.",
+      "meals": "Breakfast, dinner",
+      "spend": "₹550 dorm bed + ₹150 lunch"
+    },
+    {
+      "day": 4,
+      "title": "Up to Sandakphu",
+      "place": "sandakphu",
+      "overnight": "Sandakphu",
+      "drive": "On foot ≈ 6 km · 2–3 h, about 450 m up",
+      "text": "A short climb past Bikheybhanjang, whose name carries the Nepali word for poison, to Sandakphu at 3,636 m, the highest point in West Bengal. Take a dorm bed in the trekkers' hut or a lodge and rest. Walk the summit in the afternoon and stay out for sunset. Ask your guide to arrange a packed lunch for the Phalut day and to confirm that the Phalut hut is open. Drink plenty of water and sleep early.",
+      "meals": "Breakfast, dinner",
+      "spend": "₹700 dorm bed + ₹200 lunch + ₹100 hot water"
+    },
+    {
+      "day": 5,
+      "title": "Along the ridge to Phalut",
+      "place": "phalut",
+      "overnight": "Phalut",
+      "drive": "On foot ≈ 21 km · 6–8 h",
+      "text": "Out at 5 am for the dawn: Everest, Lhotse and Makalu to the west, the Kanchenjunga massif to the north. Leave by 7 am along the open crest via Sabargram, with Kanchenjunga ahead all day. There is little water or shelter, so carry 2 litres each. Phalut, about 3,600 m, is a bare top at the meeting of West Bengal, Sikkim and Nepal. Sleep in the very basic trekkers' hut in your own sleeping bag.",
+      "meals": "Breakfast, packed lunch, dinner",
+      "spend": "₹600 hut bed + ₹200 packed lunch"
+    },
+    {
+      "day": 6,
+      "title": "Phalut dawn, down to Gorkhey",
+      "place": "gorkhey",
+      "overnight": "Gorkhey",
+      "drive": "On foot ≈ 15 km · 5–6 h, about 1,200 m down",
+      "text": "Climb to the top for dawn with Kanchenjunga close in front. Then descend steeply through forest, about 1,200 m, to Gorkhey, a farming village at about 2,390 m beside a cold stream near the Sikkim border. Green fields, running water and warmer air after days on the ridge. Take a bed in a family lodge, buy a bucket of hot water and wash properly for the first time in days.",
+      "meals": "Breakfast, dinner",
+      "spend": "₹700 bed + ₹150 lunch + ₹80 hot water"
+    },
+    {
+      "day": 7,
+      "title": "A short walk to Samanden",
+      "place": "samanden",
+      "overnight": "Samanden",
+      "drive": "On foot ≈ 1.5–2 h",
+      "text": "A rest day in all but name. Sleep in, then climb out of the Gorkhey valley through forest and fields to Samanden, a roadless hamlet of a few houses in a green hollow at roughly 2,500 m. There are no hotels: a few families take trekkers into their homes. Spend the afternoon watching the farm day, millet, maize and cattle, and eat dinner by the family's kitchen fire. One of the quietest nights in the region.",
+      "meals": "Breakfast, dinner",
+      "spend": "₹700 homestay bed + ₹150 lunch"
+    },
+    {
+      "day": 8,
+      "title": "Rammam and Srikhola to Rimbik",
+      "place": "rimbik",
+      "overnight": "Rimbik",
+      "drive": "On foot ≈ 5.5–6.5 h through villages and forest",
+      "text": "Walk an hour or so to Rammam, named for the river that rises in the Singalila range and flows east to the Rangeet, then descend through forest for 2.5–3 hours to the bridge at Srikhola. Eat lunch by the river, then walk the road up to Rimbik, about 2 hours, or take a jeep if one is going. Rimbik is a small market village at about 2,286 m. Find a room near the jeep stand and ask about the first jeep tomorrow.",
+      "meals": "Breakfast, dinner",
+      "spend": "₹700 room share + ₹200 lunch"
+    },
+    {
+      "day": 9,
+      "title": "Early jeep to Darjeeling and NJP",
+      "place": "rimbik",
+      "overnight": "",
+      "drive": "≈ 56 km · 4–5 h to Darjeeling, then ≈ 70 km · 3–3.5 h to NJP",
+      "text": "Shared jeeps from Rimbik to Darjeeling leave early, roughly 6–8 am, for about ₹200–300 a seat. Be at the stand early with your bag; seats fill fast in October. The road runs through forest and hill farms via Batasey and Maneybhanjan. Eat lunch near the Darjeeling motor stand and take a jeep down to NJP for an evening train. Thank your guide properly before you go. Jeep times change, so check current status before you travel.",
+      "meals": "Breakfast",
+      "spend": "₹250 + ₹300 jeep seats + ₹200 lunch"
+    }
+  ],
+  "stays": [
+    "singalila-shikhar-lodge-tumling",
+    "singalila-gta-trekkers-hut-sandakphu"
+  ],
+  "includes": [
+    "Shared jeep seats on all road legs",
+    "Eight nights in dorms, huts, homestays and basic rooms with dinner and breakfast",
+    "Licensed guide for eight days, shared by two",
+    "Singalila National Park entry and camera fee"
+  ],
+  "excludes": [
+    "Train or flight to NJP or Bagdogra",
+    "Porter",
+    "Sleeping bag",
+    "Jeep from Srikhola to Rimbik if you ride",
+    "Tips"
+  ],
+  "save_money": [
+    "Form a group of four or more at the Maneybhanjan guide office; on an eight-day trek the shared guide fee is the biggest saving available.",
+    "Buy biscuits, nuts, dried fruit and chocolate in Darjeeling, where they cost half the ridge price.",
+    "Walk from Srikhola to Rimbik instead of hiring a jeep; it is an easy two hours on the road."
+  ],
+  "good_to_know": [
+    "A licensed guide is compulsory throughout Singalila National Park; check current status before you travel.",
+    "Phalut and Samanden are very basic; carry a warm sleeping bag and a head torch.",
+    "Carry all your cash from Darjeeling; there is no ATM on the trail.",
+    "The park usually closes from mid-June to mid-September."
+  ],
+  "faqs": [
+    {
+      "q": "How long is the full Singalila trek?",
+      "a": "About 80 km of walking over seven days from Maneybhanjan to Rimbik, with the highest point at Sandakphu, 3,636 m. Adding the jeep journeys and a night at Maneybhanjan, it takes nine days from NJP back to NJP. Strong walkers sometimes do it in six walking days by skipping Samanden."
+    },
+    {
+      "q": "How much does this 8-night trek cost?",
+      "a": "About ₹19,000 per person for two people sharing a guide, from NJP back to NJP, indicative for 2025–26. That covers shared jeeps, eight nights in dorms, huts and homestays with dinner and breakfast, the guide, park entry and lunches. A solo walker paying the full guide fee needs about ₹25,000."
+    },
+    {
+      "q": "What are the hardest days?",
+      "a": "Day three, Tumling to Kalipokhri, at 13 km with a climb of about 550 m after Gairibas; day five, the 21 km ridge to Phalut; and day six, the 1,200 m descent to Gorkhey, which is hard on knees. Walking poles help a lot on the descents. Days seven and eight are gentle by comparison."
+    },
+    {
+      "q": "Do I need my own sleeping bag?",
+      "a": "For this trek, yes. Most ridge lodges give heavy quilts, but the Phalut hut and some homestays are basic, and Phalut nights fall well below freezing for much of the season. A bag rated to about minus 5 °C is right for October to April. You can hire one in Darjeeling if you do not own one."
+    },
+    {
+      "q": "What is it like to stay in Samanden?",
+      "a": "Simple and personal. There are no hotels, only a handful of families who take trekkers into their homes, with a basic room, quilts, an outside toilet and dinner and breakfast cooked in the family kitchen. Your guide arranges it by phone. If the village is full, Rammam, an hour on, has more beds."
+    },
+    {
+      "q": "Is there food and water all along the trail?",
+      "a": "Lodges and tea shops sell meals and boiled water at every overnight stop and at Gairibas and Kaiyakatta. The exception is Sandakphu to Phalut, where there is almost nothing for 21 km: carry a packed lunch and 2 litres of water each. A filter bottle saves money and plastic everywhere."
+    },
+    {
+      "q": "When should I do the full ridge?",
+      "a": "October and November give dry trails and the clearest mountain views. April is good for rhododendrons, with haze. December is very cold at Phalut, and snow from January to March can make the Phalut stretch difficult. The park usually closes from mid-June to mid-September, so the trek is not possible then."
+    },
+    {
+      "q": "Can I go without a porter?",
+      "a": "Yes, most shoestring trekkers do. Keep your pack to 8–10 kg including sleeping bag and warm layers. If your bag is heavier, a porter costs about ₹1,000–1,300 a day and can be shared between two. Hire one at Maneybhanjan through the guide office."
+    },
+    {
+      "q": "Is there mobile network on the trek?",
+      "a": "Patchy. Indian networks come and go along the ridge, and phones sometimes switch to Nepali networks. Phalut, Gorkhey and Samanden can be out of signal. Tell family you will be out of touch for several days, and rely on your guide's phone and local contacts for emergencies."
+    }
+  ]
+}

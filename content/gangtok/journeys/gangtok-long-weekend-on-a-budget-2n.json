@@ -1,0 +1,66 @@
+{
+  "slug": "gangtok-long-weekend-on-a-budget-2n",
+  "title": "A Gangtok long weekend on a budget",
+  "region": "gangtok",
+  "nights": 2,
+  "themes": ["long-weekends", "solo-backpacking", "monasteries", "food-trails"],
+  "tier": "Shoestring",
+  "travel_mode": "Shared jeeps",
+  "stops": [{"place": "gangtok", "nights": 2}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 5000,
+  "cost_split": [
+    {"item": "Shared jeep seats NJP–Gangtok and back", "inr": 900},
+    {"item": "Dorm bed or budget room share, 2 nights", "inr": 1600},
+    {"item": "Meals, momos and tea for 3 days", "inr": 1700},
+    {"item": "Ropeway, zoo, entry fees and shared taxi hops", "inr": 800}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2200,
+  "meta_description": "2 nights in Gangtok from ₹5,000: shared jeeps from NJP, a dawn at Tashi View Point, Ganesh Tok, Hanuman Tok, red pandas at the zoo and momos on MG Marg.",
+  "summary": "Two nights in Sikkim's capital for a Friday-to-Sunday break. Shared jeeps up and down NH10, a dorm or plain room near MG Marg, one full day on the ridge above town for Tashi View Point, Ganesh Tok, the Himalayan Zoological Park and Hanuman Tok, and evenings of momos and thukpa. About ₹5,000 per person, NJP back to NJP.",
+  "intro": [
+    "Gangtok runs along a ridge at about 1,650 m, and the best of it sits above the town, not in it. The Chogyals moved their capital here from Tumlong in 1894, and the town has grown down the slopes ever since, but the high ground to the north stayed quieter: a small Ganesh temple on a knoll, a zoo in mixed forest at Bulbuley, and Hanuman Tok, a hilltop temple looked after by the Indian Army. On a clear winter morning all three face Kanchenjunga across the valley.",
+    "This is the cheapest sensible way to see the town in a weekend. You ride shared jeeps from Siliguri, sleep in a dorm or a plain room within walking distance of MG Marg, and use shared taxis and your own legs for the ridge. We leave out Tsomgo Lake on purpose: with only one full day, a permit trip means a rushed morning and no time for the town. If you can add a night, add it, and buy a shared Tsomgo seat."
+  ],
+  "highlights": [
+    "Kanchenjunga at first light from Tashi View Point",
+    "Red pandas in the Himalayan Zoological Park at Bulbuley",
+    "Hanuman Tok, the Army-kept hilltop temple at about 2,200 m",
+    "The Deorali ropeway over the roofs of the capital",
+    "Thukpa and momos in the small places off MG Marg and Lal Bazaar"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Gangtok by shared jeep", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 114 km · 4–5 h by shared jeep", "text": "From NJP or Bagdogra take an auto or shared cab to the SNT stand in Siliguri or the Panitanki More area and buy a shared jeep seat to Gangtok for ₹350–500. Try to leave by noon so you arrive in daylight. NH10 follows the Teesta to Rangpo, where you cross into Sikkim; since the October 2023 flood the road has closed for days at a time, and jeeps then go round via Kalimpong, so check current status before you travel. Drop your bag near MG Marg, walk the car-free mall at dusk, and eat thukpa for about ₹120.", "meals": "On your own", "spend": "₹350–500 jeep seat + ₹200 dinner"},
+    {"day": 2, "title": "Tashi View Point, the zoo and Hanuman Tok", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 20 km round trip by shared taxi hops", "text": "Be at Tashi View Point, about 8 km north of town on the North Sikkim road, by 6 am in winter; a shared taxi or a ₹300–400 reserved hop gets you there. Kanchenjunga usually clouds over by mid-morning. Walk or hop back to Ganesh Tok, a tiny temple with prayer flags and a view over the town, then cross the road to the Himalayan Zoological Park, where red pandas and Himalayan black bears live in large forest enclosures; the entry fee is small. Hanuman Tok is a short ride above. In the afternoon ride the Deorali ropeway and walk back through Lal Bazaar.", "meals": "On your own", "spend": "₹500 taxi hops + small entry fees + ₹150 ropeway + ₹400 food"},
+    {"day": 3, "title": "Enchey Monastery and the jeep down", "place": "gangtok", "overnight": "", "drive": "≈ 114 km · 4–5 h by shared jeep", "text": "If your train is in the evening, walk up to Enchey Monastery at 7 am, when the monks are at prayer and the courtyard is quiet; it is about 3 km from MG Marg and free to enter. The present building dates from 1909. Have momos and tea for breakfast, then take the jeep down by 10 or 11 am. Buy your seat the evening before at the stand, because Sunday seats go fast. Allow five to six hours to NJP or Bagdogra, more if NH10 is shut and jeeps take the Kalimpong road. Check current status before you travel.", "meals": "On your own", "spend": "₹350–500 jeep seat + ₹150 breakfast"}
+  ],
+  "stays": [],
+  "includes": ["Shared jeep seats NJP–Gangtok and back", "Dorm bed or budget room share for 2 nights", "Simple meals, momos and tea", "Shared taxi hops to the ridge viewpoints", "Ropeway, zoo and small entry fees"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Tsomgo Lake and Nathu La permit tours", "Reserved cars", "Hotel rooms on MG Marg itself", "Shopping and souvenirs"],
+  "save_money": [
+    "Share a reserved taxi for the dawn run to Tashi View Point with two or three others from your hostel, which brings it to about ₹100 each.",
+    "Skip the ₹1,500–2,500 point tours sold on MG Marg: Ganesh Tok, the zoo and Hanuman Tok sit within 3 km of each other and can be walked.",
+    "Eat in the small kitchens around Lal Bazaar and Tibet Road, where a full plate costs ₹150–300 against ₹500 and more on the mall."
+  ],
+  "good_to_know": [
+    "MG Marg is car-free and no-smoking, and littering and spitting carry fines.",
+    "The zoo and some museums close one day a week; ask at your hostel before you set out.",
+    "Kanchenjunga views are best from October to early December; in the monsoon expect cloud every morning.",
+    "Foreign travellers need a free Restricted Area Permit to enter Sikkim, issued at Rangpo or online; check current status before you travel.",
+    "Weekend seats on Sunday jeeps to Siliguri sell out; book the evening before."
+  ],
+  "faqs": [
+    {"q": "Is two nights enough for Gangtok?", "a": "For the town itself, yes. Two nights give you one full day for the ridge viewpoints, the zoo, the ropeway and a monastery, with evenings on MG Marg. What you cannot fit in is Tsomgo Lake, which takes most of a day and needs a permit arranged the evening before. With a third night, add a shared Tsomgo seat for about ₹800–1,200."},
+    {"q": "How much does a weekend in Gangtok cost on a budget?", "a": "About ₹5,000 per person for two nights, indicative for 2025–26, from NJP back to NJP. That covers shared jeep seats both ways, a dorm bed or half a budget room, simple meals and small entry fees. Solo travellers in a ₹500–800 dorm can stay close to this; a private room on your own adds about ₹1,500."},
+    {"q": "Where do shared jeeps to Gangtok leave from in Siliguri?", "a": "From the SNT bus terminus area and the Panitanki More stand in Siliguri, and a few leave from near NJP station. Seats cost ₹350–500 and jeeps go when full, mostly between 7 am and 2 pm. The SNT bus is cheaper, about ₹250–350, but slower. From Bagdogra, take a shared cab to Siliguri first."},
+    {"q": "Is NH10 to Gangtok open?", "a": "Usually, but not always. Since the Teesta flood of October 2023, parts of NH10 have shut after landslides, sometimes for several days. Jeeps then take the longer road via Kalimpong, Pedong and Rhenock, which adds two to three hours and some fare. Check current status before you travel and keep your return train late in the day."},
+    {"q": "What time should I go to Tashi View Point?", "a": "Be there before sunrise, around 5.30–6 am in winter and earlier in spring. Kanchenjunga is clearest in the first hour and usually disappears into cloud by 9 or 10 am. A shared taxi from town is cheapest but early ones are scarce, so many travellers share a reserved taxi for ₹300–400 a car."},
+    {"q": "What animals can I see at the Himalayan Zoological Park?", "a": "The park at Bulbuley, near Ganesh Tok, keeps Himalayan animals in large, forested enclosures along a hill road. Red pandas and Himalayan black bears are the ones most visitors look for. It is a walk of a couple of hours on slopes, so wear proper shoes. The entry fee is small and the park closes one day a week; check before you go."},
+    {"q": "Is Gangtok safe for solo travellers?", "a": "Gangtok is generally regarded as one of the safer hill towns in India, including for women travelling alone. MG Marg is policed, well lit and busy until about 9 pm. Use the usual care late at night, agree taxi fares before you get in, and keep your ID on you, as checkpoints sometimes ask for it."},
+    {"q": "When is the best time for a Gangtok weekend?", "a": "October to December gives the clearest views and dry roads, and March to May brings rhododendrons and mild days of about 15–22 °C. January and February are cold but clear. June to September is the monsoon, with cloud, rain and landslides on NH10, which makes a two-night trip risky because one road closure can eat it."},
+    {"q": "Can I see Kanchenjunga from Gangtok town?", "a": "Yes, on clear mornings, from Tashi View Point, Ganesh Tok, Hanuman Tok and some hotel roofs on the ridge. The massif lies to the north-west across the valley. Views are most reliable from October to early December and on winter mornings. By late morning cloud usually builds, so plan viewpoints before 8 am."}
+  ]
+}

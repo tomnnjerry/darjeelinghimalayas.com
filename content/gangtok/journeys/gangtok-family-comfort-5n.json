@@ -1,0 +1,71 @@
+{
+  "slug": "gangtok-family-comfort-5n",
+  "title": "Gangtok and Rumtek for families, in comfort",
+  "region": "gangtok",
+  "nights": 5,
+  "themes": ["family-trips", "monasteries", "snow-and-passes", "kanchenjunga-views"],
+  "tier": "Comfort",
+  "travel_mode": "Reserved car",
+  "stops": [{"place": "gangtok", "nights": 4}, {"place": "rumtek", "nights": 1}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 26000,
+  "cost_split": [
+    {"item": "Reserved car and driver for 6 days, shared by 4", "inr": 6000},
+    {"item": "Tsomgo and Baba Mandir permit vehicle, shared by 4", "inr": 1500},
+    {"item": "Gangtok guesthouse, 4 nights twin share with breakfast", "inr": 8000},
+    {"item": "Rumtek retreat, 1 night with meals", "inr": 3500},
+    {"item": "Zoo, ropeway, museum and entry fees", "inr": 2000},
+    {"item": "Lunches, dinners and snacks", "inr": 5000}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 4000,
+  "meta_description": "5 nights from ₹26,000: a calm Gangtok guesthouse, a car throughout, Tsomgo Lake at 3,753 m, the zoo and ropeway, and a last night among farms below Rumtek.",
+  "summary": "Six unhurried days for families who want warm rooms and one car throughout. Four nights in a quiet Gangtok guesthouse, a day to Tsomgo Lake and Baba Mandir, a day for the zoo, the ropeway and the ridge temples, a monastery day, and a last night at a small retreat below Rumtek. About ₹26,000 per person, four sharing a car.",
+  "intro": [
+    "Families in Gangtok usually lose more time to logistics than to anything else: hunting for taxis on steep streets, packing and repacking, and long point tours that drag children round fifteen stops in a day. This trip fixes that with one base, one car and one extra night. You stay four nights in a guesthouse a short walk from MG Marg, such as Mintokling, set around a garden, or Netuk House, a Sikkimese family home with home-cooked meals, and keep the same driver for every outing.",
+    "The big day is Tsomgo Lake at 3,753 m, frozen for much of the winter, and Baba Mandir. We leave out Nathu La on purpose: at 4,310 m it is hard on small children and older relatives, and the lake gives you snow and height without that last climb. The other days stay low and gentle, and the trip ends across the valley at Rumtek Bamboo Retreat, among farms below the Karmapa's monastery, so the drive home starts calm."
+  ],
+  "highlights": [
+    "Tsomgo Lake and Baba Mandir with your own permit vehicle",
+    "Red pandas at the Himalayan Zoological Park",
+    "The ropeway over Gangtok and an evening on car-free MG Marg",
+    "Rumtek Monastery and the golden stupa of the 16th Karmapa",
+    "A quiet farm-side night at a small retreat below Rumtek"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to a quiet Gangtok guesthouse", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 114 km · 4–5 h by reserved car", "text": "Your car meets you at NJP or Bagdogra and follows NH10 up the Teesta gorge to Rangpo, where you enter Sikkim, then on through Singtam to Gangtok. Stop for lunch at Rangpo or Singtam. Since the October 2023 flood NH10 has closed after landslides at times and cars detour via Kalimpong, so check current status before you travel. Check in at your guesthouse and give your driver photo IDs and two passport photos per person for tomorrow's Tsomgo permit. In the evening walk MG Marg, where there are no cars, plenty of benches and ice cream for the children.", "meals": "Breakfast", "spend": "₹300 lunch + ₹500 dinner"},
+    {"day": 2, "title": "Tsomgo Lake and Baba Mandir", "place": "tsomgo-lake", "overnight": "Gangtok", "drive": "≈ 38–40 km each way · 1.5–2 h each way by permit vehicle", "text": "Your own car cannot go up; a registered permit vehicle collects you around 8 am. The road climbs through Kyongnosla Alpine Sanctuary, rhododendron and fir, to Tsomgo Lake at 3,753 m. For children this is the snow day: from about December to April the shore is white, and boots and coats can be hired at roadside shops for ₹100–200. Keep the time at the lake to an hour, walk slowly and give children warm drinks. Continue to Baba Mandir, the shrine to Sepoy Harbhajan Singh, then come down to Gangtok for a late lunch and a rest. Check current status before you travel.", "meals": "Breakfast", "spend": "₹1,500 vehicle share + ₹300 boots and coats + ₹200 yak photo"},
+    {"day": 3, "title": "Zoo, ridge temples, ropeway and flowers", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 20 km within town by reserved car", "text": "Start at the Himalayan Zoological Park at Bulbuley, where red pandas and Himalayan black bears live in big forest enclosures; your car can drive the loop road, which helps with small legs. Ganesh Tok is across the road and Hanuman Tok, kept by the Indian Army, just above, both with Kanchenjunga on clear mornings. After lunch ride the ropeway from Deorali over the town and visit the Flower Exhibition Centre near the Ridge, best for orchids in spring. Keep the evening free for the guesthouse garden or a board game, because tomorrow is a longer day.", "meals": "Breakfast", "spend": "₹500 zoo, ropeway and flower show fees + ₹800 food"},
+    {"day": 4, "title": "Monasteries, Tibetology and Banjhakri Falls", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 25 km within town by reserved car", "text": "See Enchey Monastery in the morning, when monks are at prayer; the present building dates from 1909. Drive down to Deorali for the Namgyal Institute of Tibetology, opened in 1958, and the Do-drul Chorten, where children love turning the 108 prayer wheels. After lunch drive out to Banjhakri Falls and Energy Park, about 7 km from town, a landscaped park round a waterfall with statues from the shamanic stories of the Banjhakri, the forest healer of Nepali folklore. There is a small entry fee. Back in town, shop for prayer flags, small thangkas and woollens on MG Marg.", "meals": "Breakfast", "spend": "₹300 entry fees + ₹800 food"},
+    {"day": 5, "title": "Across the valley to Rumtek", "place": "rumtek", "overnight": "Rumtek", "drive": "≈ 24 km · 1–1.5 h by reserved car", "text": "Check out after breakfast and drive down to Ranipool and up the far ridge to Rumtek, about 24 km. Carry photo ID for the police check at the gate. The monastery was rebuilt by the 16th Karmapa after he left Tibet in 1959 and finished in 1966; the golden stupa behind the main hall holds his relics. Stop at Lingdum, a large forest monastery, on the way if the children are not tired. Then go down to Rumtek Bamboo Retreat, among farms and forest on the slope below, for organic food, a walk on village paths and an early night.", "meals": "Breakfast, lunch, dinner", "spend": "₹3,500 retreat with meals + small donations"},
+    {"day": 6, "title": "Rumtek to NJP or Bagdogra", "place": "rumtek", "overnight": "", "drive": "≈ 115 km · 4.5–5 h by reserved car", "text": "After a slow breakfast, the car drops to Ranipool and joins NH10 at Singtam for the run down the Teesta to Rangpo and Siliguri, which spares you Gangtok's morning traffic. Pack snacks and water for the road and give children motion sickness tablets before the bends if they need them. Allow five hours to NJP or Bagdogra, more if NH10 is shut and the car goes round via Kalimpong, and book trains or flights for the afternoon. Check current status before you travel, and settle the driver's tip before you unload.", "meals": "Breakfast", "spend": "₹400 lunch on the road + driver's tip"}
+  ],
+  "stays": ["gangtok-mintokling-guest-house", "gangtok-netuk-house", "rumtek-bamboo-retreat"],
+  "includes": ["Reserved car and driver for 6 days, shared by four", "Tsomgo and Baba Mandir permit vehicle and permits", "Gangtok guesthouse, 4 nights twin share with breakfast", "Rumtek Bamboo Retreat, 1 night with meals", "Zoo, ropeway, museum, park and flower show fees"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Nathu La", "Yak rides, boots and coats at Tsomgo", "Driver's tip", "Shopping"],
+  "save_money": [
+    "Travel in March, April or the first half of October, when guesthouse rates are often lower than in the Durga Puja, Diwali and Christmas weeks.",
+    "Ask your guesthouse to arrange the Tsomgo permit vehicle; rates are broadly set by the local taxi syndicate, and you avoid a tour-desk mark-up.",
+    "Skip the yak rides and paid photo stops at Tsomgo, which add up quickly for a family; the snow itself is free."
+  ],
+  "good_to_know": [
+    "Tsomgo needs a permit and a registered vehicle, arranged a day ahead with photo ID and passport photos for every member of the family; check current status before you travel.",
+    "Foreign travellers need the Sikkim Restricted Area Permit and a Protected Area Permit for Tsomgo, usually in a group of two or more.",
+    "Children under about five can find Tsomgo's height and cold hard; watch for headache, unusual sleepiness or vomiting.",
+    "The zoo and some museums close one day a week; your driver will know which.",
+    "MG Marg is car-free and no-smoking, with fines for littering."
+  ],
+  "faqs": [
+    {"q": "Is Tsomgo Lake safe for children?", "a": "For most healthy children over about five, yes, because the visit is short and you sleep back in Gangtok at about 1,650 m. Keep them warm, walk slowly, give water and keep the stay to an hour. Infants and children with breathing problems are better left out; ask your doctor. Signs to watch for are headache, vomiting and unusual sleepiness."},
+    {"q": "Why skip Nathu La on a family trip?", "a": "Nathu La is at 4,310 m, the climb from Tsomgo is steep, and the cold and wind at the border are hard on small children and older relatives. It is also open to Indian nationals only and commonly closed on Mondays and Tuesdays. Tsomgo gives you snow and the mountain road without that extra height."},
+    {"q": "Which Gangtok hotel suits families?", "a": "We like guesthouses a short walk from MG Marg rather than tall hotels on the highway. Mintokling Guest House is set around a garden and is quiet at night; Netuk House is a Sikkimese family home with traditional decoration and home-cooked food. Ask for interconnecting or family rooms and a heater in winter, and book early for October and May."},
+    {"q": "Can we keep our car for the Tsomgo trip?", "a": "Usually not. Tsomgo and Nathu La need a permit issued to a vehicle registered for the route, so a car from Siliguri or a Gangtok city taxi without that permit cannot go. Your driver or guesthouse books a permit vehicle the day before, and your own car rests that day."},
+    {"q": "How much does this family trip cost?", "a": "About ₹26,000 per person for five nights, four sharing a car and twin rooms, indicative for 2025–26. A family of two adults and two children usually pays roughly ₹80,000–90,000 in all, depending on rooms and children's ages. The car and the Gangtok guesthouse are the biggest costs."},
+    {"q": "What is Rumtek Bamboo Retreat like?", "a": "A small eco-minded retreat on the slope below Rumtek, among farms and forest, with organic food and quiet rooms, about an hour from Gangtok. It is a calm last night after the town and is close to the monastery. Rates run about ₹5,000–9,000 a room with meals, indicative; book ahead in peak months."},
+    {"q": "What is there for children in Gangtok?", "a": "The Himalayan Zoological Park with red pandas, the ropeway from Deorali, the Banjhakri Falls park with its waterfall and folklore statues, the Flower Exhibition Centre, turning prayer wheels at the Do-drul Chorten and car-free MG Marg in the evening. Tsomgo Lake gives snow from about December to April."},
+    {"q": "When is the best time for a family trip to Gangtok?", "a": "March to May has mild days of about 15–22 °C and flowers, and October to December gives clear views and dry roads. School holidays in May and October fill hotels, so book early. January and February are cold but bright, with more snow at Tsomgo. Avoid June to September, when landslides can close NH10."},
+    {"q": "How do we handle the winding roads with children?", "a": "Seat children who get car sick by a window in the front row, give them a light meal before the drive, and use motion sickness tablets a doctor approves. Ask the driver to stop every hour or so. The NJP–Gangtok road has gentler bends than the passes, and the Tsomgo road is the twistiest part of this trip."}
+  ]
+}

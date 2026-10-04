@@ -1,0 +1,73 @@
+{
+  "slug": "gangtok-backpacker-week-7n",
+  "title": "A backpacker week in East Sikkim",
+  "region": "gangtok",
+  "nights": 7,
+  "themes": ["solo-backpacking", "monasteries", "homestays", "food-trails"],
+  "tier": "Shoestring",
+  "travel_mode": "Shared jeeps",
+  "stops": [{"place": "gangtok", "nights": 4}, {"place": "rumtek", "nights": 1}, {"place": "aritar", "nights": 2}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 16000,
+  "cost_split": [
+    {"item": "Shared jeeps and shared taxis for the whole loop", "inr": 1800},
+    {"item": "Tsomgo and Baba Mandir shared seat, with permit", "inr": 1100},
+    {"item": "Gangtok dorm bed or room share, 4 nights", "inr": 3200},
+    {"item": "Rumtek and Aritar homestays, 3 nights with dinner and breakfast", "inr": 4500},
+    {"item": "Meals, tea and momos", "inr": 4000},
+    {"item": "Entry fees, ropeway, zoo and boating", "inr": 1400}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 4000,
+  "meta_description": "7 nights in East Sikkim from ₹16,000: Gangtok dorms, a shared seat to Tsomgo Lake, a night at Rumtek, two at Aritar's lake, all by shared jeep and taxi.",
+  "summary": "Eight days on shared jeeps for travellers with time and a tight budget. Four nights in Gangtok with a shared seat to Tsomgo Lake and days on foot, a homestay night beside Rumtek Monastery, and two slow nights at Aritar's lake before the jeep home from Rhenock. About ₹16,000 per person, NJP back to NJP.",
+  "intro": [
+    "East Sikkim is small enough to cross by shared transport in a week, and cheap enough if you sleep in dorms and homestays. Gangtok is the hub: every jeep stand, tour desk and permit office is here, and the town's monasteries and viewpoints can be walked. Across the valley, Rumtek has been the seat in exile of the Karma Kagyu school since the 16th Karmapa rebuilt it in the 1960s. South-east, near the West Bengal border, Aritar sits around one of the oldest natural lakes in Sikkim, with farm homestays and almost no tour traffic.",
+    "We give Gangtok four nights because that leaves room for one permit trip to Tsomgo Lake at 3,753 m, a day for the ridge temples and the zoo, a day of monasteries, and a spare if rain or a road closure gets in the way. Then the trip slows down. You sleep beside Rumtek for dawn prayers, change shared taxis through Ranipool and Rorathang to Aritar, and leave from Rhenock for Siliguri. The whole loop costs about ₹2,000 a day."
+  ],
+  "highlights": [
+    "A shared seat to frozen Tsomgo Lake and Baba Mandir",
+    "Dawn horns and drums at Rumtek",
+    "Walking Gangtok's monasteries and viewpoints instead of hiring taxis",
+    "Rowing on Lampokhari Lake and the climb to Mankhim",
+    "Thukpa, momos and sha phaley in Lal Bazaar"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Gangtok by shared jeep", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 114 km · 4–5 h by shared jeep", "text": "From NJP take an auto to the SNT stand in Siliguri or Panitanki More and buy a shared jeep seat to Gangtok for ₹350–500, or the SNT bus for less. NH10 runs along the Teesta to Rangpo, where Sikkim begins. Since the October 2023 flood the road has closed at times and jeeps detour via Kalimpong, so check current status before you travel. Find a dorm bed around Tibet Road or Development Area for ₹500–800. In the evening ask two or three registered tour desks on MG Marg for a Tsomgo shared seat for day 2 and hand over your ID.", "meals": "On your own", "spend": "₹350–500 jeep seat + ₹600 dorm + ₹200 dinner"},
+    {"day": 2, "title": "A shared seat to Tsomgo Lake", "place": "tsomgo-lake", "overnight": "Gangtok", "drive": "≈ 38–40 km each way · 1.5–2 h by shared tour jeep", "text": "The shared jeep leaves around 7–8 am and climbs through Kyongnosla Alpine Sanctuary to Tsomgo Lake at 3,753 m, about 836 m long and frozen white for much of the winter. Tsomgo is usually read as source of the lake. Walk slowly at this height and keep your time by the water short if you feel breathless. The tour continues to Baba Mandir, the shrine to Sepoy Harbhajan Singh, before turning back. You are in Gangtok by mid-afternoon. Permit rules change, so check current status before you travel. Eat hot thukpa in Lal Bazaar to warm up.", "meals": "On your own", "spend": "₹800–1,200 shared seat + ₹150 tea and noodles + ₹250 dinner"},
+    {"day": 3, "title": "Ganesh Tok, the zoo and Hanuman Tok on foot", "place": "gangtok", "overnight": "Gangtok", "drive": "On foot, about 10 km with climbs", "text": "Walk uphill from MG Marg past the White Hall and the Ridge to Ganesh Tok, a small temple on a knoll with prayer flags and a view over the town. Across the road is the Himalayan Zoological Park, where red pandas and Himalayan black bears live in large forest enclosures; walking its loop road takes about two hours. Continue up to Hanuman Tok, a hilltop temple kept by the Indian Army at about 2,200 m, for Kanchenjunga if the morning is clear. Come down by shared taxi to the Deorali ropeway and ride over the town before tea.", "meals": "On your own", "spend": "Small zoo fee + ₹150 ropeway + ₹100 taxi + ₹400 food"},
+    {"day": 4, "title": "Enchey, the Do-drul Chorten and Tibetology", "place": "gangtok", "overnight": "Gangtok", "drive": "On foot, with ₹100–200 taxi hops", "text": "Start at Enchey Monastery for morning prayers. The present building dates from 1909, and the local story says the tantric master Lama Drupthob Karpo flew here and blessed the spot. Take a shared taxi down to Deorali and give two hours to the Namgyal Institute of Tibetology, opened in 1958, with its thangkas and Tibetan texts. Next door, walk clockwise round the Do-drul Chorten and its 108 prayer wheels. Keep this as your spare day if Tsomgo was postponed, and shift the monasteries to the afternoon. In the evening try sha phaley, fried bread stuffed with meat, in Lal Bazaar.", "meals": "On your own", "spend": "₹200 taxi hops + small entry fees + ₹400 food"},
+    {"day": 5, "title": "Shared taxi to Rumtek", "place": "rumtek", "overnight": "Rumtek", "drive": "≈ 24 km · 1–1.5 h by shared taxi", "text": "Shared taxis to Rumtek leave Gangtok through the day for a small fare; ask at your hostel which stand they use. The road drops to Ranipool and climbs the ridge opposite. Carry ID for the police check at the monastery gate. Walk through the courtyard to the main hall, the Karma Shri Nalanda Institute and the golden stupa holding the relics of the 16th Karmapa, who rebuilt Rumtek after leaving Tibet in 1959. In the afternoon walk down to the quieter old Rumtek monastery. Sleep in a homestay or guesthouse in the village, about ₹1,500 with meals.", "meals": "Breakfast, dinner", "spend": "₹100 taxi seat + ₹1,500 homestay with meals + ₹150 lunch"},
+    {"day": 6, "title": "Rumtek dawn and across to Aritar", "place": "aritar", "overnight": "Aritar", "drive": "≈ 70 km · 3.5–4.5 h by shared taxis via Ranipool, Rorathang and Rhenock", "text": "Get up for the morning horns at Rumtek, then take a shared taxi down to Ranipool. From there, shared jeeps run south along the river to Rorathang and on to Rhenock; change as needed, paying ₹80–150 a leg. From Rhenock a local taxi share climbs to Aritar in about 30 minutes. It is a slow day of waiting at stands, so start early and keep snacks handy. Check into an Aritar homestay, wash off the dust, and walk down to Lampokhari Lake at dusk, when the boats are coming in.", "meals": "Breakfast, dinner", "spend": "₹350 in jeep and taxi seats + ₹1,500 homestay with meals + ₹150 lunch"},
+    {"day": 7, "title": "Lampokhari Lake and the Mankhim ridge", "place": "aritar", "overnight": "Aritar", "drive": "On foot", "text": "Row across Lampokhari Lake in the morning for a small fee, then walk the shore path. Lampokhari is one of the oldest natural lakes in Sikkim, long, narrow and ringed by forest. After lunch take the road and steps up Mankhim hill, about an hour from the lake on foot, to the hilltop temple of the Rai community and a wide view over Aritar and the hills towards Kalimpong. On clear days from October to March the snows show to the north-west. Back at the homestay, ask your hosts about the jeeps from Rhenock tomorrow.", "meals": "Breakfast, dinner", "spend": "₹1,500 homestay with meals + ₹100 boating + ₹150 lunch"},
+    {"day": 8, "title": "Rhenock to Siliguri by shared jeep", "place": "aritar", "overnight": "", "drive": "≈ 120 km · 4.5–5 h by shared jeep", "text": "Take an early taxi share down to Rhenock and buy a shared jeep seat to Siliguri for about ₹250–350; most leave in the morning. The jeep goes down to Rangpo and along NH10 by the Teesta, or, when NH10 is shut, round through Pedong and Kalimpong instead. From Siliguri an auto runs to NJP and shared cabs to Bagdogra. Allow the whole day and keep your train for the evening. Check current status before you travel, because one landslide can add three hours to this ride.", "meals": "Breakfast", "spend": "₹50 taxi share + ₹250–350 jeep seat + ₹150 lunch"}
+  ],
+  "stays": [],
+  "includes": ["All shared jeep and shared taxi seats on the loop", "Shared Tsomgo Lake and Baba Mandir seat with permit", "Gangtok dorm bed or room share for 4 nights", "Rumtek and Aritar homestays with dinner and breakfast", "Zoo, ropeway, museum and boating fees"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Nathu La permit and vehicle", "Reserved cars", "Yak rides and boot hire at Tsomgo", "Shopping and souvenirs"],
+  "save_money": [
+    "Stay in Gangtok's hostels around Tibet Road and Development Area, where dorm beds cost ₹500–800 and the jeep stands are a short walk away.",
+    "Buy one shared Tsomgo seat and walk everything else in Gangtok; the ridge temples, the zoo and the monasteries are all within a few kilometres.",
+    "Travel from Rumtek to Aritar by local shared jeeps through Ranipool and Rhenock rather than a reserved car, which would cost ₹3,000–4,000."
+  ],
+  "good_to_know": [
+    "Foreign travellers need the free Sikkim Restricted Area Permit, from Rangpo or online, and a Protected Area Permit in a group for Tsomgo; check current status before you travel.",
+    "Rumtek has a police ID check at the gate.",
+    "Shared jeeps on the Ranipool–Rhenock leg are fewer after 2 pm; start early.",
+    "Hostel dorms in Gangtok fill in October, November and the Durga Puja and Diwali weeks; book ahead.",
+    "Homestays at Rumtek and Aritar take cash; carry enough from Gangtok."
+  ],
+  "faqs": [
+    {"q": "Can I travel East Sikkim on ₹2,000 a day?", "a": "Yes, outside the permit trips. Dorm beds in Gangtok cost ₹500–800, homestays with two meals ₹1,200–2,000, shared jeep seats ₹100–500 and a plate of momos ₹80–150. One shared Tsomgo seat adds about ₹1,000. The trips that break the budget are Nathu La and the Silk Route, which usually need a vehicle hired by the day."},
+    {"q": "How do I get a shared seat to Tsomgo Lake?", "a": "Go to registered tour desks around MG Marg the evening before, ask two or three for a shared seat on a Tsomgo and Baba Mandir jeep, and hand over a photo ID and passport photos. The desk adds you to the permit and a vehicle, usually for ₹800–1,200. Check current status before you travel, because permit rules change."},
+    {"q": "Where should backpackers stay in Gangtok?", "a": "Around Tibet Road, Development Area and the lanes below MG Marg, where hostels offer dorm beds for ₹500–800 and plain rooms start around ₹1,500. Staying central saves taxi money, because the jeep stands, tour desks and the mall are all close. Ask about hot water and heating before you pay, especially in winter."},
+    {"q": "How do I get from Rumtek to Aritar by public transport?", "a": "Take a shared taxi from Rumtek down to Ranipool, then shared jeeps south to Rorathang and Rhenock, changing where needed, and a local taxi share from Rhenock up to Aritar. It is about 70 km and takes 3.5–4.5 hours with waits, for roughly ₹300–400 in all. Start before 9 am, as jeeps thin out in the afternoon."},
+    {"q": "Is Aritar worth visiting?", "a": "Yes, if you want quiet after Gangtok. It has Lampokhari Lake, one of the oldest natural lakes in Sikkim, with rowing boats, the climb to Mankhim's Rai temple, farm homestays and very few tour groups. It is also on the shared jeep route home through Rhenock, so it costs little extra to stop there."},
+    {"q": "Do I need a permit for Rumtek or Aritar?", "a": "Indian nationals need no permit for Rumtek, Aritar or Gangtok, only photo ID, which Rumtek's gate police check. Foreign travellers need the Restricted Area Permit to enter Sikkim, free from the Rangpo check post or online. Tsomgo needs a separate permit for everyone. Check current status before you travel."},
+    {"q": "What food should I try in Gangtok?", "a": "Momos, steamed or fried, and thukpa, the noodle soup, are everywhere. Try sha phaley, fried bread stuffed with meat; gyathuk, a Tibetan noodle soup; and churpi, the hard yak cheese chewed like a sweet. In homestays you may get gundruk, fermented greens, and sisnu, nettle soup. A full meal in the small places off MG Marg costs ₹150–300."},
+    {"q": "Can women travel this route alone?", "a": "Many do. Sikkim is generally regarded as one of the safer parts of India for women travelling alone, and shared jeeps are full of local families and students. Use the usual care after dark, sit near other women in jeeps if you prefer, and tell your homestay your plans. Some Gangtok hostels offer women-only dorms."},
+    {"q": "What if NH10 is closed when I need to leave?", "a": "Jeeps then take the old road via Kalimpong or, from Rhenock, via Pedong and Kalimpong, which adds two to three hours. That is why this trip ends from Aritar, already on the Rhenock side. Keep your train or flight for the evening, or add a buffer night in Siliguri. Check current status before you travel."}
+  ]
+}

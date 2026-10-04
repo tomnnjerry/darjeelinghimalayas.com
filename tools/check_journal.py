@@ -10,11 +10,17 @@ ROOT = Path(__file__).resolve().parent.parent / "content"
 sys.path.insert(0, str(Path(__file__).parent))
 from check_region import BANNED  # noqa: E402
 
-slugs = json.loads((ROOT / "_slugs.json").read_text(encoding="utf-8"))
+PLAN = json.loads((ROOT / "_plan.json").read_text(encoding="utf-8"))
+slugs = [k for k in PLAN if not k.startswith("_")]
 known = {k: set() for k in ("place", "journey", "stay", "guide", "festival")}
-for land in slugs.values():
-    for k in known:
-        known[k] |= set(land[k + "s"])
+for land in slugs:
+    base = ROOT / land
+    for kind in ("place", "journey", "guide"):
+        known[kind] |= {p.stem for p in (base / (kind + "s")).glob("*.json")}
+    for kind in ("stay", "festival"):
+        f = base / (kind + "s.json")
+        if f.exists():
+            known[kind] |= {d["slug"] for d in json.loads(f.read_text(encoding="utf-8"))}
 errors, warns = [], []
 only = set(sys.argv[1:])
 files = sorted((ROOT / "journal").glob("*.json"))
@@ -33,7 +39,7 @@ for f in files:
     if d["slug"] in seen:
         errors.append(f"{w}: duplicate slug")
     seen.add(d["slug"])
-    for k in ("title", "category", "date", "regions", "meta_description", "summary", "sections", "faqs", "cta"):
+    for k in ("title", "category", "date", "regions", "meta_description", "summary", "sections", "faqs"):
         if not d.get(k):
             errors.append(f"{w}: missing {k}")
     if d.get("title", "").endswith("."):
