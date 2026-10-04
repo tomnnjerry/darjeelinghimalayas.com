@@ -552,7 +552,47 @@
    "source": "https://commons.wikimedia.org/wiki/File:View_from_Tiger_Hill.jpg"
   }
  ],
- "place:tinchuley": [],
+ "place:tinchuley": [
+  {
+   "file": "File:Tinchuley in Darjeeling.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Tinchuley_in_Darjeeling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Tinchuley_in_Darjeeling.jpg/1920px-Tinchuley_in_Darjeeling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4080,
+   "height": 3072,
+   "landscape": true,
+   "description": "Morning view of cloudy hills of Tinchuley in West Bengal",
+   "author": "Susmitad830",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tinchuley_in_Darjeeling.jpg"
+  },
+  {
+   "file": "File:Tree canopies (West Bengal, India, 2013).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Tree_canopies_%28West_Bengal%2C_India%2C_2013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Tree_canopies_%28West_Bengal%2C_India%2C_2013%29.jpg/1920px-Tree_canopies_%28West_Bengal%2C_India%2C_2013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4000,
+   "height": 3000,
+   "landscape": true,
+   "description": "Tinchuley",
+   "author": "Indrani911basu",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tree_canopies_(West_Bengal,_India,_2013).jpg"
+  },
+  {
+   "file": "File:Tinchuley, West Bengal, India (2013).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Tinchuley%2C_West_Bengal%2C_India_%282013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Tinchuley%2C_West_Bengal%2C_India_%282013%29.jpg/1920px-Tinchuley%2C_West_Bengal%2C_India_%282013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3000,
+   "height": 4000,
+   "landscape": false,
+   "description": "Tinchuley",
+   "author": "Indrani911basu",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tinchuley,_West_Bengal,_India_(2013).jpg"
+  }
+ ],
  "place:ahaldara": [],
  "place:chimney": [],
  "place:dow-hill": [
