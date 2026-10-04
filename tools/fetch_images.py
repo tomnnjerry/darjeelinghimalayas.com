@@ -1,6 +1,6 @@
 """Build content/images.json: credited Wikimedia Commons photos for every page.
 
-Usage: python tools/fetch_images.py [region ...] [--force]
+Usage: python tools/fetch_images.py [region ...] [--force] [--only=place|exp|stay|fest|blog]
 
 Incremental: keys already in images.json are kept unless --force.
 Sources, in order: the entity's English Wikipedia article images (curated by
@@ -88,6 +88,7 @@ def jobs_for_region(slug):
 
 def main():
     force = "--force" in sys.argv
+    only = tuple(a.split("=", 1)[1] + ":" for a in sys.argv[1:] if a.startswith("--only="))  # e.g. --only=place
     regions = [a for a in sys.argv[1:] if not a.startswith("--")] or REGIONS
     images = read(OUT) if OUT.exists() else {}
     # re-apply the current filter to photos saved by earlier runs
@@ -103,6 +104,8 @@ def main():
             jobs = [j for j in jobs if force or not images.get(j[0])]
         else:
             jobs = [j for j in jobs_for_region(slug) if force or not images.get(j[0])]
+        if only:
+            jobs = [j for j in jobs if j[0].startswith(only)]
         print(f"{slug}: {len(jobs)} lookups")
 
         def run(job):
@@ -114,11 +117,13 @@ def main():
                 recs = []
             return key, recs
 
-        with ThreadPoolExecutor(max_workers=3) as pool:
-            for key, recs in pool.map(run, jobs):
+        with ThreadPoolExecutor(max_workers=1) as pool:
+            for n, (key, recs) in enumerate(pool.map(run, jobs), 1):
                 images[key] = recs
                 if not recs:
-                    print("  no photo:", key)
+                    print("  no photo:", key, flush=True)
+                if n % 15 == 0:  # save as we go: the run is long and may be interrupted
+                    OUT.write_text(json.dumps(images, ensure_ascii=False, indent=1), encoding="utf-8")
         OUT.write_text(json.dumps(images, ensure_ascii=False, indent=1), encoding="utf-8")
     for key, (how, val) in OVERRIDES.items():
         picked = commons.article_images(val, 6) if how == "wiki" else commons.search_images(val, 6)

@@ -75,10 +75,11 @@ Place slugs are fixed in [content/_plan.json](content/_plan.json).
 
 ## Before launch
 
-1. Set `DJANGO_SECRET_KEY`, `DJANGO_DEBUG=0`, `DH_EMAIL`, `DH_PHONE`, `DH_WHATSAPP` (digits with country code), optional `DH_GA4`.
-   Phone and WhatsApp buttons appear automatically once these are set.
-2. Replace every `[BRACKETED]` placeholder: `dh/settings.py → SITE`, `templates/hills/about.html`, `contact.html`,
-   and all values in `hills/policies.py`.
+1. Set `DJANGO_SECRET_KEY` and `DJANGO_DEBUG=0`. Contact details default to `hello@darjeelinghimalayas.com`, +91 99546 34102
+   and the same number on WhatsApp; override with `DH_EMAIL`, `DH_PHONE`, `DH_WHATSAPP` (digits with country code),
+   `DH_ADDRESS` (shown in the footer and on About and Contact once set) and optional `DH_GA4`.
+2. Fill the `[BRACKETED]` legal details in `hills/policies.py` (legal name, registered address, registration and GST
+   numbers, courts' city, payment gateway). Add real founder and office details to `templates/hills/about.html` if wanted.
 3. Have a lawyer review `hills/policies.py` (refunds, payments, booking terms, privacy under India's DPDP Act, cookies).
    If you enable GA4, add a consent banner and list its cookies in the cookie policy.
 4. Review every region's `to_confirm` list, and re-check permits, road status (North Sikkim and the Teesta valley since

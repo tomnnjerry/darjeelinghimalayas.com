@@ -3,7 +3,7 @@
 {% block og_image %}{% with img=hero_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
 {% block content %}
 <section class="hero" aria-labelledby="hero-h">
-  <div class="hero__img">{% if hero_img %}<img src="{{ hero_img|src:1920 }}" srcset="{{ hero_img|srcset }}" sizes="100vw" alt="{{ hero_img.description|default:'Kanchenjunga above the Darjeeling hills' }}" fetchpriority="high">{% endif %}</div>
+  <div class="hero__img{% if not hero_img %} hero__img--empty{% endif %}">{% if hero_img %}<img src="{{ hero_img|src:1920 }}" srcset="{{ hero_img|srcset }}" sizes="100vw" alt="{{ hero_img.description|default:'Kanchenjunga above the Darjeeling hills' }}" fetchpriority="high">{% endif %}</div>
   <div class="hero__shade" aria-hidden="true"></div>
   <div class="mist mist--a" aria-hidden="true"></div><div class="mist mist--b" aria-hidden="true"></div>
   <div class="wrap hero__in">

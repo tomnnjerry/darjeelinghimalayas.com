@@ -9,12 +9,11 @@
   <div class="prose">
     <p>Most hill packages are sold as a single number. We think you should see what is inside it: the jeep seat, the homestay, the permit, the guide. So every trip on this site carries its fare broken into lines, and every quote we send does the same.</p>
     <p>We also think a place is better when you know its story. Who built the monastery, why the railway loops, what the name of the village means in Lepcha or Nepali. Each place page starts there, then gets practical.</p>
-    <p>[Who we are: founders, where the office is, how long you have worked in the hills. Replace this paragraph with true details only.]</p>
     <h2>What we promise</h2>
     <ul><li>Every rupee itemised, before you pay anything</li><li>Homestays and lodges we know, not the ones that pay the biggest commission</li><li>Honest notes on roads, landslides, permits and closures</li><li>One planner from first message to the drive back to NJP</li></ul>
   </div>
   <aside class="grid" style="gap:18px">
-    <dl class="kv"><div><dt>Hills covered</dt><dd>Darjeeling, Kurseong and Mirik, Kalimpong, Singalila, Gangtok and East Sikkim, North Sikkim, West and South Sikkim, the Dooars</dd></div><div><dt>Registration</dt><dd>[Tourism registration number]</dd></div><div><dt>Office</dt><dd>{{ SITE.address }}</dd></div></dl>
+    <dl class="kv"><div><dt>Hills covered</dt><dd>Darjeeling, Kurseong and Mirik, Kalimpong, Singalila, Gangtok and East Sikkim, North Sikkim, West and South Sikkim, the Dooars</dd></div><div><dt>Write to us</dt><dd><a href="mailto:{{ SITE.email }}">{{ SITE.email }}</a></dd></div>{% if tel %}<div><dt>Call or WhatsApp</dt><dd><a href="tel:{{ tel }}">{{ SITE.phone }}</a></dd></div>{% endif %}{% if SITE.address %}<div><dt>Office</dt><dd>{{ SITE.address }}</dd></div>{% endif %}</dl>
     <a class="btn btn--foil" href="{% url 'plan' %}" data-cta="about-plan">Get my honest quote</a>
   </aside>
 </div></section>

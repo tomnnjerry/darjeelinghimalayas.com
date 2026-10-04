@@ -9,10 +9,10 @@
 <section class="sec--tight"><div class="wrap grid grid--3">
   {% if wa_base %}<a class="gcard" href="{{ wa_base }}?text={{ wa_text }}" data-cta="contact-whatsapp"><span class="gcard__cat">{% icon "chat" %}WhatsApp</span><b>Message a planner</b><p>Usually the fastest reply.</p></a>{% endif %}
   <a class="gcard" href="mailto:{{ SITE.email }}" data-cta="contact-email"><span class="gcard__cat">{% icon "book" %}Email</span><b>{{ SITE.email }}</b><p>For longer questions and group trips.</p></a>
-  {% if tel %}<a class="gcard" href="tel:{{ tel }}" data-cta="contact-call"><span class="gcard__cat">{% icon "clock" %}Call</span><b>{{ SITE.phone }}</b><p>[Office hours]</p></a>{% else %}<a class="gcard" href="{% url 'plan' %}" data-cta="contact-plan"><span class="gcard__cat">{% icon "ticket" %}Online</span><b>Get my honest quote</b><p>Three short steps, a priced route back.</p></a>{% endif %}
+  {% if tel %}<a class="gcard" href="tel:{{ tel }}" data-cta="contact-call"><span class="gcard__cat">{% icon "clock" %}Call</span><b>{{ SITE.phone }}</b><p>A local planner picks up. WhatsApp if we miss you.</p></a>{% else %}<a class="gcard" href="{% url 'plan' %}" data-cta="contact-plan"><span class="gcard__cat">{% icon "ticket" %}Online</span><b>Get my honest quote</b><p>Three short steps, a priced route back.</p></a>{% endif %}
 </div></section>
 <section class="sec" id="callback"><div class="wrap split">
-  <div><p class="eyebrow">Call back</p><h2 class="h-1">Leave your number</h2><p class="lede" style="margin-top:14px">Tell us when to call. We will not add you to any list.</p><dl class="kv" style="margin-top:24px"><div><dt>Office</dt><dd>{{ SITE.address }}</dd></div><div><dt>Hours</dt><dd>[Office hours, IST]</dd></div></dl></div>
+  <div><p class="eyebrow">Call back</p><h2 class="h-1">Leave your number</h2><p class="lede" style="margin-top:14px">Tell us when to call. We will not add you to any list.</p>{% if SITE.address %}<dl class="kv" style="margin-top:24px"><div><dt>Office</dt><dd>{{ SITE.address }}</dd></div></dl>{% endif %}</div>
   {% include "hills/partials/quick_form.html" with qf_id="callback" qf_kind="callback" qf_title="Request a call back" qf_sub="Add your phone number and a good time in the form." qf_button="Call me back" %}
 </div></section>
 {% endblock %}
