@@ -1,25 +1,5 @@
 [
   {
-    "slug": "darjeeling-to-maneybhanjan",
-    "from": "darjeeling",
-    "to": "maneybhanjan",
-    "distance_km": 26,
-    "summary": "Darjeeling to Maneybhanjan, the start of the Sandakphu trek, is about 26 km via Ghoom and Sukhiapokhri. Shared jeeps take 1–1.5 hours for about ₹100–150 a seat, leaving through the morning from Chowk Bazaar. A reserved car costs about ₹1,500–2,000.",
-    "options": [
-      {"mode": "Shared jeep", "time": "1–1.5 h", "fare": "₹100–150 a seat", "text": "Shared jeeps leave Darjeeling's Chowk Bazaar motor stand for Maneybhanjan through the morning, departing as they fill. The road runs via Ghoom and Sukhiapokhri through pine forest and small bazaars. Take a 7–8 am jeep if you plan to walk to Tumling the same day. Afternoon departures are fewer; check current status before you travel."},
-      {"mode": "Reserved car", "time": "1 h", "fare": "₹1,500–2,000 a car", "text": "Any Darjeeling taxi stand or hotel can arrange a reserved car to Maneybhanjan. It is the easiest option for groups with luggage or families, and lets you leave at 6.30 am for a full day on the trail. Agree the fare and drop point at the guide office before you set off."},
-      {"mode": "Via Sukhiapokhri", "time": "1.5–2 h", "fare": "₹60–80 + ₹40–60", "text": "If no direct jeep is filling, take a shared jeep to Sukhiapokhri and change there for Maneybhanjan. It costs about the same and adds 20–30 minutes. Sukhiapokhri's stand is busy in the mornings with jeeps toward Mirik and Maneybhanjan."}
-    ],
-    "stops_on_way": ["Ghoom monastery and station", "Sukhiapokhri bazaar", "Jorebunglow pine forest"],
-    "tip": "Leave Darjeeling by 8 am so you reach the guide office before the queue builds and can start walking by 10.",
-    "faqs": [
-      {"q": "How do I get from Darjeeling to Maneybhanjan?", "a": "By shared jeep from the Chowk Bazaar motor stand, about ₹100–150 a seat and 1–1.5 hours, or by reserved car for about ₹1,500–2,000. The road goes via Ghoom and Sukhiapokhri, about 26 km. Morning departures are the most reliable."},
-      {"q": "What is the first jeep from Darjeeling to Maneybhanjan?", "a": "Shared jeeps usually start running around 7 am and leave as they fill through the morning. Times are informal and vary. Ask at the stand the day before, and check current status before you travel."},
-      {"q": "Can I go from Darjeeling to Maneybhanjan and back in a day?", "a": "Yes. It is an easy day trip: an hour each way, time in the bazaar, and perhaps a walk up to Chitrey with a guide or a Land Rover ride to Tumling for the view. Return jeeps are less frequent in the late afternoon."},
-      {"q": "Is there a bus from Darjeeling to Maneybhanjan?", "a": "Shared jeeps are the practical public transport on this route. Occasional buses may run, but schedules are irregular. Jeeps are faster and more frequent."}
-    ]
-  },
-  {
     "slug": "siliguri-to-maneybhanjan",
     "from": "siliguri",
     "to": "maneybhanjan",

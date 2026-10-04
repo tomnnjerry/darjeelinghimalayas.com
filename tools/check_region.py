@@ -240,6 +240,24 @@ def main():
             err(w, "one end must be in this land")
         scan_banned(w, rt)
 
+    # slugs must be unique across the whole site, not just this land
+    own = {"route": {rt.get("slug") for rt in routes}, "stay": set(stays), "festival": set(fests),
+           "experience": exp_slugs, "journey": {p.stem for p in (base / "journeys").glob("*.json")},
+           "guide": {p.stem for p in (base / "guides").glob("*.json")}}
+    for other in sorted(ROOT.iterdir()):
+        if other == base or not (other / "places").is_dir():
+            continue
+        theirs = {"route": [x.get("slug") for x in load(other / "routes.json") or []],
+                  "stay": [x.get("slug") for x in load(other / "stays.json") or []],
+                  "festival": [x.get("slug") for x in load(other / "festivals.json") or []],
+                  "experience": [e.get("slug") for p in (other / "places").glob("*.json")
+                                 for e in (load(p) or {}).get("experiences", [])],
+                  "journey": [p.stem for p in (other / "journeys").glob("*.json")],
+                  "guide": [p.stem for p in (other / "guides").glob("*.json")]}
+        for kind, slugs in theirs.items():
+            for s in own[kind] & set(slugs):
+                err(f"{kind} {s}", f"slug also used in {other.name}")
+
     if "--wiki" in sys.argv:
         titles = sorted({t for t in wiki_titles if t})
         for i in range(0, len(titles), 40):
