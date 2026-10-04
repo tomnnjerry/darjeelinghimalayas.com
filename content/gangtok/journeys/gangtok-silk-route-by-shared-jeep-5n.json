@@ -1,0 +1,70 @@
+{
+  "slug": "gangtok-silk-route-by-shared-jeep-5n",
+  "title": "Zuluk and the Silk Route by shared jeep",
+  "region": "gangtok",
+  "nights": 5,
+  "themes": ["solo-backpacking", "snow-and-passes", "homestays", "photography"],
+  "tier": "Shoestring",
+  "travel_mode": "Mixed",
+  "stops": [{"place": "gangtok", "nights": 1}, {"place": "rongli", "nights": 1}, {"place": "zuluk", "nights": 2}, {"place": "aritar", "nights": 1}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 12000,
+  "cost_split": [
+    {"item": "Shared jeep seats NJP–Gangtok, Gangtok–Rongli and Rhenock–Siliguri", "inr": 1100},
+    {"item": "Homestay car shares Rongli–Zuluk, Thambi and Kupup, and back down", "inr": 3000},
+    {"item": "Gangtok dorm and Rongli lodge, 2 nights", "inr": 1600},
+    {"item": "Zuluk and Aritar homestays, 3 nights with dinner and breakfast", "inr": 4500},
+    {"item": "Lunches, tea, Silk Route permit and boot hire", "inr": 1800}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Active",
+  "max_altitude_m": 4000,
+  "meta_description": "5 nights from ₹12,000: shared jeeps to Rongli, two nights in a Zuluk homestay for Thambi View Point and Kupup, and a night at Aritar on the way down.",
+  "summary": "The Silk Route without hiring an SUV for a week. Shared jeeps to Gangtok and on to Rongli, where the permit is checked, homestay car shares up to Zuluk for two nights, a dawn at Thambi View Point and a run to Kupup, then down to Aritar and a jeep home. About ₹12,000 per person, for Indian nationals.",
+  "intro": [
+    "Most people see Zuluk from the window of a hired SUV on a three-day package from Siliguri. It can be done for less if you are patient. Shared jeeps run from Gangtok to Rongli, the bazaar town on the Rangpo river where the old Kalimpong–Lhasa road began its climb, and the homestays of Zuluk send their own cars down to collect guests. For the dawn run to Thambi View Point and Kupup you share a homestay vehicle with other guests, which is where the real saving lies.",
+    "The trade road over Jelep La carried wool and salt from Tibet to Kalimpong until the 1962 war shut the border, and Zuluk, at about 2,900 m, was a night halt for the mule trains. Today it is an army settlement with a line of family homestays. This trip suits solo travellers and pairs with flexible dates: you need your documents in order, a confirmed homestay, and a spare day in case the road or the permit desk holds you up. Indian nationals only above Rongli; check current status before you travel."
+  ],
+  "highlights": [
+    "Two nights in a Zuluk family homestay at about 2,900 m",
+    "Dawn over the coiled road from Thambi View Point",
+    "Kupup's Elephant Lake, close to 4,000 m",
+    "The bazaar at Rongli, where the old mule road began to climb",
+    "Lampokhari Lake at Aritar on the way home"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP to Gangtok by shared jeep", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 114 km · 4–5 h by shared jeep", "text": "From NJP take an auto to Siliguri's SNT stand or Panitanki More and buy a shared jeep seat to Gangtok for ₹350–500. Since the October 2023 flood NH10 has closed at times and jeeps detour via Kalimpong, so check current status before you travel. In Gangtok take a dorm bed near MG Marg for ₹500–800. Call your Zuluk homestay this evening to confirm tomorrow's plan and the documents they need for the permit: normally photo ID, four photocopies and four passport photos per person. Then find the stand for tomorrow's Rongli jeep and ask the first departure time.", "meals": "On your own", "spend": "₹350–500 jeep seat + ₹600 dorm + ₹200 dinner"},
+    {"day": 2, "title": "Shared jeep to Rongli", "place": "rongli", "overnight": "Rongli", "drive": "≈ 69 km · 2.5–3 h by shared jeep", "text": "Take a morning shared jeep from Gangtok to Rongli for ₹200–300 a seat. The road drops to Ranipool, follows the river down past Rorathang and climbs the Rangpo valley to Rongli, a small bazaar town with a police post, a few lodges, shops and the last reliable cash. Spend the afternoon on the permit, which your Zuluk host usually files or guides you through here; offices keep government hours and close on holidays. Stay the night in a simple lodge in the bazaar, eat thukpa or a rice plate for ₹120–180, and stock up on snacks and cash for three days.", "meals": "On your own", "spend": "₹200–300 jeep seat + ₹500 lodge share + ₹300 food"},
+    {"day": 3, "title": "Up the zigzag road to Zuluk", "place": "zuluk", "overnight": "Zuluk", "drive": "≈ 32 km · 1.5 h by homestay car share", "text": "Your Zuluk homestay sends a car to Rongli in the morning, usually ₹2,500–3,500 for the vehicle, shared among the guests going up. With the permit checked at the post past Lingtam, the road climbs through Padamchen's forest of moss and rhododendron into the tight bends below Zuluk. You arrive by midday at about 2,900 m. Take the afternoon slowly: short walks on the road, plenty of water and tea, no alcohol. The village has a small gumpa, an army camp above and shops with noodles and chhurpi. Dinner is home food at about 7 pm.", "meals": "Breakfast, dinner", "spend": "₹700 car share + ₹1,500 homestay with meals"},
+    {"day": 4, "title": "Thambi View Point, Lungthung and Kupup", "place": "kupup", "overnight": "Zuluk", "drive": "≈ 60 km round trip · 4–5 h by homestay car share", "text": "Join the other guests in the homestay's car at about 4.30 am, usually ₹3,500–4,500 for the vehicle split among four to six people. At Thambi View Point the Silk Route loops down the hill below you, and on clear mornings Kanchenjunga turns pink beyond Lungthung. The car goes on past the yak pastures of Gnathang to Kupup, close to 4,000 m, where Elephant Lake lies below the road, and stops at the Old Baba Mandir on the way back. Walk slowly at this height. Back in Zuluk by late morning, sleep, eat and rest.", "meals": "Breakfast, dinner", "spend": "₹800 car share + ₹1,500 homestay with meals + ₹150 boot hire"},
+    {"day": 5, "title": "Down to Rongli and on to Aritar", "place": "aritar", "overnight": "Aritar", "drive": "≈ 32 km by homestay car share, then ≈ 20 km by shared jeep", "text": "Ride the homestay car back down to Rongli with guests leaving the same day. From the bazaar take a shared jeep or local taxi share through Rhenock to Aritar, about an hour, for ₹100–200. Check into a homestay and walk down to Lampokhari Lake, one of the oldest natural lakes in Sikkim, long and still among forest; a rowing boat costs a small fee. After two nights at altitude, the warm air at about 1,400 m feels soft. If you have energy, climb the steps up Mankhim hill before sunset for the view back towards the Silk Route ridge.", "meals": "Breakfast, dinner", "spend": "₹500 car share + ₹150 jeep share + ₹1,500 homestay with meals"},
+    {"day": 6, "title": "Rhenock to Siliguri by shared jeep", "place": "aritar", "overnight": "", "drive": "≈ 120 km · 4.5–5 h by shared jeep", "text": "Take a local taxi share down to Rhenock early and buy a shared jeep seat to Siliguri for about ₹250–350; most leave in the morning, so ask your host for times the night before. The jeep runs down to Rorathang and Rangpo and along the Teesta on NH10, or, if NH10 is shut, round through Pedong and Kalimpong, which takes about as long. From Siliguri, an auto takes you to NJP or a shared cab to Bagdogra. Allow the whole day, keep your train for the evening, and check current status before you travel.", "meals": "Breakfast", "spend": "₹50 taxi share + ₹250–350 jeep seat + ₹150 lunch"}
+  ],
+  "stays": [],
+  "includes": ["Shared jeep seats NJP–Gangtok, Gangtok–Rongli and Rhenock–Siliguri", "Homestay car shares to Zuluk, Thambi View Point and Kupup", "Gangtok dorm bed and Rongli lodge share", "Zuluk and Aritar homestays with dinner and breakfast", "Silk Route permit fees"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "A private vehicle if no other guests share", "Tsomgo Lake and Nathu La", "Warm clothing beyond boot hire", "Snacks and drinks beyond meals"],
+  "save_money": [
+    "Ask your Zuluk host which day other guests are arriving and match your dates, so the Rongli pick-up and the Thambi run are split among more people.",
+    "Change cash in Gangtok or Rongli before you go up; homestays above Rongli take cash only and there is no ATM you can rely on.",
+    "Carry your own snacks and a flask from Gangtok, as packaged food costs more at Zuluk and Kupup."
+  ],
+  "good_to_know": [
+    "Zuluk, Gnathang and Kupup are generally open to Indian nationals only, on a Silk Route permit; check current status before you travel.",
+    "You must have a confirmed homestay booking for the permit; book Zuluk before you leave home.",
+    "Permit offices at Rongli keep government hours and close on holidays, which is why this trip spends a night there.",
+    "Mobile network is patchy at Zuluk and weak at Kupup; tell someone your plan.",
+    "Snow can close the road above Zuluk from December to March; landslides are common from June to September."
+  ],
+  "faqs": [
+    {"q": "Can I do the Silk Route without hiring a car?", "a": "Mostly, yes. Shared jeeps run from Gangtok and Siliguri to Rongli, and Zuluk homestays send cars down to collect guests, shared if several arrive the same day. The dawn run to Thambi View Point and Kupup is also usually a shared homestay vehicle. The catch is timing: if you are the only guest, you pay for the whole car."},
+    {"q": "Who can visit Zuluk?", "a": "Generally only Indian nationals, on a Silk Route permit for the Rongli subdivision, because the road runs close to the China border. You need a photo ID, photocopies, passport photos and a confirmed homestay booking. Foreign travellers can go as far as Rongli and Aritar on the standard Sikkim permit. Check current status before you travel."},
+    {"q": "Where do shared jeeps to Rongli leave from?", "a": "Shared jeeps to Rongli leave Gangtok in the morning from one of the town's jeep stands, and some run from Siliguri via Rangpo and Rorathang too. Stands move from time to time, so ask at your hostel the evening before. The 69 km takes about 2.5–3 hours and costs ₹200–300 a seat."},
+    {"q": "Why spend a night in Rongli?", "a": "Because the permit is checked there and offices keep government hours, a night in Rongli means you are first in line in the morning and do not lose a day if the desk is busy. It also breaks the climb. If your Zuluk host has your permit ready in advance, you can skip the night and add one at Aritar."},
+    {"q": "How cold is Zuluk?", "a": "Cold. Nights are below freezing from about November to March and often close to zero in April, and dawn at Thambi View Point is colder still. Homestays give thick quilts but rooms are not heated. Bring a down jacket, thermals, a warm hat and gloves. Snow usually falls between December and March and can close the road above Zuluk."},
+    {"q": "How much does this budget Silk Route trip cost?", "a": "About ₹12,000 per person for five nights, from NJP back to NJP, indicative for 2025–26. That assumes you share the homestay cars with three to five other guests. If you are alone in the Rongli pick-up and the Thambi run, add about ₹4,000–5,000. Homestays cost ₹1,200–2,000 per person with dinner and breakfast."},
+    {"q": "What is Thambi View Point?", "a": "A bend on the Silk Route above Zuluk from which you look down on the road's loops coiling down the hillside, with Kanchenjunga beyond on clear mornings. Most visitors go at dawn, leaving Zuluk around 4.30 am. Light and views are best from October to December and in April and May."},
+    {"q": "Is the altitude at Kupup dangerous?", "a": "It can be if you rush. Kupup is close to 4,000 m. On this trip you sleep at Zuluk, about 2,900 m, for two nights and only visit Kupup briefly, which most healthy people manage well. Walk slowly, drink water, skip alcohol, and turn back if you get a bad headache, vomiting or confusion."},
+    {"q": "Is this trip good for solo travellers?", "a": "Yes, if you are flexible. Homestays take single guests, and you meet other travellers in the shared cars. Solo women generally report feeling safe on the route, which is full of army posts and family homes. The extra cost for a solo traveller is mainly in the homestay cars when no one else is going up."}
+  ]
+}

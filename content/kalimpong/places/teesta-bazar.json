@@ -1,110 +1,339 @@
 {
-  "slug": "teesta-bazar", "name": "Teesta Bazar", "name_local": "", "region": "kalimpong",
+  "slug": "teesta-bazar",
+  "name": "Teesta Bazar",
+  "name_local": "",
+  "region": "kalimpong",
   "kind": "river town",
-  "wiki": "Teesta Bazaar", "image_query": "Teesta Bazaar river Kalimpong",
-  "lat": 27.06, "lng": 88.42, "altitude_m": 200,
+  "wiki": "Teesta Bazaar",
+  "image_query": "Teesta Bazaar river Kalimpong",
+  "lat": 27.06,
+  "lng": 88.42,
+  "altitude_m": 200,
   "tagline": "The river crossing below Kalimpong, rafting and road junction",
   "meta_description": "Teesta Bazar, 16 km below Kalimpong on NH10: Teesta rafting, the Triveni confluence, the October 2023 flood, jeeps, rooms and honest costs.",
   "summary": "Teesta Bazar is a roadside river town at about 200 m on NH10, 16 km below Kalimpong, where the Kalimpong road leaves the Teesta. People stop for rafting in season, the Teesta–Rangeet confluence upstream at Triveni and a riverside lunch. It was hit hard by the October 2023 flood; check current status before you travel.",
-  "local_story": {"title": "A border river, a bridge and a flood",
-    "paras": ["For most of the 19th century the Teesta here was a frontier. The hills to the west belonged to British Darjeeling after 1835; the hills to the east, with Kalimpong, were held by Bhutan. Only after the Anglo-Bhutan war of 1864–65 and the Treaty of Sinchula did the land east of the river pass to British India, and in 1866 it joined Darjeeling district. Teesta Bazar grew at the crossing point, where traders, mule men and later motor traffic came down from Kalimpong to cross the river towards Darjeeling and Sikkim.",
-              "The Lepcha, the first people of these hills, call the river Rongnyu. Lepcha folklore tells that Rongnyu and the Rangeet were lovers who agreed to meet in the plains: Rongnyu followed Parilbu the snake, who led her straight down, while the Rangeet followed Tutfo the bird, who wandered and stopped to eat. They met at Pozok, near today's Peshok, a few kilometres upstream of the bazaar. The confluence is still called Lovers' Meet, and the sandy bank there, Triveni.",
-              "On the night of 3–4 October 2023, South Lhonak lake in North Sikkim burst its moraine. The surge broke the Teesta III dam at Chungthang and raced down the valley. At Teesta Bazar it flooded the lower market and houses, buried stretches of NH10 under silt and sand, and raised the riverbed by several metres. Further slides in the 2024 and 2025 monsoons cut the road again. The town is rebuilding, and its story is now the river's story: generous, and dangerous."]},
+  "local_story": {
+    "title": "A border river, a bridge and a flood",
+    "paras": [
+      "For most of the 19th century the Teesta here was a frontier. The hills to the west belonged to British Darjeeling after 1835; the hills to the east, with Kalimpong, were held by Bhutan. Only after the Anglo-Bhutan war of 1864–65 and the Treaty of Sinchula did the land east of the river pass to British India, and in 1866 it joined Darjeeling district. Teesta Bazar grew at the crossing point, where traders, mule men and later motor traffic came down from Kalimpong to cross the river towards Darjeeling and Sikkim.",
+      "The Lepcha, the first people of these hills, call the river Rongnyu. Lepcha folklore tells that Rongnyu and the Rangeet were lovers who agreed to meet in the plains: Rongnyu followed Parilbu the snake, who led her straight down, while the Rangeet followed Tutfo the bird, who wandered and stopped to eat. They met at Pozok, near today's Peshok, a few kilometres upstream of the bazaar. The confluence is still called Lovers' Meet, and the sandy bank there, Triveni.",
+      "On the night of 3–4 October 2023, South Lhonak lake in North Sikkim burst its moraine. The surge broke the Teesta III dam at Chungthang and raced down the valley. At Teesta Bazar it flooded the lower market and houses, buried stretches of NH10 under silt and sand, and raised the riverbed by several metres. Further slides in the 2024 and 2025 monsoons cut the road again. The town is rebuilding, and its story is now the river's story: generous, and dangerous."
+    ]
+  },
   "did_you_know": [
     "Until the Treaty of Sinchula in November 1865, the Teesta at this point separated British Darjeeling from Bhutanese-held Kalimpong.",
     "Commercial rafting on the Teesta began around Teesta Bazar in 1991, organised by the Darjeeling Gorkha Hill Council, the hill government of the day.",
     "The October 2023 flood began about 150 km upstream, when South Lhonak glacial lake in North Sikkim burst on the night of 3–4 October."
   ],
-  "intro": ["Teesta Bazar is not a place to admire so much as a place to understand. It is a single street of shops, dhabas, rafting offices and jeep halts strung along NH10 where the Teesta comes out of its gorge, with the road to Kalimpong climbing away up the eastern slope and the road to Peshok and Darjeeling crossing the river. Most travellers pass through it on the way somewhere else. We suggest you stop, at least for a meal and an hour by the water.",
-              "In season, from about October to May when the river is low and clear, rafting crews run Grade I–III stretches of the Teesta from here, and a short drive upstream brings you to Triveni, where the green Rangeet meets the grey Teesta. Since the October 2023 flood the town has been through hard years: NH10 has closed again and again, buildings near the bank were lost, and some activities have paused. Check current status before you travel, and stay set back from the river."],
-  "facts": [["Best months", "Oct – Dec · Feb – Apr"], ["Nights we suggest", "0–1"], ["From Siliguri", "≈ 55 km · 2–2.5 h when NH10 is open"], ["Altitude", "≈ 200 m"], ["Known for", "Teesta rafting, Triveni confluence, NH10 junction for Kalimpong"], ["Network", "Jio/Airtel good along the road"]],
-  "best_months": [1, 2, 2, 2, 1, 0, 0, 0, 0, 2, 2, 2],
+  "intro": [
+    "Teesta Bazar is not a place to admire so much as a place to understand. It is a single street of shops, dhabas, rafting offices and jeep halts strung along NH10 where the Teesta comes out of its gorge, with the road to Kalimpong climbing away up the eastern slope and the road to Peshok and Darjeeling crossing the river. Most travellers pass through it on the way somewhere else. We suggest you stop, at least for a meal and an hour by the water.",
+    "In season, from about October to May when the river is low and clear, rafting crews run Grade I–III stretches of the Teesta from here, and a short drive upstream brings you to Triveni, where the green Rangeet meets the grey Teesta. Since the October 2023 flood the town has been through hard years: NH10 has closed again and again, buildings near the bank were lost, and some activities have paused. Check current status before you travel, and stay set back from the river."
+  ],
+  "facts": [
+    [
+      "Best months",
+      "Oct – Dec · Feb – Apr"
+    ],
+    [
+      "Nights we suggest",
+      "0–1"
+    ],
+    [
+      "From Siliguri",
+      "≈ 55 km · 2–2.5 h when NH10 is open"
+    ],
+    [
+      "Altitude",
+      "≈ 200 m"
+    ],
+    [
+      "Known for",
+      "Teesta rafting, Triveni confluence, NH10 junction for Kalimpong"
+    ],
+    [
+      "Network",
+      "Jio/Airtel good along the road"
+    ]
+  ],
+  "best_months": [
+    1,
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    2,
+    2,
+    2
+  ],
   "nights": "0–1",
-  "costs": [["Shared jeep seat from Siliguri (Kalimpong jeep)", "₹200–300 a seat"], ["Shared jeep up to Kalimpong", "₹60–100 a seat"], ["Rafting run, in season", "₹800–1,500 pp"], ["Simple room in a lodge", "₹1,000–2,000 a room"], ["Thali or fish curry rice at a dhaba", "₹150–300"], ["Reserved car to Triveni and back", "₹800–1,500"]],
+  "costs": [
+    [
+      "Shared jeep seat from Siliguri (Kalimpong jeep)",
+      "₹200–300 a seat"
+    ],
+    [
+      "Shared jeep up to Kalimpong",
+      "₹60–100 a seat"
+    ],
+    [
+      "Rafting run, in season",
+      "₹800–1,500 pp"
+    ],
+    [
+      "Simple room in a lodge",
+      "₹1,000–2,000 a room"
+    ],
+    [
+      "Thali or fish curry rice at a dhaba",
+      "₹150–300"
+    ],
+    [
+      "Reserved car to Triveni and back",
+      "₹800–1,500"
+    ]
+  ],
   "highlights": [
-    {"title": "Rafting on the Teesta", "text": "Grade I–III runs of 3–12 km on the Teesta, with local crews who have run this river since the early 1990s. Season roughly October to May; runs stop in the monsoon and after floods. Check current status before you travel."},
-    {"title": "Triveni and Lovers' Meet", "text": "Upstream, near Melli, the green Rangeet joins the grey Teesta at a sandy bank called Triveni. The Lepcha story of the river lovers is told here, and the Lovers' Meet viewpoint on the Peshok road looks down on the confluence."},
-    {"title": "A river junction town", "text": "One street where the Kalimpong road leaves NH10 and the Peshok road crosses towards Darjeeling. Jeeps from Siliguri, Gangtok, Darjeeling and Kalimpong all pass through, which makes it a natural lunch stop."},
-    {"title": "The flood's mark", "text": "The October 2023 flood left sand and silt metres deep along the riverbed and cut NH10 in many places. Locals will show you where water reached. It is a sober lesson in how Himalayan rivers work."},
-    {"title": "Warm air in winter", "text": "At about 200 m, Teesta Bazar is shirt-sleeve warm from November to February while Kalimpong, 1,000 m higher, needs a jacket. A good place to thaw out for an afternoon by the river."}
+    {
+      "title": "Rafting on the Teesta",
+      "text": "Grade I–III runs of 3–12 km on the Teesta, with local crews who have run this river since the early 1990s. Season roughly October to May; runs stop in the monsoon and after floods. Check current status before you travel."
+    },
+    {
+      "title": "Triveni and Lovers' Meet",
+      "text": "Upstream, near Melli, the green Rangeet joins the grey Teesta at a sandy bank called Triveni. The Lepcha story of the river lovers is told here, and the Lovers' Meet viewpoint on the Peshok road looks down on the confluence."
+    },
+    {
+      "title": "A river junction town",
+      "text": "One street where the Kalimpong road leaves NH10 and the Peshok road crosses towards Darjeeling. Jeeps from Siliguri, Gangtok, Darjeeling and Kalimpong all pass through, which makes it a natural lunch stop."
+    },
+    {
+      "title": "The flood's mark",
+      "text": "The October 2023 flood left sand and silt metres deep along the riverbed and cut NH10 in many places. Locals will show you where water reached. It is a sober lesson in how Himalayan rivers work."
+    },
+    {
+      "title": "Warm air in winter",
+      "text": "At about 200 m, Teesta Bazar is shirt-sleeve warm from November to February while Kalimpong, 1,000 m higher, needs a jacket. A good place to thaw out for an afternoon by the river."
+    }
   ],
   "how_to_reach": [
-    {"mode": "Shared jeep", "text": "Take any Kalimpong-bound shared jeep from the SNT or Panitanki stands in Siliguri, ₹200–300 a seat, and ask to be dropped at Teesta Bazar, about 2–2.5 hours via Sevoke on NH10. From Kalimpong's motor stand, jeeps down to Teesta Bazar cost about ₹60–100 and take 45 minutes. NH10 has had repeated closures since October 2023; check current status before you travel."},
-    {"mode": "Reserved car", "text": "A car from NJP or Bagdogra costs about ₹3,000–4,500 one way. From Kalimpong, a car down and back with a stop at Triveni is about ₹1,800–2,500. When NH10 below Teesta Bazar is shut, drivers come via Darjeeling and Peshok, which takes longer."},
-    {"mode": "From Darjeeling", "text": "Shared jeeps between Darjeeling and Kalimpong run via Peshok and cross the Teesta at Teesta Bazar, ₹200–250 a seat and about 2.5 hours. Ask to be dropped at the bridge."}
+    {
+      "mode": "Shared jeep",
+      "text": "Take any Kalimpong-bound shared jeep from the SNT or Panitanki stands in Siliguri, ₹200–300 a seat, and ask to be dropped at Teesta Bazar, about 2–2.5 hours via Sevoke on NH10. From Kalimpong's motor stand, jeeps down to Teesta Bazar cost about ₹60–100 and take 45 minutes. NH10 has had repeated closures since October 2023; check current status before you travel."
+    },
+    {
+      "mode": "Reserved car",
+      "text": "A car from NJP or Bagdogra costs about ₹3,000–4,500 one way. From Kalimpong, a car down and back with a stop at Triveni is about ₹1,800–2,500. When NH10 below Teesta Bazar is shut, drivers come via Darjeeling and Peshok, which takes longer."
+    },
+    {
+      "mode": "From Darjeeling",
+      "text": "Shared jeeps between Darjeeling and Kalimpong run via Peshok and cross the Teesta at Teesta Bazar, ₹200–250 a seat and about 2.5 hours. Ask to be dropped at the bridge."
+    }
   ],
   "where_to_stay": "Most travellers do not sleep at Teesta Bazar: Kalimpong, 16 km above, has far more choice, from budget hotels at ₹1,200–2,500 a room to the WBTDC lodges. If you want a riverside night for an early rafting run, there are a few simple lodges and guesthouses on the main road at about ₹1,000–2,000 a room; choose one well back from the bank and on higher ground, as the 2023 flood showed why. Riverside camps on the sandbanks have operated in past seasons, but check that any camp has current permission and is safe before booking.",
   "stays": [],
-  "tips": ["Check the state of NH10 on the morning you travel, with your driver or at the jeep stand; closures since October 2023 can add 2–3 hours.",
-           "Book rafting the day before in person, and ask whether the river is running before you pay anything.",
-           "Do not swim or wade in the Teesta: the current is strong and cold, and water levels change with dam releases upstream.",
-           "Carry cash; Teesta Bazar has few working card machines and ATMs can run dry.",
-           "Wear sunscreen and a hat in spring; the valley floor is hot and exposed by midday."],
-  "themes": ["photography", "family-trips", "long-weekends", "off-season"],
-  "nearby": ["kalimpong", "delo", "sillery-gaon"],
+  "tips": [
+    "Check the state of NH10 on the morning you travel, with your driver or at the jeep stand; closures since October 2023 can add 2–3 hours.",
+    "Book rafting the day before in person, and ask whether the river is running before you pay anything.",
+    "Do not swim or wade in the Teesta: the current is strong and cold, and water levels change with dam releases upstream.",
+    "Carry cash; Teesta Bazar has few working card machines and ATMs can run dry.",
+    "Wear sunscreen and a hat in spring; the valley floor is hot and exposed by midday."
+  ],
+  "themes": [
+    "photography",
+    "family-trips",
+    "long-weekends",
+    "off-season"
+  ],
+  "nearby": [
+    "kalimpong",
+    "delo",
+    "sillery-gaon"
+  ],
   "experiences": [
-    {"slug": "teesta-bazar-rafting-run", "title": "A rafting run on the Teesta",
-     "kind": "adventure", "duration": "2–3 hours", "best_time": "9 am–1 pm, Oct–May", "cost": "₹800–1,500 pp (indicative)",
-     "image_query": "Teesta river rafting", "wiki": "Teesta River",
-     "summary": "Ride Grade I–III water on the Teesta with a local crew, on runs of 3–12 km near Teesta Bazar. Seasonal, weather-dependent and, since the 2023 flood, worth confirming in person before you plan around it.",
-     "body": ["Rafting on the Teesta started near Teesta Bazar in 1991, when the Darjeeling Gorkha Hill Council began promoting it, and local operators have run the river since. The runs most visitors book are Grade I–III: lively rapids separated by long calm stretches where you can look up at the forested walls of the valley. Short runs take about an hour on the water; longer ones of 10–12 km take two to three hours with the drive back.",
-              "The season is roughly October to May, when the river is low and clear. From June to September the monsoon swells the Teesta and runs stop. The October 2023 flood changed the riverbed, piling sand and boulders where there were none, and operators had to relearn the river; some seasons were cut short. Prices are about ₹800–1,500 a person depending on length and group size, including a life jacket, helmet and guide.",
-              "Book in person at Teesta Bazar the day before, ask to see the safety gear, and ask how long the crew has run this stretch. Everyone wears a life jacket and helmet, and you should be able to follow simple paddle commands. Children are usually taken on the shorter runs only. Check current status before you travel, and do not raft if the water is high or brown."],
-     "good_for": ["students", "couples", "solo", "families"],
-     "faqs": [
-       {"q": "Is Teesta rafting open now?", "a": "Teesta rafting usually runs from about October to May and stops in the monsoon. Since the October 2023 flood, seasons have been interrupted and some operators paused. Ask at Teesta Bazar the day before, or ask your Kalimpong hotel to call, and check current status before you travel."},
-       {"q": "How much does Teesta rafting cost?", "a": "Indicatively ₹800–1,500 a person for a Grade I–III run of 3–12 km, including life jacket, helmet and guide. Longer runs and small groups cost more. Confirm what is included, especially the drive back to Teesta Bazar, before you pay."},
-       {"q": "Do I need to know how to swim to raft on the Teesta?", "a": "Operators generally do not insist on swimming, because everyone wears a life jacket and helmet and the runs are Grade I–III. You must listen to the guide's briefing and follow paddle commands. Non-swimmers and children should choose the shorter, calmer runs."}
-     ]},
-    {"slug": "teesta-bazar-triveni-confluence", "title": "Triveni, where the Rangeet meets the Teesta",
-     "kind": "viewpoint", "duration": "1.5–2 hours", "best_time": "10 am–3 pm, Oct–Apr", "cost": "Free · car ₹800–1,500 return",
-     "image_query": "Teesta Rangeet confluence Triveni", "wiki": "Rangeet River",
-     "summary": "Drive a few kilometres upstream to Triveni, the sandy bank near Melli where the green Rangeet joins the grey Teesta. Hear the Lepcha story of the two river lovers, then see the confluence from above at Lovers' Meet on the Peshok road.",
-     "body": ["The Rangeet rises on the glaciers of West Sikkim and the Teesta in the far north of the state, and they meet a few kilometres upstream of Teesta Bazar, near Melli. You can usually see the difference: the Rangeet runs clearer and greener, the Teesta greyer with glacial silt, and for a stretch the two flow side by side before they mix. The bank at the meeting point is called Triveni, and before 2023 it was a picnic spot and a rafting put-in.",
-              "The Lepcha tell the confluence as a love story. Rongnyu, the Teesta, and the Rangeet agreed to meet in the plains. Rongnyu followed Parilbu the snake, who went straight; the Rangeet followed Tutfo the bird, who dawdled to feed. Rongnyu arrived first and waited, and when the Rangeet arrived they joined. It is folklore, but it is why the place is called Lovers' Meet. From the Peshok road, on the Darjeeling side, a viewpoint of that name looks down on the junction from high above.",
-              "The October 2023 flood reshaped this bank, and access paths and picnic areas have changed. A car from Teesta Bazar costs about ₹800–1,500 for the trip with waiting time. Stay well back from the water's edge, which can shift without warning, and check current status before you travel."],
-     "good_for": ["couples", "families", "photographers", "seniors"],
-     "faqs": [
-       {"q": "Where is Lovers' Meet near Teesta Bazar?", "a": "Lovers' Meet is the confluence of the Teesta and the Rangeet, a few kilometres upstream of Teesta Bazar near Melli. The bank at river level is called Triveni. A viewpoint called Lovers' Meet on the Peshok road, on the Darjeeling side, looks down on the junction from above."},
-       {"q": "Why is it called Lovers' Meet?", "a": "From Lepcha folklore. The Teesta, called Rongnyu, and the Rangeet were lovers who set off to meet. Rongnyu followed a snake, who led her straight down; the Rangeet followed a bird, who dawdled. They met at this point, near Peshok, and have flowed together since."},
-       {"q": "Can I go down to the river at Triveni?", "a": "Usually you can reach the bank, but the October 2023 flood changed the riverside, and paths and picnic areas have shifted. Stay well back from the edge, never wade in, and ask locally whether access is open. Check current status before you travel."}
-     ]},
-    {"slug": "teesta-bazar-flood-and-river-town-walk", "title": "The river town after the 2023 flood",
-     "kind": "culture", "duration": "1 hour", "best_time": "4–6 pm, Oct–May", "cost": "₹50–150 for tea and snacks",
-     "image_query": "Teesta Bazaar NH10 Teesta river", "wiki": "2023 Sikkim flash floods",
-     "summary": "Walk the main street of Teesta Bazar, sit for tea by the road and see how a river town lives with the Teesta after the flood of October 2023. A quiet, respectful hour that explains much about these valleys.",
-     "body": ["Teesta Bazar has always lived off the road and the river: jeep drivers' tea stops, grocers for the villages above, rafting offices and dhabas. On the night of 3–4 October 2023 the flood that began at South Lhonak lake in North Sikkim reached here within hours. Water and silt filled the lower market and houses near the bank, and long stretches of NH10 were buried or washed away.",
-              "Walk the street in the late afternoon, when the light is soft and shops are open. You will see new walls, raised plinths and in places the old ground level metres below today's sand. People here are generally happy to talk about the flood if you ask kindly, over tea, rather than as a spectacle. Do not photograph damaged homes or people without asking.",
-              "This walk is not a sight in the usual sense, and we include it because it explains the road warnings you will see across this site. NH10 has closed many times since 2023, and both the Teesta valley roads and the North Sikkim road above Chungthang have had long closures. Spend a little money in the bazaar: a meal, tea, a packet of local snacks. Check current status before you travel."],
-     "good_for": ["students", "solo", "photographers", "seniors"],
-     "faqs": [
-       {"q": "Was Teesta Bazar damaged in the 2023 flood?", "a": "Yes. The flood of 3–4 October 2023, from the South Lhonak lake outburst in North Sikkim, flooded the lower market and riverside houses at Teesta Bazar and buried or washed away stretches of NH10. Rebuilding has continued since, and further monsoon slides have cut the road again."},
-       {"q": "Is it safe to visit Teesta Bazar now?", "a": "In the dry season, from about October to May, travellers pass through and stop safely. Stay away from the riverbank, follow local advice, and avoid the monsoon months, when slides and high water are most likely. Check current status before you travel."},
-       {"q": "Why does NH10 keep closing?", "a": "The 2023 flood raised the Teesta's bed with sand and boulders and undercut the road in many places. Monsoon rain then triggers slides and erosion on the weakened slopes. Repairs take time, so closures from June to September are common. Check current status before you travel."}
-     ]},
-    {"slug": "teesta-bazar-riverside-dhaba-lunch", "title": "A dhaba lunch by the Teesta",
-     "kind": "food", "duration": "1 hour", "best_time": "12–2 pm, all year", "cost": "₹150–300 pp",
-     "image_query": "fish curry rice India dhaba", "wiki": "",
-     "summary": "Stop for a plain, hot lunch at one of the roadside dhabas: rice, dal, a vegetable, pickle and, on some days, a river-fish curry. The warmest meal of a hill trip, eaten at 200 m with the Teesta below.",
-     "body": ["Teesta Bazar feeds the drivers of NH10, which means quick, cheap and filling food. A rice thali with dal, a seasonal vegetable, a fried item and pickle costs about ₹150–250, with refills of rice and dal. Momos, chowmein and egg curry rice are always on offer, and tea arrives in small glasses for ₹15–30.",
-              "Some dhabas cook fish curry with rice, made with fish from the river or from the plains depending on the day and the season; ask what the fish is and where it came from. In the cooler months you may find saag of mustard or spinach, and in spring, squash shoots. The cooking is Nepali and Bengali in roughly equal parts, which is what you would expect of a town on the road between Siliguri and the hills.",
-              "Pick a busy place, where food turns over fast, and eat what has just been cooked. Drink bottled or filtered water. If you are going up to Kalimpong afterwards, an early lunch here gives the 16 km climb time to settle before the bends begin."],
-     "good_for": ["families", "students", "solo", "first-timers"],
-     "faqs": [
-       {"q": "What should I eat at Teesta Bazar?", "a": "A rice thali with dal, vegetables and pickle for about ₹150–250, momos or chowmein, and on some days a fish curry with rice. Ask what fish is on offer. Choose a busy dhaba where the food is freshly cooked."},
-       {"q": "Is there vegetarian food at Teesta Bazar?", "a": "Yes. Every dhaba serves a vegetarian thali of rice, dal, a seasonal vegetable and pickle, and vegetable momos or chowmein. If you need food without onion and garlic, ask before ordering; most cooks will try."},
-       {"q": "Is it a good lunch stop on the way to Kalimpong or Gangtok?", "a": "Yes. Teesta Bazar is roughly halfway between Siliguri and Kalimpong, and on the old route between Darjeeling and Gangtok. Shared jeeps often pause here. A short lunch stop also breaks up the winding climb that follows."}
-     ]}
+    {
+      "slug": "teesta-bazar-rafting-run",
+      "title": "A rafting run on the Teesta",
+      "kind": "adventure",
+      "duration": "2–3 hours",
+      "best_time": "9 am–1 pm, Oct–May",
+      "cost": "₹800–1,500 pp (indicative)",
+      "image_query": "Teesta river rafting",
+      "wiki": "Teesta River",
+      "summary": "Ride Grade I–III water on the Teesta with a local crew, on runs of 3–12 km near Teesta Bazar. Seasonal, weather-dependent and, since the 2023 flood, worth confirming in person before you plan around it.",
+      "body": [
+        "Rafting on the Teesta started near Teesta Bazar in 1991, when the Darjeeling Gorkha Hill Council began promoting it, and local operators have run the river since. The runs most visitors book are Grade I–III: lively rapids separated by long calm stretches where you can look up at the forested walls of the valley. Short runs take about an hour on the water; longer ones of 10–12 km take two to three hours with the drive back.",
+        "The season is roughly October to May, when the river is low and clear. From June to September the monsoon swells the Teesta and runs stop. The October 2023 flood changed the riverbed, piling sand and boulders where there were none, and operators had to relearn the river; some seasons were cut short. Prices are about ₹800–1,500 a person depending on length and group size, including a life jacket, helmet and guide.",
+        "Book in person at Teesta Bazar the day before, ask to see the safety gear, and ask how long the crew has run this stretch. Everyone wears a life jacket and helmet, and you should be able to follow simple paddle commands. Children are usually taken on the shorter runs only. Check current status before you travel, and do not raft if the water is high or brown."
+      ],
+      "good_for": [
+        "students",
+        "couples",
+        "solo",
+        "families"
+      ],
+      "faqs": [
+        {
+          "q": "Is Teesta rafting open now?",
+          "a": "Teesta rafting usually runs from about October to May and stops in the monsoon. Since the October 2023 flood, seasons have been interrupted and some operators paused. Ask at Teesta Bazar the day before, or ask your Kalimpong hotel to call, and check current status before you travel."
+        },
+        {
+          "q": "How much does Teesta rafting cost?",
+          "a": "Indicatively ₹800–1,500 a person for a Grade I–III run of 3–12 km, including life jacket, helmet and guide. Longer runs and small groups cost more. Confirm what is included, especially the drive back to Teesta Bazar, before you pay."
+        },
+        {
+          "q": "Do I need to know how to swim to raft on the Teesta?",
+          "a": "Operators generally do not insist on swimming, because everyone wears a life jacket and helmet and the runs are Grade I–III. You must listen to the guide's briefing and follow paddle commands. Non-swimmers and children should choose the shorter, calmer runs."
+        }
+      ]
+    },
+    {
+      "slug": "teesta-bazar-triveni-confluence",
+      "title": "Triveni, where the Rangeet meets the Teesta",
+      "kind": "viewpoint",
+      "duration": "1.5–2 hours",
+      "best_time": "10 am–3 pm, Oct–Apr",
+      "cost": "Free · car ₹800–1,500 return",
+      "image_query": "Teesta Rangeet confluence Triveni",
+      "wiki": "Rangeet River",
+      "summary": "Drive a few kilometres upstream to Triveni, the sandy bank near Melli where the green Rangeet joins the grey Teesta. Hear the Lepcha story of the two river lovers, then see the confluence from above at Lovers' Meet on the Peshok road.",
+      "body": [
+        "The Rangeet rises on the glaciers of West Sikkim and the Teesta in the far north of the state, and they meet a few kilometres upstream of Teesta Bazar, near Melli. You can usually see the difference: the Rangeet runs clearer and greener, the Teesta greyer with glacial silt, and for a stretch the two flow side by side before they mix. The bank at the meeting point is called Triveni, and before 2023 it was a picnic spot and a rafting put-in.",
+        "The Lepcha tell the confluence as a love story. Rongnyu, the Teesta, and the Rangeet agreed to meet in the plains. Rongnyu followed Parilbu the snake, who went straight; the Rangeet followed Tutfo the bird, who dawdled to feed. Rongnyu arrived first and waited, and when the Rangeet arrived they joined. It is folklore, but it is why the place is called Lovers' Meet. From the Peshok road, on the Darjeeling side, a viewpoint of that name looks down on the junction from high above.",
+        "The October 2023 flood reshaped this bank, and access paths and picnic areas have changed. A car from Teesta Bazar costs about ₹800–1,500 for the trip with waiting time. Stay well back from the water's edge, which can shift without warning, and check current status before you travel."
+      ],
+      "good_for": [
+        "couples",
+        "families",
+        "photographers",
+        "seniors"
+      ],
+      "faqs": [
+        {
+          "q": "Where is Lovers' Meet near Teesta Bazar?",
+          "a": "Lovers' Meet is the confluence of the Teesta and the Rangeet, a few kilometres upstream of Teesta Bazar near Melli. The bank at river level is called Triveni. A viewpoint called Lovers' Meet on the Peshok road, on the Darjeeling side, looks down on the junction from above."
+        },
+        {
+          "q": "Why is it called Lovers' Meet?",
+          "a": "From Lepcha folklore. The Teesta, called Rongnyu, and the Rangeet were lovers who set off to meet. Rongnyu followed a snake, who led her straight down; the Rangeet followed a bird, who dawdled. They met at this point, near Peshok, and have flowed together since."
+        },
+        {
+          "q": "Can I go down to the river at Triveni?",
+          "a": "Usually you can reach the bank, but the October 2023 flood changed the riverside, and paths and picnic areas have shifted. Stay well back from the edge, never wade in, and ask locally whether access is open. Check current status before you travel."
+        }
+      ]
+    },
+    {
+      "slug": "teesta-bazar-flood-and-river-town-walk",
+      "title": "The river town after the 2023 flood",
+      "kind": "culture",
+      "duration": "1 hour",
+      "best_time": "4–6 pm, Oct–May",
+      "cost": "₹50–150 for tea and snacks",
+      "image_query": "Teesta Bazaar NH10 Teesta river",
+      "wiki": "2023 Sikkim flash floods",
+      "summary": "Walk the main street of Teesta Bazar, sit for tea by the road and see how a river town lives with the Teesta after the flood of October 2023. A quiet, respectful hour that explains much about these valleys.",
+      "body": [
+        "Teesta Bazar has always lived off the road and the river: jeep drivers' tea stops, grocers for the villages above, rafting offices and dhabas. On the night of 3–4 October 2023 the flood that began at South Lhonak lake in North Sikkim reached here within hours. Water and silt filled the lower market and houses near the bank, and long stretches of NH10 were buried or washed away.",
+        "Walk the street in the late afternoon, when the light is soft and shops are open. You will see new walls, raised plinths and in places the old ground level metres below today's sand. People here are generally happy to talk about the flood if you ask kindly, over tea, rather than as a spectacle. Do not photograph damaged homes or people without asking.",
+        "This walk is not a sight in the usual sense, and we include it because it explains the road warnings you will see across this site. NH10 has closed many times since 2023, and both the Teesta valley roads and the North Sikkim road above Chungthang have had long closures. Spend a little money in the bazaar: a meal, tea, a packet of local snacks. Check current status before you travel."
+      ],
+      "good_for": [
+        "students",
+        "solo",
+        "photographers",
+        "seniors"
+      ],
+      "faqs": [
+        {
+          "q": "Was Teesta Bazar damaged in the 2023 flood?",
+          "a": "Yes. The flood of 3–4 October 2023, from the South Lhonak lake outburst in North Sikkim, flooded the lower market and riverside houses at Teesta Bazar and buried or washed away stretches of NH10. Rebuilding has continued since, and further monsoon slides have cut the road again."
+        },
+        {
+          "q": "Is it safe to visit Teesta Bazar now?",
+          "a": "In the dry season, from about October to May, travellers pass through and stop safely. Stay away from the riverbank, follow local advice, and avoid the monsoon months, when slides and high water are most likely. Check current status before you travel."
+        },
+        {
+          "q": "Why does NH10 keep closing?",
+          "a": "The 2023 flood raised the Teesta's bed with sand and boulders and undercut the road in many places. Monsoon rain then triggers slides and erosion on the weakened slopes. Repairs take time, so closures from June to September are common. Check current status before you travel."
+        }
+      ]
+    },
+    {
+      "slug": "teesta-bazar-riverside-dhaba-lunch",
+      "title": "A dhaba lunch by the Teesta",
+      "kind": "food",
+      "duration": "1 hour",
+      "best_time": "12–2 pm, all year",
+      "cost": "₹150–300 pp",
+      "image_query": "fish curry rice India dhaba",
+      "wiki": "",
+      "summary": "Stop for a plain, hot lunch at one of the roadside dhabas: rice, dal, a vegetable, pickle and, on some days, a river-fish curry. The warmest meal of a hill trip, eaten at 200 m with the Teesta below.",
+      "body": [
+        "Teesta Bazar feeds the drivers of NH10, which means quick, cheap and filling food. A rice thali with dal, a seasonal vegetable, a fried item and pickle costs about ₹150–250, with refills of rice and dal. Momos, chowmein and egg curry rice are always on offer, and tea arrives in small glasses for ₹15–30.",
+        "Some dhabas cook fish curry with rice, made with fish from the river or from the plains depending on the day and the season; ask what the fish is and where it came from. In the cooler months you may find saag of mustard or spinach, and in spring, squash shoots. The cooking is Nepali and Bengali in roughly equal parts, which is what you would expect of a town on the road between Siliguri and the hills.",
+        "Pick a busy place, where food turns over fast, and eat what has just been cooked. Drink bottled or filtered water. If you are going up to Kalimpong afterwards, an early lunch here gives the 16 km climb time to settle before the bends begin."
+      ],
+      "good_for": [
+        "families",
+        "students",
+        "solo",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "What should I eat at Teesta Bazar?",
+          "a": "A rice thali with dal, vegetables and pickle for about ₹150–250, momos or chowmein, and on some days a fish curry with rice. Ask what fish is on offer. Choose a busy dhaba where the food is freshly cooked."
+        },
+        {
+          "q": "Is there vegetarian food at Teesta Bazar?",
+          "a": "Yes. Every dhaba serves a vegetarian thali of rice, dal, a seasonal vegetable and pickle, and vegetable momos or chowmein. If you need food without onion and garlic, ask before ordering; most cooks will try."
+        },
+        {
+          "q": "Is it a good lunch stop on the way to Kalimpong or Gangtok?",
+          "a": "Yes. Teesta Bazar is roughly halfway between Siliguri and Kalimpong, and on the old route between Darjeeling and Gangtok. Shared jeeps often pause here. A short lunch stop also breaks up the winding climb that follows."
+        }
+      ]
+    }
   ],
   "faqs": [
-    {"q": "How far is Teesta Bazar from Kalimpong?", "a": "About 16 km, 45 minutes by road down a winding branch road to NH10. Shared jeeps between Kalimpong and Siliguri, Darjeeling or Gangtok pass through, and local jeeps run between Kalimpong's motor stand and Teesta Bazar for about ₹60–100 a seat. A car costs more but lets you stop at viewpoints."},
-    {"q": "What is Teesta Bazar famous for?", "a": "Teesta Bazar is known for rafting on the Teesta, the nearby confluence with the Rangeet at Triveni, called Lovers' Meet in Lepcha folklore, and its place as the junction where the Kalimpong road leaves NH10. Since October 2023 it is also known, sadly, for flood damage."},
-    {"q": "Is NH10 open through Teesta Bazar?", "a": "NH10 through Teesta Bazar has had repeated closures since the October 2023 flood, especially in the monsoon. When it shuts, traffic for Kalimpong uses the Gorubathan–Lava road or Darjeeling and Peshok. Ask at the Siliguri jeep stand on the day and check current status before you travel."},
-    {"q": "Is rafting at Teesta Bazar safe?", "a": "Grade I–III runs with a licensed operator, a life jacket, a helmet and a briefing are reasonably safe for healthy adults in the dry season. Do not raft in the monsoon or when the river is high or brown. Ask to see equipment, and check current status before you travel."},
-    {"q": "Should I stay overnight at Teesta Bazar?", "a": "Usually no. A few simple lodges on the main road charge about ₹1,000–2,000 a room, handy for an early rafting run, but Kalimpong, 16 km above, has far more choice and cooler nights. If you do stay, choose a room on higher ground away from the bank."},
-    {"q": "What is the best time to visit Teesta Bazar?", "a": "October to April, when the river is low and clear, rafting usually runs and the valley is warm without being hot. May gets hot and humid. June to September brings the monsoon, high water, no rafting and frequent road closures, and we suggest avoiding it."},
-    {"q": "How do I get from Teesta Bazar to Darjeeling?", "a": "Cross the Teesta and climb via Peshok and Lopchu, about 40 km and 2 hours, to Ghoom and Darjeeling. Shared jeeps between Kalimpong and Darjeeling use this road at ₹200–250 a seat; ask to be picked up at the bridge. Slides can close it in the monsoon."},
-    {"q": "Can I see the Teesta–Rangeet confluence from Teesta Bazar?", "a": "Not from the bazaar itself. The confluence is a few kilometres upstream near Melli. A car from Teesta Bazar to Triveni and back costs about ₹800–1,500, or stop at the Lovers' Meet viewpoint on the Peshok road on the way to Darjeeling."},
-    {"q": "Are there ATMs and shops at Teesta Bazar?", "a": "There are grocers, pharmacies, dhabas and usually an ATM, but ATMs can run out of cash and card machines are rare. Carry enough cash for food, rafting and onward jeeps. Kalimpong, 16 km above, has several banks and ATMs."}
+    {
+      "q": "How far is Teesta Bazar from Kalimpong?",
+      "a": "About 16 km, 45 minutes by road down a winding branch road to NH10. Shared jeeps between Kalimpong and Siliguri, Darjeeling or Gangtok pass through, and local jeeps run between Kalimpong's motor stand and Teesta Bazar for about ₹60–100 a seat. A car costs more but lets you stop at viewpoints."
+    },
+    {
+      "q": "What is Teesta Bazar famous for?",
+      "a": "Teesta Bazar is known for rafting on the Teesta, the nearby confluence with the Rangeet at Triveni, called Lovers' Meet in Lepcha folklore, and its place as the junction where the Kalimpong road leaves NH10. Since October 2023 it is also known, sadly, for flood damage."
+    },
+    {
+      "q": "Is NH10 open through Teesta Bazar?",
+      "a": "NH10 through Teesta Bazar has had repeated closures since the October 2023 flood, especially in the monsoon. When it shuts, traffic for Kalimpong uses the Gorubathan–Lava road or Darjeeling and Peshok. Ask at the Siliguri jeep stand on the day and check current status before you travel."
+    },
+    {
+      "q": "Is rafting at Teesta Bazar safe?",
+      "a": "Grade I–III runs with a licensed operator, a life jacket, a helmet and a briefing are reasonably safe for healthy adults in the dry season. Do not raft in the monsoon or when the river is high or brown. Ask to see equipment, and check current status before you travel."
+    },
+    {
+      "q": "Should I stay overnight at Teesta Bazar?",
+      "a": "Usually no. A few simple lodges on the main road charge about ₹1,000–2,000 a room, handy for an early rafting run, but Kalimpong, 16 km above, has far more choice and cooler nights. If you do stay, choose a room on higher ground away from the bank."
+    },
+    {
+      "q": "What is the best time to visit Teesta Bazar?",
+      "a": "October to April, when the river is low and clear, rafting usually runs and the valley is warm without being hot. May gets hot and humid. June to September brings the monsoon, high water, no rafting and frequent road closures, and we suggest avoiding it."
+    },
+    {
+      "q": "How do I get from Teesta Bazar to Darjeeling?",
+      "a": "Cross the Teesta and climb via Peshok and Lopchu, about 40 km and 2 hours, to Ghoom and Darjeeling. Shared jeeps between Kalimpong and Darjeeling use this road at ₹200–250 a seat; ask to be picked up at the bridge. Slides can close it in the monsoon."
+    },
+    {
+      "q": "Can I see the Teesta–Rangeet confluence from Teesta Bazar?",
+      "a": "Not from the bazaar itself. The confluence is a few kilometres upstream near Melli. A car from Teesta Bazar to Triveni and back costs about ₹800–1,500, or stop at the Lovers' Meet viewpoint on the Peshok road on the way to Darjeeling."
+    },
+    {
+      "q": "Are there ATMs and shops at Teesta Bazar?",
+      "a": "There are grocers, pharmacies, dhabas and usually an ATM, but ATMs can run out of cash and card machines are rare, though UPI payments are common. Carry enough cash for food, rafting and onward jeeps. Kalimpong, 16 km above, has several banks and ATMs if you run short."
+    }
   ]
 }

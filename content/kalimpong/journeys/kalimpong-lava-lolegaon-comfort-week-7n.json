@@ -3,24 +3,70 @@
   "title": "Kalimpong, Lava and Lolegaon in comfort",
   "region": "kalimpong",
   "nights": 7,
-  "themes": ["monasteries", "wildlife-birds", "kanchenjunga-views", "family-trips"],
+  "themes": [
+    "monasteries",
+    "wildlife-birds",
+    "kanchenjunga-views",
+    "family-trips"
+  ],
   "tier": "Comfort",
   "travel_mode": "Reserved car",
-  "stops": [{"place": "kalimpong", "nights": 3}, {"place": "lava", "nights": 2}, {"place": "lolegaon", "nights": 2}],
+  "stops": [
+    {
+      "place": "kalimpong",
+      "nights": 3
+    },
+    {
+      "place": "lava",
+      "nights": 2
+    },
+    {
+      "place": "lolegaon",
+      "nights": 2
+    }
+  ],
   "start": "NJP railway station or Bagdogra airport",
   "end": "NJP railway station or Bagdogra airport",
   "price_from_inr": 37000,
   "cost_split": [
-    {"item": "Reserved car with driver for 8 days, half the hire", "inr": 14000},
-    {"item": "Morgan House, Kalimpong, 3 nights, half a double room", "inr": 7500},
-    {"item": "WBFDC lodges at Lava and Lolegaon, 4 nights with dinner and breakfast", "inr": 7800},
-    {"item": "Meals in Kalimpong, lunches, tea and snacks", "inr": 5000},
-    {"item": "Neora Valley entry and guide share, canopy walk, donations and gate fees", "inr": 2700}
+    {
+      "item": "Reserved car with driver for 8 days, half the hire",
+      "inr": 14000
+    },
+    {
+      "item": "Morgan House, Kalimpong, 3 nights, half a double room",
+      "inr": 7500
+    },
+    {
+      "item": "WBFDC lodges at Lava and Lolegaon, 4 nights with dinner and breakfast",
+      "inr": 7800
+    },
+    {
+      "item": "Meals in Kalimpong, lunches, tea and snacks",
+      "inr": 5000
+    },
+    {
+      "item": "Neora Valley entry and guide share, canopy walk, donations and gate fees",
+      "inr": 2700
+    }
   ],
-  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
   "pace": "Easy",
   "max_altitude_m": 2600,
-  "meta_description": "7 nights from ₹37,000: Morgan House in Kalimpong, Pedong's Lepcha fort, forest lodges at Lava and Lolegaon, Neora Valley and Kanchenjunga dawns, by private car.",
+  "meta_description": "7 nights from ₹37,000: Morgan House in Kalimpong, Pedong's Lepcha fort, forest lodges at Lava and Lolegaon, Neora Valley and Kanchenjunga dawns by car.",
   "summary": "Seven unhurried nights for about ₹37,000 per person with a private car throughout. Three nights at Morgan House in Kalimpong for monasteries, nurseries and a Pedong day, two at Lava on the edge of Neora Valley, and two at Lolegaon for its old forest and the Jhandi Dara sunrise. Good for families and older parents.",
   "intro": [
     "This is the trip we suggest to friends who want Kalimpong's history and forests without shared jeeps, early scrambles or long days. The car stays with you, so luggage is never a problem and every drive is short: the longest, on the first and last days, is to and from the plains. Kalimpong passed from Bhutan to the British under the Treaty of Sinchula in 1865 and became India's main market for Tibetan wool until Jelep La closed in 1962. Lava and Lolegaon came later, as forest villages that the West Bengal Forest Development Corporation opened to travellers.",
@@ -34,18 +80,106 @@
     "Kanchenjunga at dawn from Tiffin Dara and Jhandi Dara"
   ],
   "days": [
-    {"day": 1, "title": "NJP up to Morgan House on Durpin", "place": "kalimpong", "overnight": "Kalimpong", "drive": "≈ 70 km · 3–3.5 h by reserved car", "text": "Your driver meets you at NJP or Bagdogra. The usual road follows NH10 up the Teesta, crossing the Coronation Bridge at Sevoke and climbing from Teesta Bazar to Kalimpong; since October 2023 it has closed often, and the alternative through the Dooars and Gorubathan adds about an hour. Check current status before you travel. Lunch on the way, then settle in at Morgan House, built in the 1930s for the jute baron George Morgan and now run by WBTDC. Take tea on the lawn and walk the quiet lanes of Durpin before dark.", "meals": "Dinner", "spend": "₹500 lunch on the road + ₹700 dinner"},
-    {"day": 2, "title": "Monasteries, a nursery and the haat", "place": "kalimpong", "overnight": "Kalimpong", "drive": "Local sightseeing with your car", "text": "Walk a few minutes from Morgan House to Zang Dhok Palri, established in 1957 by Dudjom Rinpoche and consecrated by the 14th Dalai Lama in 1976; it holds the 108 volumes of the Kangyur. Then drive to Thongsa Gompa, built by the Bhutanese in 1692, the town's oldest monastery. Late morning, visit one of the town's orchid and cactus nurseries. If it is a Wednesday or Saturday, spend an hour at the haat near the Motor Stand, and look for Kalimpong cheese and milk lollipops, first made at Father André Butty's Swiss Welfare Dairy. Confirm haat days locally.", "meals": "Breakfast", "spend": "₹100 nursery fee + ₹500 lunch + ₹700 dinner"},
-    {"day": 3, "title": "Pedong: fort, monastery and Cross Hill", "place": "kalimpong", "overnight": "Kalimpong", "drive": "≈ 20 km each way · 1 h by car", "text": "Drive east through Algarah to Pedong, a stage on the old wool road from Jelep La. Walk the short forest path to Damsang, the ruined fort of the Lepcha chief Gaeboo Achyok, usually dated to 1690. Then see Sangchen Dorjee monastery, built in the early 1700s under Bhutanese rule in the Drukpa Kagyu tradition, and Cross Hill, raised in 1882 by the French missionary Auguste Desgodins. Lunch in Pedong bazaar. If there is energy left, drive up to Sillery Gaon for the view over the Teesta, then back to Morgan House for a fire in the evening.", "meals": "Breakfast", "spend": "₹400 lunch + donations + ₹700 dinner"},
-    {"day": 4, "title": "Deolo at dawn, then up to Lava", "place": "lava", "overnight": "Lava", "drive": "≈ 32 km · 1.5 h via Algarah", "text": "An early drive to Deolo, 1,704 m, Kalimpong's highest point, for Kanchenjunga at sunrise on a clear morning. Come down through the campus of Dr Graham's Homes, founded in 1900 by the Rev. Dr John Anderson Graham, then check out and drive east to Lava, 2,195 m. Check in at the WBFDC eco tourism centre in the forest compound. In the late afternoon, walk to the Kagyu Thekchen Ling monastery, opened in 1990 by the 3rd Jamgon Kongtrul Rinpoche, and listen for evening prayers. Visit the Lava forest range office today to arrange tomorrow's Neora Valley permit and guide.", "meals": "Breakfast, dinner", "spend": "₹50 Deolo gate fee + ₹400 lunch"},
-    {"day": 5, "title": "A guided day in Neora Valley", "place": "lava", "overnight": "Lava", "drive": "Forest jeep and walking with a registered guide", "text": "Neora Valley National Park, declared in 1986, climbs from about 183 m to some 3,200 m. With your permit and a registered guide, a forest jeep takes you up to a permitted trail and you walk through broadleaf forest, rhododendron and bamboo. Laughingthrushes, sibias and fulvettas are common; red pandas live in the higher forest but sightings are rare, and nobody honest promises one. Carry a packed lunch, water and rain gear. The routes open to visitors and the fees change, and the park closes from mid-June to mid-September, so check current status before you travel.", "meals": "Breakfast, packed lunch, dinner", "spend": "Share of ₹3,500–5,000 group jeep, guide and fees"},
-    {"day": 6, "title": "Tiffin Dara dawn, then on to Lolegaon", "place": "lolegaon", "overnight": "Lolegaon", "drive": "≈ 10 km to Rishyap and back, then 24 km to Lolegaon", "text": "Leave Lava before first light for Rishyap, 10 km away, and walk about 1 km to Tiffin Dara, a clearing at about 2,600 m that looks north-west to the whole Kanchenjunga range. The local story is that walkers stopped here to eat their tiffin. Back at Lava for breakfast, then drive 24 km to Lolegaon, a Lepcha village at 1,675 m, and check in at the WBFDC eco tourism centre. In the afternoon walk the heritage forest of old oak and cypress, and its canopy walk, a hanging bridge about 180 m long through the crowns of the trees.", "meals": "Breakfast, dinner", "spend": "₹50 canopy walk + ₹400 lunch"},
-    {"day": 7, "title": "Jhandi Dara and a slow Charkhole loop", "place": "lolegaon", "overnight": "Lolegaon", "drive": "≈ 12–15 km each way to Charkhole", "text": "Drive the 4–5 km to Jhandi Dara, the 'flag ridge' above Lolegaon, for sunrise over the Kanchenjunga range while the valleys are still full of cloud. After breakfast, take an easy drive to Charkhole, a small Lepcha village at about 1,680 m with the same mountain view and almost no visitors. Walk its forest trail, have tea with a view, and come back to Lolegaon for lunch. Spend the afternoon on the lodge's terrace, or on a village walk, and pack for the plains.", "meals": "Breakfast, dinner", "spend": "₹400 lunch + ₹100 tea"},
-    {"day": 8, "title": "Lolegaon down to NJP or Bagdogra", "place": "lolegaon", "overnight": "", "drive": "≈ 124 km · 4–4.5 h by reserved car", "text": "Leave after breakfast. The driver will choose between the road via Lava and Kalimpong down to NH10, or the Dooars road via Gorubathan, depending on which is open; NH10 has had repeated closures since October 2023, so check current status before you travel. Stop for lunch on the way and arrive in Siliguri in the afternoon. Book an evening train or flight, not a midday one, so a slow road does not cost you a ticket.", "meals": "Breakfast", "spend": "₹500 lunch on the road"}
+    {
+      "day": 1,
+      "title": "NJP up to Morgan House on Durpin",
+      "place": "kalimpong",
+      "overnight": "Kalimpong",
+      "drive": "≈ 70 km · 3–3.5 h by reserved car",
+      "text": "Your driver meets you at NJP or Bagdogra. The usual road follows NH10 up the Teesta, crossing the Coronation Bridge at Sevoke and climbing from Teesta Bazar to Kalimpong; since October 2023 it has closed often, and the alternative through the Dooars and Gorubathan adds about an hour. Check current status before you travel. Lunch on the way, then settle in at Morgan House, built in the 1930s for the jute baron George Morgan and now run by WBTDC. Take tea on the lawn and walk the quiet lanes of Durpin before dark.",
+      "meals": "Dinner",
+      "spend": "₹500 lunch on the road + ₹700 dinner"
+    },
+    {
+      "day": 2,
+      "title": "Monasteries, a nursery and the haat",
+      "place": "kalimpong",
+      "overnight": "Kalimpong",
+      "drive": "Local sightseeing with your car",
+      "text": "Walk a few minutes from Morgan House to Zang Dhok Palri, established in 1957 by Dudjom Rinpoche and consecrated by the 14th Dalai Lama in 1976; it holds the 108 volumes of the Kangyur. Then drive to Thongsa Gompa, built by the Bhutanese in 1692, the town's oldest monastery. Late morning, visit one of the town's orchid and cactus nurseries. If it is a Wednesday or Saturday, spend an hour at the haat near the Motor Stand, and look for Kalimpong cheese and milk lollipops, first made at Father André Butty's Swiss Welfare Dairy. Confirm haat days locally.",
+      "meals": "Breakfast",
+      "spend": "₹100 nursery fee + ₹500 lunch + ₹700 dinner"
+    },
+    {
+      "day": 3,
+      "title": "Pedong: fort, monastery and Cross Hill",
+      "place": "kalimpong",
+      "overnight": "Kalimpong",
+      "drive": "≈ 20 km each way · 1 h by car",
+      "text": "Drive east through Algarah to Pedong, a stage on the old wool road from Jelep La. Walk the short forest path to Damsang, the ruined fort of the Lepcha chief Gaeboo Achyok, usually dated to 1690. Then see Sangchen Dorjee monastery, built in the early 1700s under Bhutanese rule in the Drukpa Kagyu tradition, and Cross Hill, raised in 1882 by the French missionary Auguste Desgodins. Lunch in Pedong bazaar. If there is energy left, drive up to Sillery Gaon for the view over the Teesta, then back to Morgan House for a fire in the evening.",
+      "meals": "Breakfast",
+      "spend": "₹400 lunch + donations + ₹700 dinner"
+    },
+    {
+      "day": 4,
+      "title": "Deolo at dawn, then up to Lava",
+      "place": "lava",
+      "overnight": "Lava",
+      "drive": "≈ 32 km · 1.5 h via Algarah",
+      "text": "An early drive to Deolo, 1,704 m, Kalimpong's highest point, for Kanchenjunga at sunrise on a clear morning. Come down through the campus of Dr Graham's Homes, founded in 1900 by the Rev. Dr John Anderson Graham, then check out and drive east to Lava, 2,195 m. Check in at the WBFDC eco tourism centre in the forest compound. In the late afternoon, walk to the Kagyu Thekchen Ling monastery, opened in 1990 by the 3rd Jamgon Kongtrul Rinpoche, and listen for evening prayers. Visit the Lava forest range office today to arrange tomorrow's Neora Valley permit and guide.",
+      "meals": "Breakfast, dinner",
+      "spend": "₹50 Deolo gate fee + ₹400 lunch"
+    },
+    {
+      "day": 5,
+      "title": "A guided day in Neora Valley",
+      "place": "lava",
+      "overnight": "Lava",
+      "drive": "Forest jeep and walking with a registered guide",
+      "text": "Neora Valley National Park, declared in 1986, climbs from about 183 m to some 3,200 m. With your permit and a registered guide, a forest jeep takes you up to a permitted trail and you walk through broadleaf forest, rhododendron and bamboo. Laughingthrushes, sibias and fulvettas are common; red pandas live in the higher forest but sightings are rare, and nobody honest promises one. Carry a packed lunch, water and rain gear. The routes open to visitors and the fees change, and the park closes from mid-June to mid-September, so check current status before you travel.",
+      "meals": "Breakfast, packed lunch, dinner",
+      "spend": "Share of ₹3,500–5,000 group jeep, guide and fees"
+    },
+    {
+      "day": 6,
+      "title": "Tiffin Dara dawn, then on to Lolegaon",
+      "place": "lolegaon",
+      "overnight": "Lolegaon",
+      "drive": "≈ 10 km to Rishyap and back, then 24 km to Lolegaon",
+      "text": "Leave Lava before first light for Rishyap, 10 km away, and walk about 1 km to Tiffin Dara, a clearing at about 2,600 m that looks north-west to the whole Kanchenjunga range. The local story is that walkers stopped here to eat their tiffin. Back at Lava for breakfast, then drive 24 km to Lolegaon, a Lepcha village at 1,675 m, and check in at the WBFDC eco tourism centre. In the afternoon walk the heritage forest of old oak and cypress, and its canopy walk, a hanging bridge about 180 m long through the crowns of the trees.",
+      "meals": "Breakfast, dinner",
+      "spend": "₹50 canopy walk + ₹400 lunch"
+    },
+    {
+      "day": 7,
+      "title": "Jhandi Dara and a slow Charkhole loop",
+      "place": "lolegaon",
+      "overnight": "Lolegaon",
+      "drive": "≈ 12–15 km each way to Charkhole",
+      "text": "Drive the 4–5 km to Jhandi Dara, the 'flag ridge' above Lolegaon, for sunrise over the Kanchenjunga range while the valleys are still full of cloud. After breakfast, take an easy drive to Charkhole, a small Lepcha village at about 1,680 m with the same mountain view and almost no visitors. Walk its forest trail, have tea with a view, and come back to Lolegaon for lunch. Spend the afternoon on the lodge's terrace, or on a village walk, and pack for the plains.",
+      "meals": "Breakfast, dinner",
+      "spend": "₹400 lunch + ₹100 tea"
+    },
+    {
+      "day": 8,
+      "title": "Lolegaon down to NJP or Bagdogra",
+      "place": "lolegaon",
+      "overnight": "",
+      "drive": "≈ 124 km · 4–4.5 h by reserved car",
+      "text": "Leave after breakfast. The driver will choose between the road via Lava and Kalimpong down to NH10, or the Dooars road via Gorubathan, depending on which is open; NH10 has had repeated closures since October 2023, so check current status before you travel. Stop for lunch on the way and arrive in Siliguri in the afternoon. Book an evening train or flight, not a midday one, so a slow road does not cost you a ticket.",
+      "meals": "Breakfast",
+      "spend": "₹500 lunch on the road"
+    }
   ],
-  "stays": ["kalimpong-morgan-house", "lava-wbfdc-eco-tourism-centre", "lolegaon-wbfdc-eco-tourism-centre"],
-  "includes": ["Reserved car with driver for 8 days, NJP or Bagdogra and back", "3 nights at Morgan House (WBTDC), Kalimpong, twin sharing", "2 nights at the WBFDC Lava Eco Tourism Centre with dinner and breakfast", "2 nights at the WBFDC Lolegaon Eco Tourism Centre with dinner and breakfast", "Neora Valley entry, vehicle and guide, shared within the group", "Meals in Kalimpong, lunches on the road and tea"],
-  "excludes": ["Train or flight to NJP or Bagdogra", "Tandem paragliding at Deolo", "Alcohol and room heaters charged extra", "Tips for drivers, guides and lodge staff"],
+  "stays": [
+    "kalimpong-morgan-house",
+    "lava-wbfdc-eco-tourism-centre",
+    "lolegaon-wbfdc-eco-tourism-centre"
+  ],
+  "includes": [
+    "Reserved car with driver for 8 days, NJP or Bagdogra and back",
+    "3 nights at Morgan House (WBTDC), Kalimpong, twin sharing",
+    "2 nights at the WBFDC Lava Eco Tourism Centre with dinner and breakfast",
+    "2 nights at the WBFDC Lolegaon Eco Tourism Centre with dinner and breakfast",
+    "Neora Valley entry, vehicle and guide, shared within the group",
+    "Meals in Kalimpong, lunches on the road and tea"
+  ],
+  "excludes": [
+    "Train or flight to NJP or Bagdogra",
+    "Tandem paragliding at Deolo",
+    "Alcohol and room heaters charged extra",
+    "Tips for drivers, guides and lodge staff"
+  ],
   "save_money": [
     "Travel with three or four people and the car, the largest cost, falls to about ₹7,000 each.",
     "Book Morgan House and the WBFDC lodges directly on the official booking sites rather than through resellers.",
@@ -59,14 +193,41 @@
     "Network is patchy in Lolegaon and Charkhole; carry cash for tips and small fees."
   ],
   "faqs": [
-    {"q": "How much does this seven-night Kalimpong trip cost?", "a": "About ₹37,000 per person, twin sharing, from NJP or Bagdogra back again, indicative for 2025–26. That covers half of a private car for eight days, three nights at Morgan House, four nights in WBFDC lodges with dinner and breakfast, other meals, and a share of the Neora Valley jeep, guide and fees. Groups of four pay less per person."},
-    {"q": "Is Morgan House worth it?", "a": "For a comfort trip, yes. It is a 1930s stone mansion on Durpin hill, built for the jute baron George Morgan and now run by West Bengal Tourism, with lawns, fireplaces and a Kanchenjunga view at about ₹3,500–6,500 a room. Service is government style and rooms vary, so ask for one in the main house."},
-    {"q": "Is this trip suitable for older parents?", "a": "Yes, it is designed for them. Drives are short after day 1, the car carries the luggage, and you can skip any walk. Damsang fort and Tiffin Dara involve short uneven paths; the Neora day is optional. Ask the Lava lodge for a lower cottage, and pack warm clothes for cold nights."},
-    {"q": "Will we see red pandas in Neora Valley?", "a": "Probably not, though you might. Red pandas live in the park's higher forests and are shy, and most visitors never see one. The forest, the birds and the walk are reason enough. Go with a registered guide from the Lava range office and never pay anyone who promises a sighting."},
-    {"q": "How do we book the WBFDC lodges at Lava and Lolegaon?", "a": "Through the West Bengal Forest Development Corporation's official booking website or its offices. Rates are about ₹2,000–3,000 a room, with meal plans available. Popular dates in October, November and December fill months ahead. Avoid resellers who add a large margin and cannot guarantee a specific cottage."},
-    {"q": "What if NH10 is closed?", "a": "Your driver uses the alternative roads. From Siliguri to Kalimpong that usually means the Dooars road via Gorubathan and Lava, which suits this plan because it passes near Lava and Lolegaon, or the longer route via Darjeeling and Peshok. Allow an extra one to three hours, and check current status before you travel."},
-    {"q": "When is the best time for this trip?", "a": "October to mid-December gives the clearest Kanchenjunga views. March to May brings rhododendrons and the best birding at Lava. January and February are cold and clear, with snow possible at Lava and Rishyap. Avoid June to September, when rain causes landslides and Neora Valley closes."},
-    {"q": "Can we add paragliding at Deolo?", "a": "Yes. Tandem flights at Deolo cost about ₹2,500–4,500 a person and run in clear, calm weather, mostly from October to May. Day 2 or day 3 can absorb a flight. Use an operator recommended by your lodge, ask about safety gear and insurance, and expect cancellations when wind or cloud is wrong."},
-    {"q": "Can we do this trip in fewer nights?", "a": "Yes. Drop the Pedong day and one Lolegaon night for a five-night version at roughly ₹27,000 per person. We would not cut Lava to one night, because the Neora Valley day needs a permit arranged the afternoon before and a full day in the forest."}
+    {
+      "q": "How much does this seven-night Kalimpong trip cost?",
+      "a": "About ₹37,000 per person, twin sharing, from NJP or Bagdogra back again, indicative for 2025–26. That covers half of a private car for eight days, three nights at Morgan House, four nights in WBFDC lodges with dinner and breakfast, other meals, and a share of the Neora Valley jeep, guide and fees. Groups of four pay less per person."
+    },
+    {
+      "q": "Is Morgan House worth it?",
+      "a": "For a comfort trip, yes. It is a 1930s stone mansion on Durpin hill, built for the jute baron George Morgan and now run by West Bengal Tourism, with lawns, fireplaces and a Kanchenjunga view at about ₹3,500–6,500 a room. Service is government style and rooms vary, so ask for one in the main house."
+    },
+    {
+      "q": "Is this trip suitable for older parents?",
+      "a": "Yes, it is designed for them. Drives are short after day 1, the car carries the luggage, and you can skip any walk. Damsang fort and Tiffin Dara involve short uneven paths; the Neora day is optional. Ask the Lava lodge for a lower cottage, and pack warm clothes for cold nights."
+    },
+    {
+      "q": "Will we see red pandas in Neora Valley?",
+      "a": "Probably not, though you might. Red pandas live in the park's higher forests and are shy, and most visitors never see one. The forest, the birds and the walk are reason enough. Go with a registered guide from the Lava range office and never pay anyone who promises a sighting."
+    },
+    {
+      "q": "How do we book the WBFDC lodges at Lava and Lolegaon?",
+      "a": "Through the West Bengal Forest Development Corporation's official booking website or its offices. Rates are about ₹2,000–3,000 a room, with meal plans available. Popular dates in October, November and December fill months ahead. Avoid resellers who add a large margin and cannot guarantee a specific cottage."
+    },
+    {
+      "q": "What if NH10 is closed?",
+      "a": "Your driver uses the alternative roads. From Siliguri to Kalimpong that usually means the Dooars road via Gorubathan and Lava, which suits this plan because it passes near Lava and Lolegaon, or the longer route via Darjeeling and Peshok. Allow an extra one to three hours, and check current status before you travel."
+    },
+    {
+      "q": "When is the best time for this trip?",
+      "a": "October to mid-December gives the clearest Kanchenjunga views. March to May brings rhododendrons and the best birding at Lava. January and February are cold and clear, with snow possible at Lava and Rishyap. Avoid June to September, when rain causes landslides and Neora Valley closes."
+    },
+    {
+      "q": "Can we add paragliding at Deolo?",
+      "a": "Yes. Tandem flights at Deolo cost about ₹2,500–4,500 a person and run in clear, calm weather, mostly from October to May. Day 2 or day 3 can absorb a flight. Use an operator recommended by your lodge, ask about safety gear and insurance, and expect cancellations when wind or cloud is wrong."
+    },
+    {
+      "q": "Can we do this trip in fewer nights?",
+      "a": "Yes. Drop the Pedong day and one Lolegaon night for a five-night version at roughly ₹27,000 per person. We would not cut Lava to one night, because the Neora Valley day needs a permit arranged the afternoon before and a full day in the forest."
+    }
   ]
 }

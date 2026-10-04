@@ -1,0 +1,68 @@
+{
+  "slug": "sandakphu-classic-trek-shoestring-5n",
+  "title": "The classic Sandakphu trek on a shoestring",
+  "region": "singalila",
+  "nights": 5,
+  "themes": ["treks", "solo-backpacking", "kanchenjunga-views"],
+  "tier": "Shoestring",
+  "travel_mode": "On foot",
+  "stops": [{"place": "maneybhanjan", "nights": 1}, {"place": "tumling", "nights": 1}, {"place": "kalipokhri", "nights": 1}, {"place": "sandakphu", "nights": 1}, {"place": "srikhola", "nights": 1}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 12500,
+  "cost_split": [
+    {"item": "Shared jeep seats and a jeep share from Srikhola to Rimbik", "inr": 1400},
+    {"item": "Dorm beds and basic rooms, 5 nights with dinner and breakfast", "inr": 5500},
+    {"item": "Licensed guide share for a pair, park entry and camera fee", "inr": 3900},
+    {"item": "Lunches, tea, hot water and snacks", "inr": 1700}
+  ],
+  "best_months": [1, 1, 1, 2, 1, 0, 0, 0, 0, 2, 2, 2],
+  "pace": "Active",
+  "max_altitude_m": 3636,
+  "meta_description": "5 nights from ₹12,500: walk the Singalila Ridge from Maneybhanjan to Sandakphu (3,636 m) on dorm beds and shared jeeps, then down via Gurdum to Srikhola.",
+  "summary": "The Sandakphu trek the way backpackers have done it for decades: shared jeeps, dorm beds, dal-bhat twice a day and a guide shared between two. Three days up the ridge from Maneybhanjan via Tumling and Kalipokhri, a dawn on West Bengal's highest point, and a long walk down to the river at Srikhola. About ₹12,500 per person.",
+  "intro": [
+    "This is one of the cheapest high Himalayan treks in India, and also one of the easiest to organise: no tents, no cook, no mule train. Lodges along the ridge sell a bed and a plate of food at fixed, modest prices, and you pay as you go. The route is the standard one, about 31 km up from Maneybhanjan over three days, gaining around 1,500 m, with the Kanchenjunga range on your right whenever the cloud allows.",
+    "The budget rests on three things: sleeping in dorms or shared rooms, eating what the lodge cooks, and sharing the compulsory guide. A licensed guide is required for every group in Singalila National Park, and park entry is paid at Maneybhanjan, where you sleep the first night so you can start walking at 7 am. Guide fees and park rules change; check current status before you travel."
+  ],
+  "highlights": [
+    "Walking the whole ridge from Maneybhanjan, the way Hooker came up in 1848",
+    "Dorm nights in wood-stove lodges at Tumling, Kalipokhri and Sandakphu",
+    "Everest, Lhotse, Makalu and Kanchenjunga at dawn from 3,636 m",
+    "Red panda forest between Jaubari and Gairibas",
+    "The long descent through Gurdum to the Sri Khola stream"
+  ],
+  "days": [
+    {"day": 1, "title": "Shared jeeps to Maneybhanjan", "place": "maneybhanjan", "overnight": "Maneybhanjan", "drive": "≈ 70 km · 3–3.5 h to Darjeeling, then ≈ 26 km · 1–1.5 h by shared jeep", "text": "Take a shared jeep from the NJP or Siliguri stand to Darjeeling, about ₹250–350 a seat, then another from Chowk Bazaar to Maneybhanjan for ₹100–150. Go straight to the guide office to hire your guide for the next five days, and confirm the start time. Buy any last snacks here; prices rise with every lodge. Find the culvert in the bazaar that marks the border with Nepal, eat momos, and sleep early in a simple lodge.", "meals": "Dinner", "spend": "₹300 + ₹150 jeep seats + ₹700 room share"},
+    {"day": 2, "title": "Up past Chitrey to Tumling", "place": "tumling", "overnight": "Tumling", "drive": "On foot ≈ 10.5 km · 4–5 h, about 800 m up", "text": "Pay park entry and start by 7:30 am. The first 3 km to Chitrey are the steepest of the trek, on stone steps and earth paths; stop at the white chorten and small gompa for tea. The trail then eases through Lamaydhura and Meghma, with Land Rovers grinding past on the cobbled track. Tumling, at 2,970 m, is a dozen houses on the Nepal side of the ridge. Take a dorm bed, wash with a bucket of hot water and eat dal-bhat by the stove.", "meals": "Breakfast, dinner", "spend": "₹550 dorm bed + ₹150 lunch + ₹50 hot water"},
+    {"day": 3, "title": "Gairibas forest to Kalipokhri", "place": "kalipokhri", "overnight": "Kalipokhri", "drive": "On foot ≈ 13 km · 6–7 h", "text": "Dawn at Tumling shows the whole Kanchenjunga range. Walk into Nepal through Jaubari and down through oak, rhododendron and bamboo to Gairibas, 2,621 m, the lowest dip of the ridge; walk quietly here, as this is red panda forest. After noodle soup at a tea shop, climb via Kaiyakatta, about 550 m, to Kalipokhri at 3,186 m. The name means black pond in Nepali, and the small dark lake is hung with prayer flags. Dorm bed and an early night.", "meals": "Breakfast, dinner", "spend": "₹550 dorm bed + ₹150 lunch"},
+    {"day": 4, "title": "The last climb to Sandakphu", "place": "sandakphu", "overnight": "Sandakphu", "drive": "On foot ≈ 6 km · 2–3 h, about 450 m up", "text": "A short, steady climb past Bikheybhanjang, the poison col, to Sandakphu at 3,636 m, the highest point in West Bengal. Its name is usually traced to Lepcha words for the height of the poisonous plant, after the aconite that once grew here. Arrive by late morning, take a dorm bed in the trekkers' hut or a lodge, and rest. Walk slowly round the summit in the afternoon and stay out for sunset over Makalu and Everest if the west is clear.", "meals": "Breakfast, dinner", "spend": "₹700 dorm bed + ₹200 lunch + ₹100 hot water"},
+    {"day": 5, "title": "Summit dawn and down to Srikhola", "place": "srikhola", "overnight": "Srikhola", "drive": "On foot ≈ 14–16 km · 6–7 h, about 1,700 m down", "text": "Out by 5 am, in every layer you carry. On a clear morning Everest, Lhotse and Makalu stand to the west and the Kanchenjunga massif fills the north. After breakfast take the Gurdum trail off the ridge: steep through silver fir and rhododendron, then through fields to Gurdum village for lunch, and down along the stream to Srikhola at about 1,900 m. Take a dorm bed by the river, eat well and stretch your legs; this was the hardest day on the knees.", "meals": "Breakfast, dinner", "spend": "₹550 dorm bed + ₹150 lunch"},
+    {"day": 6, "title": "Rimbik, Darjeeling and down to NJP", "place": "srikhola", "overnight": "", "drive": "≈ 7 km · 30 min to Rimbik, ≈ 56 km · 4–5 h to Darjeeling, ≈ 70 km · 3–3.5 h to NJP", "text": "Share a reserved jeep at first light from Srikhola to Rimbik, about ₹600–1,000 between the group, to catch the early shared jeeps to Darjeeling, which usually leave around 6–8 am for ₹200–300 a seat. The road crosses farm country and forest past Batasey. Pay off and thank your guide at Rimbik or Darjeeling, as agreed. Eat lunch near the motor stand, then take a jeep to NJP for an evening train. Ask the night before for current jeep times.", "meals": "Breakfast", "spend": "₹400 jeep share + ₹250 + ₹300 jeep seats"}
+  ],
+  "stays": ["singalila-shikhar-lodge-tumling", "singalila-gta-trekkers-hut-sandakphu"],
+  "includes": ["Shared jeep seats and a jeep share from Srikhola to Rimbik", "Dorm beds or basic shared rooms with dinner and breakfast, 5 nights", "Licensed guide for five days, shared by two", "Singalila National Park entry and camera fee"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "Porter", "Private rooms", "Bottled drinks and phone charging", "Tips"],
+  "save_money": [
+    "Team up with other walkers at the Maneybhanjan guide office; a group of four or five sharing one guide cuts each share to a few hundred rupees a day.",
+    "Carry a filter bottle and fill it with the boiled water lodges provide; bottled water on the ridge costs two to three times the town price.",
+    "Order dal-bhat, not menu dishes: it is the cheapest filling meal and lodges usually top up rice and dal for free."
+  ],
+  "good_to_know": [
+    "A licensed guide is compulsory in Singalila National Park; the fee is per group and changes, so check current status before you travel.",
+    "Carry all your cash from Darjeeling; there is no ATM on the ridge.",
+    "Dorms fill in October and around the Puja holidays; ask your guide to phone ahead each day.",
+    "The park usually closes from mid-June to mid-September."
+  ],
+  "faqs": [
+    {"q": "How much does the Sandakphu trek cost on a budget?", "a": "About ₹12,500 per person for two people sharing a guide, from NJP back to NJP, indicative for 2025–26. That covers shared jeeps, five nights of dorm beds with dinner and breakfast, the guide, park entry and simple lunches. A larger group sharing one guide can bring it nearer ₹10,000; a solo walker paying the whole guide fee needs about ₹16,500."},
+    {"q": "How many days does the Sandakphu trek take?", "a": "The usual walk takes three days up from Maneybhanjan to Sandakphu and one or two days down, to Srikhola and Rimbik or back to Maneybhanjan. With a night in Maneybhanjan at the start and the jeep journey out, six days from NJP to NJP is realistic. Strong walkers can do it in five; slower walkers should allow seven."},
+    {"q": "Is a guide really compulsory?", "a": "Yes, as we understand the current rule: every group in Singalila National Park must have a licensed local guide, hired at Maneybhanjan for about ₹1,500–2,000 a day per group. Officials check at the park gate and along the trail. The fee supports local families and the guide knows the lodges. Check current status before you travel."},
+    {"q": "What is a dorm bed on the ridge like?", "a": "A wooden bed or mattress in a shared room of four to ten, with heavy quilts, at about ₹400–900 per person depending on the stop. Toilets are shared, often outside, and cold. There is no heating, but the dining room usually has a stove. A sleeping bag liner and a head torch make it much more comfortable."},
+    {"q": "How hard is the Sandakphu trek?", "a": "Moderate. Daily walking is 6–16 km and 2–7 hours. The hardest parts are the steep start to Chitrey, the climb from Gairibas to Kalipokhri, and the long, knee-jarring descent to Srikhola. The highest point is 3,636 m, so take the first evenings slowly. No technical skill is needed, but regular walking beforehand helps a lot."},
+    {"q": "When is the best time to trek to Sandakphu?", "a": "October and November for clear views and dry trails; December is colder but often clear. January and February can bring snow above Kalipokhri. March to May is rhododendron season with more haze on the peaks. The park usually closes from mid-June to mid-September, so the trek is not possible then."},
+    {"q": "Can I do this trek alone?", "a": "You can come alone, but you cannot walk without a guide inside the park. Many solo trekkers meet others in Darjeeling hostels or at the Maneybhanjan guide office and share one. Lodges take single guests happily. Women trekking alone generally report feeling safe on the ridge, with the usual care."},
+    {"q": "What should I pack?", "a": "A down or thick fleece jacket, thermal layers, a waterproof shell, a warm cap and gloves, broken-in boots or trail shoes with grip, walking poles for the descent, a head torch, a filter bottle, sunscreen, lip balm, a small first-aid kit, a sleeping bag liner, and your passport or voter ID. Aim for a pack of 8–9 kg."},
+    {"q": "Do I need ID for the Nepal stretches?", "a": "Yes. The trail crosses into Nepal at Tumling, Jaubari and Kalipokhri, and SSB or Nepal police may check papers. Indian citizens should carry a passport or voter ID; foreigners need a passport with a valid Indian visa. Keep it in a pocket or the top of your pack, not buried."}
+  ]
+}
