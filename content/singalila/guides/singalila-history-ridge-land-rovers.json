@@ -3,7 +3,7 @@
   "title": "The Singalila Ridge: Border, Poison Hill and Land Rovers",
   "region": "singalila",
   "category": "history",
-  "meta_description": "The story of the Singalila Ridge: the 1816 border with Nepal, Hooker's rhododendrons, Sandakphu's poison name, the 1882 forest, the national park and the Land Rovers.",
+  "meta_description": "The Singalila Ridge story: the 1816 Nepal border, Hooker's rhododendrons, Sandakphu's poison name, the 1882 forest, the national park and the Land Rovers.",
   "summary": "The Singalila Ridge has been a frontier since the Anglo-Nepalese war of 1814–16, a reserve forest since the British bought it from Sikkim in 1882, and a national park since 1992. Botanists, mountaineers and herders crossed it long before trekkers did, and since the 1950s Maneybhanjan's Land Rovers have carried everyone up its stone track.",
   "sections": [
     {
@@ -34,17 +34,47 @@
         "In 1986 the forest became Singalila Wildlife Sanctuary, and in 1992 it was upgraded to Singalila National Park, covering about 78.6 square kilometres of the ridge and its upper slopes. The park protects one of the best red panda habitats in India, and the Padmaja Naidu Himalayan Zoological Park in Darjeeling has released captive-bred red pandas into its forests. The rule that every group must take a licensed local guide, and the monsoon closure from about mid-June to mid-September, both come from the park administration. The guide mandate and closure dates are revised from time to time, so check current status before you travel."
       ],
       "table": {
-        "head": ["Year", "What happened"],
+        "head": [
+          "Year",
+          "What happened"
+        ],
         "rows": [
-          ["1816–17", "Treaties of Sugauli and Titalia settle the Nepal frontier along the ridge"],
-          ["1835", "Sikkim grants the British the hill of Darjeeling"],
-          ["1848", "Joseph Hooker climbs Tonglu, collecting rhododendrons"],
-          ["1856", "Survey of India announces Peak XV, later Everest, as the highest peak"],
-          ["1882", "British buy the Singalila tract from the Sikkim Durbar as reserve forest"],
-          ["1905", "Jacot-Guillarmod and Crowley's Kanchenjunga expedition marches up the ridge"],
-          ["1950s–60s", "Series Land Rovers begin running the Maneybhanjan to Sandakphu track"],
-          ["1986", "Singalila Wildlife Sanctuary declared"],
-          ["1992", "Upgraded to Singalila National Park"]
+          [
+            "1816–17",
+            "Treaties of Sugauli and Titalia settle the Nepal frontier along the ridge"
+          ],
+          [
+            "1835",
+            "Sikkim grants the British the hill of Darjeeling"
+          ],
+          [
+            "1848",
+            "Joseph Hooker climbs Tonglu, collecting rhododendrons"
+          ],
+          [
+            "1856",
+            "Survey of India announces Peak XV, later Everest, as the highest peak"
+          ],
+          [
+            "1882",
+            "British buy the Singalila tract from the Sikkim Durbar as reserve forest"
+          ],
+          [
+            "1905",
+            "Jacot-Guillarmod and Crowley's Kanchenjunga expedition marches up the ridge"
+          ],
+          [
+            "1950s–60s",
+            "Series Land Rovers begin running the Maneybhanjan to Sandakphu track"
+          ],
+          [
+            "1986",
+            "Singalila Wildlife Sanctuary declared"
+          ],
+          [
+            "1992",
+            "Upgraded to Singalila National Park"
+          ]
         ]
       }
     },
@@ -60,11 +90,21 @@
       "heading": "People of the ridge today",
       "paras": [
         "The families who run lodges and guide trekkers are mostly Nepali-speaking: Sherpa, Tamang, Gurung, Rai, Limbu and others whose grandparents farmed potatoes, kept cattle and traded along the ridge. Tumling's few households, many of them Gurung, are Nepali citizens who reach the outside world on an Indian track. Rimbik, at the eastern foot, grew as a market for roadless villages such as Gorkhey and Rammam, and its higher secondary school dates to 1948.",
-        "Since 2001 India's Sashastra Seema Bal has guarded the Nepal border, and its camps at Gairibas, Sandakphu and Phalut are part of the ridge now, along with prayer flags, chortens and the small gompas at Chitrey and Meghma. On a clear morning at Sandakphu, Indian soldiers, Nepali lodge owners, Bengali families and foreign backpackers stand in the same cold wind looking at the same mountains. That mix, more than any single date, is the ridge's story."
+        "Since 2001 India's Sashastra Seema Bal has guarded the Nepal border, and its camps at Gairibas, Sandakphu and Phalut are part of the ridge now, along with prayer flags, chortens and the small gompas at Chitrey and Meghma. On a clear morning at Sandakphu, Indian soldiers, Nepali lodge owners, Bengali families and foreign backpackers stand in the same cold wind looking at the same mountains. That mix, more than any single date, is the ridge's story.",
+        "If you want to see this history rather than read it, look for it in small things on the walk: the culvert in Maneybhanjan bazaar that marks the border, the boundary pillars beside the trail above Tumling, the chorten at Chitrey, the SSB sentry at Sandakphu, the dark pond at Kalipokhri hung with flags, and a Land Rover older than your parents grinding past with gas cylinders on its roof."
       ]
     }
   ],
-  "related_places": ["maneybhanjan", "tonglu", "sandakphu", "phalut", "tumling", "kalipokhri", "rimbik", "chitrey"],
+  "related_places": [
+    "maneybhanjan",
+    "tonglu",
+    "sandakphu",
+    "phalut",
+    "tumling",
+    "kalipokhri",
+    "rimbik",
+    "chitrey"
+  ],
   "faqs": [
     {
       "q": "What does the name Sandakphu mean?",

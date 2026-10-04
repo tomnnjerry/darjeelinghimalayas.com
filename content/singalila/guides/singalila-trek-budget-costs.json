@@ -3,7 +3,7 @@
   "title": "What the Sandakphu Trek Really Costs",
   "region": "singalila",
   "category": "budget",
-  "meta_description": "Indicative 2025–26 Sandakphu trek costs: guide and porter fees, park entry, lodge beds, meals, Land Rover hire and jeeps, with day budgets for walkers and riders.",
+  "meta_description": "Indicative 2025–26 Sandakphu trek costs: guide and porter fees, park entry, lodge beds, meals, Land Rover hire and jeeps, with day budgets.",
   "summary": "A walking trekker sharing a guide with one friend spends about ₹2,000–2,500 a day on the Singalila Ridge, and ₹3,000–4,000 with a private room and a porter. A full Maneybhanjan to Rimbik trek of six to seven days usually comes to ₹14,000–22,000 per person from Darjeeling. The Land Rover is the biggest single cost.",
   "sections": [
     {
@@ -20,15 +20,47 @@
         "The guide fee is per group, not per person, which is the single best reason to find trekking partners. Guides arrange lodges along the way, know which stretches cross into Nepal, and turn a foggy ridge into a safe one. A porter is optional, and many walkers manage without one by keeping their pack under 8–9 kg. Guides and porters pay for their own food and beds in most arrangements, but agree this clearly before you start."
       ],
       "table": {
-        "head": ["Item", "Indicative cost", "Notes"],
+        "head": [
+          "Item",
+          "Indicative cost",
+          "Notes"
+        ],
         "rows": [
-          ["Park entry, Indian adult", "₹100–200", "Foreigners pay more; plus a camera fee"],
-          ["Licensed guide", "₹1,500–2,000 a day", "Per group; compulsory inside the park"],
-          ["Porter", "₹1,000–1,300 a day", "Optional; carries 12–15 kg"],
-          ["Shared jeep, Darjeeling to Maneybhanjan", "₹100–150 a seat", "1–1.5 hours, morning departures"],
-          ["Reserved car, Darjeeling to Maneybhanjan", "₹1,500–2,000", "Useful for groups of four"],
-          ["Land Rover, Sandakphu round trip, one night", "₹6,500–9,000 a vehicle", "Up to six passengers"],
-          ["Shared jeep, Rimbik to Darjeeling", "₹200–300 a seat", "Early morning, 4–5 hours"]
+          [
+            "Park entry, Indian adult",
+            "₹100–200",
+            "Foreigners pay more; plus a camera fee"
+          ],
+          [
+            "Licensed guide",
+            "₹1,500–2,000 a day",
+            "Per group; compulsory inside the park"
+          ],
+          [
+            "Porter",
+            "₹1,000–1,300 a day",
+            "Optional; carries 12–15 kg"
+          ],
+          [
+            "Shared jeep, Darjeeling to Maneybhanjan",
+            "₹100–150 a seat",
+            "1–1.5 hours, morning departures"
+          ],
+          [
+            "Reserved car, Darjeeling to Maneybhanjan",
+            "₹1,500–2,000",
+            "Useful for groups of four"
+          ],
+          [
+            "Land Rover, Sandakphu round trip, one night",
+            "₹6,500–9,000 a vehicle",
+            "Up to six passengers"
+          ],
+          [
+            "Shared jeep, Rimbik to Darjeeling",
+            "₹200–300 a seat",
+            "Early morning, 4–5 hours"
+          ]
         ]
       }
     },
@@ -39,15 +71,55 @@
         "Most lodges expect you to eat where you sleep, and many quote a bed-and-board rate. Dal-bhat with refills is the best value on the ridge and the meal most trekkers live on. Hot water by the bucket costs extra, and so does charging a phone where power comes from solar panels."
       ],
       "table": {
-        "head": ["Stop", "Dorm or shared bed", "Private twin room", "Dal-bhat dinner"],
+        "head": [
+          "Stop",
+          "Dorm or shared bed",
+          "Private twin room",
+          "Dal-bhat dinner"
+        ],
         "rows": [
-          ["Tumling", "₹400–700", "₹1,500–2,800", "₹200–300"],
-          ["Tonglu or Gairibas huts", "₹300–800", "Limited", "₹200–300"],
-          ["Kalipokhri", "₹400–700", "₹1,500–2,500", "₹250–350"],
-          ["Sandakphu", "₹500–900", "₹2,000–3,500", "₹300–400"],
-          ["Phalut hut", "₹300–900", "Very limited", "₹250–400"],
-          ["Gorkhey, Samanden, Rammam", "₹500–1,200", "Simple rooms", "Often in a package"],
-          ["Srikhola or Rimbik", "₹400–700", "₹1,000–2,500", "Often in a package"]
+          [
+            "Tumling",
+            "₹400–700",
+            "₹1,500–2,800",
+            "₹200–300"
+          ],
+          [
+            "Tonglu or Gairibas huts",
+            "₹300–800",
+            "Limited",
+            "₹200–300"
+          ],
+          [
+            "Kalipokhri",
+            "₹400–700",
+            "₹1,500–2,500",
+            "₹250–350"
+          ],
+          [
+            "Sandakphu",
+            "₹500–900",
+            "₹2,000–3,500",
+            "₹300–400"
+          ],
+          [
+            "Phalut hut",
+            "₹300–900",
+            "Very limited",
+            "₹250–400"
+          ],
+          [
+            "Gorkhey, Samanden, Rammam",
+            "₹500–1,200",
+            "Simple rooms",
+            "Often in a package"
+          ],
+          [
+            "Srikhola or Rimbik",
+            "₹400–700",
+            "₹1,000–2,500",
+            "Often in a package"
+          ]
         ]
       }
     },
@@ -57,14 +129,42 @@
         "These assume two people walking together and sharing one guide. A shoestring day means dorm beds, dal-bhat twice, tea and a noodle soup at lunch. A comfortable day means a private twin room, a porter shared between two, a hot water bucket and a few bottled drinks."
       ],
       "table": {
-        "head": ["Per person, per day", "Shoestring", "Comfortable"],
+        "head": [
+          "Per person, per day",
+          "Shoestring",
+          "Comfortable"
+        ],
         "rows": [
-          ["Bed", "₹400–700", "₹800–1,750 (half a twin)"],
-          ["Three meals, tea and snacks", "₹700–1,000", "₹1,000–1,300"],
-          ["Half the guide fee", "₹750–1,000", "₹750–1,000"],
-          ["Half a porter", "None", "₹500–650"],
-          ["Hot water, charging, extras", "₹50–150", "₹200–350"],
-          ["Day total", "₹1,900–2,850", "₹3,250–5,050"]
+          [
+            "Bed",
+            "₹400–700",
+            "₹800–1,750 (half a twin)"
+          ],
+          [
+            "Three meals, tea and snacks",
+            "₹700–1,000",
+            "₹1,000–1,300"
+          ],
+          [
+            "Half the guide fee",
+            "₹750–1,000",
+            "₹750–1,000"
+          ],
+          [
+            "Half a porter",
+            "None",
+            "₹500–650"
+          ],
+          [
+            "Hot water, charging, extras",
+            "₹50–150",
+            "₹200–350"
+          ],
+          [
+            "Day total",
+            "₹1,900–2,850",
+            "₹3,250–5,050"
+          ]
         ]
       }
     },
@@ -109,7 +209,15 @@
       ]
     }
   ],
-  "related_places": ["maneybhanjan", "tumling", "kalipokhri", "sandakphu", "phalut", "rimbik", "srikhola"],
+  "related_places": [
+    "maneybhanjan",
+    "tumling",
+    "kalipokhri",
+    "sandakphu",
+    "phalut",
+    "rimbik",
+    "srikhola"
+  ],
   "faqs": [
     {
       "q": "How much does the Sandakphu trek cost per person?",

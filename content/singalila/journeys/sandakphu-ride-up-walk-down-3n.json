@@ -1,0 +1,67 @@
+{
+  "slug": "sandakphu-ride-up-walk-down-3n",
+  "title": "Ride up to Sandakphu, walk down to Srikhola",
+  "region": "singalila",
+  "nights": 3,
+  "themes": ["kanchenjunga-views", "solo-backpacking", "treks", "long-weekends"],
+  "tier": "Shoestring",
+  "travel_mode": "Mixed",
+  "stops": [{"place": "maneybhanjan", "nights": 1}, {"place": "sandakphu", "nights": 1}, {"place": "srikhola", "nights": 1}],
+  "start": "NJP railway station or Bagdogra airport",
+  "end": "NJP railway station or Bagdogra airport",
+  "price_from_inr": 9500,
+  "cost_split": [
+    {"item": "Shared jeep seats NJP to Maneybhanjan, and Srikhola to Rimbik, Darjeeling and NJP", "inr": 1400},
+    {"item": "One-way seat in a full Land Rover to Sandakphu", "inr": 1300},
+    {"item": "Maneybhanjan lodge, Sandakphu dorm and Srikhola lodge with dinner and breakfast", "inr": 3500},
+    {"item": "Licensed guide share for a pair, park entry and camera fee", "inr": 2400},
+    {"item": "Lunches, tea and snacks", "inr": 900}
+  ],
+  "best_months": [1, 1, 1, 2, 1, 0, 0, 0, 0, 2, 2, 2],
+  "pace": "Active",
+  "max_altitude_m": 3636,
+  "meta_description": "3 nights from ₹9,500: a shared Land Rover seat to Sandakphu (3,636 m), Everest at dawn, then a long walk down via Gurdum to the river at Srikhola.",
+  "summary": "Sandakphu for people with four days and a small budget. Sleep in Maneybhanjan, share a Land Rover up the cobbled track with other trekkers, see Everest and Kanchenjunga at dawn, then walk 14–16 km down through forest to the riverside lodges of Srikhola and come out by jeep through Rimbik. About ₹9,500 per person.",
+  "intro": [
+    "The Land Rover round trip is the expensive part of a Sandakphu visit, about ₹6,500–9,000 for a vehicle. Riding up only, and sharing the vehicle with other trekkers, cuts that to a seat price. Coming down on foot is the best half of the walk anyway: the trail from Sandakphu via Gurdum drops about 1,700 m through fir, rhododendron and bamboo to the stream at Srikhola, the warmest and most relaxed night in the region.",
+    "Two warnings. Riding from 2,150 m to 3,636 m in four hours is hard on some bodies: sleep in Maneybhanjan first, drink water, and come down if a headache gets worse. And the descent is long and steep on the knees; walking poles help. A licensed guide is compulsory in Singalila National Park, including in the Land Rover, and entry is paid at Maneybhanjan. Check current status before you travel."
+  ],
+  "highlights": [
+    "A seat in one of Maneybhanjan's old Land Rovers on the cobbled track",
+    "Everest, Lhotse, Makalu and Kanchenjunga from West Bengal's highest point",
+    "A 1,700 m descent through fir and rhododendron via Gurdum",
+    "A riverside night at Srikhola, the warmest stop on the trek",
+    "The early jeep through Rimbik's hill farms"
+  ],
+  "days": [
+    {"day": 1, "title": "Shared jeeps to Maneybhanjan", "place": "maneybhanjan", "overnight": "Maneybhanjan", "drive": "≈ 70 km · 3–3.5 h to Darjeeling, then ≈ 26 km · 1–1.5 h to Maneybhanjan by shared jeep", "text": "Take a shared jeep from NJP or Siliguri to Darjeeling, about ₹250–350 a seat, and another from Chowk Bazaar to Maneybhanjan for ₹100–150. In the afternoon go to the guide office to hire your guide and to the Land Rover stand to ask which vehicles leave for Sandakphu tomorrow and whether seats are free. Trekkers often pool into one vehicle. Walk to the culvert in the bazaar that marks the border with Nepal, eat momos, and sleep in a simple lodge near the stand.", "meals": "Dinner", "spend": "₹300 + ₹150 jeep seats + ₹700 room share"},
+    {"day": 2, "title": "Land Rover up to Sandakphu", "place": "sandakphu", "overnight": "Sandakphu", "drive": "≈ 31 km · 4 h by Land Rover", "text": "Pay park entry and leave at about 7:30 am. The Land Rover climbs past Chitrey, Tumling and Jaubari, drops to Gairibas in the forest, then grinds up to Kalipokhri's black pond and the last steep bends to Sandakphu. You arrive around midday at 3,636 m. Take a bed in the GTA trekkers' hut or a lodge dorm, rest for two hours, then walk slowly around the summit. Watch sunset on Makalu and Everest if the west is clear. Eat dal-bhat and drink plenty.", "meals": "Breakfast, dinner", "spend": "₹1,300 Land Rover seat + ₹700 bed + ₹200 lunch"},
+    {"day": 3, "title": "Dawn on the summit, down to Srikhola", "place": "srikhola", "overnight": "Srikhola", "drive": "On foot ≈ 14–16 km · 6–7 h, about 1,700 m down", "text": "Be out by 5 am for the sunrise: Everest, Lhotse and Makalu to the west, the Kanchenjunga massif and the Sleeping Buddha outline to the north. After breakfast your guide leads you off the ridge on the Gurdum trail. It drops steeply through silver fir, rhododendron and bamboo, then through farmland around Gurdum village, where you can eat lunch. The last hour follows the stream down to Srikhola at about 1,900 m. Wash, rest your knees, and listen to the river.", "meals": "Breakfast, dinner", "spend": "₹550 dorm bed + ₹200 lunch + ₹80 tea"},
+    {"day": 4, "title": "Out through Rimbik to NJP", "place": "srikhola", "overnight": "", "drive": "≈ 7 km · 30 min by jeep to Rimbik, ≈ 56 km · 4–5 h to Darjeeling, ≈ 70 km · 3–3.5 h to NJP", "text": "Shared jeeps from Rimbik to Darjeeling leave early, roughly 6–8 am, so take a reserved jeep from Srikhola at first light, about ₹600–1,000 split between you, or walk the road the evening before if you are fresh. The ride to Darjeeling winds through Rimbik's terraces and the forest road past Batasey. In Darjeeling eat lunch near the motor stand and take a jeep down to NJP. Book a train or flight for the evening, and ask the night before for the current jeep times.", "meals": "Breakfast", "spend": "₹400 jeep share + ₹250 + ₹300 jeep seats + ₹200 lunch"}
+  ],
+  "stays": ["singalila-gta-trekkers-hut-sandakphu"],
+  "includes": ["Shared jeep seats and a reserved jeep share from Srikhola to Rimbik", "One-way seat in a full Land Rover", "Lodge and dorm beds with dinner and breakfast, 3 nights", "Licensed guide shared by two, park entry and camera fee"],
+  "excludes": ["Train or flight to NJP or Bagdogra", "A private Land Rover if no shared seats are free", "Porter", "Hot water, phone charging and bottled drinks", "Tips"],
+  "save_money": [
+    "Go to the Land Rover stand the afternoon before and pool with other trekkers; a full vehicle of six is the only way the seat price stays near ₹1,300.",
+    "Sleep in the trekkers' hut or a lodge dorm at Sandakphu rather than a private twin; it halves the most expensive bed of the trip.",
+    "Eat dal-bhat rather than packaged food; lodges usually serve a second helping of rice and dal at no extra cost."
+  ],
+  "good_to_know": [
+    "Land Rover rates are set by the Maneybhanjan owners' association and seats depend on other travellers; check current status before you travel.",
+    "Rising from 2,150 m to 3,636 m in one morning can cause altitude sickness; descend if symptoms worsen.",
+    "The Gurdum descent is steep and slippery after rain; walking poles are strongly recommended.",
+    "The park usually closes from mid-June to mid-September."
+  ],
+  "faqs": [
+    {"q": "Can I buy a single seat in a Sandakphu Land Rover?", "a": "Often, but not always. The owners' association hires out whole vehicles, and trekkers pool together to fill them. Go to the stand at Maneybhanjan the afternoon before and ask which vehicles are going up with spare seats. In October and on weekends this is easy; in quiet months you may have to pay for more seats. Check current status before you travel."},
+    {"q": "How much does this 3-night trip cost?", "a": "About ₹9,500 per person for two people sharing a guide, from NJP back to NJP, indicative for 2025–26. That includes shared jeeps, a one-way Land Rover seat in a full vehicle, three nights of basic beds with dinner and breakfast, the guide, park entry and lunches. If you end up hiring a whole Land Rover, add several thousand rupees."},
+    {"q": "How hard is the walk down from Sandakphu to Srikhola?", "a": "Hard on the legs rather than the lungs. You lose about 1,700 m over 14–16 km, most of it on steep forest paths, and it takes 6–7 hours. Knees and toes suffer; walking poles and well-fitting shoes make a real difference. The trail is clear, passes Gurdum village for lunch, and needs no technical skill."},
+    {"q": "Will I get altitude sickness going straight to Sandakphu?", "a": "Some people do. Rising almost 1,500 m in four hours is fast. Sleeping in Maneybhanjan the night before, drinking water, avoiding alcohol and resting on arrival all help. A mild headache is common; a worsening headache, vomiting or confusion means you should go down. Walking down the next morning, as this trip does, is itself the cure."},
+    {"q": "Do I need a guide on the Land Rover and the walk down?", "a": "Yes. As we understand the rule, every group in Singalila National Park needs a licensed local guide, whether riding or walking. Your guide rides up with you and walks you down to Srikhola. The fee is about ₹1,500–2,000 a day per group, usually counted until the guide gets home. Check current status before you travel."},
+    {"q": "How do I get out from Srikhola?", "a": "A jeep road joins Srikhola to Rimbik, about 6–7 km. Shared jeeps are occasional, so most trekkers reserve one for about ₹600–1,000 or walk for two hours. From Rimbik, shared jeeps to Darjeeling leave early, roughly 6–8 am, for ₹200–300 a seat and take 4–5 hours. Ask your Srikhola lodge the night before for current times."},
+    {"q": "When is the best time for this trip?", "a": "October to early December for the clearest views of Everest and Kanchenjunga. April brings rhododendrons on the Gurdum descent but more haze on the peaks. January and February are very cold at the top, with snow possible, but often clear. The park usually closes from mid-June to mid-September."},
+    {"q": "Is there an ATM on the way?", "a": "Do not count on one after Darjeeling. Withdraw all the cash you need there: lodges, the guide, Land Rover seats and jeeps are paid in cash. Some lodges accept UPI when the network allows, but signal on the ridge and in Srikhola is unreliable. Carry small notes for tea and hot water."},
+    {"q": "What are the lodges like at Srikhola?", "a": "Simple but more comfortable than anything on the ridge. Family lodges by the river and near the bridge offer twin rooms at about ₹1,200–2,500 and dorm beds at ₹400–700, with home-cooked meals. At about 1,900 m it is far warmer than Sandakphu. In October and April trekkers fill the beds, so ask your guide to phone ahead from the summit."}
+  ]
+}

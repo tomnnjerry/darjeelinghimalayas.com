@@ -1,0 +1,77 @@
+{
+  "slug": "lachung-family-car-share-4n",
+  "title": "Lachung with the family, four sharing a car",
+  "region": "north-sikkim",
+  "nights": 4,
+  "themes": ["family-trips", "snow-and-passes", "kanchenjunga-views", "homestays"],
+  "tier": "Value",
+  "travel_mode": "Reserved car",
+  "stops": [{"place": "singhik", "nights": 1}, {"place": "lachung", "nights": 2}, {"place": "mangan", "nights": 1}],
+  "start": "Gangtok (pickup from your hotel)",
+  "end": "Gangtok",
+  "price_from_inr": 15000,
+  "cost_split": [
+    {"item": "Reserved SUV with driver and permits, 5 days, shared by four", "inr": 5500},
+    {"item": "Rooms, 4 nights with dinner and breakfast", "inr": 6200},
+    {"item": "Zero Point add-on, shared by four", "inr": 1000},
+    {"item": "Lunches, tea and snacks", "inr": 1500},
+    {"item": "Boot and coat rental, donations and tips", "inr": 800}
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Easy",
+  "max_altitude_m": 4700,
+  "meta_description": "Lachung in 4 nights for a family of four sharing one car: Singhik, 2 nights in Lachung for Yumthang and Zero Point, Mangan, from ₹15,000 per person.",
+  "summary": "A family-paced Lachung trip that splits one reserved car four ways: a first night at Singhik to break the drive, two nights in a Lachung homestay for Yumthang and Zero Point, and a warm last night in Mangan so the drive home is short. About ₹15,000 per person, from Gangtok. Check current status before you travel.",
+  "intro": [
+    "Shared tours push families into a 10-hour first day and a 6 am start the morning after. With four people in one reserved car, you pay barely more than shared-tour rates and get to set the pace. This plan uses that freedom: three hours to Singhik on day one, a short drive to Lachung on day two, and only one early morning, for Yumthang and Zero Point.",
+    "The last night in Mangan, at 956 m, means children sleep warm and the final drive to Gangtok is about three hours, not seven. Lachung's family homestays are simple but welcoming, with dal, rice and eggs that children will eat. Roads north of Mangan have closed often since the October 2023 Teesta flood. Check current status before you travel."
+  ],
+  "highlights": [
+    "A short first day with Kanchenjunga at Singhik",
+    "Snow and yaks at Yumthang, children's favourite",
+    "Zero Point at about 4,700 m for those well enough",
+    "Two nights with a Lachung family",
+    "A warm last night in Mangan and a short drive home"
+  ],
+  "days": [
+    {"day": 1, "title": "Gangtok to Singhik, the easy way", "place": "singhik", "overnight": "Singhik", "drive": "≈ 70 km · 3–4 h with stops", "text": "Start at 9.30 am with permits arranged by your agent the day before. Stop at Kabi Lungchok to see the stone pillars where a Lepcha chief and a Bhutia prince swore brotherhood in the 13th century, a story children enjoy. Break at the Seven Sisters waterfall, have lunch in Mangan and climb to Singhik. Check in at the tourist lodge or a homestay, and let the children run about on the ridge before dinner.", "meals": "Dinner", "spend": "₹200 lunch + ₹50 tea"},
+    {"day": 2, "title": "Sunrise, then up to Lachung", "place": "lachung", "overnight": "Lachung", "drive": "≈ 50 km · 3–4 h", "text": "Wake the children for ten minutes at sunrise: Kanchenjunga and Siniolchu turn pink across the gorge. After breakfast, drive north past Chungthang, where two rivers meet to become the Teesta and where the 2023 flood left a wide scar of boulders. Climb to Lachung, at about 2,700 m, by early afternoon. Settle into the homestay, rent boots and coats for tomorrow and take a slow walk to the river.", "meals": "Breakfast, Dinner", "spend": "₹200 lunch + ₹600 family rentals"},
+    {"day": 3, "title": "Yumthang snow and Zero Point", "place": "yumthang", "overnight": "Lachung", "drive": "≈ 94 km return · 5–6 h", "text": "Leave at 6 am with a packed breakfast. Drive 24 km to Yumthang Valley, at 3,564 m, where yaks graze and, from December to March, the meadow is often white. Decide here whether to go on to Zero Point at about 4,700 m: it is too high for children under five, and anyone unwell should stay at Yumthang with a parent. Stop at the hot spring on the way down. Afternoon rest in Lachung.", "meals": "Breakfast, Dinner", "spend": "₹1,000 Zero Point share + ₹200 tea and Maggi"},
+    {"day": 4, "title": "Lachung monastery, then down to Mangan", "place": "mangan", "overnight": "Mangan", "drive": "≈ 55 km · 3–4 h", "text": "A relaxed morning. Walk up to Lachung Monastery, founded in 1880, and spin the prayer wheels. Leave by 10.30 am and drive down to Mangan, at 956 m, stopping at waterfalls on the way. Check into a simple hotel and walk the bazaar in the evening; show the children large cardamom pods, which give Mangan its living. Early dinner and a warm night.", "meals": "Breakfast, Dinner", "spend": "₹200 lunch + ₹100 donation"},
+    {"day": 5, "title": "Mangan to Gangtok", "place": "mangan", "overnight": "Gangtok (not included)", "drive": "≈ 65 km · 3 h", "text": "Leave after breakfast and reach Gangtok by late morning. The short last day leaves slack for landslide delays, which have been more common since the 2023 flood. If you must reach NJP or Bagdogra today, keep the car for the onward drive, about 4–5 hours more, and do not book an evening flight. Otherwise, spend the afternoon on MG Marg.", "meals": "Breakfast", "spend": "₹500 driver tip share"}
+  ],
+  "stays": ["singhik-tourist-lodge"],
+  "includes": [
+    "Reserved SUV with driver for 5 days, fuel and North Sikkim permits, split four ways",
+    "Four nights in a tourist lodge, family homestays and a small hotel, with dinner and breakfast",
+    "Yumthang, and Zero Point for those who go"
+  ],
+  "excludes": [
+    "Transport between NJP/Bagdogra and Gangtok",
+    "Gangtok hotel nights",
+    "Child seats (bring your own if needed)",
+    "Room heaters if charged extra"
+  ],
+  "save_money": [
+    "Ask for a family room in the Lachung homestay; four in one room costs much less than two doubles.",
+    "Skip Zero Point if your children are small and save ₹3,000–4,500 on the vehicle.",
+    "Carry snacks from Gangtok; packaged food at Yumthang stalls costs twice the city price."
+  ],
+  "good_to_know": [
+    "Children under five should not go to Zero Point; Yumthang is high enough for them.",
+    "Foreign nationals need a PAP through a registered agent and cannot go to Zero Point.",
+    "The road north of Mangan has had frequent closures since the October 2023 Teesta flood; check current status before you travel.",
+    "Carry motion-sickness tablets; the Lachung road has many bends."
+  ],
+  "faqs": [
+    {"q": "Is Lachung suitable for small children?", "a": "Lachung itself, at about 2,700 m, is fine for most healthy children with warm clothes and a slow pace. Yumthang, at 3,564 m, is a short visit. Zero Point, at about 4,700 m, is not advised for under-fives. Watch children for unusual tiredness, vomiting or headache and come down if it appears."},
+    {"q": "How much does a car for four cost?", "a": "A reserved SUV for five days from Gangtok with driver, fuel and permits costs roughly ₹20,000–24,000 in 2025–26. Split four ways, that is about ₹5,000–6,000 each, close to shared-tour prices but with your own pace and stops. Zero Point adds ₹3,000–4,500 per vehicle."},
+    {"q": "Why stay in Mangan on the last night?", "a": "It is warmer, at 956 m, and it cuts the final drive to Gangtok to about three hours. That leaves a buffer for landslides and means you are not driving seven hours with tired children. Mangan also has phone network and shops."},
+    {"q": "What food is available for children?", "a": "Homestays serve dal, rice, vegetables, eggs, sometimes chicken, and breakfast of puri, bread or noodles. Maggi and tea are sold at Yumthang and Zero Point stalls. Carry biscuits, fruit and dry snacks from Gangtok. Tell your host if a child needs plain food."},
+    {"q": "Do we need to buy snow gear?", "a": "No. Lachung shops rent snow boots and long padded coats for about ₹100–300 a day each, in children's sizes too. Bring your own thermals, gloves, woollen caps and sunglasses. Wet socks are the main problem, so pack spares."},
+    {"q": "When will there be snow?", "a": "Yumthang usually has snow from December to March, and Zero Point from November to May. In April and May Yumthang is green with rhododendrons and snow is higher up. In October, expect snow only at Zero Point. Heavy snow can close the road above Lachung for a day or two."},
+    {"q": "Can we do this trip in a shared tour instead?", "a": "Yes, a shared 2-night Lachung tour costs about ₹4,500–6,000 per person. But you start and stop with strangers, the first day is long, and there are no Singhik or Mangan nights. For a family of four, a reserved car costs only a little more and is easier."},
+    {"q": "Which Lachung homestay should we book?", "a": "Ask your agent for a family-run homestay with attached bathrooms, hot water and a heater or plenty of quilts. Lachung's Dzumsa registers guesthouses, so book through an agent or a host you have spoken to. For more comfort, Yarlam Resort costs more."},
+    {"q": "What if a child gets altitude sickness?", "a": "Go down. Most symptoms ease quickly with descent from Zero Point to Yumthang or Lachung. Keep children warm, hydrated and resting. If symptoms persist in Lachung, drive down to Chungthang or Mangan. Ask your doctor about medicines before you travel."}
+  ]
+}
