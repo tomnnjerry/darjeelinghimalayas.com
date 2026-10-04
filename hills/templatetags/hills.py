@@ -10,12 +10,23 @@ _THUMB = re.compile(r"/(\d+)px-")
 
 
 def _clean(url):
-    return (url or "").split("?")[0]
+    """Drop tracking parameters and use Wikimedia's standard image host (the API sometimes answers thumb.wikimedia.org)."""
+    return (url or "").split("?")[0].replace("//thumb.wikimedia.org/", "//upload.wikimedia.org/")
+
+
+_ORIGINAL = re.compile(r"^(https://upload\.wikimedia\.org/wikipedia/commons)/(\w)/(\w\w)/([^/]+)$")
 
 
 def _at(img, w):
     url = _clean(img.get("thumb") or img.get("url"))
-    if "/thumb/" in url and _THUMB.search(url):
+    if "/thumb/" not in url:
+        # Commons gave the original (the photo is narrower than the size we asked for): still ask for a sized copy
+        m = _ORIGINAL.match(_clean(img.get("url")))
+        if m and (not img.get("width") or w < img["width"]):
+            base, a, ab, name = m.groups()
+            return f"{base}/thumb/{a}/{ab}/{name}/{w}px-{name}"
+        return url
+    if _THUMB.search(url):
         if img.get("width") and w >= img["width"]:
             return _clean(img.get("url"))
         return _THUMB.sub(f"/{w}px-", url, count=1)

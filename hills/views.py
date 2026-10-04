@@ -124,6 +124,11 @@ def home(request):
         if cat.images.get(key):
             hero = cat.images[key][0]
             break
+    if not hero:  # any lead photo is better than none, Darjeeling's first
+        for r in sorted(regions, key=lambda r: r["slug"] != "darjeeling"):
+            if r.get("images"):
+                hero = r["images"][0]
+                break
     sili = [rt for rt in cat.routes.values() if rt.get("from") == "siliguri"]
     board = board_rows(sili + [rt for rt in cat.routes.values() if rt not in sili], 10)
     ticks = [{"pct": round(v / 5400 * 100, 1), "label": f"{v:,}"} for v in (0, 1000, 2000, 3000, 4000, 5000)]

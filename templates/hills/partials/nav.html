@@ -16,14 +16,7 @@
           <a class="btn btn--sun btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="mega-hills-plan">Ask a local planner</a>
         </div>
         <div class="mlands">
-          {% for r in nav_regions %}<div class="mcard" data-land="{{ r.slug }}">
-            {% with img=r|first_img %}{% if img %}<img src="{{ img|src:500 }}" alt="" loading="lazy">{% endif %}{% endwith %}
-            <span class="mcard__veil" aria-hidden="true"></span>
-            <span class="lbadge">{% icon r.slug %}</span>
-            <a class="mcard__name" href="{{ r.url }}">{{ r.short }}</a>
-            <span class="mcard__palette">{{ r.palette }}</span>
-            {% if r.per_day_from %}<span class="mcard__alt">From {{ r.per_day_from|inr }} a day</span>{% endif %}
-          </div>{% endfor %}
+          {% for r in nav_regions %}<a class="lrow" href="{{ r.url }}" data-land="{{ r.slug }}"><span class="lbadge">{% icon r.slug %}</span><span class="lrow__t"><b>{{ r.short }}</b><small>{% if r.per_day_from %}From {{ r.per_day_from|inr }} a day{% endif %}{% if r.max_alt %} · up to {{ r.max_alt|intcomma_plain }} m{% endif %}</small></span></a>{% endfor %}
         </div>
       </div>
     </div>
@@ -47,7 +40,7 @@
         </div>
         <div>
           <p class="eyebrow">Fares we like</p>
-          {% for j in nav_popular|slice:":3" %}<a class="mfeat" href="{{ j.url }}" data-land="{{ j.region }}">{% with img=j|first_img %}{% if img %}<img src="{{ img|src:500 }}" alt="" loading="lazy">{% else %}<span></span>{% endif %}{% endwith %}<span><small>{% icon j.region %}{{ j.region_obj.short }} · {{ j.nights }} nights</small><b>{{ j.title }}</b><span class="fare">{{ j.price_from_inr|inr }} pp</span></span></a>{% endfor %}
+          {% for j in nav_popular|slice:":3" %}<a class="mfeat" href="{{ j.url }}" data-land="{{ j.region }}"><span class="lbadge lbadge--sm">{% icon j.region %}</span><span><small>{{ j.region_obj.short }} · {{ j.nights }} nights</small><b>{{ j.title }}</b><span class="fare">{{ j.price_from_inr|inr }} per person</span></span></a>{% endfor %}
           <a class="link-arrow" href="{% url 'journeys' %}" style="margin-top:14px">Every trip {% icon "arrow" %}</a>
         </div>
       </div>
