@@ -26,16 +26,52 @@
         "These are indicative prices from typical Gangtok agent offers for budget and mid-range travel. They rise in May, during Durga Puja and Diwali, and over Christmas and New Year, and fall in the monsoon when tours run at all. Always ask whether a price is per person or per vehicle, and whether the permit, Zero Point and Gurudongmar are included."
       ],
       "table": {
-        "head": ["Tour or item", "Indicative price", "What it usually covers"],
+        "head": [
+          "Tour or item",
+          "Indicative price",
+          "What it usually covers"
+        ],
         "rows": [
-          ["Shared 3D/2N Lachen and Lachung", "₹6,000–8,000 per person", "Permit, seat, two nights' lodge, dinner and breakfast"],
-          ["Shared 2D/1N Lachung and Yumthang", "₹3,500–4,500 per person", "Permit, seat, one night, dinner and breakfast"],
-          ["Shared 3D/2N Lachung only", "₹4,500–6,000 per person", "Two nights at Lachung, Yumthang day"],
-          ["Reserved vehicle, 3D/2N loop", "₹18,000–28,000 per vehicle", "Car, driver, permit handling; hotels extra"],
-          ["Zero Point (Yumesamdong) add-on", "₹3,000–4,500 per vehicle", "Extra 46 km return from Yumthang"],
-          ["Snow boots and long coat rental", "₹100–300 each a day", "Rented in Lachung or Lachen"],
-          ["Portable oxygen can", "₹500–900", "Sold in Gangtok, Lachen and Lachung"],
-          ["Lunch on the road, both drive days", "₹150–300 a meal", "Usually not included"]
+          [
+            "Shared 3D/2N Lachen and Lachung",
+            "₹6,000–8,000 per person",
+            "Permit, seat, two nights' lodge, dinner and breakfast"
+          ],
+          [
+            "Shared 2D/1N Lachung and Yumthang",
+            "₹3,500–4,500 per person",
+            "Permit, seat, one night, dinner and breakfast"
+          ],
+          [
+            "Shared 3D/2N Lachung only",
+            "₹4,500–6,000 per person",
+            "Two nights at Lachung, Yumthang day"
+          ],
+          [
+            "Reserved vehicle, 3D/2N loop",
+            "₹18,000–28,000 per vehicle",
+            "Car, driver, permit handling; hotels extra"
+          ],
+          [
+            "Zero Point (Yumesamdong) add-on",
+            "₹3,000–4,500 per vehicle",
+            "Extra 46 km return from Yumthang"
+          ],
+          [
+            "Snow boots and long coat rental",
+            "₹100–300 each a day",
+            "Rented in Lachung or Lachen"
+          ],
+          [
+            "Portable oxygen can",
+            "₹500–900",
+            "Sold in Gangtok, Lachen and Lachung"
+          ],
+          [
+            "Lunch on the road, both drive days",
+            "₹150–300 a meal",
+            "Usually not included"
+          ]
         ]
       }
     },
@@ -74,6 +110,12 @@
       ]
     },
     {
+      "heading": "Cheaper ways to see North Sikkim",
+      "paras": [
+        "If even a shared tour is beyond your budget, you can still see a good part of North Sikkim without one. Kabi Lungchok, Phodong and Labrang monasteries, Mangan and Singhik need no permit for Indians and are reached by shared jeep from Gangtok's Vajra stand for ₹80–300 a seat. A night at Singhik, looking across the Teesta gorge to Kanchenjunga, costs ₹1,500–3,000 a room. Dzongu homestays at about ₹1,800–2,500 per person with all meals give you two or three days in the Lepcha reserve for less than the price of a tour, once you have the Dzongu permit. Roads here closed too after the 2023 flood, so check current status before you travel."
+      ]
+    },
+    {
       "heading": "Where people overspend",
       "paras": [
         "Most budget leaks on this trip are small and avoidable. These are the ones we see every season."
@@ -87,16 +129,50 @@
       ]
     }
   ],
-  "related_places": ["lachung", "lachen", "yumthang", "yumesamdong", "gurudongmar", "chungthang"],
+  "related_places": [
+    "lachung",
+    "lachen",
+    "yumthang",
+    "yumesamdong",
+    "gurudongmar",
+    "chungthang"
+  ],
   "faqs": [
-    {"q": "How much does a shared North Sikkim tour cost per person?", "a": "About ₹6,000–8,000 per person for the shared 3-day, 2-night tour from Gangtok to Lachen and Lachung, including permit, a seat in the vehicle, two nights in a basic lodge, dinner and breakfast. A 2-day Lachung-only trip costs ₹3,500–4,500. Prices rise in May, October and late December. These are indicative 2025–26 figures; check current status before you travel."},
-    {"q": "Is it cheaper to book a North Sikkim tour in Gangtok or online?", "a": "Usually in Gangtok. Registered agents near MG Marg sell shared seats directly, and you can compare two or three offers in an hour. Online sellers often add a margin and are slower to adjust when a road closes. The catch is time: arrive in Gangtok at least a day early so the agent can process your permit."},
-    {"q": "What is included in a North Sikkim package?", "a": "Normally the permit, the vehicle and driver, lodge rooms in Lachen or Lachung, dinner and breakfast. Road lunches, Zero Point, coat and boot rental, oxygen cans and tips are usually extra. Ask for a written list that names each night's village and states whether Gurudongmar and Zero Point are included and open that week."},
-    {"q": "How much does a reserved car for North Sikkim cost?", "a": "Roughly ₹18,000–28,000 per vehicle for the 3-day, 2-night Lachen and Lachung loop, depending on the car size and season, with hotels usually extra. For four to six people this can be close to the shared price per head and gives you your own timings. Zero Point adds ₹3,000–4,500 per vehicle."},
-    {"q": "Does a shared tour leave every day?", "a": "In season, yes, most days, because agents pool their customers to fill vehicles. In January, February and the monsoon, fewer people travel and you may wait a day for a full jeep. Road closures since the 2023 flood also cancel departures at short notice, so keep a buffer day and check current status before you travel."},
-    {"q": "Is Zero Point worth the extra cost?", "a": "For people who have never seen deep snow, often yes: Yumesamdong sits at about 4,700 m and stays white well into May. It costs ₹3,000–4,500 per vehicle, which is small per head in a full jeep. Skip it if anyone is struggling with the altitude, and do not prepay in case snow or a closure stops the vehicle."},
-    {"q": "Can I get a refund if the North Sikkim road closes?", "a": "It depends on the agent, which is why you should ask before paying. Some refund the unused part, some move you to another date, and some switch you to a Lachung-only trip. Permit fees are rarely refunded. Get the policy written on your receipt, especially in May, June and the monsoon months."},
-    {"q": "Can students do North Sikkim on a low budget?", "a": "Yes, on a shared tour. Plan on about ₹8,000–10,500 per person for the full 3-day loop with rentals and road meals, plus jeep fares to and from Gangtok. Travel in March, early April or November to avoid peak prices, share a triple room, and rent coats in Lachung rather than buying them."},
-    {"q": "Do I need to tip the driver on a North Sikkim tour?", "a": "It is not required, but it is common and appreciated. Drivers on this route start at 3 am for Gurudongmar and handle one of the hardest roads in India. Groups often pool ₹200–500 per person for a 3-day trip, given at the end. Tip more if the driver helped with a sick traveller or a long delay."}
+    {
+      "q": "How much does a shared North Sikkim tour cost per person?",
+      "a": "About ₹6,000–8,000 per person for the shared 3-day, 2-night tour from Gangtok to Lachen and Lachung, including permit, a seat in the vehicle, two nights in a basic lodge, dinner and breakfast. A 2-day Lachung-only trip costs ₹3,500–4,500. Prices rise in May, October and late December. These are indicative 2025–26 figures; check current status before you travel."
+    },
+    {
+      "q": "Is it cheaper to book a North Sikkim tour in Gangtok or online?",
+      "a": "Usually in Gangtok. Registered agents near MG Marg sell shared seats directly, and you can compare two or three offers in an hour. Online sellers often add a margin and are slower to adjust when a road closes. The catch is time: arrive in Gangtok at least a day early so the agent can process your permit."
+    },
+    {
+      "q": "What is included in a North Sikkim package?",
+      "a": "Normally the permit, the vehicle and driver, lodge rooms in Lachen or Lachung, dinner and breakfast. Road lunches, Zero Point, coat and boot rental, oxygen cans and tips are usually extra. Ask for a written list that names each night's village and states whether Gurudongmar and Zero Point are included and open that week."
+    },
+    {
+      "q": "How much does a reserved car for North Sikkim cost?",
+      "a": "Roughly ₹18,000–28,000 per vehicle for the 3-day, 2-night Lachen and Lachung loop, depending on the car size and season, with hotels usually extra. For four to six people this can be close to the shared price per head and gives you your own timings. Zero Point adds ₹3,000–4,500 per vehicle."
+    },
+    {
+      "q": "Does a shared tour leave every day?",
+      "a": "In season, yes, most days, because agents pool their customers to fill vehicles. In January, February and the monsoon, fewer people travel and you may wait a day for a full jeep. Road closures since the 2023 flood also cancel departures at short notice, so keep a buffer day and check current status before you travel."
+    },
+    {
+      "q": "Is Zero Point worth the extra cost?",
+      "a": "For people who have never seen deep snow, often yes: Yumesamdong sits at about 4,700 m and stays white well into May. It costs ₹3,000–4,500 per vehicle, which is small per head in a full jeep. Skip it if anyone is struggling with the altitude, and do not prepay in case snow or a closure stops the vehicle."
+    },
+    {
+      "q": "Can I get a refund if the North Sikkim road closes?",
+      "a": "It depends on the agent, which is why you should ask before paying. Some refund the unused part, some move you to another date, and some switch you to a Lachung-only trip. Permit fees are rarely refunded. Get the policy written on your receipt, especially in May, June and the monsoon months."
+    },
+    {
+      "q": "Can students do North Sikkim on a low budget?",
+      "a": "Yes, on a shared tour. Plan on about ₹8,000–10,500 per person for the full 3-day loop with rentals and road meals, plus jeep fares to and from Gangtok. Travel in March, early April or November to avoid peak prices, share a triple room, and rent coats in Lachung rather than buying them."
+    },
+    {
+      "q": "Do I need to tip the driver on a North Sikkim tour?",
+      "a": "It is not required, but it is common and appreciated. Drivers on this route start at 3 am for Gurudongmar and handle one of the hardest roads in India. Groups often pool ₹200–500 per person for a 3-day trip, given at the end. Tip more if the driver helped with a sick traveller or a long delay."
+    }
   ]
 }

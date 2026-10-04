@@ -19,15 +19,55 @@
         "This table is for the high valleys, Lachung and Lachen and the points above them. Mangan, Singhik, Phodong and Dzongu, at 950–2,000 m, are milder in winter and good from October right through April."
       ],
       "table": {
-        "head": ["Months", "Lachung weather", "What you get", "Our rating"],
+        "head": [
+          "Months",
+          "Lachung weather",
+          "What you get",
+          "Our rating"
+        ],
         "rows": [
-          ["Jan – Feb", "−8 to 7 °C, snow", "Snow in the village, high points often shut", "Good if flexible"],
-          ["Mar", "−2 to 11 °C", "Snow at Yumthang, first flowers low down", "Best"],
-          ["Apr – May", "2 to 18 °C", "Rhododendrons, Zero Point still white", "Best"],
-          ["Jun – Aug", "10 to 18 °C, heavy rain", "Green meadows, frequent road closures", "Avoid"],
-          ["Sep", "8 to 17 °C", "Rain easing, cheaper rooms", "Good late in month"],
-          ["Oct – Nov", "−2 to 15 °C, dry", "Clearest skies, autumn colour", "Best"],
-          ["Dec", "−6 to 7 °C", "First heavy snow, Phodong chaam", "Good"]
+          [
+            "Jan – Feb",
+            "−8 to 7 °C, snow",
+            "Snow in the village, high points often shut",
+            "Good if flexible"
+          ],
+          [
+            "Mar",
+            "−2 to 11 °C",
+            "Snow at Yumthang, first flowers low down",
+            "Best"
+          ],
+          [
+            "Apr – May",
+            "2 to 18 °C",
+            "Rhododendrons, Zero Point still white",
+            "Best"
+          ],
+          [
+            "Jun – Aug",
+            "10 to 18 °C, heavy rain",
+            "Green meadows, frequent road closures",
+            "Avoid"
+          ],
+          [
+            "Sep",
+            "8 to 17 °C",
+            "Rain easing, cheaper rooms",
+            "Good late in month"
+          ],
+          [
+            "Oct – Nov",
+            "−2 to 15 °C, dry",
+            "Clearest skies, autumn colour",
+            "Best"
+          ],
+          [
+            "Dec",
+            "−6 to 7 °C",
+            "First heavy snow, Phodong chaam",
+            "Good"
+          ]
         ]
       }
     },
@@ -43,7 +83,8 @@
       "heading": "Monsoon: why we stay away",
       "paras": [
         "From June to August the monsoon soaks the Teesta valley. Landslides close the road for hours, days and sometimes weeks, and travellers have been stranded in Lachung and Lachen more than once, most recently in the monsoons of 2024 and 2025. The authorities suspend permits at short notice. Tours sometimes still run on clear weeks, and the alpine meadows of Yumthang and Chopta are at their greenest, with yaks up on the high pastures.",
-        "If you are in Sikkim in these months, stay closer to Gangtok: Kabi Lungchok, Phodong and Labrang monasteries, and perhaps Mangan for the start of the large cardamom harvest in late August. If you must go higher, keep two buffer days, buy travel insurance that covers delays, and watch the Mangan district administration's notices."
+        "If you are in Sikkim in these months, stay closer to Gangtok: Kabi Lungchok, Phodong and Labrang monasteries, and perhaps Mangan for the start of the large cardamom harvest in late August. If you must go higher, keep two buffer days, buy travel insurance that covers delays, and watch the Mangan district administration's notices.",
+        "The flood of October 2023 also changed how the seasons behave on the ground. Long stretches of the road to Chungthang and Lachen now run over fresh debris and temporary diversions, which give way more easily in heavy rain. That is why closures that once lasted hours can now last days. NH10 between Siliguri and Gangtok has had the same problem. Treat the monsoon as a closed season for planning and check current status before you travel."
       ]
     },
     {
@@ -61,6 +102,22 @@
       ]
     },
     {
+      "heading": "Matching the month to what you want",
+      "paras": [
+        "Different travellers come north for different things, and the right month follows from that. These are the pairings we use when friends ask us to pick dates. In each case, leave a buffer day, because snow, landslides and closures since the October 2023 flood can shift a plan by a day or more."
+      ],
+      "list": [
+        "First snow for children: late March or early April, Lachung and Yumthang, with Zero Point if everyone is well.",
+        "Rhododendrons and flowers: the first three weeks of May at Yumthang, booked two weeks ahead.",
+        "Gurudongmar with open water: October, or the second half of May once the thaw begins.",
+        "Autumn colour and clear peaks: mid-October to mid-November in Lachung, with Singhik for the Kanchenjunga view.",
+        "Lepcha village life: October to April in Dzongu, with a Kamsel year in April for Tholung.",
+        "Festivals: Losar in February or March in the Bhutia villages, and the Phodong chaam in December.",
+        "Lowest prices with acceptable risk: early March or the second half of November.",
+        "Photography: October and November for clarity; late April and May for colour."
+      ]
+    },
+    {
       "heading": "Planning around crowds and prices",
       "paras": [
         "Prices follow Indian holidays more than the weather. These are the patterns we plan around."
@@ -75,16 +132,52 @@
       ]
     }
   ],
-  "related_places": ["yumthang", "yumesamdong", "lachung", "lachen", "gurudongmar", "singhik", "dzongu", "phodong"],
+  "related_places": [
+    "yumthang",
+    "yumesamdong",
+    "lachung",
+    "lachen",
+    "gurudongmar",
+    "singhik",
+    "dzongu",
+    "phodong"
+  ],
   "faqs": [
-    {"q": "What is the best month to visit North Sikkim?", "a": "October, for clear skies, open water at Gurudongmar and the start of autumn colour in Lachung. For snow, choose March; for rhododendrons at Yumthang, choose late April to mid-May. Avoid June to August, when monsoon landslides close the road often. Check current status before you travel, as closures since 2023 change month to month."},
-    {"q": "When do the rhododendrons bloom in Yumthang?", "a": "From late April through May. The Shingba Rhododendron Sanctuary flowers from the lower slopes upward, so early in the season you see colour near the valley floor and snow above. The fullest weeks are usually the first three of May, though a cold spring can shift that by a week or two."},
-    {"q": "When can I see snow in North Sikkim?", "a": "Almost all year at Zero Point, and from December to April at Yumthang and Lachung. The surest bet for snow you can walk on, with roads usually open, is March. January and February bring snow to the villages themselves, but high points often close for days after fresh falls."},
-    {"q": "Is it safe to visit North Sikkim in the monsoon?", "a": "We advise against it. From June to August landslides close the Teesta valley road often, and visitors have been stranded in Lachung and Lachen for days. Permits can be suspended at short notice. If you go, keep two buffer days, carry extra cash and buy insurance that covers delays. Check current status before you travel."},
-    {"q": "Is Gurudongmar Lake frozen in winter?", "a": "Mostly, from about December to April, though a patch near the shore is said to stay open. It begins to freeze in November and thaws from mid-May. October offers open, blue water and clear skies. In deep winter the road from Lachen may close after snowfall, so the lake trip is never guaranteed."},
-    {"q": "Is North Sikkim good in December?", "a": "Yes, if you like cold and can stay flexible. The first heavy snow often reaches Lachung, skies are clear, and Phodong's masked dance is held before Losoong. Gurudongmar and Zero Point may close after fresh snow. Book a room with a heater, and avoid the Christmas to New Year week if you want lower prices."},
-    {"q": "How cold is Lachung in winter?", "a": "In January, nights fall to about −8 °C and days reach around 5 °C. Lachen is a little colder, and at Gurudongmar before dawn it can be −15 °C or lower. Pack thermals, a down jacket, warm socks and gloves, and rent snow boots and a long coat in the village."},
-    {"q": "When is the cheapest time to visit North Sikkim?", "a": "July and August are cheapest, but the road risk is high. For good value with good weather, go in early March, the first half of April, or November after Diwali. Avoid mid-April to early June, Puja and Diwali weeks and the last week of December if price matters."},
-    {"q": "Can I visit North Sikkim in September?", "a": "Yes, in the second half of September, when the rain is easing and rooms are cheaper than in October. Valleys are very green and Gurudongmar is unfrozen. Remember that the October 2023 flood followed extreme late-season rain, so watch the forecast, keep dates flexible and check current status before you travel."}
+    {
+      "q": "What is the best month to visit North Sikkim?",
+      "a": "October, for clear skies, open water at Gurudongmar and the start of autumn colour in Lachung. For snow, choose March; for rhododendrons at Yumthang, choose late April to mid-May. Avoid June to August, when monsoon landslides close the road often. Check current status before you travel, as closures since 2023 change month to month."
+    },
+    {
+      "q": "When do the rhododendrons bloom in Yumthang?",
+      "a": "From late April through May. The Shingba Rhododendron Sanctuary flowers from the lower slopes upward, so early in the season you see colour near the valley floor and snow above. The fullest weeks are usually the first three of May, though a cold spring can shift that by a week or two."
+    },
+    {
+      "q": "When can I see snow in North Sikkim?",
+      "a": "Almost all year at Zero Point, and from December to April at Yumthang and Lachung. The surest bet for snow you can walk on, with roads usually open, is March. January and February bring snow to the villages themselves, but high points often close for days after fresh falls."
+    },
+    {
+      "q": "Is it safe to visit North Sikkim in the monsoon?",
+      "a": "We advise against it. From June to August landslides close the Teesta valley road often, and visitors have been stranded in Lachung and Lachen for days. Permits can be suspended at short notice. If you go, keep two buffer days, carry extra cash and buy insurance that covers delays. Check current status before you travel."
+    },
+    {
+      "q": "Is Gurudongmar Lake frozen in winter?",
+      "a": "Mostly, from about December to April, though a patch near the shore is said to stay open. It begins to freeze in November and thaws from mid-May. October offers open, blue water and clear skies. In deep winter the road from Lachen may close after snowfall, so the lake trip is never guaranteed."
+    },
+    {
+      "q": "Is North Sikkim good in December?",
+      "a": "Yes, if you like cold and can stay flexible. The first heavy snow often reaches Lachung, skies are clear, and Phodong's masked dance is held before Losoong. Gurudongmar and Zero Point may close after fresh snow. Book a room with a heater, and avoid the Christmas to New Year week if you want lower prices."
+    },
+    {
+      "q": "How cold is Lachung in winter?",
+      "a": "In January, nights fall to about −8 °C and days reach around 5 °C. Lachen is a little colder, and at Gurudongmar before dawn it can be −15 °C or lower. Pack thermals, a down jacket, warm socks and gloves, and rent snow boots and a long coat in the village."
+    },
+    {
+      "q": "When is the cheapest time to visit North Sikkim?",
+      "a": "July and August are cheapest, but the road risk is high. For good value with good weather, go in early March, the first half of April, or November after Diwali. Avoid mid-April to early June, Puja and Diwali weeks and the last week of December if price matters."
+    },
+    {
+      "q": "Can I visit North Sikkim in September?",
+      "a": "Yes, in the second half of September, when the rain is easing and rooms are cheaper than in October. Valleys are very green and Gurudongmar is unfrozen. Remember that the October 2023 flood followed extreme late-season rain, so watch the forecast, keep dates flexible and check current status before you travel."
+    }
   ]
 }

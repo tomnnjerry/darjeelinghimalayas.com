@@ -13,14 +13,42 @@
         "You spend 20–40 minutes at the lake, then drive back to Lachen for breakfast, collect your bags, and continue down to Chungthang and up the other valley to Lachung the same afternoon. It is a long day, about 12 hours in the vehicle, and much of it is above 4,000 m."
       ],
       "table": {
-        "head": ["Time", "Place", "Altitude (approx.)"],
+        "head": [
+          "Time",
+          "Place",
+          "Altitude (approx.)"
+        ],
         "rows": [
-          ["3:00–3:30 am", "Leave Lachen", "2,750 m"],
-          ["4:30–5:00 am", "Thangu tea stop", "3,900 m"],
-          ["6:00–6:30 am", "Gurudongmar Lake", "5,180 m"],
-          ["7:00 am", "Leave the lake", "5,180 m"],
-          ["9:30–10:00 am", "Back at Lachen", "2,750 m"],
-          ["Afternoon", "Drive to Lachung via Chungthang", "1,790–2,700 m"]
+          [
+            "3:00–3:30 am",
+            "Leave Lachen",
+            "2,750 m"
+          ],
+          [
+            "4:30–5:00 am",
+            "Thangu tea stop",
+            "3,900 m"
+          ],
+          [
+            "6:00–6:30 am",
+            "Gurudongmar Lake",
+            "5,180 m"
+          ],
+          [
+            "7:00 am",
+            "Leave the lake",
+            "5,180 m"
+          ],
+          [
+            "9:30–10:00 am",
+            "Back at Lachen",
+            "2,750 m"
+          ],
+          [
+            "Afternoon",
+            "Drive to Lachung via Chungthang",
+            "1,790–2,700 m"
+          ]
         ]
       }
     },
@@ -67,6 +95,15 @@
       ]
     },
     {
+      "heading": "Thangu, Chopta and a gentler plan",
+      "paras": [
+        "Thangu, about 30 km above Lachen at roughly 3,900 m, is the halfway stop on the lake road. Vehicles pull up at its tea houses in the dark on the way up and again on the way down. Use both stops: drink something warm, use the toilet, and notice how everyone in your group is feeling before the last climb onto the plateau. If someone already has a bad headache at Thangu, it is a good place to decide that they wait there, or that the vehicle turns back.",
+        "Chopta Valley, a meadow valley beside Thangu at about 4,000 m, is sometimes added on the way back. In winter its river and pools freeze; from June to August it fills with flowers. It is a fine extra on a second day in Lachen, less so as a tired add-on after a 3 am start.",
+        "The gentler plan we prefer, when the road allows it, is two nights in Lachen. On the first full day, drive to Thangu and Chopta and come back down to sleep, which helps the body adjust. On the second morning, go to Gurudongmar. Fewer people feel unwell this way, the drive to the lake feels shorter, and you have time to walk up to Lachen Monastery, built in 1858. It costs one extra lodge night and a spare-day vehicle charge of ₹3,000–5,000 if you are on a reserved trip.",
+        "If you are on a shared tour, this is not possible, since the whole jeep follows one plan. In that case, sleep well in Gangtok the night before you leave, eat early in Lachen, and be honest with the driver about how you feel at Thangu."
+      ]
+    },
+    {
       "heading": "Permits, access and road status",
       "paras": [
         "Gurudongmar is open to Indian nationals only, on a North Sikkim permit arranged by a registered Gangtok tour operator; foreigners are not allowed. The army controls the road above Thangu and can close it at short notice for weather or other reasons.",
@@ -74,16 +111,49 @@
       ]
     }
   ],
-  "related_places": ["lachen", "gurudongmar", "thangu", "chopta-valley", "chungthang"],
+  "related_places": [
+    "lachen",
+    "gurudongmar",
+    "thangu",
+    "chopta-valley",
+    "chungthang"
+  ],
   "faqs": [
-    {"q": "How high is Gurudongmar Lake?", "a": "About 5,180 m by survey figures; the Sikkim government often quotes 5,430 m (17,800 ft). Either way it is far higher than anything most visitors have been to, and you drive up from Lachen, around 2,750 m, in about three hours. Altitude sickness is common, so keep the visit short."},
-    {"q": "Is Gurudongmar safe for children?", "a": "It is risky for young children. Children under five are usually advised not to go, because they cannot tell you clearly how they feel and altitude sickness can develop quickly. Older children in good health often manage a 20–30 minute visit. Watch for listlessness, vomiting or unusual sleepiness, and go down at once if you see them."},
-    {"q": "How long can you stay at Gurudongmar Lake?", "a": "Around 20–40 minutes is what drivers and the army advise. Longer stays raise the risk of altitude sickness. Walk slowly, take your photographs, offer a prayer if you wish, and head back. If anyone in the group feels unwell, leave immediately; symptoms usually ease as you drop toward Thangu and Lachen."},
-    {"q": "Should I take Diamox for Gurudongmar?", "a": "Ask your doctor before the trip. Acetazolamide (Diamox) can help prevent acute mountain sickness when started a day before going high, but it has side effects and does not suit everyone, including people with sulfa allergies. Never take it on a stranger's advice, and remember it does not replace going slowly and coming down if unwell."},
-    {"q": "What time do you leave Lachen for Gurudongmar?", "a": "Usually between 3 and 4 am. The aim is to reach the lake soon after sunrise, before wind and cloud build up, and to have time to drive on to Lachung the same day. Your lodge packs tea and breakfast. Sleep early and lay out warm clothes the night before."},
-    {"q": "Can foreigners visit Gurudongmar?", "a": "No. Gurudongmar is open to Indian nationals only, on a North Sikkim permit arranged by a registered Gangtok tour operator. Foreign nationals with a Protected Area Permit have usually been allowed only as far as Lachung and Yumthang. Check current status before you travel, as rules change."},
-    {"q": "Is Gurudongmar open now?", "a": "It depends on the week. Since the October 2023 Teesta flood, the Lachen road and Chungthang crossing have closed for long spells, and snow or army restrictions close the lake road too. Ask two Gangtok agents, read the Mangan district notices, and check current status before you travel and again the evening before you leave."},
-    {"q": "What are the signs of altitude sickness?", "a": "Mild signs are headache, breathlessness, nausea, dizziness and poor sleep. Serious signs are confusion, stumbling, a severe headache that will not ease, repeated vomiting, a wet cough, blue lips, or breathlessness at rest. Serious signs mean go down at once, use oxygen if available, and get medical help at the nearest army or government post."},
-    {"q": "Do oxygen cans help at Gurudongmar?", "a": "They give short relief, which is useful in an emergency on the way down, but they do not prevent altitude sickness and are no substitute for descending. A portable can costs ₹500–900 in Gangtok or Lachen. Carry one per vehicle or per family, and keep it for someone who really needs it."}
+    {
+      "q": "How high is Gurudongmar Lake?",
+      "a": "About 5,180 m by survey figures; the Sikkim government often quotes 5,430 m (17,800 ft). Either way it is far higher than anything most visitors have been to, and you drive up from Lachen, around 2,750 m, in about three hours. Altitude sickness is common, so keep the visit short."
+    },
+    {
+      "q": "Is Gurudongmar safe for children?",
+      "a": "It is risky for young children. Children under five are usually advised not to go, because they cannot tell you clearly how they feel and altitude sickness can develop quickly. Older children in good health often manage a 20–30 minute visit. Watch for listlessness, vomiting or unusual sleepiness, and go down at once if you see them."
+    },
+    {
+      "q": "How long can you stay at Gurudongmar Lake?",
+      "a": "Around 20–40 minutes is what drivers and the army advise. Longer stays raise the risk of altitude sickness. Walk slowly, take your photographs, offer a prayer if you wish, and head back. If anyone in the group feels unwell, leave immediately; symptoms usually ease as you drop toward Thangu and Lachen."
+    },
+    {
+      "q": "Should I take Diamox for Gurudongmar?",
+      "a": "Ask your doctor before the trip. Acetazolamide (Diamox) can help prevent acute mountain sickness when started a day before going high, but it has side effects and does not suit everyone, including people with sulfa allergies. Never take it on a stranger's advice, and remember it does not replace going slowly and coming down if unwell."
+    },
+    {
+      "q": "What time do you leave Lachen for Gurudongmar?",
+      "a": "Usually between 3 and 4 am. The aim is to reach the lake soon after sunrise, before wind and cloud build up, and to have time to drive on to Lachung the same day. Your lodge packs tea and breakfast. Sleep early and lay out warm clothes the night before."
+    },
+    {
+      "q": "Can foreigners visit Gurudongmar?",
+      "a": "No. Gurudongmar is open to Indian nationals only, on a North Sikkim permit arranged by a registered Gangtok tour operator. Foreign nationals with a Protected Area Permit have usually been allowed only as far as Lachung and Yumthang. Check current status before you travel, as rules change."
+    },
+    {
+      "q": "Is Gurudongmar open now?",
+      "a": "It depends on the week. Since the October 2023 Teesta flood, the Lachen road and Chungthang crossing have closed for long spells, and snow or army restrictions close the lake road too. Ask two Gangtok agents, read the Mangan district notices, and check current status before you travel and again the evening before you leave."
+    },
+    {
+      "q": "What are the signs of altitude sickness?",
+      "a": "Mild signs are headache, breathlessness, nausea, dizziness and poor sleep. Serious signs are confusion, stumbling, a severe headache that will not ease, repeated vomiting, a wet cough, blue lips, or breathlessness at rest. Serious signs mean go down at once, use oxygen if available, and get medical help at the nearest army or government post."
+    },
+    {
+      "q": "Do oxygen cans help at Gurudongmar?",
+      "a": "They give short relief, which is useful in an emergency on the way down, but they do not prevent altitude sickness and are no substitute for descending. A portable can costs ₹500–900 in Gangtok or Lachen. Carry one per vehicle or per family, and keep it for someone who really needs it."
+    }
   ]
 }

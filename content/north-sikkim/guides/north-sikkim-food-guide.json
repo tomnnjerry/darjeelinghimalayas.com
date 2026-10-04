@@ -35,16 +35,52 @@
         "At altitude, eat lightly, drink plenty of warm water and tea, and skip alcohol the night before Gurudongmar. Hot, salty noodles are popular for a reason, but a heavy fried meal before climbing to 5,000 m tends to make altitude sickness worse."
       ],
       "table": {
-        "head": ["Item", "Where", "Indicative price"],
+        "head": [
+          "Item",
+          "Where",
+          "Indicative price"
+        ],
         "rows": [
-          ["Lodge dinner and breakfast", "Lachung, Lachen", "Included in tours; ₹400–700 if paid"],
-          ["Rice, dal and vegetable lunch", "Mangan, Chungthang dhabas", "₹150–250"],
-          ["Chicken or pork with rice", "Roadside dhabas", "₹250–400"],
-          ["Thukpa or momos", "Villages, Mangan", "₹100–180"],
-          ["Maggi with egg", "Thangu, Yumthang, Zero Point", "₹80–150"],
-          ["Tea or coffee", "High-altitude stalls", "₹30–60"],
-          ["Lepcha homestay, all meals", "Dzongu", "Included in ₹1,800–2,500 pp"],
-          ["Chi (millet beer) in a homestay", "Dzongu", "₹100–200"]
+          [
+            "Lodge dinner and breakfast",
+            "Lachung, Lachen",
+            "Included in tours; ₹400–700 if paid"
+          ],
+          [
+            "Rice, dal and vegetable lunch",
+            "Mangan, Chungthang dhabas",
+            "₹150–250"
+          ],
+          [
+            "Chicken or pork with rice",
+            "Roadside dhabas",
+            "₹250–400"
+          ],
+          [
+            "Thukpa or momos",
+            "Villages, Mangan",
+            "₹100–180"
+          ],
+          [
+            "Maggi with egg",
+            "Thangu, Yumthang, Zero Point",
+            "₹80–150"
+          ],
+          [
+            "Tea or coffee",
+            "High-altitude stalls",
+            "₹30–60"
+          ],
+          [
+            "Lepcha homestay, all meals",
+            "Dzongu",
+            "Included in ₹1,800–2,500 pp"
+          ],
+          [
+            "Chi (millet beer) in a homestay",
+            "Dzongu",
+            "₹100–200"
+          ]
         ]
       }
     },
@@ -64,6 +100,13 @@
       ]
     },
     {
+      "heading": "Eating in Gangtok before you go north",
+      "paras": [
+        "Your trip north starts and ends in Gangtok, and it is worth eating well there. Around MG Marg and Lal Bazaar, small restaurants serve momos, thukpa, thenthuk, shaphaley and Nepali thalis for ₹100–250 a plate, and the market has stalls selling dried chhurpi, local pickles and dalle khursani by weight. If you have dietary needs, this is also where to buy snacks for the road: nuts, dry fruit, biscuits, chocolate and electrolyte powder cost less here than in the villages.",
+        "On the morning you leave, eat a proper breakfast before the vehicle sets off around 10–11 am. The first real meal stop may not come until early afternoon near Mangan or Chungthang, and since the 2023 flood, roadworks and one-way stretches can add hours. On the way back, many tours reach Gangtok after dark; a hot bowl of thukpa near MG Marg is the usual end to the trip."
+      ]
+    },
+    {
       "heading": "Practical tips for eating well",
       "paras": [
         "A few habits make food on this trip easier on your stomach and your budget."
@@ -77,16 +120,50 @@
       ]
     }
   ],
-  "related_places": ["lachung", "lachen", "thangu", "yumthang", "dzongu", "mangan"],
+  "related_places": [
+    "lachung",
+    "lachen",
+    "thangu",
+    "yumthang",
+    "dzongu",
+    "mangan"
+  ],
   "faqs": [
-    {"q": "What food is included in a North Sikkim tour?", "a": "Usually dinner and breakfast at the lodge in Lachung or Lachen: rice, dal, vegetables and often egg or chicken curry at night, bread, eggs or puri in the morning, and a packed breakfast for Gurudongmar. Road lunches on the drive days are normally extra, about ₹150–250 for a rice meal."},
-    {"q": "Is vegetarian food available in Lachung and Lachen?", "a": "Yes. The standard lodge dinner of rice, dal and vegetables is vegetarian, with egg or chicken served separately. Momos, thukpa and Maggi come in vegetable versions too. Jain or strictly no-onion food is harder; tell your agent and lodge a day ahead, and carry some snacks of your own."},
-    {"q": "What is chhurpi?", "a": "Chhurpi is cheese made from yak or cow milk, eaten across the Sikkim and Darjeeling hills. Soft chhurpi goes into soups, curries and pickles; dried chhurpi is cut into hard cubes that you chew or suck slowly for an hour or more. Lachung and Lachen sell it in village shops, and it keeps well."},
-    {"q": "What do Lepcha homestays in Dzongu serve?", "a": "Home food made from what grows nearby: rice, maize and millet, squash and its shoots, bamboo shoots, wild ferns, nettle soup, river fish and a chilli and tomato relish. Meals are lightly spiced and included in the homestay price of about ₹1,800–2,500 per person. Chi, the millet drink, is often offered to guests."},
-    {"q": "Can I get food at Gurudongmar Lake?", "a": "Very little. The main food stop is Thangu, at about 3,900 m, where stalls sell tea, coffee, butter tea, Maggi and biscuits. Your lodge in Lachen packs a breakfast for the 3–4 am start. Carry dry fruit, nuts and chocolate, and drink warm water often."},
-    {"q": "Where can I buy large cardamom in North Sikkim?", "a": "In Mangan bazaar, the headquarters town of the district, where shops sell large cardamom for roughly ₹1,500–2,500 a kilo depending on the market. From late August through autumn you can see pods drying in sheds along the road. Small packets of 100–250 g make good gifts."},
-    {"q": "Is it safe to drink alcohol in Lachen before Gurudongmar?", "a": "Avoid it. Alcohol dehydrates you and makes altitude sickness more likely and worse, and you leave Lachen at 3–4 am for a lake at about 5,180 m. Save the chi or beer for the night after, when you are back down. Drink warm water and tea instead."},
-    {"q": "How much should I budget for food on a North Sikkim trip?", "a": "If lodge dinners and breakfasts are included, about ₹400–700 per person for the whole 3-day tour, covering two road lunches, tea stops and snacks. If meals are not included, budget ₹700–1,000 a day. Dzongu homestays include all meals in the room price."},
-    {"q": "What is chi in Dzongu?", "a": "Chi is the fermented millet drink of the Lepcha people, served in a bamboo or wooden vessel, topped up with warm water and sipped through a bamboo straw. It is part of welcome and ritual, and hosts often offer it to guests. It is fine to take a few sips or to decline politely."}
+    {
+      "q": "What food is included in a North Sikkim tour?",
+      "a": "Usually dinner and breakfast at the lodge in Lachung or Lachen: rice, dal, vegetables and often egg or chicken curry at night, bread, eggs or puri in the morning, and a packed breakfast for Gurudongmar. Road lunches on the drive days are normally extra, about ₹150–250 for a rice meal."
+    },
+    {
+      "q": "Is vegetarian food available in Lachung and Lachen?",
+      "a": "Yes. The standard lodge dinner of rice, dal and vegetables is vegetarian, with egg or chicken served separately. Momos, thukpa and Maggi come in vegetable versions too. Jain or strictly no-onion food is harder; tell your agent and lodge a day ahead, and carry some snacks of your own."
+    },
+    {
+      "q": "What is chhurpi?",
+      "a": "Chhurpi is cheese made from yak or cow milk, eaten across the Sikkim and Darjeeling hills. Soft chhurpi goes into soups, curries and pickles; dried chhurpi is cut into hard cubes that you chew or suck slowly for an hour or more. Lachung and Lachen sell it in village shops, and it keeps well."
+    },
+    {
+      "q": "What do Lepcha homestays in Dzongu serve?",
+      "a": "Home food made from what grows nearby: rice, maize and millet, squash and its shoots, bamboo shoots, wild ferns, nettle soup, river fish and a chilli and tomato relish. Meals are lightly spiced and included in the homestay price of about ₹1,800–2,500 per person. Chi, the millet drink, is often offered to guests."
+    },
+    {
+      "q": "Can I get food at Gurudongmar Lake?",
+      "a": "Very little. The main food stop is Thangu, at about 3,900 m, where stalls sell tea, coffee, butter tea, Maggi and biscuits. Your lodge in Lachen packs a breakfast for the 3–4 am start. Carry dry fruit, nuts and chocolate, and drink warm water often."
+    },
+    {
+      "q": "Where can I buy large cardamom in North Sikkim?",
+      "a": "In Mangan bazaar, the headquarters town of the district, where shops sell large cardamom for roughly ₹1,500–2,500 a kilo depending on the market. From late August through autumn you can see pods drying in sheds along the road. Small packets of 100–250 g make good gifts."
+    },
+    {
+      "q": "Is it safe to drink alcohol in Lachen before Gurudongmar?",
+      "a": "Avoid it. Alcohol dehydrates you and makes altitude sickness more likely and worse, and you leave Lachen at 3–4 am for a lake at about 5,180 m. Save the chi or beer for the night after, when you are back down. Drink warm water and tea instead."
+    },
+    {
+      "q": "How much should I budget for food on a North Sikkim trip?",
+      "a": "If lodge dinners and breakfasts are included, about ₹400–700 per person for the whole 3-day tour, covering two road lunches, tea stops and snacks. If meals are not included, budget ₹700–1,000 a day. Dzongu homestays include all meals in the room price."
+    },
+    {
+      "q": "What is chi in Dzongu?",
+      "a": "Chi is the fermented millet drink of the Lepcha people, served in a bamboo or wooden vessel, topped up with warm water and sipped through a bamboo straw. It is part of welcome and ritual, and hosts often offer it to guests. It is fine to take a few sips or to decline politely."
+    }
   ]
 }

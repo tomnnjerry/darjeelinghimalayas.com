@@ -27,14 +27,49 @@
         "For places that need no permit for Indians, Vajra is all you need. Buy a seat at the counter, load your bag on the roof, and you are in Kabi Lungchok in under an hour or Mangan in about three. Shared jeeps to Lachung and Chungthang carry local people, but visitors still need the permit, and in practice that means a tour."
       ],
       "table": {
-        "head": ["From Vajra stand to", "Distance", "Time", "Shared seat (indicative)"],
+        "head": [
+          "From Vajra stand to",
+          "Distance",
+          "Time",
+          "Shared seat (indicative)"
+        ],
         "rows": [
-          ["Kabi Lungchok", "≈ 17 km", "45 min–1 h", "₹80–150"],
-          ["Phodong", "≈ 38 km", "1.5 h", "₹120–200"],
-          ["Mangan", "≈ 65 km", "2.5–3 h", "₹200–300"],
-          ["Singhik (via Mangan)", "≈ 70 km", "3 h", "₹200–300 plus taxi"],
-          ["Lachung (tour vehicle)", "≈ 118 km", "6–8 h", "Part of the tour price"],
-          ["Lachen (tour vehicle)", "≈ 129 km", "6–8 h", "Part of the tour price"]
+          [
+            "Kabi Lungchok",
+            "≈ 17 km",
+            "45 min–1 h",
+            "₹80–150"
+          ],
+          [
+            "Phodong",
+            "≈ 38 km",
+            "1.5 h",
+            "₹120–200"
+          ],
+          [
+            "Mangan",
+            "≈ 65 km",
+            "2.5–3 h",
+            "₹200–300"
+          ],
+          [
+            "Singhik (via Mangan)",
+            "≈ 70 km",
+            "3 h",
+            "₹200–300 plus taxi"
+          ],
+          [
+            "Lachung (tour vehicle)",
+            "≈ 118 km",
+            "6–8 h",
+            "Part of the tour price"
+          ],
+          [
+            "Lachen (tour vehicle)",
+            "≈ 129 km",
+            "6–8 h",
+            "Part of the tour price"
+          ]
         ]
       }
     },
@@ -59,22 +94,74 @@
       ]
     },
     {
+      "heading": "A sample plan from the plains",
+      "paras": [
+        "Here is the timeline we suggest for a first North Sikkim trip from NJP or Bagdogra, with one buffer day built in. It assumes the 3-day, 2-night shared tour; add nights for Dzongu, Singhik or a slower Lachung stay.",
+        "The buffer day is not wasted. If the north road closes while you are up there, it absorbs the delay; if all goes well, spend it at Kabi Lungchok and Phodong by shared jeep from Vajra, or at Rumtek and Gangtok's monasteries. Never book a train or flight from NJP or Bagdogra for the same day you come down from Lachung."
+      ],
+      "list": [
+        "Day 1: shared jeep or car from NJP or Bagdogra to Gangtok, 4–5 hours on NH10, longer via Lava and Pedong if NH10 is shut. Visit agents in the evening if you arrive early.",
+        "Day 2: book the tour and hand in ID copies and photographs in the morning. Rest, walk MG Marg, eat early.",
+        "Day 3: depart around 10–11 am from Vajra stand or the agent's office; reach Lachen by evening.",
+        "Day 4: Gurudongmar at dawn, then on to Lachung.",
+        "Day 5: Yumthang, and Zero Point if open, then back to Gangtok by night.",
+        "Day 6: buffer day in Gangtok.",
+        "Day 7: back down to NJP or Bagdogra."
+      ]
+    },
+    {
       "heading": "Getting to Dzongu and Mangan",
       "paras": [
         "Dzongu is the one part of North Sikkim where independent travel works well. Take a shared jeep from Vajra to Mangan, get or collect your Dzongu permit there, then take a taxi across the Teesta to your homestay village for ₹800–1,500, depending on distance and how the bridges are. Many homestays arrange both the permit and the pickup if you send ID copies ahead. A reserved car from Gangtok straight to a Dzongu village costs about ₹3,500–5,000 one way."
       ]
     }
   ],
-  "related_places": ["kabi-lungchok", "phodong", "mangan", "singhik", "chungthang", "lachung", "lachen", "dzongu"],
+  "related_places": [
+    "kabi-lungchok",
+    "phodong",
+    "mangan",
+    "singhik",
+    "chungthang",
+    "lachung",
+    "lachen",
+    "dzongu"
+  ],
   "faqs": [
-    {"q": "How do I get from NJP to North Sikkim?", "a": "Go to Gangtok first. Shared jeeps from NJP and Siliguri's SNT stand cost ₹300–450 a seat and take 4–5 hours on NH10; a reserved car costs ₹3,500–4,500. Spend a day in Gangtok while an agent gets your permit, then leave for Lachung or Lachen by tour vehicle. Check current status before you travel."},
-    {"q": "Where is Vajra taxi stand in Gangtok?", "a": "About 3 km north of the town centre, on the road toward North Sikkim. Shared jeeps leave from here for Kabi, Phodong, Mangan, Singhik and Chungthang, and many North Sikkim tour vehicles gather here around 10–11 am. A local taxi from MG Marg costs about ₹150–250."},
-    {"q": "Can I get a North Sikkim permit on the same day?", "a": "Rarely. Agents usually need a day to file and collect the permit, so most people book one day and leave the next morning. Arrive in Gangtok with ID copies and two photographs per person to avoid delays. In peak weeks, apply as soon as you arrive. Check current status before you travel."},
-    {"q": "Is NH10 open to Gangtok?", "a": "It changes often. Since the October 2023 Teesta flood, sections of NH10 near Teesta Bazar, Melli and Rangpo have collapsed or closed repeatedly, especially in the monsoon. When it shuts, vehicles take the longer route via Lava and Pedong, NH717A, adding two to four hours. Check current status before you travel."},
-    {"q": "Is the road to Lachen open?", "a": "Not always. The Lachen road and the Chungthang crossing have been the slowest parts of North Sikkim to recover from the 2023 flood, and have closed for long spells, while Lachung often stayed open. Ask two Gangtok agents that week, read the Mangan district notices, and check current status before you travel."},
-    {"q": "How long is the drive from Gangtok to Lachung?", "a": "About 118 km and 6–8 hours in good conditions, with tea stops at waterfalls and lunch near Mangan or Chungthang. Lachen is about 129 km and takes as long. Landslide repairs, diversions and check posts can add hours, so tours leave Gangtok by 11 am and arrive around dusk."},
-    {"q": "Can I drive my own car to North Sikkim?", "a": "Generally no, for the high valleys. Permits are issued through registered tour operators, and vehicles from outside Sikkim are usually not allowed to Lachung, Lachen and the points above them. You can drive to Kabi, Phodong and Mangan. Rules change, so check current status before you travel."},
-    {"q": "How do I get to Dzongu from Gangtok?", "a": "Take a shared jeep from Vajra stand to Mangan for ₹200–300, about 3 hours. Get your Dzongu permit in Mangan, then take a taxi to your village for ₹800–1,500. Many homestays arrange both if you send ID copies ahead. A reserved car from Gangtok costs ₹3,500–5,000 one way."},
-    {"q": "Is there a flight to Gangtok?", "a": "Pakyong airport, about 30 km from Gangtok, has had only patchy commercial flights since it opened, with long gaps. Most travellers fly to Bagdogra and take a jeep or car up, 4–5 hours by NH10. Check the current flight schedule and road status before you travel."}
+    {
+      "q": "How do I get from NJP to North Sikkim?",
+      "a": "Go to Gangtok first. Shared jeeps from NJP and Siliguri's SNT stand cost ₹300–450 a seat and take 4–5 hours on NH10; a reserved car costs ₹3,500–4,500. Spend a day in Gangtok while an agent gets your permit, then leave for Lachung or Lachen by tour vehicle. Check current status before you travel."
+    },
+    {
+      "q": "Where is Vajra taxi stand in Gangtok?",
+      "a": "About 3 km north of the town centre, on the road toward North Sikkim. Shared jeeps leave from here for Kabi, Phodong, Mangan, Singhik and Chungthang, and many North Sikkim tour vehicles gather here around 10–11 am. A local taxi from MG Marg costs about ₹150–250."
+    },
+    {
+      "q": "Can I get a North Sikkim permit on the same day?",
+      "a": "Rarely. Agents usually need a day to file and collect the permit, so most people book one day and leave the next morning. Arrive in Gangtok with ID copies and two photographs per person to avoid delays. In peak weeks, apply as soon as you arrive. Check current status before you travel."
+    },
+    {
+      "q": "Is NH10 open to Gangtok?",
+      "a": "It changes often. Since the October 2023 Teesta flood, sections of NH10 near Teesta Bazar, Melli and Rangpo have collapsed or closed repeatedly, especially in the monsoon. When it shuts, vehicles take the longer route via Lava and Pedong, NH717A, adding two to four hours. Check current status before you travel."
+    },
+    {
+      "q": "Is the road to Lachen open?",
+      "a": "Not always. The Lachen road and the Chungthang crossing have been the slowest parts of North Sikkim to recover from the 2023 flood, and have closed for long spells, while Lachung often stayed open. Ask two Gangtok agents that week, read the Mangan district notices, and check current status before you travel."
+    },
+    {
+      "q": "How long is the drive from Gangtok to Lachung?",
+      "a": "About 118 km and 6–8 hours in good conditions, with tea stops at waterfalls and lunch near Mangan or Chungthang. Lachen is about 129 km and takes as long. Landslide repairs, diversions and check posts can add hours, so tours leave Gangtok by 11 am and arrive around dusk."
+    },
+    {
+      "q": "Can I drive my own car to North Sikkim?",
+      "a": "Generally no, for the high valleys. Permits are issued through registered tour operators, and vehicles from outside Sikkim are usually not allowed to Lachung, Lachen and the points above them. You can drive to Kabi, Phodong and Mangan. Rules change, so check current status before you travel."
+    },
+    {
+      "q": "How do I get to Dzongu from Gangtok?",
+      "a": "Take a shared jeep from Vajra stand to Mangan for ₹200–300, about 3 hours. Get your Dzongu permit in Mangan, then take a taxi to your village for ₹800–1,500. Many homestays arrange both if you send ID copies ahead. A reserved car from Gangtok costs ₹3,500–5,000 one way."
+    },
+    {
+      "q": "Is there a flight to Gangtok?",
+      "a": "Pakyong airport, about 30 km from Gangtok, has had only patchy commercial flights since it opened, with long gaps. Most travellers fly to Bagdogra and take a jeep or car up, 4–5 hours by NH10. Check the current flight schedule and road status before you travel."
+    }
   ]
 }

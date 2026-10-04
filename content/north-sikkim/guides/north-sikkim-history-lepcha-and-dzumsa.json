@@ -25,20 +25,51 @@
       "heading": "The Dzumsa of Lachung and Lachen",
       "paras": [
         "Above Chungthang the valley forks. The Lachen Chu comes down from the north-west, the Lachung Chu from the north-east, and they meet to form the Teesta. Up each river lies a Bhutia village: Lachen, the big pass, and Lachung, the small pass. Their families traded wool, salt and grain over the high passes into Tibet until 1950, moving with their yaks between summer and winter settlements.",
-        "Each village runs itself through the Dzumsa, a council in which every household has a voice. It is led by an elected headman, the Pipon, and it settles disputes, decides grazing rules and the yearly movement of herds, and today sets rules for tourism, waste and land. The system took shape in the first half of the 19th century, and Sikkim's law still lets the Dzumsa stand in place of an elected panchayat in these two villages. As a visitor you feel it in small ways: rules on plastic, on where vehicles park, and on who may buy land, which is no one from outside."
+        "Each village runs itself through the Dzumsa, a council in which every household has a voice. It is led by an elected headman, the Pipon, and it settles disputes, decides grazing rules and the yearly movement of herds, and today sets rules for tourism, waste and land. The system took shape in the first half of the 19th century, and Sikkim's law still lets the Dzumsa stand in place of an elected panchayat in these two villages. As a visitor you feel it in small ways: rules on plastic, on where vehicles park, and on who may buy land, which is no one from outside.",
+        "Trade shaped both villages. Until the border closed after 1950, Lachen families took their yaks over the passes toward Tibet, and Lachung families did the same up their own valley, carrying grain and cloth north and bringing back wool and salt. When the trade ended, the villages turned to herding, apples, potatoes and, from the 1990s, to the visitors who now fill their homestays every spring and autumn. Lachung's apples and the potato fields above Lachen are the visible traces of that change. The Dzumsa, which once settled grazing quarrels and trade dues, now decides questions about vehicles, lodges and rubbish too."
       ],
       "table": {
-        "head": ["Year", "What happened"],
+        "head": [
+          "Year",
+          "What happened"
+        ],
         "rows": [
-          ["13th century", "Khye Bumsa and Thekong Tek swear brotherhood at Kabi Lungchok"],
-          ["1642", "Phuntsog Namgyal consecrated first Chogyal of Sikkim"],
-          ["1760 / 1789", "Tholung revealed as a sacred site, then built"],
-          ["1793–1894", "Tumlong, near Phodong, serves as the royal capital"],
-          ["1849", "Joseph Dalton Hooker collects plants in the Lachen and Lachung valleys"],
-          ["1858", "Lachen Monastery built"],
-          ["1880", "Lachung Monastery founded"],
-          ["1975", "Sikkim becomes a state of India"],
-          ["3–4 October 2023", "South Lhonak lake bursts; the Teesta flood destroys the Teesta III dam at Chungthang"]
+          [
+            "13th century",
+            "Khye Bumsa and Thekong Tek swear brotherhood at Kabi Lungchok"
+          ],
+          [
+            "1642",
+            "Phuntsog Namgyal consecrated first Chogyal of Sikkim"
+          ],
+          [
+            "1760 / 1789",
+            "Tholung revealed as a sacred site, then built"
+          ],
+          [
+            "1793–1894",
+            "Tumlong, near Phodong, serves as the royal capital"
+          ],
+          [
+            "1849",
+            "Joseph Dalton Hooker collects plants in the Lachen and Lachung valleys"
+          ],
+          [
+            "1858",
+            "Lachen Monastery built"
+          ],
+          [
+            "1880",
+            "Lachung Monastery founded"
+          ],
+          [
+            "1975",
+            "Sikkim becomes a state of India"
+          ],
+          [
+            "3–4 October 2023",
+            "South Lhonak lake bursts; the Teesta flood destroys the Teesta III dam at Chungthang"
+          ]
         ]
       }
     },
@@ -63,16 +94,52 @@
       ]
     }
   ],
-  "related_places": ["kabi-lungchok", "phodong", "dzongu", "lachung", "lachen", "gurudongmar", "chungthang", "yumthang"],
+  "related_places": [
+    "kabi-lungchok",
+    "phodong",
+    "dzongu",
+    "lachung",
+    "lachen",
+    "gurudongmar",
+    "chungthang",
+    "yumthang"
+  ],
   "faqs": [
-    {"q": "What is the Dzumsa in Lachung and Lachen?", "a": "The Dzumsa is the traditional self-government of Lachung and Lachen, a council in which every household has a voice, led by an elected headman called the Pipon. It settles disputes, grazing rules and, today, tourism and waste rules. It took shape in the early 19th century, and Sikkim's law still recognises it in place of a panchayat in these two villages."},
-    {"q": "Why do you need a permit to enter Dzongu?", "a": "Because Dzongu is a protected reserve for the Lepcha people, set aside in the time of the Chogyals and kept after 1975. The permit limits outside settlement and protects Lepcha land, which is held by Dzongu Lepchas. Visitors are welcome in homestays but need the Dzongu permit, usually issued at Mangan. Check current status before you travel."},
-    {"q": "What happened at Kabi Lungchok?", "a": "Kabi Lungchok, 17 km north of Gangtok, is where Sikkim's founding story places the 13th-century blood-brotherhood oath between the Lepcha chief Thekong Tek and Khye Bumsa, a prince from eastern Tibet. Stone pillars mark the site. The Namgyal kings of Sikkim traced their line from Khye Bumsa. Indians need no permit to visit."},
-    {"q": "What is the legend of Gurudongmar Lake?", "a": "The story most told in Lachen is that Guru Padmasambhava blessed part of the lake so it would not freeze in winter, giving herders water. A patch near the shore is said to stay open when the rest is ice. Some Sikh traditions link the lake to Guru Nanak instead. Both are lore, told with devotion."},
-    {"q": "Who are the Lepchas of Dzongu?", "a": "The Lepchas, who call themselves Mutanchi Rongkup, are regarded as the first people of Sikkim. Dzongu is their reserved homeland, where Lepcha is still the home language and shamans called bongthing and mun keep older rites beside Buddhist practice. Their lore holds that the first humans were made from the snows of Kanchenjunga."},
-    {"q": "What was the 2023 Teesta flood?", "a": "On the night of 3–4 October 2023, South Lhonak glacial lake burst after heavy rain. The flood destroyed the Teesta III dam at Chungthang and swept away bridges, homes and road sections down the valley, including parts of NH10. North Sikkim has reopened in stages since, with repeated closures. Check current status before you travel."},
-    {"q": "When was Lachung Monastery built?", "a": "Lachung Monastery, a Nyingma gompa on the slope above the village, was founded in 1880, and Lachen Monastery dates from 1858. Both hold yearly masked dances on dates set by the Tibetan calendar, and both are open to respectful visitors. Ask your lodge for the current dance dates, which shift each year."},
-    {"q": "Did Joseph Hooker visit Lachung?", "a": "Yes. The botanist Joseph Dalton Hooker travelled up both the Lachen and Lachung valleys in 1849, collecting rhododendron seed and describing the villages in his Himalayan Journals of 1854. Later that year he and Archibald Campbell were detained by Sikkim court officials, an episode that led to a British annexation of Sikkimese land."},
-    {"q": "Where was the old capital of Sikkim near North Sikkim?", "a": "Tumlong, just above Phodong on the North Sikkim road, about 38 km from Gangtok, was the Chogyals' capital from 1793 until 1894, when the court moved to Gangtok. Little of the palace survives, but the site, Phodong Monastery and Labrang Monastery make a good half-day stop with no permit needed for Indians."}
+    {
+      "q": "What is the Dzumsa in Lachung and Lachen?",
+      "a": "The Dzumsa is the traditional self-government of Lachung and Lachen, a council in which every household has a voice, led by an elected headman called the Pipon. It settles disputes, grazing rules and, today, tourism and waste rules. It took shape in the early 19th century, and Sikkim's law still recognises it in place of a panchayat in these two villages."
+    },
+    {
+      "q": "Why do you need a permit to enter Dzongu?",
+      "a": "Because Dzongu is a protected reserve for the Lepcha people, set aside in the time of the Chogyals and kept after 1975. The permit limits outside settlement and protects Lepcha land, which is held by Dzongu Lepchas. Visitors are welcome in homestays but need the Dzongu permit, usually issued at Mangan. Check current status before you travel."
+    },
+    {
+      "q": "What happened at Kabi Lungchok?",
+      "a": "Kabi Lungchok, 17 km north of Gangtok, is where Sikkim's founding story places the 13th-century blood-brotherhood oath between the Lepcha chief Thekong Tek and Khye Bumsa, a prince from eastern Tibet. Stone pillars mark the site. The Namgyal kings of Sikkim traced their line from Khye Bumsa. Indians need no permit to visit."
+    },
+    {
+      "q": "What is the legend of Gurudongmar Lake?",
+      "a": "The story most told in Lachen is that Guru Padmasambhava blessed part of the lake so it would not freeze in winter, giving herders water. A patch near the shore is said to stay open when the rest is ice. Some Sikh traditions link the lake to Guru Nanak instead. Both are lore, told with devotion."
+    },
+    {
+      "q": "Who are the Lepchas of Dzongu?",
+      "a": "The Lepchas, who call themselves Mutanchi Rongkup, are regarded as the first people of Sikkim. Dzongu is their reserved homeland, where Lepcha is still the home language and shamans called bongthing and mun keep older rites beside Buddhist practice. Their lore holds that the first humans were made from the snows of Kanchenjunga."
+    },
+    {
+      "q": "What was the 2023 Teesta flood?",
+      "a": "On the night of 3–4 October 2023, South Lhonak glacial lake burst after heavy rain. The flood destroyed the Teesta III dam at Chungthang and swept away bridges, homes and road sections down the valley, including parts of NH10. North Sikkim has reopened in stages since, with repeated closures. Check current status before you travel."
+    },
+    {
+      "q": "When was Lachung Monastery built?",
+      "a": "Lachung Monastery, a Nyingma gompa on the slope above the village, was founded in 1880, and Lachen Monastery dates from 1858. Both hold yearly masked dances on dates set by the Tibetan calendar, and both are open to respectful visitors. Ask your lodge for the current dance dates, which shift each year."
+    },
+    {
+      "q": "Did Joseph Hooker visit Lachung?",
+      "a": "Yes. The botanist Joseph Dalton Hooker travelled up both the Lachen and Lachung valleys in 1849, collecting rhododendron seed and describing the villages in his Himalayan Journals of 1854. Later that year he and Archibald Campbell were detained by Sikkim court officials, an episode that led to a British annexation of Sikkimese land."
+    },
+    {
+      "q": "Where was the old capital of Sikkim near North Sikkim?",
+      "a": "Tumlong, just above Phodong on the North Sikkim road, about 38 km from Gangtok, was the Chogyals' capital from 1793 until 1894, when the court moved to Gangtok. Little of the palace survives, but the site, Phodong Monastery and Labrang Monastery make a good half-day stop with no permit needed for Indians."
+    }
   ]
 }

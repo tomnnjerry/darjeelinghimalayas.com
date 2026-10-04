@@ -13,13 +13,37 @@
         "If your group has paid for Zero Point, you carry on another 23 km to Yumesamdong, at roughly 4,700 m, which takes 1–1.5 hours more on a rougher road. You spend 30–45 minutes in the snow, come back down through Yumthang, and are at your lodge for a late lunch by 1–2 pm. On a 2-night tour you drive back to Gangtok that afternoon; on a 3-night trip you have the afternoon in Lachung village. The timings below are typical."
       ],
       "table": {
-        "head": ["Time", "Where", "What happens"],
+        "head": [
+          "Time",
+          "Where",
+          "What happens"
+        ],
         "rows": [
-          ["5:30–6:00 am", "Lachung lodge", "Tea, rent boots and coat if needed, leave"],
-          ["7:00 am", "Yumthang", "Valley, river, rhododendrons, yaks in season"],
-          ["8:30–9:00 am", "Zero Point", "Snow, tea stalls, 30–45 minutes"],
-          ["10:30 am", "Yumthang", "Hot spring, tea and Maggi at stalls"],
-          ["12:00–1:00 pm", "Lachung", "Lunch, then drive to Gangtok or rest"]
+          [
+            "5:30–6:00 am",
+            "Lachung lodge",
+            "Tea, rent boots and coat if needed, leave"
+          ],
+          [
+            "7:00 am",
+            "Yumthang",
+            "Valley, river, rhododendrons, yaks in season"
+          ],
+          [
+            "8:30–9:00 am",
+            "Zero Point",
+            "Snow, tea stalls, 30–45 minutes"
+          ],
+          [
+            "10:30 am",
+            "Yumthang",
+            "Hot spring, tea and Maggi at stalls"
+          ],
+          [
+            "12:00–1:00 pm",
+            "Lachung",
+            "Lunch, then drive to Gangtok or rest"
+          ]
         ]
       }
     },
@@ -60,6 +84,15 @@
       ]
     },
     {
+      "heading": "Plans for every kind of group",
+      "paras": [
+        "Not everyone in a vehicle wants the same day, and in a shared jeep you have to agree. These are the versions we suggest to different groups, all starting from a Lachung lodge.",
+        "For families with small children or older parents, Yumthang alone is enough. Leave at 6:30 am, spend an hour in the valley and at the hot spring, and be back in Lachung for breakfast and a slow morning. Zero Point adds a big altitude jump and two more hours in the car for a short time in the snow. If others in the jeep want to go higher, they can drop you at the Yumthang stalls and collect you on the way down; agree this with the driver beforehand.",
+        "For snow-seekers, go straight to Zero Point first while the road is firm and the sky clear, then stop in Yumthang on the way down. This order also means you spend less time at the highest point after a big breakfast. For photographers, two nights in Lachung let you do Yumthang at first light on one day and Zero Point on the next, with Lachung's orchards and monastery in the evening light between.",
+        "For foreign nationals, Yumthang is usually the end of the road. Make the most of it: walk the river flats toward the forest, look for yaks and Himalayan birds, and spend time at the hot spring. Agents may also offer a short side trip to a waterfall or the village monastery in place of Zero Point."
+      ]
+    },
+    {
       "heading": "Making the most of it",
       "paras": [
         "A few choices make the day better. Book two nights in Lachung rather than one, so you do Yumthang and Zero Point unhurried and still see Lachung Monastery, founded in 1880, and the apple orchards. For flowers, aim for the first three weeks of May; for snow on the valley floor, late March and early April; for clear skies and autumn colour, October and early November.",
@@ -67,16 +100,48 @@
       ]
     }
   ],
-  "related_places": ["lachung", "yumthang", "yumesamdong", "chungthang"],
+  "related_places": [
+    "lachung",
+    "yumthang",
+    "yumesamdong",
+    "chungthang"
+  ],
   "faqs": [
-    {"q": "How far is Yumthang from Lachung?", "a": "About 24 km, roughly an hour by road along the Lachung Chu. Zero Point at Yumesamdong is about 23 km further, another 1–1.5 hours. Most tours leave Lachung at 6 am, visit both and are back for lunch by 1–2 pm. Road conditions after snow or landslides can change this; check current status before you travel."},
-    {"q": "When is the best time to see rhododendrons at Yumthang?", "a": "Late April to the end of May, with the fullest bloom usually in the first three weeks of May. The Shingba Rhododendron Sanctuary flowers from lower slopes upward, so early in the season you see flowers below and snow above. Primulas follow on the meadows. A cold spring can push the bloom later."},
-    {"q": "How much does Zero Point cost?", "a": "About ₹3,000–4,500 extra per vehicle on top of a Lachung tour, so ₹400–600 per person in a full shared jeep of eight. Prices rise in peak weeks. Agree to pay on the spot if the road is open, because snow or restrictions close it at short notice. Indian nationals only."},
-    {"q": "Can foreigners go to Zero Point?", "a": "Usually not. Foreign nationals with a Protected Area Permit have generally been allowed to Lachung and Yumthang Valley but not to Zero Point at Yumesamdong, which lies close to the border. The rules change, so ask your registered agent and check current status before you travel."},
-    {"q": "Is there snow at Zero Point in May?", "a": "Usually yes. Snow lies at Yumesamdong, about 4,700 m, from roughly November into May and sometimes into June. Yumthang itself is mostly free of snow by May, when the rhododendrons flower. If snow is your main goal, March and April give snow at both places."},
-    {"q": "Is Zero Point safe for children and older people?", "a": "It is a large altitude jump, from 2,700 m to about 4,700 m in three hours. Many healthy children and older people manage a short visit, but headaches and breathlessness are common. Avoid running, keep the stop to 30–45 minutes, and go down at once if anyone feels unwell. People with heart or lung conditions should ask a doctor first."},
-    {"q": "Is there a hot spring at Yumthang?", "a": "Yes, a natural hot spring beside the Lachung Chu in Yumthang Valley, with a simple bathing shed. People soak their feet or bathe on the way back from Zero Point. It is free. Bring a small towel, and keep your stay short if you have been feeling the altitude."},
-    {"q": "Do I need to rent boots and a coat for Yumthang?", "a": "For Zero Point, yes, in almost every season; for Yumthang, from October to April. Shops in Lachung rent knee-high snow boots and long padded coats for ₹100–300 each a day, cheaper than buying in Gangtok. Your driver will stop at a rental shop before leaving."},
-    {"q": "Is Yumthang open after the 2023 flood?", "a": "Yumthang and Lachung have generally reopened more often than Lachen and Gurudongmar since the October 2023 Teesta flood, but the road through Chungthang has closed repeatedly after landslides, especially in the monsoon. Ask two Gangtok agents what is open that week and check current status before you travel."}
+    {
+      "q": "How far is Yumthang from Lachung?",
+      "a": "About 24 km, roughly an hour by road along the Lachung Chu. Zero Point at Yumesamdong is about 23 km further, another 1–1.5 hours. Most tours leave Lachung at 6 am, visit both and are back for lunch by 1–2 pm. Road conditions after snow or landslides can change this; check current status before you travel."
+    },
+    {
+      "q": "When is the best time to see rhododendrons at Yumthang?",
+      "a": "Late April to the end of May, with the fullest bloom usually in the first three weeks of May. The Shingba Rhododendron Sanctuary flowers from lower slopes upward, so early in the season you see flowers below and snow above. Primulas follow on the meadows. A cold spring can push the bloom later."
+    },
+    {
+      "q": "How much does Zero Point cost?",
+      "a": "About ₹3,000–4,500 extra per vehicle on top of a Lachung tour, so ₹400–600 per person in a full shared jeep of eight. Prices rise in peak weeks. Agree to pay on the spot if the road is open, because snow or restrictions close it at short notice. Indian nationals only."
+    },
+    {
+      "q": "Can foreigners go to Zero Point?",
+      "a": "Usually not. Foreign nationals with a Protected Area Permit have generally been allowed to Lachung and Yumthang Valley but not to Zero Point at Yumesamdong, which lies close to the border. The rules change, so ask your registered agent and check current status before you travel."
+    },
+    {
+      "q": "Is there snow at Zero Point in May?",
+      "a": "Usually yes. Snow lies at Yumesamdong, about 4,700 m, from roughly November into May and sometimes into June. Yumthang itself is mostly free of snow by May, when the rhododendrons flower. If snow is your main goal, March and April give snow at both places."
+    },
+    {
+      "q": "Is Zero Point safe for children and older people?",
+      "a": "It is a large altitude jump, from 2,700 m to about 4,700 m in three hours. Many healthy children and older people manage a short visit, but headaches and breathlessness are common. Avoid running, keep the stop to 30–45 minutes, and go down at once if anyone feels unwell. People with heart or lung conditions should ask a doctor first."
+    },
+    {
+      "q": "Is there a hot spring at Yumthang?",
+      "a": "Yes, a natural hot spring beside the Lachung Chu in Yumthang Valley, with a simple bathing shed. People soak their feet or bathe on the way back from Zero Point. It is free. Bring a small towel, and keep your stay short if you have been feeling the altitude."
+    },
+    {
+      "q": "Do I need to rent boots and a coat for Yumthang?",
+      "a": "For Zero Point, yes, in almost every season; for Yumthang, from October to April. Shops in Lachung rent knee-high snow boots and long padded coats for ₹100–300 each a day, cheaper than buying in Gangtok. Your driver will stop at a rental shop before leaving."
+    },
+    {
+      "q": "Is Yumthang open after the 2023 flood?",
+      "a": "Yumthang and Lachung have generally reopened more often than Lachen and Gurudongmar since the October 2023 Teesta flood, but the road through Chungthang has closed repeatedly after landslides, especially in the monsoon. Ask two Gangtok agents what is open that week and check current status before you travel."
+    }
   ]
 }
